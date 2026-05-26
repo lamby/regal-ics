@@ -26,11 +26,12 @@ from concurrent.futures import ThreadPoolExecutor
 
 
 class RegalICS:
-    PADDING = 25  # minutes
+    PADDING = 23  # minutes
 
     THEATRES = [
         {
             "slug": "regal-bella-bottega-0904",
+            "timezone": "America/Los_Angeles",
         },
     ]
 
@@ -151,7 +152,7 @@ class RegalICS:
             theatre_data["postal_code"],
         )
 
-        timezone = theatre_data["iana_timezone"]
+        timezone = pytz.timezone(theatre["timezone"])
 
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
@@ -181,9 +182,11 @@ class RegalICS:
                         "location", "{}, {}".format(theatre_data["name"], address)
                     )
 
-                    start = datetime.datetime.fromtimestamp(
-                        x["UnixTime"] / 1000, datetime.UTC
-                    )
+                    # UnixTime is actually offset by timezone so we need to convert it back
+                    start = timezone.localize(datetime.datetime.fromtimestamp(
+                        x["UnixTime"] / 1000,
+                    ))
+                    start -= datetime.timedelta(seconds=start.utcoffset().total_seconds())
 
                     estimated_start = start + datetime.timedelta(
                         minutes=self.PADDING,
@@ -197,10 +200,9 @@ class RegalICS:
 
                     description = [
                         f"Duration: {duration} mins ({hours}h{minutes:02d}m)",
-                        movie["LongDescription"],
-                        "Directed by {}".format(" & ".join(movie["Directors"])),
-                        "Screen {}".format(x["Auditorium"]),
+                        movie["Description"],
                         f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}",
+                        "Screen {}.".format(x["Auditorium"]),
                     ]
 
                     event.add("description", "\n\n".join(description))
