@@ -158,7 +158,7 @@ class RegalICS:
         cal.add("prodid", "-//icalendar//mxm.dk//")
         cal.add("version", "2.0")
         cal.add("name", f"Cinema 🇺🇸 {theatre_data['name']}")
-        cal.add("x-wr-calname", theatre_data["name"])
+        cal.add("x-wr-calname", f"Cinema 🇺🇸 {theatre_data['name']}")
         cal.add("last-modified", datetime.datetime.now(datetime.UTC))
 
         movies = {x["MasterMovieCode"]: x for x in main["movies"]}
@@ -200,12 +200,14 @@ class RegalICS:
 
                     description = [
                         f"Duration: {duration} mins ({hours}h{minutes:02d}m)",
+                        "\n",
                         movie["Description"],
+                        "\n",
                         f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}",
-                        "Screen {}.".format(x["Auditorium"]),
+                        "Screen {}".format(x["Auditorium"]),
                     ]
 
-                    event.add("description", "\n\n".join(description))
+                    event.add("description", "\n".join(description))
 
                     cal.add_component(event)
 
