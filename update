@@ -49,15 +49,22 @@ class RegalICS:
     def main(self):
         results = list(self.executor.map(self.handle_theatre, self.THEATRES))
 
-        for theatre, data, showtimes in results:
-            ics = self.get_ics(theatre, data, showtimes)
+        theatres = []
 
+        for theatre, main, showtimes in results:
+            ics = self.get_ics(theatre, main, showtimes)
             with open(f"ics/{theatre['slug']}.ics", "w") as f:
                 f.write(ics)
 
+            theatre_data = main["theatreData"]["data"][0]
+            theatre_data["slug"] = theatre["slug"]
+
+            theatres.append(theatre_data)
+
+
         # Write theatre metadata
         with open(f"_data/theatres.yaml", "w") as f:
-            f.write(yaml.dump(sorted(self.THEATRES, key=lambda x: x["slug"])))
+            f.write(yaml.dump(theatres))
 
     def page(self, theatre):
         filename = "/tmp/regal-{}.json".format(theatre["slug"])
@@ -107,7 +114,6 @@ class RegalICS:
 
         return date, data
 
-
     def handle_theatre(self, theatre):
         # 1. Get main theatre page
 
@@ -126,14 +132,12 @@ class RegalICS:
         dates = dates[:55]
 
         showtimes = {
-            k: v for k, v in
-            self.executor.map(lambda x: self.api(theatre, x), dates)
+            k: v for k, v in self.executor.map(lambda x: self.api(theatre, x), dates)
         }
 
         return theatre, main, showtimes
 
-
-##
+    ##
 
     def get_ics(self, theatre, main, showtimes):
         base_url = f"https://www.regmovies.com/theatres/{theatre['slug']}/"
@@ -173,7 +177,9 @@ class RegalICS:
 
                     event.add("uid", x["PerformanceId"])
                     event.add("summary", title)
-                    event.add("location", "{}, {}".format(theatre_data["name"], address))
+                    event.add(
+                        "location", "{}, {}".format(theatre_data["name"], address)
+                    )
 
                     start = datetime.datetime.fromtimestamp(
                         x["UnixTime"] / 1000, datetime.UTC
@@ -208,15 +214,15 @@ class RegalICS:
 
         return cal.to_ical().decode("utf-8")
 
-
     def tidy_title(self, val):
-        val = re.sub(r"\s+\((?:Hindi|Telugu|Malayalam)\)$", "", val, flags=re.IGNORECASE)
+        val = re.sub(
+            r"\s+\((?:Hindi|Telugu|Malayalam)\)$", "", val, flags=re.IGNORECASE
+        )
         val = re.sub(r"\s+-\s+Early Access$", "", val, flags=re.IGNORECASE)
         val = re.sub(r"^SMX\d+:\s+", "", val, flags=re.IGNORECASE)
         val = re.sub(r"\s+\d+..\s+Anniversary$", "", val, flags=re.IGNORECASE)
 
         return val
-
 
     def round_to_nearest(self, val, nearest_to):
         return (val + (nearest_to - 1)) // nearest_to * nearest_to

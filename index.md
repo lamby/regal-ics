@@ -34,19 +34,12 @@ layout: default
     film, and the 'Location' field is set as well.
 </p>
 
-
-<p class="text-center">
-  <big><big><strong><a class="btn btn-primary btn-lg" href="ics/all.ics?{{ site.github.build_revision }}">Right-click me and select <em>Copy link address</em></a></strong></big></big>
-</p>
-
 <hr class="m-5">
 
-<p class="mt-4">Individual ICS files for each theatre:</p>
-
 <ul class="list-unstyled">
-{% for venue in site.data.theatres %}
+{% for theatre in site.data.theatres %}
 <li>
-    <a class="btn mt-1 btn-secondary" href="ics/{{ venue.VenueSlug }}.ics?{{ site.github.build_revision }}">{{ theatre["VenueNameOrig"] }}</a>
+    <a class="btn mt-1 btn-primary" href="ics/{{ theatre.slug }}.ics?{{ site.github.build_revision }}">{{ theatre.name }}</a>, {{ theatre.address }}, {{ theatre.city }}
 </li>
 {% endfor %}
 </ul>
