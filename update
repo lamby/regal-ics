@@ -43,7 +43,7 @@ class RegalICS:
             "User-Agent": UserAgent().chrome,
         }
 
-        self.executor = ThreadPoolExecutor(max_workers=10)
+        self.executor = ThreadPoolExecutor(max_workers=5)
 
         self.today = datetime.date.today()
 
@@ -130,7 +130,7 @@ class RegalICS:
         fn = logging.warning if len(dates) == 0 else logging.debug
         fn(f"Found {len(dates)} days we need to scrape for {theatre['slug']}")
 
-        dates = dates[:55]
+        dates = dates[:87]
 
         showtimes = {
             k: v for k, v in self.executor.map(lambda x: self.api(theatre, x), dates)
@@ -225,6 +225,9 @@ class RegalICS:
         val = re.sub(r"\s+-\s+Early Access$", "", val, flags=re.IGNORECASE)
         val = re.sub(r"^SMX\d+:\s+", "", val, flags=re.IGNORECASE)
         val = re.sub(r"\s+\d+..\s+Anniversary$", "", val, flags=re.IGNORECASE)
+
+        val = re.sub(r"\s+-\s+Ghibli\s+\d+$", "", val, flags=re.IGNORECASE)
+        val = re.sub(r"Anniv\.?$", "Anniversary", val, flags=re.IGNORECASE)
 
         return val
 
