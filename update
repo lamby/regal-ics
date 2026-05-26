@@ -1,0 +1,237 @@
+#!/usr/bin/env python3
+#
+# https://icalendar.readthedocs.io/en/latest/usage.html#example
+
+import datetime
+import browser_cookie3
+import logging
+import re
+import pprint
+import time
+
+import click
+import icalendar
+import json
+import pytz
+import requests
+import slugify
+import yaml
+
+from bs4 import BeautifulSoup
+from fake_useragent import UserAgent
+from lxml import etree
+from rich.logging import RichHandler
+from rich.progress import track
+from concurrent.futures import ThreadPoolExecutor
+
+
+class RegalICS:
+    PADDING = 25  # minutes
+
+    THEATRES = [
+        {
+            "slug": "regal-bella-bottega-0904",
+        },
+    ]
+
+    def __init__(self):
+        self.session = requests.Session()
+
+        self.cookies = browser_cookie3.chrome()
+        self.headers = {
+            "User-Agent": UserAgent().chrome,
+        }
+
+        self.executor = ThreadPoolExecutor(max_workers=10)
+
+        self.today = datetime.date.today()
+
+    def main(self):
+        results = list(self.executor.map(self.handle_theatre, self.THEATRES))
+
+        for theatre, data, showtimes in results:
+            ics = self.get_ics(theatre, data, showtimes)
+
+            with open(f"ics/{theatre['slug']}.ics", "w") as f:
+                f.write(ics)
+
+        # Write theatre metadata
+        with open(f"_data/theatres.yaml", "w") as f:
+            f.write(yaml.dump(sorted(self.THEATRES, key=lambda x: x["slug"])))
+
+    def page(self, theatre):
+        filename = "/tmp/regal-{}.json".format(theatre["slug"])
+        url = "https://www.regmovies.com/theatres/{}".format(
+            theatre["slug"],
+        )
+
+        try:
+            with open(filename, "r") as f:
+                return json.loads(f.read())
+        except FileNotFoundError:
+            pass
+
+        r = self.session.get(url, headers=self.headers, cookies=self.cookies)
+        r.raise_for_status()
+
+        soup = BeautifulSoup(r.content, "html.parser")
+        data = json.loads(soup.find("script", id="__NEXT_DATA__").text)
+
+        data = data["props"]["pageProps"]
+
+        with open(filename, "w") as f:
+            f.write(json.dumps(data, indent=4))
+
+        return data
+
+    def api(self, theatre, date):
+        theatre_number = theatre["slug"].split("-")[-1]
+        date_fmt = date.strftime("%m-%d-%Y")
+
+        filename = f"/tmp/regal-{theatre_number}-{date_fmt}.json"
+        url = f"https://www.regmovies.com/api/getShowtimes?theatres={theatre_number}&date={date_fmt}&hoCode=&ignoreCache=false&moviesOnly=false"
+
+        try:
+            with open(filename, "r") as f:
+                return date, json.loads(f.read())
+        except FileNotFoundError:
+            pass
+
+        r = self.session.get(url, headers=self.headers, cookies=self.cookies)
+        r.raise_for_status()
+
+        data = r.json()
+
+        with open(filename, "w") as f:
+            f.write(json.dumps(data, indent=4))
+
+        return date, data
+
+
+    def handle_theatre(self, theatre):
+        # 1. Get main theatre page
+
+        main = self.page(theatre)
+
+        # 2. Use datesWithShows from first day to add more
+        dates = []
+        for x in main["datesWithShows"]:
+            date = datetime.date(int(x[:4]), int(x[5:7]), int(x[8:10]))
+            if date != self.today:
+                dates.append(date)
+
+        fn = logging.warning if len(dates) == 0 else logging.debug
+        fn(f"Found {len(dates)} days we need to scrape for {theatre['slug']}")
+
+        dates = dates[:55]
+
+        showtimes = {
+            k: v for k, v in
+            self.executor.map(lambda x: self.api(theatre, x), dates)
+        }
+
+        return theatre, main, showtimes
+
+
+##
+
+    def get_ics(self, theatre, main, showtimes):
+        base_url = f"https://www.regmovies.com/theatres/{theatre['slug']}/"
+
+        theatre_data = main["theatreData"]["data"][0]
+
+        address = "{}, {}, {} {}".format(
+            theatre_data["address"],
+            theatre_data["city"],
+            theatre_data["state"],
+            theatre_data["postal_code"],
+        )
+
+        timezone = theatre_data["iana_timezone"]
+
+        cal = icalendar.Calendar()
+        cal.add("prodid", "-//icalendar//mxm.dk//")
+        cal.add("version", "2.0")
+        cal.add("name", f"Cinema 🇺🇸 {theatre_data['name']}")
+        cal.add("x-wr-calname", theatre_data["name"])
+        cal.add("last-modified", datetime.datetime.now(datetime.UTC))
+
+        movies = {x["MasterMovieCode"]: x for x in main["movies"]}
+        logging.debug(f"We know about {len(movies)} movies")
+
+        num_events_venue = 0
+        for date, showtimes in showtimes.items():
+            for film in showtimes["shows"][0]["Film"]:
+                title = self.tidy_title(film["Title"])
+                movie = movies[film["MasterMovieCode"]]
+
+                duration = movie["Duration"]
+                hours, minutes = divmod(duration, 60)
+
+                for x in film["Performances"]:
+                    event = icalendar.Event()
+
+                    event.add("uid", x["PerformanceId"])
+                    event.add("summary", title)
+                    event.add("location", "{}, {}".format(theatre_data["name"], address))
+
+                    start = datetime.datetime.fromtimestamp(
+                        x["UnixTime"] / 1000, datetime.UTC
+                    )
+
+                    estimated_start = start + datetime.timedelta(
+                        minutes=self.PADDING,
+                    )
+                    end = estimated_start + datetime.timedelta(
+                        minutes=self.round_to_nearest(duration, 5),
+                    )
+                    event.add("dtstamp", start)
+                    event.add("dtstart", start)
+                    event.add("dtend", end)
+
+                    description = [
+                        f"Duration: {duration} mins ({hours}h{minutes:02d}m)",
+                        movie["LongDescription"],
+                        "Directed by {}".format(" & ".join(movie["Directors"])),
+                        "Screen {}".format(x["Auditorium"]),
+                        f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}",
+                    ]
+
+                    event.add("description", "\n\n".join(description))
+
+                    cal.add_component(event)
+
+                    num_events_venue += 1
+
+        fn = logging.warning if num_events_venue == 0 else logging.debug
+        fn(f"Found {num_events_venue} total events for {theatre_data['name']}")
+
+        return cal.to_ical().decode("utf-8")
+
+
+    def tidy_title(self, val):
+        val = re.sub(r"\s+\((?:Hindi|Telugu|Malayalam)\)$", "", val, flags=re.IGNORECASE)
+        val = re.sub(r"\s+-\s+Early Access$", "", val, flags=re.IGNORECASE)
+        val = re.sub(r"^SMX\d+:\s+", "", val, flags=re.IGNORECASE)
+        val = re.sub(r"\s+\d+..\s+Anniversary$", "", val, flags=re.IGNORECASE)
+
+        return val
+
+
+    def round_to_nearest(self, val, nearest_to):
+        return (val + (nearest_to - 1)) // nearest_to * nearest_to
+
+
+@click.command()
+@click.option("--verbose", is_flag=True, default=False, help="Verbose.")
+def main(verbose):
+    level = logging.DEBUG if verbose else logging.INFO
+    logging.basicConfig(
+        level=level, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
+    )
+
+    RegalICS().main()
+
+
+if __name__ == "__main__":
+    main()
