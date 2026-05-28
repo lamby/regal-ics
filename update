@@ -26,7 +26,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 
 class RegalICS:
-    PADDING = 23  # minutes
+    PADDING = 25  # minutes
 
     THEATRES = [
         {
@@ -67,17 +67,18 @@ class RegalICS:
         with open(f"_data/theatres.yaml", "w") as f:
             f.write(yaml.dump(theatres))
 
-    def page(self, theatre):
+    def page(self, theatre, use_cache=False):
         filename = "/tmp/regal-{}.json".format(theatre["slug"])
         url = "https://www.regmovies.com/theatres/{}".format(
             theatre["slug"],
         )
 
-        try:
-            with open(filename, "r") as f:
-                return json.loads(f.read())
-        except FileNotFoundError:
-            pass
+        if use_cache:
+            try:
+                with open(filename, "r") as f:
+                    return json.loads(f.read())
+            except FileNotFoundError:
+                pass
 
         r = self.session.get(url, headers=self.headers, cookies=self.cookies)
         r.raise_for_status()
@@ -92,18 +93,19 @@ class RegalICS:
 
         return data
 
-    def api(self, theatre, date):
+    def api(self, theatre, date, use_cache=True):
         theatre_number = theatre["slug"].split("-")[-1]
         date_fmt = date.strftime("%m-%d-%Y")
 
         filename = f"/tmp/regal-{theatre_number}-{date_fmt}.json"
         url = f"https://www.regmovies.com/api/getShowtimes?theatres={theatre_number}&date={date_fmt}&hoCode=&ignoreCache=false&moviesOnly=false"
 
-        try:
-            with open(filename, "r") as f:
-                return date, json.loads(f.read())
-        except FileNotFoundError:
-            pass
+        if use_cache:
+            try:
+                with open(filename, "r") as f:
+                    return date, json.loads(f.read())
+            except FileNotFoundError:
+                pass
 
         r = self.session.get(url, headers=self.headers, cookies=self.cookies)
         r.raise_for_status()
@@ -198,11 +200,11 @@ class RegalICS:
 
                     description = [
                         f"Duration: {duration} mins ({hours}h{minutes:02d}m)",
-                        "\n",
-                        movie["Description"],
-                        "\n",
-                        f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}",
                         "Screen {}".format(x["Auditorium"]),
+                        "",
+                        movie["Description"],
+                        "",
+                        f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}",
                     ]
 
                     event.add("description", "\n".join(description))
@@ -220,6 +222,9 @@ class RegalICS:
         val = re.sub(
             r"\s+\((?:Hindi|Telugu|Malayalam)\)$", "", val, flags=re.IGNORECASE
         )
+
+        val = re.sub(r"Open Cap/Eng Sub", "Subbed", val, flags=re.IGNORECASE)
+
         val = re.sub(r"\s+-\s+Early Access$", "", val, flags=re.IGNORECASE)
         val = re.sub(r"^SMX\d+:\s+", "", val, flags=re.IGNORECASE)
         val = re.sub(r"\s+\d+..\s+Anniversary$", "", val, flags=re.IGNORECASE)
