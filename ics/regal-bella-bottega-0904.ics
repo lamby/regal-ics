@@ -3,7 +3,469 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Regal Bella Bottega
 X-WR-CALNAME:Cinema 🇺🇸 Regal Bella Bottega
-LAST-MODIFIED:20260526T214945Z
+LAST-MODIFIED:20260528T161631Z
+BEGIN:VEVENT
+SUMMARY:Drishyam 3
+DTSTART;TZID=America/Los_Angeles:20260526T115500
+DTEND;TZID=America/Los_Angeles:20260526T151300
+DTSTAMP:20260526T185500Z
+UID:193528
+DESCRIPTION:Duration: 171 mins (2h51m)\n\n\nGeorgekutty is not just protec
+ ting his family from the world\, he is protecting them from the truth\, an
+ d from the burden of what binds them together. Now\, as new forces begin t
+ o close in\, more organized and determined than ever before\, the cracks i
+ n his ca\n\n\nEstimated start: 12:18\nScreen 3
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam 3
+DTSTART;TZID=America/Los_Angeles:20260526T191000
+DTEND;TZID=America/Los_Angeles:20260526T222800
+DTSTAMP:20260527T021000Z
+UID:193532
+DESCRIPTION:Duration: 171 mins (2h51m)\n\n\nGeorgekutty is not just protec
+ ting his family from the world\, he is protecting them from the truth\, an
+ d from the burden of what binds them together. Now\, as new forces begin t
+ o close in\, more organized and determined than ever before\, the cracks i
+ n his ca\n\n\nEstimated start: 19:33\nScreen 3
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obsession
+DTSTART;TZID=America/Los_Angeles:20260526T121000
+DTEND;TZID=America/Los_Angeles:20260526T142300
+DTSTAMP:20260526T191000Z
+UID:193516
+DESCRIPTION:Duration: 108 mins (1h48m)\n\n\nAfter breaking the mysterious 
+ "One Wish Willow" to win his crush's heart\, a hopeless romantic finds him
+ self getting exactly what he asked for but soon discovers that some desire
+ s come at a dark\, sinister price.\n\n\nEstimated start: 12:33\nScreen 7
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obsession
+DTSTART;TZID=America/Los_Angeles:20260526T152000
+DTEND;TZID=America/Los_Angeles:20260526T173300
+DTSTAMP:20260526T222000Z
+UID:193510
+DESCRIPTION:Duration: 108 mins (1h48m)\n\n\nAfter breaking the mysterious 
+ "One Wish Willow" to win his crush's heart\, a hopeless romantic finds him
+ self getting exactly what he asked for but soon discovers that some desire
+ s come at a dark\, sinister price.\n\n\nEstimated start: 15:43\nScreen 7
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obsession
+DTSTART;TZID=America/Los_Angeles:20260526T183000
+DTEND;TZID=America/Los_Angeles:20260526T204300
+DTSTAMP:20260527T013000Z
+UID:193522
+DESCRIPTION:Duration: 108 mins (1h48m)\n\n\nAfter breaking the mysterious 
+ "One Wish Willow" to win his crush's heart\, a hopeless romantic finds him
+ self getting exactly what he asked for but soon discovers that some desire
+ s come at a dark\, sinister price.\n\n\nEstimated start: 18:53\nScreen 7
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Obsession
+DTSTART;TZID=America/Los_Angeles:20260526T211500
+DTEND;TZID=America/Los_Angeles:20260526T232800
+DTSTAMP:20260527T041500Z
+UID:193520
+DESCRIPTION:Duration: 108 mins (1h48m)\n\n\nAfter breaking the mysterious 
+ "One Wish Willow" to win his crush's heart\, a hopeless romantic finds him
+ self getting exactly what he asked for but soon discovers that some desire
+ s come at a dark\, sinister price.\n\n\nEstimated start: 21:38\nScreen 7
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chand Mera Dil
+DTSTART;TZID=America/Los_Angeles:20260526T122000
+DTEND;TZID=America/Los_Angeles:20260526T151800
+DTSTAMP:20260526T192000Z
+UID:193531
+DESCRIPTION:Duration: 152 mins (2h32m)\n\n\nStarring Ananya Panday and Lak
+ shya Lalwani\, the film follows the intertwined journeys of engineering st
+ udents as they navigate academic pressures\, friendships\, romance and sel
+ f-discovery\, all set against a lively university backdrop with a strong m
+ usical\n\n\nEstimated start: 12:43\nScreen 2
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chand Mera Dil
+DTSTART;TZID=America/Los_Angeles:20260526T193000
+DTEND;TZID=America/Los_Angeles:20260526T222800
+DTSTAMP:20260527T023000Z
+UID:193529
+DESCRIPTION:Duration: 152 mins (2h32m)\n\n\nStarring Ananya Panday and Lak
+ shya Lalwani\, the film follows the intertwined journeys of engineering st
+ udents as they navigate academic pressures\, friendships\, romance and sel
+ f-discovery\, all set against a lively university backdrop with a strong m
+ usical\n\n\nEstimated start: 19:53\nScreen 2
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: The Mandalorian & Grogu
+DTSTART;TZID=America/Los_Angeles:20260526T123000
+DTEND;TZID=America/Los_Angeles:20260526T150800
+DTSTAMP:20260526T193000Z
+UID:191529
+DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
+ rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
+ alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
+ n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
+ rds re\n\n\nEstimated start: 12:53\nScreen 5
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: The Mandalorian & Grogu
+DTSTART;TZID=America/Los_Angeles:20260526T141500
+DTEND;TZID=America/Los_Angeles:20260526T165300
+DTSTAMP:20260526T211500Z
+UID:191535
+DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
+ rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
+ alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
+ n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
+ rds re\n\n\nEstimated start: 14:38\nScreen 4
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: The Mandalorian & Grogu
+DTSTART;TZID=America/Los_Angeles:20260526T150000
+DTEND;TZID=America/Los_Angeles:20260526T173800
+DTSTAMP:20260526T220000Z
+UID:191530
+DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
+ rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
+ alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
+ n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
+ rds re\n\n\nEstimated start: 15:23\nScreen 1
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: The Mandalorian & Grogu
+DTSTART;TZID=America/Los_Angeles:20260526T154500
+DTEND;TZID=America/Los_Angeles:20260526T182300
+DTSTAMP:20260526T224500Z
+UID:191556
+DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
+ rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
+ alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
+ n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
+ rds re\n\n\nEstimated start: 16:08\nScreen 5
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: The Mandalorian & Grogu
+DTSTART;TZID=America/Los_Angeles:20260526T173000
+DTEND;TZID=America/Los_Angeles:20260526T200800
+DTSTAMP:20260527T003000Z
+UID:191536
+DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
+ rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
+ alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
+ n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
+ rds re\n\n\nEstimated start: 17:53\nScreen 4
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: The Mandalorian & Grogu
+DTSTART;TZID=America/Los_Angeles:20260526T181500
+DTEND;TZID=America/Los_Angeles:20260526T205300
+DTSTAMP:20260527T011500Z
+UID:191541
+DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
+ rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
+ alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
+ n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
+ rds re\n\n\nEstimated start: 18:38\nScreen 1
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: The Mandalorian & Grogu
+DTSTART;TZID=America/Los_Angeles:20260526T190000
+DTEND;TZID=America/Los_Angeles:20260526T213800
+DTSTAMP:20260527T020000Z
+UID:191531
+DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
+ rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
+ alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
+ n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
+ rds re\n\n\nEstimated start: 19:23\nScreen 5
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: The Mandalorian & Grogu
+DTSTART;TZID=America/Los_Angeles:20260526T204500
+DTEND;TZID=America/Los_Angeles:20260526T232300
+DTSTAMP:20260527T034500Z
+UID:191537
+DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
+ rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
+ alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
+ n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
+ rds re\n\n\nEstimated start: 21:08\nScreen 4
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: The Mandalorian & Grogu
+DTSTART;TZID=America/Los_Angeles:20260526T213000
+DTEND;TZID=America/Los_Angeles:20260527T000800
+DTSTAMP:20260527T043000Z
+UID:191532
+DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
+ rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
+ alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
+ n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
+ rds re\n\n\nEstimated start: 21:53\nScreen 1
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sheep Detectives
+DTSTART;TZID=America/Los_Angeles:20260526T134000
+DTEND;TZID=America/Los_Angeles:20260526T155300
+DTSTAMP:20260526T204000Z
+UID:193526
+DESCRIPTION:Duration: 109 mins (1h49m)\n\n\nThe film follows George Hardy 
+ (Jackman)\, a shepherd who loves his sheep and raises them only for their 
+ wool. Every night he reads aloud a murder mystery\, pretending his sheep c
+ an understand\, never suspecting that not only can they understand but the
+ y argu\n\n\nEstimated start: 14:03\nScreen 8
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sheep Detectives
+DTSTART;TZID=America/Los_Angeles:20260526T161000
+DTEND;TZID=America/Los_Angeles:20260526T182300
+DTSTAMP:20260526T231000Z
+UID:193525
+DESCRIPTION:Duration: 109 mins (1h49m)\n\n\nThe film follows George Hardy 
+ (Jackman)\, a shepherd who loves his sheep and raises them only for their 
+ wool. Every night he reads aloud a murder mystery\, pretending his sheep c
+ an understand\, never suspecting that not only can they understand but the
+ y argu\n\n\nEstimated start: 16:33\nScreen 8
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sheep Detectives
+DTSTART;TZID=America/Los_Angeles:20260526T184000
+DTEND;TZID=America/Los_Angeles:20260526T205300
+DTSTAMP:20260527T014000Z
+UID:193523
+DESCRIPTION:Duration: 109 mins (1h49m)\n\n\nThe film follows George Hardy 
+ (Jackman)\, a shepherd who loves his sheep and raises them only for their 
+ wool. Every night he reads aloud a murder mystery\, pretending his sheep c
+ an understand\, never suspecting that not only can they understand but the
+ y argu\n\n\nEstimated start: 19:03\nScreen 8
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sheep Detectives
+DTSTART;TZID=America/Los_Angeles:20260526T211000
+DTEND;TZID=America/Los_Angeles:20260526T232300
+DTSTAMP:20260527T041000Z
+UID:193521
+DESCRIPTION:Duration: 109 mins (1h49m)\n\n\nThe film follows George Hardy 
+ (Jackman)\, a shepherd who loves his sheep and raises them only for their 
+ wool. Every night he reads aloud a murder mystery\, pretending his sheep c
+ an understand\, never suspecting that not only can they understand but the
+ y argu\n\n\nEstimated start: 21:33\nScreen 8
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passenger
+DTSTART;TZID=America/Los_Angeles:20260526T135500
+DTEND;TZID=America/Los_Angeles:20260526T155300
+DTSTAMP:20260526T205500Z
+UID:192674
+DESCRIPTION:Duration: 94 mins (1h34m)\n\n\nAfter a young couple witnesses 
+ a gruesome highway accident\, they soon realize they did not leave the cra
+ sh scene alone\, as a demonic presence called the Passenger that won't sto
+ p until it claims them both turns their van life adventure into a nightmar
+ e.\n\n\nEstimated start: 14:18\nScreen 6
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passenger
+DTSTART;TZID=America/Los_Angeles:20260526T162000
+DTEND;TZID=America/Los_Angeles:20260526T181800
+DTSTAMP:20260526T232000Z
+UID:192675
+DESCRIPTION:Duration: 94 mins (1h34m)\n\n\nAfter a young couple witnesses 
+ a gruesome highway accident\, they soon realize they did not leave the cra
+ sh scene alone\, as a demonic presence called the Passenger that won't sto
+ p until it claims them both turns their van life adventure into a nightmar
+ e.\n\n\nEstimated start: 16:43\nScreen 6
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passenger
+DTSTART;TZID=America/Los_Angeles:20260526T185000
+DTEND;TZID=America/Los_Angeles:20260526T204800
+DTSTAMP:20260527T015000Z
+UID:192676
+DESCRIPTION:Duration: 94 mins (1h34m)\n\n\nAfter a young couple witnesses 
+ a gruesome highway accident\, they soon realize they did not leave the cra
+ sh scene alone\, as a demonic presence called the Passenger that won't sto
+ p until it claims them both turns their van life adventure into a nightmar
+ e.\n\n\nEstimated start: 19:13\nScreen 6
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passenger
+DTSTART;TZID=America/Los_Angeles:20260526T212500
+DTEND;TZID=America/Los_Angeles:20260526T232300
+DTSTAMP:20260527T042500Z
+UID:192677
+DESCRIPTION:Duration: 94 mins (1h34m)\n\n\nAfter a young couple witnesses 
+ a gruesome highway accident\, they soon realize they did not leave the cra
+ sh scene alone\, as a demonic presence called the Passenger that won't sto
+ p until it claims them both turns their van life adventure into a nightmar
+ e.\n\n\nEstimated start: 21:48\nScreen 6
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART;TZID=America/Los_Angeles:20260526T142500
+DTEND;TZID=America/Los_Angeles:20260526T172800
+DTSTAMP:20260526T212500Z
+UID:193542
+DESCRIPTION:Duration: 156 mins (2h36m)\n\n\nScience teacher Ryland Grace (
+ Ryan Gosling) wakes up on a spaceship light years from home with no recoll
+ ection of who he is or how he got there. As his memory returns\, he begins
+  to uncover his mission: solve the riddle of the mysterious substance caus
+ ing\n\n\nEstimated start: 14:48\nScreen 11
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART;TZID=America/Los_Angeles:20260526T174500
+DTEND;TZID=America/Los_Angeles:20260526T204800
+DTSTAMP:20260527T004500Z
+UID:193508
+DESCRIPTION:Duration: 156 mins (2h36m)\n\n\nScience teacher Ryland Grace (
+ Ryan Gosling) wakes up on a spaceship light years from home with no recoll
+ ection of who he is or how he got there. As his memory returns\, he begins
+  to uncover his mission: solve the riddle of the mysterious substance caus
+ ing\n\n\nEstimated start: 18:08\nScreen 11
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary
+DTSTART;TZID=America/Los_Angeles:20260526T210500
+DTEND;TZID=America/Los_Angeles:20260527T000800
+DTSTAMP:20260527T040500Z
+UID:193507
+DESCRIPTION:Duration: 156 mins (2h36m)\n\n\nScience teacher Ryland Grace (
+ Ryan Gosling) wakes up on a spaceship light years from home with no recoll
+ ection of who he is or how he got there. As his memory returns\, he begins
+  to uncover his mission: solve the riddle of the mysterious substance caus
+ ing\n\n\nEstimated start: 21:28\nScreen 11
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michael
+DTSTART;TZID=America/Los_Angeles:20260526T143500
+DTEND;TZID=America/Los_Angeles:20260526T170800
+DTSTAMP:20260526T213500Z
+UID:193515
+DESCRIPTION:Duration: 130 mins (2h10m)\n\n\nMICHAEL is the cinematic portr
+ ayal of the life and legacy of one of the most influential artists the wor
+ ld has ever known. The film tells the story of Michael Jackson's life beyo
+ nd the music\, tracing his journey from the discovery of his extraordinary
+  tal\n\n\nEstimated start: 14:58\nScreen 10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michael
+DTSTART;TZID=America/Los_Angeles:20260526T173500
+DTEND;TZID=America/Los_Angeles:20260526T200800
+DTSTAMP:20260527T003500Z
+UID:193519
+DESCRIPTION:Duration: 130 mins (2h10m)\n\n\nMICHAEL is the cinematic portr
+ ayal of the life and legacy of one of the most influential artists the wor
+ ld has ever known. The film tells the story of Michael Jackson's life beyo
+ nd the music\, tracing his journey from the discovery of his extraordinary
+  tal\n\n\nEstimated start: 17:58\nScreen 10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Michael
+DTSTART;TZID=America/Los_Angeles:20260526T203500
+DTEND;TZID=America/Los_Angeles:20260526T230800
+DTSTAMP:20260527T033500Z
+UID:193518
+DESCRIPTION:Duration: 130 mins (2h10m)\n\n\nMICHAEL is the cinematic portr
+ ayal of the life and legacy of one of the most influential artists the wor
+ ld has ever known. The film tells the story of Michael Jackson's life beyo
+ nd the music\, tracing his journey from the discovery of his extraordinary
+  tal\n\n\nEstimated start: 20:58\nScreen 10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Devil Wears Prada 2
+DTSTART;TZID=America/Los_Angeles:20260526T144500
+DTEND;TZID=America/Los_Angeles:20260526T170800
+DTSTAMP:20260526T214500Z
+UID:193513
+DESCRIPTION:Duration: 120 mins (2h00m)\n\n\nTwenty years after making thei
+ r iconic turns as Miranda\, Andy\, Emily and Nigel-Meryl Streep\, Anne Hat
+ haway\, Emily Blunt and Stanley Tucci return to the fashionable streets of
+  New York City and the sleek offices of Runway Magazine in 20th Century St
+ udios'\n\n\nEstimated start: 15:08\nScreen 9
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Devil Wears Prada 2
+DTSTART;TZID=America/Los_Angeles:20260526T175500
+DTEND;TZID=America/Los_Angeles:20260526T201800
+DTSTAMP:20260527T005500Z
+UID:193512
+DESCRIPTION:Duration: 120 mins (2h00m)\n\n\nTwenty years after making thei
+ r iconic turns as Miranda\, Andy\, Emily and Nigel-Meryl Streep\, Anne Hat
+ haway\, Emily Blunt and Stanley Tucci return to the fashionable streets of
+  New York City and the sleek offices of Runway Magazine in 20th Century St
+ udios'\n\n\nEstimated start: 18:18\nScreen 9
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Devil Wears Prada 2
+DTSTART;TZID=America/Los_Angeles:20260526T205500
+DTEND;TZID=America/Los_Angeles:20260526T231800
+DTSTAMP:20260527T035500Z
+UID:193511
+DESCRIPTION:Duration: 120 mins (2h00m)\n\n\nTwenty years after making thei
+ r iconic turns as Miranda\, Andy\, Emily and Nigel-Meryl Streep\, Anne Hat
+ haway\, Emily Blunt and Stanley Tucci return to the fashionable streets of
+  New York City and the sleek offices of Runway Magazine in 20th Century St
+ udios'\n\n\nEstimated start: 21:18\nScreen 9
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam 3
+DTSTART;TZID=America/Los_Angeles:20260526T153000
+DTEND;TZID=America/Los_Angeles:20260526T184800
+DTSTAMP:20260526T223000Z
+UID:193533
+DESCRIPTION:Duration: 171 mins (2h51m)\n\n\nGeorgekutty is not just protec
+ ting his family from the world\, he is protecting them from the truth\, an
+ d from the burden of what binds them together. Now\, as new forces begin t
+ o close in\, more organized and determined than ever before\, the cracks i
+ n his ca\n\n\nEstimated start: 15:53\nScreen 3
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karuppu
+DTSTART;TZID=America/Los_Angeles:20260526T160000
+DTEND;TZID=America/Los_Angeles:20260526T190800
+DTSTAMP:20260526T230000Z
+UID:193530
+DESCRIPTION:Duration: 162 mins (2h42m)\n\n\nA lawyer becomes possessed by 
+ a deity and battles injustice affecting marginalized communities.\n\n\nEst
+ imated start: 16:23\nScreen 2
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Star Wars: Mandalorian & Grogu (Open Cap/Eng Sub)
 DTSTART;TZID=America/Los_Angeles:20260527T110000
@@ -553,581 +1015,6 @@ DESCRIPTION:Duration: 108 mins (1h48m)\n\n\nAfter breaking the mysterious
  "One Wish Willow" to win his crush's heart\, a hopeless romantic finds him
  self getting exactly what he asked for but soon discovers that some desire
  s come at a dark\, sinister price.\n\n\nEstimated start: 21:38\nScreen 7
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: The Mandalorian & Grogu
-DTSTART;TZID=America/Los_Angeles:20260528T110000
-DTEND;TZID=America/Los_Angeles:20260528T133800
-DTSTAMP:20260528T180000Z
-UID:191571
-DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
- rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
- alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
- n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
- rds re\n\n\nEstimated start: 11:23\nScreen 4
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: The Mandalorian & Grogu
-DTSTART;TZID=America/Los_Angeles:20260528T114500
-DTEND;TZID=America/Los_Angeles:20260528T142300
-DTSTAMP:20260528T184500Z
-UID:191572
-DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
- rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
- alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
- n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
- rds re\n\n\nEstimated start: 12:08\nScreen 1
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: The Mandalorian & Grogu
-DTSTART;TZID=America/Los_Angeles:20260528T123000
-DTEND;TZID=America/Los_Angeles:20260528T150800
-DTSTAMP:20260528T193000Z
-UID:191570
-DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
- rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
- alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
- n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
- rds re\n\n\nEstimated start: 12:53\nScreen 5
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: The Mandalorian & Grogu
-DTSTART;TZID=America/Los_Angeles:20260528T141500
-DTEND;TZID=America/Los_Angeles:20260528T165300
-DTSTAMP:20260528T211500Z
-UID:191569
-DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
- rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
- alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
- n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
- rds re\n\n\nEstimated start: 14:38\nScreen 4
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: The Mandalorian & Grogu
-DTSTART;TZID=America/Los_Angeles:20260528T150000
-DTEND;TZID=America/Los_Angeles:20260528T173800
-DTSTAMP:20260528T220000Z
-UID:191577
-DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
- rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
- alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
- n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
- rds re\n\n\nEstimated start: 15:23\nScreen 1
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: The Mandalorian & Grogu
-DTSTART;TZID=America/Los_Angeles:20260528T154500
-DTEND;TZID=America/Los_Angeles:20260528T182300
-DTSTAMP:20260528T224500Z
-UID:191576
-DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
- rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
- alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
- n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
- rds re\n\n\nEstimated start: 16:08\nScreen 5
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: The Mandalorian & Grogu
-DTSTART;TZID=America/Los_Angeles:20260528T173000
-DTEND;TZID=America/Los_Angeles:20260528T200800
-DTSTAMP:20260529T003000Z
-UID:191575
-DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
- rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
- alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
- n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
- rds re\n\n\nEstimated start: 17:53\nScreen 4
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: The Mandalorian & Grogu
-DTSTART;TZID=America/Los_Angeles:20260528T181500
-DTEND;TZID=America/Los_Angeles:20260528T205300
-DTSTAMP:20260529T011500Z
-UID:191568
-DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
- rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
- alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
- n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
- rds re\n\n\nEstimated start: 18:38\nScreen 1
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: The Mandalorian & Grogu
-DTSTART;TZID=America/Los_Angeles:20260528T190000
-DTEND;TZID=America/Los_Angeles:20260528T213800
-DTSTAMP:20260529T020000Z
-UID:191574
-DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
- rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
- alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
- n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
- rds re\n\n\nEstimated start: 19:23\nScreen 5
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: The Mandalorian & Grogu
-DTSTART;TZID=America/Los_Angeles:20260528T204500
-DTEND;TZID=America/Los_Angeles:20260528T232300
-DTSTAMP:20260529T034500Z
-UID:191573
-DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
- rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
- alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
- n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
- rds re\n\n\nEstimated start: 21:08\nScreen 4
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Star Wars: The Mandalorian & Grogu
-DTSTART;TZID=America/Los_Angeles:20260528T213000
-DTEND;TZID=America/Los_Angeles:20260529T000800
-DTSTAMP:20260529T043000Z
-UID:191578
-DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nThe Mandalorian and Grogu emba
- rk on their most thrilling mission yet in Lucasfilm's "Star Wars: The Mand
- alorian and\nGrogu\," an all-new Star Wars adventure opening exclusively i
- n theaters May 22\, 2026. The evil Empire has fallen\, and\nImperial warlo
- rds re\n\n\nEstimated start: 21:53\nScreen 1
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sheep Detectives
-DTSTART;TZID=America/Los_Angeles:20260528T111000
-DTEND;TZID=America/Los_Angeles:20260528T132300
-DTSTAMP:20260528T181000Z
-UID:193574
-DESCRIPTION:Duration: 109 mins (1h49m)\n\n\nThe film follows George Hardy 
- (Jackman)\, a shepherd who loves his sheep and raises them only for their 
- wool. Every night he reads aloud a murder mystery\, pretending his sheep c
- an understand\, never suspecting that not only can they understand but the
- y argu\n\n\nEstimated start: 11:33\nScreen 8
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sheep Detectives
-DTSTART;TZID=America/Los_Angeles:20260528T134000
-DTEND;TZID=America/Los_Angeles:20260528T155300
-DTSTAMP:20260528T204000Z
-UID:193575
-DESCRIPTION:Duration: 109 mins (1h49m)\n\n\nThe film follows George Hardy 
- (Jackman)\, a shepherd who loves his sheep and raises them only for their 
- wool. Every night he reads aloud a murder mystery\, pretending his sheep c
- an understand\, never suspecting that not only can they understand but the
- y argu\n\n\nEstimated start: 14:03\nScreen 8
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sheep Detectives
-DTSTART;TZID=America/Los_Angeles:20260528T161000
-DTEND;TZID=America/Los_Angeles:20260528T182300
-DTSTAMP:20260528T231000Z
-UID:193576
-DESCRIPTION:Duration: 109 mins (1h49m)\n\n\nThe film follows George Hardy 
- (Jackman)\, a shepherd who loves his sheep and raises them only for their 
- wool. Every night he reads aloud a murder mystery\, pretending his sheep c
- an understand\, never suspecting that not only can they understand but the
- y argu\n\n\nEstimated start: 16:33\nScreen 8
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sheep Detectives
-DTSTART;TZID=America/Los_Angeles:20260528T184500
-DTEND;TZID=America/Los_Angeles:20260528T205800
-DTSTAMP:20260529T014500Z
-UID:193573
-DESCRIPTION:Duration: 109 mins (1h49m)\n\n\nThe film follows George Hardy 
- (Jackman)\, a shepherd who loves his sheep and raises them only for their 
- wool. Every night he reads aloud a murder mystery\, pretending his sheep c
- an understand\, never suspecting that not only can they understand but the
- y argu\n\n\nEstimated start: 19:08\nScreen 8
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sheep Detectives
-DTSTART;TZID=America/Los_Angeles:20260528T211500
-DTEND;TZID=America/Los_Angeles:20260528T232800
-DTSTAMP:20260529T041500Z
-UID:193572
-DESCRIPTION:Duration: 109 mins (1h49m)\n\n\nThe film follows George Hardy 
- (Jackman)\, a shepherd who loves his sheep and raises them only for their 
- wool. Every night he reads aloud a murder mystery\, pretending his sheep c
- an understand\, never suspecting that not only can they understand but the
- y argu\n\n\nEstimated start: 21:38\nScreen 8
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Obsession
-DTSTART;TZID=America/Los_Angeles:20260528T111500
-DTEND;TZID=America/Los_Angeles:20260528T132800
-DTSTAMP:20260528T181500Z
-UID:193578
-DESCRIPTION:Duration: 108 mins (1h48m)\n\n\nAfter breaking the mysterious 
- "One Wish Willow" to win his crush's heart\, a hopeless romantic finds him
- self getting exactly what he asked for but soon discovers that some desire
- s come at a dark\, sinister price.\n\n\nEstimated start: 11:38\nScreen 7
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passenger
-DTSTART;TZID=America/Los_Angeles:20260528T112000
-DTEND;TZID=America/Los_Angeles:20260528T131800
-DTSTAMP:20260528T182000Z
-UID:192683
-DESCRIPTION:Duration: 94 mins (1h34m)\n\n\nAfter a young couple witnesses 
- a gruesome highway accident\, they soon realize they did not leave the cra
- sh scene alone\, as a demonic presence called the Passenger that won't sto
- p until it claims them both turns their van life adventure into a nightmar
- e.\n\n\nEstimated start: 11:43\nScreen 11
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passenger
-DTSTART;TZID=America/Los_Angeles:20260528T135000
-DTEND;TZID=America/Los_Angeles:20260528T154800
-DTSTAMP:20260528T205000Z
-UID:192684
-DESCRIPTION:Duration: 94 mins (1h34m)\n\n\nAfter a young couple witnesses 
- a gruesome highway accident\, they soon realize they did not leave the cra
- sh scene alone\, as a demonic presence called the Passenger that won't sto
- p until it claims them both turns their van life adventure into a nightmar
- e.\n\n\nEstimated start: 14:13\nScreen 11
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passenger
-DTSTART;TZID=America/Los_Angeles:20260528T162000
-DTEND;TZID=America/Los_Angeles:20260528T181800
-DTSTAMP:20260528T232000Z
-UID:192685
-DESCRIPTION:Duration: 94 mins (1h34m)\n\n\nAfter a young couple witnesses 
- a gruesome highway accident\, they soon realize they did not leave the cra
- sh scene alone\, as a demonic presence called the Passenger that won't sto
- p until it claims them both turns their van life adventure into a nightmar
- e.\n\n\nEstimated start: 16:43\nScreen 11
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passenger
-DTSTART;TZID=America/Los_Angeles:20260528T214000
-DTEND;TZID=America/Los_Angeles:20260528T233800
-DTSTAMP:20260529T044000Z
-UID:192687
-DESCRIPTION:Duration: 94 mins (1h34m)\n\n\nAfter a young couple witnesses 
- a gruesome highway accident\, they soon realize they did not leave the cra
- sh scene alone\, as a demonic presence called the Passenger that won't sto
- p until it claims them both turns their van life adventure into a nightmar
- e.\n\n\nEstimated start: 22:03\nScreen 11
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael
-DTSTART;TZID=America/Los_Angeles:20260528T113000
-DTEND;TZID=America/Los_Angeles:20260528T140300
-DTSTAMP:20260528T183000Z
-UID:193564
-DESCRIPTION:Duration: 130 mins (2h10m)\n\n\nMICHAEL is the cinematic portr
- ayal of the life and legacy of one of the most influential artists the wor
- ld has ever known. The film tells the story of Michael Jackson's life beyo
- nd the music\, tracing his journey from the discovery of his extraordinary
-  tal\n\n\nEstimated start: 11:53\nScreen 10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael
-DTSTART;TZID=America/Los_Angeles:20260528T143500
-DTEND;TZID=America/Los_Angeles:20260528T170800
-DTSTAMP:20260528T213500Z
-UID:193565
-DESCRIPTION:Duration: 130 mins (2h10m)\n\n\nMICHAEL is the cinematic portr
- ayal of the life and legacy of one of the most influential artists the wor
- ld has ever known. The film tells the story of Michael Jackson's life beyo
- nd the music\, tracing his journey from the discovery of his extraordinary
-  tal\n\n\nEstimated start: 14:58\nScreen 10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Michael
-DTSTART;TZID=America/Los_Angeles:20260528T203500
-DTEND;TZID=America/Los_Angeles:20260528T230800
-DTSTAMP:20260529T033500Z
-UID:193566
-DESCRIPTION:Duration: 130 mins (2h10m)\n\n\nMICHAEL is the cinematic portr
- ayal of the life and legacy of one of the most influential artists the wor
- ld has ever known. The film tells the story of Michael Jackson's life beyo
- nd the music\, tracing his journey from the discovery of his extraordinary
-  tal\n\n\nEstimated start: 20:58\nScreen 10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Devil Wears Prada 2
-DTSTART;TZID=America/Los_Angeles:20260528T114000
-DTEND;TZID=America/Los_Angeles:20260528T140300
-DTSTAMP:20260528T184000Z
-UID:193571
-DESCRIPTION:Duration: 120 mins (2h00m)\n\n\nTwenty years after making thei
- r iconic turns as Miranda\, Andy\, Emily and Nigel-Meryl Streep\, Anne Hat
- haway\, Emily Blunt and Stanley Tucci return to the fashionable streets of
-  New York City and the sleek offices of Runway Magazine in 20th Century St
- udios'\n\n\nEstimated start: 12:03\nScreen 9
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Devil Wears Prada 2
-DTSTART;TZID=America/Los_Angeles:20260528T144500
-DTEND;TZID=America/Los_Angeles:20260528T170800
-DTSTAMP:20260528T214500Z
-UID:193570
-DESCRIPTION:Duration: 120 mins (2h00m)\n\n\nTwenty years after making thei
- r iconic turns as Miranda\, Andy\, Emily and Nigel-Meryl Streep\, Anne Hat
- haway\, Emily Blunt and Stanley Tucci return to the fashionable streets of
-  New York City and the sleek offices of Runway Magazine in 20th Century St
- udios'\n\n\nEstimated start: 15:08\nScreen 9
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Devil Wears Prada 2
-DTSTART;TZID=America/Los_Angeles:20260528T175500
-DTEND;TZID=America/Los_Angeles:20260528T201800
-DTSTAMP:20260529T005500Z
-UID:193569
-DESCRIPTION:Duration: 120 mins (2h00m)\n\n\nTwenty years after making thei
- r iconic turns as Miranda\, Andy\, Emily and Nigel-Meryl Streep\, Anne Hat
- haway\, Emily Blunt and Stanley Tucci return to the fashionable streets of
-  New York City and the sleek offices of Runway Magazine in 20th Century St
- udios'\n\n\nEstimated start: 18:18\nScreen 9
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Devil Wears Prada 2
-DTSTART;TZID=America/Los_Angeles:20260528T205500
-DTEND;TZID=America/Los_Angeles:20260528T231800
-DTSTAMP:20260529T035500Z
-UID:193568
-DESCRIPTION:Duration: 120 mins (2h00m)\n\n\nTwenty years after making thei
- r iconic turns as Miranda\, Andy\, Emily and Nigel-Meryl Streep\, Anne Hat
- haway\, Emily Blunt and Stanley Tucci return to the fashionable streets of
-  New York City and the sleek offices of Runway Magazine in 20th Century St
- udios'\n\n\nEstimated start: 21:18\nScreen 9
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drishyam 3
-DTSTART;TZID=America/Los_Angeles:20260528T115500
-DTEND;TZID=America/Los_Angeles:20260528T151300
-DTSTAMP:20260528T185500Z
-UID:193581
-DESCRIPTION:Duration: 171 mins (2h51m)\n\n\nGeorgekutty is not just protec
- ting his family from the world\, he is protecting them from the truth\, an
- d from the burden of what binds them together. Now\, as new forces begin t
- o close in\, more organized and determined than ever before\, the cracks i
- n his ca\n\n\nEstimated start: 12:18\nScreen 3
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drishyam 3
-DTSTART;TZID=America/Los_Angeles:20260528T191000
-DTEND;TZID=America/Los_Angeles:20260528T222800
-DTSTAMP:20260529T021000Z
-UID:193593
-DESCRIPTION:Duration: 171 mins (2h51m)\n\n\nGeorgekutty is not just protec
- ting his family from the world\, he is protecting them from the truth\, an
- d from the burden of what binds them together. Now\, as new forces begin t
- o close in\, more organized and determined than ever before\, the cracks i
- n his ca\n\n\nEstimated start: 19:33\nScreen 3
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Breadwinner
-DTSTART;TZID=America/Los_Angeles:20260528T120500
-DTEND;TZID=America/Los_Angeles:20260528T140300
-DTSTAMP:20260528T190500Z
-UID:189501
-DESCRIPTION:Duration: 95 mins (1h35m)\n\n\nStarring record-shattering come
- dian Nate Bargatze in his first feature film\, The Breadwinner stars \nBar
- gatze as salesman Nate Wilcox and Mandy Moore as his wife\, Katie. To Nate
-  and their three children\, Katie is the \nultimate mom - she manages thei
- r comic\n\n\nEstimated start: 12:28\nScreen 2
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Breadwinner
-DTSTART;TZID=America/Los_Angeles:20260528T143000
-DTEND;TZID=America/Los_Angeles:20260528T162800
-DTSTAMP:20260528T213000Z
-UID:189502
-DESCRIPTION:Duration: 95 mins (1h35m)\n\n\nStarring record-shattering come
- dian Nate Bargatze in his first feature film\, The Breadwinner stars \nBar
- gatze as salesman Nate Wilcox and Mandy Moore as his wife\, Katie. To Nate
-  and their three children\, Katie is the \nultimate mom - she manages thei
- r comic\n\n\nEstimated start: 14:53\nScreen 2
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Breadwinner
-DTSTART;TZID=America/Los_Angeles:20260528T170000
-DTEND;TZID=America/Los_Angeles:20260528T185800
-DTSTAMP:20260529T000000Z
-UID:189503
-DESCRIPTION:Duration: 95 mins (1h35m)\n\n\nStarring record-shattering come
- dian Nate Bargatze in his first feature film\, The Breadwinner stars \nBar
- gatze as salesman Nate Wilcox and Mandy Moore as his wife\, Katie. To Nate
-  and their three children\, Katie is the \nultimate mom - she manages thei
- r comic\n\n\nEstimated start: 17:23\nScreen 2
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Breadwinner
-DTSTART;TZID=America/Los_Angeles:20260528T193000
-DTEND;TZID=America/Los_Angeles:20260528T212800
-DTSTAMP:20260529T023000Z
-UID:189504
-DESCRIPTION:Duration: 95 mins (1h35m)\n\n\nStarring record-shattering come
- dian Nate Bargatze in his first feature film\, The Breadwinner stars \nBar
- gatze as salesman Nate Wilcox and Mandy Moore as his wife\, Katie. To Nate
-  and their three children\, Katie is the \nultimate mom - she manages thei
- r comic\n\n\nEstimated start: 19:53\nScreen 2
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Breadwinner
-DTSTART;TZID=America/Los_Angeles:20260528T220000
-DTEND;TZID=America/Los_Angeles:20260528T235800
-DTSTAMP:20260529T050000Z
-UID:189505
-DESCRIPTION:Duration: 95 mins (1h35m)\n\n\nStarring record-shattering come
- dian Nate Bargatze in his first feature film\, The Breadwinner stars \nBar
- gatze as salesman Nate Wilcox and Mandy Moore as his wife\, Katie. To Nate
-  and their three children\, Katie is the \nultimate mom - she manages thei
- r comic\n\n\nEstimated start: 22:23\nScreen 2
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Project Hail Mary
-DTSTART;TZID=America/Los_Angeles:20260528T122000
-DTEND;TZID=America/Los_Angeles:20260528T152300
-DTSTAMP:20260528T192000Z
-UID:193582
-DESCRIPTION:Duration: 156 mins (2h36m)\n\n\nScience teacher Ryland Grace (
- Ryan Gosling) wakes up on a spaceship light years from home with no recoll
- ection of who he is or how he got there. As his memory returns\, he begins
-  to uncover his mission: solve the riddle of the mysterious substance caus
- ing\n\n\nEstimated start: 12:43\nScreen 6
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pressure
-DTSTART;TZID=America/Los_Angeles:20260528T140000
-DTEND;TZID=America/Los_Angeles:20260528T160800
-DTSTAMP:20260528T210000Z
-UID:193065
-DESCRIPTION:Duration: 101 mins (1h41m)\n\n\nIn the tense 72 hours before D
- -Day\, and with the fate of the free world hanging in the balance\, PRESSU
- RE follows General Dwight D. Eisenhower and Captain James Stagg as they fa
- ce an impossible choice-launch the largest and most dangerous seaborne inv
- asion\n\n\nEstimated start: 14:23\nScreen 7
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pressure
-DTSTART;TZID=America/Los_Angeles:20260528T164000
-DTEND;TZID=America/Los_Angeles:20260528T184800
-DTSTAMP:20260528T234000Z
-UID:193064
-DESCRIPTION:Duration: 101 mins (1h41m)\n\n\nIn the tense 72 hours before D
- -Day\, and with the fate of the free world hanging in the balance\, PRESSU
- RE follows General Dwight D. Eisenhower and Captain James Stagg as they fa
- ce an impossible choice-launch the largest and most dangerous seaborne inv
- asion\n\n\nEstimated start: 17:03\nScreen 7
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pressure
-DTSTART;TZID=America/Los_Angeles:20260528T192000
-DTEND;TZID=America/Los_Angeles:20260528T212800
-DTSTAMP:20260529T022000Z
-UID:193062
-DESCRIPTION:Duration: 101 mins (1h41m)\n\n\nIn the tense 72 hours before D
- -Day\, and with the fate of the free world hanging in the balance\, PRESSU
- RE follows General Dwight D. Eisenhower and Captain James Stagg as they fa
- ce an impossible choice-launch the largest and most dangerous seaborne inv
- asion\n\n\nEstimated start: 19:43\nScreen 7
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pressure
-DTSTART;TZID=America/Los_Angeles:20260528T215000
-DTEND;TZID=America/Los_Angeles:20260528T235800
-DTSTAMP:20260529T045000Z
-UID:193063
-DESCRIPTION:Duration: 101 mins (1h41m)\n\n\nIn the tense 72 hours before D
- -Day\, and with the fate of the free world hanging in the balance\, PRESSU
- RE follows General Dwight D. Eisenhower and Captain James Stagg as they fa
- ce an impossible choice-launch the largest and most dangerous seaborne inv
- asion\n\n\nEstimated start: 22:13\nScreen 7
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drishyam 3
-DTSTART;TZID=America/Los_Angeles:20260528T153000
-DTEND;TZID=America/Los_Angeles:20260528T184800
-DTSTAMP:20260528T223000Z
-UID:193592
-DESCRIPTION:Duration: 171 mins (2h51m)\n\n\nGeorgekutty is not just protec
- ting his family from the world\, he is protecting them from the truth\, an
- d from the burden of what binds them together. Now\, as new forces begin t
- o close in\, more organized and determined than ever before\, the cracks i
- n his ca\n\n\nEstimated start: 15:53\nScreen 3
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART;TZID=America/Los_Angeles:20260528T160000
-DTEND;TZID=America/Los_Angeles:20260528T181800
-DTSTAMP:20260528T230000Z
-UID:191111
-DESCRIPTION:Duration: 111 mins (1h51m)\n\n\nA strange doorway appears in t
- he basement of a furniture showroom.\n\n\nEstimated start: 16:23\nScreen 6
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART;TZID=America/Los_Angeles:20260528T184000
-DTEND;TZID=America/Los_Angeles:20260528T205800
-DTSTAMP:20260529T014000Z
-UID:191112
-DESCRIPTION:Duration: 111 mins (1h51m)\n\n\nA strange doorway appears in t
- he basement of a furniture showroom.\n\n\nEstimated start: 19:03\nScreen 6
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Backrooms
-DTSTART;TZID=America/Los_Angeles:20260528T212000
-DTEND;TZID=America/Los_Angeles:20260528T233800
-DTSTAMP:20260529T042000Z
-UID:191113
-DESCRIPTION:Duration: 111 mins (1h51m)\n\n\nA strange doorway appears in t
- he basement of a furniture showroom.\n\n\nEstimated start: 21:43\nScreen 6
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passenger (Open Cap/Eng Sub)
-DTSTART;TZID=America/Los_Angeles:20260528T190500
-DTEND;TZID=America/Los_Angeles:20260528T210300
-DTSTAMP:20260529T020500Z
-UID:192686
-DESCRIPTION:Duration: 94 mins (1h34m)\n\n\nAfter a young couple witnesses 
- a gruesome highway accident\, they soon realize they did not leave the cra
- sh scene alone\, as a demonic presence called the Passenger that won't sto
- p until it claims them both turns their van life adventure into a nightmar
- e.\n\n\nEstimated start: 19:28\nScreen 11
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -9228,6 +9115,136 @@ DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nWinner of the Academy Award®
   a dazzling masterpiece from one of the most celebrated filmmakers in the 
  history of animation.\nChihiro's family is moving to a new house\, but whe
  n they\n\n\nEstimated start: 18:53\nScreen 3
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spirited Away 25th Anniversary
+DTSTART;TZID=America/Los_Angeles:20261019T183000
+DTEND;TZID=America/Los_Angeles:20261019T210800
+DTSTAMP:20261020T013000Z
+UID:192776
+DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nWinner of the Academy Award® 
+ for Best Animated Feature\, Hayao Miyazaki's wondrous fantasy adventure is
+  a dazzling masterpiece from one of the most celebrated filmmakers in the 
+ history of animation.\nChihiro's family is moving to a new house\, but whe
+ n they\n\n\nEstimated start: 18:53\nScreen 2
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spirited Away 25th Anniversary
+DTSTART;TZID=America/Los_Angeles:20261020T183000
+DTEND;TZID=America/Los_Angeles:20261020T210800
+DTSTAMP:20261021T013000Z
+UID:192777
+DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nWinner of the Academy Award® 
+ for Best Animated Feature\, Hayao Miyazaki's wondrous fantasy adventure is
+  a dazzling masterpiece from one of the most celebrated filmmakers in the 
+ history of animation.\nChihiro's family is moving to a new house\, but whe
+ n they\n\n\nEstimated start: 18:53\nScreen 2
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spirited Away 25th Anniversary
+DTSTART;TZID=America/Los_Angeles:20261021T183000
+DTEND;TZID=America/Los_Angeles:20261021T210800
+DTSTAMP:20261022T013000Z
+UID:192775
+DESCRIPTION:Duration: 132 mins (2h12m)\n\n\nWinner of the Academy Award® 
+ for Best Animated Feature\, Hayao Miyazaki's wondrous fantasy adventure is
+  a dazzling masterpiece from one of the most celebrated filmmakers in the 
+ history of animation.\nChihiro's family is moving to a new house\, but whe
+ n they\n\n\nEstimated start: 18:53\nScreen 2
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Beautiful Mind
+DTSTART;TZID=America/Los_Angeles:20261122T160000
+DTEND;TZID=America/Los_Angeles:20261122T184300
+DTSTAMP:20261123T000000Z
+UID:188113
+DESCRIPTION:Duration: 140 mins (2h20m)\n\n\nA mathematical genius\, John F
+ orbes Nash\, Jr. made an astonishing discovery early in life and stood on 
+ the brink of international acclaim. But his prodigious career was sidetrac
+ ked by problems that would have broken many men. Nash\, however\, fought b
+ ack. He\n\n\nEstimated start: 16:23\nScreen 11
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Beautiful Mind
+DTSTART;TZID=America/Los_Angeles:20261123T183000
+DTEND;TZID=America/Los_Angeles:20261123T211300
+DTSTAMP:20261124T023000Z
+UID:188114
+DESCRIPTION:Duration: 140 mins (2h20m)\n\n\nA mathematical genius\, John F
+ orbes Nash\, Jr. made an astonishing discovery early in life and stood on 
+ the brink of international acclaim. But his prodigious career was sidetrac
+ ked by problems that would have broken many men. Nash\, however\, fought b
+ ack. He\n\n\nEstimated start: 18:53\nScreen 11
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Maltese Falcon
+DTSTART;TZID=America/Los_Angeles:20261206T160000
+DTEND;TZID=America/Los_Angeles:20261206T180800
+DTSTAMP:20261207T000000Z
+UID:188115
+DESCRIPTION:Duration: 105 mins (1h45m)\n\n\nAcademy Award winner Humphrey 
+ Bogart stars in this classic film noir as tough San Francisco private dete
+ ctive Sam Spade in the classic\, convoluted story of Spade's involvement w
+ ith a deadly band of international thieves who will lie\, double cross and
+  murd\n\n\nEstimated start: 16:23\nScreen 11
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Maltese Falcon
+DTSTART;TZID=America/Los_Angeles:20261209T183000
+DTEND;TZID=America/Los_Angeles:20261209T203800
+DTSTAMP:20261210T023000Z
+UID:188116
+DESCRIPTION:Duration: 105 mins (1h45m)\n\n\nAcademy Award winner Humphrey 
+ Bogart stars in this classic film noir as tough San Francisco private dete
+ ctive Sam Spade in the classic\, convoluted story of Spade's involvement w
+ ith a deadly band of international thieves who will lie\, double cross and
+  murd\n\n\nEstimated start: 18:53\nScreen 11
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life
+DTSTART;TZID=America/Los_Angeles:20261218T180000
+DTEND;TZID=America/Los_Angeles:20261218T203800
+DTSTAMP:20261219T020000Z
+UID:188117
+DESCRIPTION:Duration: 135 mins (2h15m)\n\n\nEmbraced as a cherished holida
+ y tradition by families around the world\, Frank Capra's heart-warming mas
+ terpiece now celebrates 80 years with this big-screen event. George Bailey
+  (James Stewart) sets aside his dreams of world travel to run his father's
+  sma\n\n\nEstimated start: 18:23\nScreen 11
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life
+DTSTART;TZID=America/Los_Angeles:20261219T120000
+DTEND;TZID=America/Los_Angeles:20261219T143800
+DTSTAMP:20261219T200000Z
+UID:188118
+DESCRIPTION:Duration: 135 mins (2h15m)\n\n\nEmbraced as a cherished holida
+ y tradition by families around the world\, Frank Capra's heart-warming mas
+ terpiece now celebrates 80 years with this big-screen event. George Bailey
+  (James Stewart) sets aside his dreams of world travel to run his father's
+  sma\n\n\nEstimated start: 12:23\nScreen 11
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It's a Wonderful Life
+DTSTART;TZID=America/Los_Angeles:20261220T120000
+DTEND;TZID=America/Los_Angeles:20261220T143800
+DTSTAMP:20261220T200000Z
+UID:188119
+DESCRIPTION:Duration: 135 mins (2h15m)\n\n\nEmbraced as a cherished holida
+ y tradition by families around the world\, Frank Capra's heart-warming mas
+ terpiece now celebrates 80 years with this big-screen event. George Bailey
+  (James Stewart) sets aside his dreams of world travel to run his father's
+  sma\n\n\nEstimated start: 12:23\nScreen 11
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 END:VCALENDAR

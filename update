@@ -40,7 +40,7 @@ class RegalICS:
 
         self.cookies = browser_cookie3.chrome()
         self.headers = {
-            "User-Agent": UserAgent().chrome,
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
         }
 
         self.executor = ThreadPoolExecutor(max_workers=5)
@@ -129,8 +129,6 @@ class RegalICS:
 
         fn = logging.warning if len(dates) == 0 else logging.debug
         fn(f"Found {len(dates)} days we need to scrape for {theatre['slug']}")
-
-        dates = dates[:87]
 
         showtimes = {
             k: v for k, v in self.executor.map(lambda x: self.api(theatre, x), dates)
