@@ -7,6 +7,7 @@ import browser_cookie3
 import logging
 import re
 import pprint
+import os
 import time
 
 import click
@@ -100,6 +101,12 @@ class RegalICS:
         filename = f"/tmp/regal-{theatre_number}-{date_fmt}.json"
         url = f"https://www.regmovies.com/api/getShowtimes?theatres={theatre_number}&date={date_fmt}&hoCode=&ignoreCache=false&moviesOnly=false"
 
+        if date < datetime.date.today() + datetime.timedelta(days=10):
+            try:
+                os.remove(filename)
+            except FileNotFoundError:
+                pass
+
         if use_cache:
             try:
                 with open(filename, "r") as f:
@@ -108,6 +115,11 @@ class RegalICS:
                 pass
 
         r = self.session.get(url, headers=self.headers, cookies=self.cookies)
+
+        if r.status_code in (401, 403):
+            logging.warning(f"Could not download showtimes for {date} from {url} ({r.status_code})")
+            return date, {"shows": [{"Film": []}]}
+
         r.raise_for_status()
 
         data = r.json()
@@ -126,8 +138,7 @@ class RegalICS:
         dates = []
         for x in main["datesWithShows"]:
             date = datetime.date(int(x[:4]), int(x[5:7]), int(x[8:10]))
-            if date != self.today:
-                dates.append(date)
+            dates.append(date)
 
         fn = logging.warning if len(dates) == 0 else logging.debug
         fn(f"Found {len(dates)} days we need to scrape for {theatre['slug']}")
@@ -166,6 +177,9 @@ class RegalICS:
 
         num_events_venue = 0
         for date, showtimes in showtimes.items():
+            if not showtimes["shows"]:
+                continue
+
             for film in showtimes["shows"][0]["Film"]:
                 title = self.tidy_title(film["Title"])
                 movie = movies[film["MasterMovieCode"]]
