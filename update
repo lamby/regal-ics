@@ -3,7 +3,6 @@
 # https://icalendar.readthedocs.io/en/latest/usage.html#example
 
 import datetime
-import browser_cookie3
 import logging
 import re
 import pprint
@@ -14,16 +13,14 @@ import click
 import icalendar
 import json
 import pytz
-import requests
-import slugify
 import yaml
 
-from bs4 import BeautifulSoup
-from fake_useragent import UserAgent
-from lxml import etree
 from rich.logging import RichHandler
-from rich.progress import track
-from concurrent.futures import ThreadPoolExecutor
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+from selenium.common.exceptions import NoSuchElementException
 
 
 class RegalICS:
@@ -36,105 +33,99 @@ class RegalICS:
         },
     ]
 
-    def __init__(self):
-        self.session = requests.Session()
-
-        self.cookies = browser_cookie3.chrome()
-        self.headers = {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
-        }
-
-        self.executor = ThreadPoolExecutor(max_workers=5)
+    def __init__(self, verbose):
+        self.verbose = verbose
 
         self.today = datetime.date.today()
 
+    def get_driver(self):
+        options = Options()
+        options.add_argument("--window-size=1920,1080")
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
+        options.add_argument("--disable-blink-features=AutomationControlled")
+        options.add_argument("--headless=new")
+
+        service = webdriver.ChromeService(executable_path="/usr/bin/chromedriver")
+
+        return webdriver.Chrome(service=service, options=options)
+
     def main(self):
-        results = list(self.executor.map(self.handle_theatre, self.THEATRES))
+        self.setup_logging()
 
-        theatres = []
+        self.driver = self.get_driver()
 
-        for theatre, main, showtimes in results:
-            ics = self.get_ics(theatre, main, showtimes)
+        # Scrape data
+        for theatre in self.THEATRES:
+            self.handle_theatre(theatre)
+
+        # Output .ics files
+        theatre_data = []
+        for theatre in self.THEATRES:
+            ics = self.get_ics(theatre)
+
             with open(f"ics/{theatre['slug']}.ics", "w") as f:
                 f.write(ics)
 
-            theatre_data = main["theatreData"]["data"][0]
-            theatre_data["slug"] = theatre["slug"]
-
-            theatres.append(theatre_data)
-
+            theatre_data.append(theatre["_main"]["theatreData"]["data"])
 
         # Write theatre metadata
         with open(f"_data/theatres.yaml", "w") as f:
-            f.write(yaml.dump(theatres))
+            f.write(yaml.dump(theatre_data))
 
-    def page(self, theatre, use_cache=False):
-        filename = "/tmp/regal-{}.json".format(theatre["slug"])
+        self.driver.quit()
+
+    def get_main_theatre_page(self, theatre):
         url = "https://www.regmovies.com/theatres/{}".format(
             theatre["slug"],
         )
 
-        if use_cache:
+        while True:
+            self.driver.get(url)
+
             try:
-                with open(filename, "r") as f:
-                    return json.loads(f.read())
-            except FileNotFoundError:
-                pass
+                elem = self.driver.find_element(
+                    By.XPATH, "//script[@id='__NEXT_DATA__']"
+                )
+                break
+            except NoSuchElementException:
+                logging.warning(
+                    f"Could not find <script> element accessing {url}, trying again…"
+                )
+                time.sleep(10)
 
-        r = self.session.get(url, headers=self.headers, cookies=self.cookies)
-        r.raise_for_status()
+        data = json.loads(elem.get_attribute("textContent"))
 
-        soup = BeautifulSoup(r.content, "html.parser")
-        data = json.loads(soup.find("script", id="__NEXT_DATA__").text)
+        return data["props"]["pageProps"]
 
-        data = data["props"]["pageProps"]
-
-        with open(filename, "w") as f:
-            f.write(json.dumps(data, indent=4))
-
-        return data
-
-    def api(self, theatre, date, use_cache=True):
+    def api(self, theatre, date):
         theatre_number = theatre["slug"].split("-")[-1]
         date_fmt = date.strftime("%m-%d-%Y")
 
-        filename = f"/tmp/regal-{theatre_number}-{date_fmt}.json"
         url = f"https://www.regmovies.com/api/getShowtimes?theatres={theatre_number}&date={date_fmt}&hoCode=&ignoreCache=false&moviesOnly=false"
 
-        if date < datetime.date.today() + datetime.timedelta(days=10):
+        while True:
+            self.driver.get(url)
+
             try:
-                os.remove(filename)
-            except FileNotFoundError:
-                pass
+                elem = self.driver.find_element(By.XPATH, "//pre")
+                break
+            except NoSuchElementException:
+                logging.warning(
+                    f"Could not find <pre> element accessing {url}, trying again …"
+                )
+                time.sleep(5)
 
-        if use_cache:
-            try:
-                with open(filename, "r") as f:
-                    return date, json.loads(f.read())
-            except FileNotFoundError:
-                pass
-
-        r = self.session.get(url, headers=self.headers, cookies=self.cookies)
-
-        if r.status_code in (401, 403):
-            logging.warning(f"Could not download showtimes for {date} from {url} ({r.status_code})")
-            return date, {"shows": [{"Film": []}]}
-
-        r.raise_for_status()
-
-        data = r.json()
-
-        with open(filename, "w") as f:
-            f.write(json.dumps(data, indent=4))
-
-        return date, data
+        return json.loads(elem.get_attribute("textContent"))
 
     def handle_theatre(self, theatre):
-        # 1. Get main theatre page
+        # Get the data embedded on the main page
+        main = self.get_main_theatre_page(theatre)
 
-        main = self.page(theatre)
+        # Save the theatre data
+        theatre["_main"] = main
 
-        # 2. Use datesWithShows from first day to add more
+        # Use datesWithShows from first day to find dates with shows
         dates = []
         for x in main["datesWithShows"]:
             date = datetime.date(int(x[:4]), int(x[5:7]), int(x[8:10]))
@@ -143,18 +134,21 @@ class RegalICS:
         fn = logging.warning if len(dates) == 0 else logging.debug
         fn(f"Found {len(dates)} days we need to scrape for {theatre['slug']}")
 
-        showtimes = {
-            k: v for k, v in self.executor.map(lambda x: self.api(theatre, x), dates)
-        }
+        showtimes = []
+        with click.progressbar(dates) as dates:
+            for date in dates:
+                showtimes.append((date, self.api(theatre, date)))
 
-        return theatre, main, showtimes
+        theatre["_showtimes"] = showtimes
 
-    ##
-
-    def get_ics(self, theatre, main, showtimes):
+    def get_ics(self, theatre):
         base_url = f"https://www.regmovies.com/theatres/{theatre['slug']}/"
 
+        main = theatre["_main"]
         theatre_data = main["theatreData"]["data"][0]
+
+        movies = {x["MasterMovieCode"]: x for x in main["movies"]}
+        logging.debug(f"We know about {len(movies)} movies")
 
         address = "{}, {}, {} {}".format(
             theatre_data["address"],
@@ -172,16 +166,21 @@ class RegalICS:
         cal.add("x-wr-calname", f"Cinema 🇺🇸 {theatre_data['name']}")
         cal.add("last-modified", datetime.datetime.now(datetime.UTC))
 
-        movies = {x["MasterMovieCode"]: x for x in main["movies"]}
-        logging.debug(f"We know about {len(movies)} movies")
-
         num_events_venue = 0
-        for date, showtimes in showtimes.items():
-            if not showtimes["shows"]:
+        for date, showtimes in theatre["_showtimes"]:
+            try:
+                if not showtimes["shows"]:
+                    continue
+            except KeyError:
                 continue
 
             for film in showtimes["shows"][0]["Film"]:
                 title = self.tidy_title(film["Title"])
+
+                if film["MasterMovieCode"] not in movies:
+                    logging.warning(f"No metadata for movie {film['MasterMovieCode']} {film}")
+                    continue
+
                 movie = movies[film["MasterMovieCode"]]
 
                 duration = movie["Duration"]
@@ -197,10 +196,14 @@ class RegalICS:
                     )
 
                     # UnixTime is actually offset by timezone so we need to convert it back
-                    start = timezone.localize(datetime.datetime.fromtimestamp(
-                        x["UnixTime"] / 1000,
-                    ))
-                    start -= datetime.timedelta(seconds=start.utcoffset().total_seconds())
+                    start = timezone.localize(
+                        datetime.datetime.fromtimestamp(
+                            x["UnixTime"] / 1000,
+                        )
+                    )
+                    start -= datetime.timedelta(
+                        seconds=start.utcoffset().total_seconds()
+                    )
 
                     estimated_start = start + datetime.timedelta(
                         minutes=self.PADDING,
@@ -251,16 +254,17 @@ class RegalICS:
     def round_to_nearest(self, val, nearest_to):
         return (val + (nearest_to - 1)) // nearest_to * nearest_to
 
+    def setup_logging(self):
+        level = logging.DEBUG if self.verbose else logging.INFO
+        logging.basicConfig(
+            level=level, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
+        )
+
 
 @click.command()
 @click.option("--verbose", is_flag=True, default=False, help="Verbose.")
 def main(verbose):
-    level = logging.DEBUG if verbose else logging.INFO
-    logging.basicConfig(
-        level=level, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
-    )
-
-    RegalICS().main()
+    RegalICS(verbose).main()
 
 
 if __name__ == "__main__":

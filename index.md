@@ -39,7 +39,7 @@ layout: default
 <ul class="list-unstyled">
 {% for theatre in site.data.theatres %}
 <li>
-    <a class="btn mt-1 btn-primary" href="ics/{{ theatre.slug }}.ics?{{ site.github.build_revision }}">{{ theatre.name }}</a> {{ theatre.address }}, {{ theatre.city }}
+    <a class="btn mt-1 btn-primary" href="ics/{{ theatre.path_name }}.ics?{{ site.github.build_revision }}">{{ theatre.name }}</a> {{ theatre.address }}, {{ theatre.city }} {{ theatre.state }}
 </li>
 {% endfor %}
 </ul>
