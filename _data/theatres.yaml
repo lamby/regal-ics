@@ -1,23 +1,23 @@
-- - address: 8890 NE 161st Avenue
-    api_concessions_enabled: true
-    city: Redmond
-    concessions_enabled: true
-    display_fees: false
-    display_taxes: false
-    iana_timezone: US/Pacific
-    latitude: 47.6811
-    longitude: -122.1232
-    message_end: null
-    message_start: null
-    message_title: null
-    meta_description: null
-    name: Regal Bella Bottega
-    path_name: regal-bella-bottega-0904
-    phone_number: (844) 462-7342
-    postal_code: '98052'
-    pwp_availability: true
-    seo_title: Regal Bella Bottega Movie Tickets and Showtimes | Regal
-    state: WA
-    theatre_code: 0904
-    theatre_info_message: null
-    unlimited_tier: 2
+- address: 8890 NE 161st Avenue
+  api_concessions_enabled: true
+  city: Redmond
+  concessions_enabled: true
+  display_fees: false
+  display_taxes: false
+  iana_timezone: US/Pacific
+  latitude: 47.6811
+  longitude: -122.1232
+  message_end: null
+  message_start: null
+  message_title: null
+  meta_description: null
+  name: Regal Bella Bottega
+  path_name: regal-bella-bottega-0904
+  phone_number: (844) 462-7342
+  postal_code: '98052'
+  pwp_availability: true
+  seo_title: Regal Bella Bottega Movie Tickets and Showtimes | Regal
+  state: WA
+  theatre_code: 0904
+  theatre_info_message: null
+  unlimited_tier: 2

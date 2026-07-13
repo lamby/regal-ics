@@ -67,7 +67,7 @@ class RegalICS:
             with open(f"ics/{theatre['slug']}.ics", "w") as f:
                 f.write(ics)
 
-            theatre_data.append(theatre["_main"]["theatreData"]["data"])
+            theatre_data.append(theatre["_main"]["theatreData"]["data"][0])
 
         # Write theatre metadata
         with open(f"_data/theatres.yaml", "w") as f:
