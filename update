@@ -177,6 +177,9 @@ class RegalICS:
             for film in showtimes["shows"][0]["Film"]:
                 title = self.tidy_title(film["Title"])
 
+                if title.endswith(" (Sensory)"):
+                    continue
+
                 if film["MasterMovieCode"] not in movies:
                     logging.warning(f"No metadata for movie {film['MasterMovieCode']} {film}")
                     continue
