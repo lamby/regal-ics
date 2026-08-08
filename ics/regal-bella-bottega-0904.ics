@@ -3,558 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Regal Bella Bottega
 X-WR-CALNAME:Cinema 🇺🇸 Regal Bella Bottega
-LAST-MODIFIED:20260807T142647Z
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T094500
-DTEND;TZID=America/Los_Angeles:20260807T123500
-DTSTAMP:20260807T164500Z
-UID:197537
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 10:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T103000
-DTEND;TZID=America/Los_Angeles:20260807T132000
-DTSTAMP:20260807T173000Z
-UID:197550
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 10:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T110000
-DTEND;TZID=America/Los_Angeles:20260807T135000
-DTSTAMP:20260807T180000Z
-UID:197546
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 11:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T113500
-DTEND;TZID=America/Los_Angeles:20260807T142500
-DTSTAMP:20260807T183500Z
-UID:197542
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 4\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 12:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T120500
-DTEND;TZID=America/Los_Angeles:20260807T145500
-DTSTAMP:20260807T190500Z
-UID:195166
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 12:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T123500
-DTEND;TZID=America/Los_Angeles:20260807T152500
-DTSTAMP:20260807T193500Z
-UID:197555
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 11\n\nIt's a BRAND NEW DAY 
- for Peter Parker. Fighting crime full-time as Spider-Man in a world that d
- oesn't remember him -- and the pressure of seeing his old friends move on 
- without him -- sparks a change in Peter he may not have the power to contr
- ol. But that\n\nEstimated start: 13:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T130500
-DTEND;TZID=America/Los_Angeles:20260807T155500
-DTSTAMP:20260807T200500Z
-UID:197538
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 13:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T135500
-DTEND;TZID=America/Los_Angeles:20260807T164500
-DTSTAMP:20260807T205500Z
-UID:197551
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 14:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T143000
-DTEND;TZID=America/Los_Angeles:20260807T172000
-DTSTAMP:20260807T213000Z
-UID:197547
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 14:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T150000
-DTEND;TZID=America/Los_Angeles:20260807T175000
-DTSTAMP:20260807T220000Z
-UID:197543
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 4\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 15:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T153000
-DTEND;TZID=America/Los_Angeles:20260807T182000
-DTSTAMP:20260807T223000Z
-UID:195165
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 15:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T160000
-DTEND;TZID=America/Los_Angeles:20260807T185000
-DTSTAMP:20260807T230000Z
-UID:197556
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 11\n\nIt's a BRAND NEW DAY 
- for Peter Parker. Fighting crime full-time as Spider-Man in a world that d
- oesn't remember him -- and the pressure of seeing his old friends move on 
- without him -- sparks a change in Peter he may not have the power to contr
- ol. But that\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T163000
-DTEND;TZID=America/Los_Angeles:20260807T192000
-DTSTAMP:20260807T233000Z
-UID:197539
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T173000
-DTEND;TZID=America/Los_Angeles:20260807T202000
-DTSTAMP:20260808T003000Z
-UID:197552
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 17:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T180000
-DTEND;TZID=America/Los_Angeles:20260807T205000
-DTSTAMP:20260808T010000Z
-UID:197548
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 18:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T183000
-DTEND;TZID=America/Los_Angeles:20260807T212000
-DTSTAMP:20260808T013000Z
-UID:197544
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 4\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 18:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T190000
-DTEND;TZID=America/Los_Angeles:20260807T215000
-DTSTAMP:20260808T020000Z
-UID:195163
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T193000
-DTEND;TZID=America/Los_Angeles:20260807T222000
-DTSTAMP:20260808T023000Z
-UID:197557
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 11\n\nIt's a BRAND NEW DAY 
- for Peter Parker. Fighting crime full-time as Spider-Man in a world that d
- oesn't remember him -- and the pressure of seeing his old friends move on 
- without him -- sparks a change in Peter he may not have the power to contr
- ol. But that\n\nEstimated start: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T200000
-DTEND;TZID=America/Los_Angeles:20260807T225000
-DTSTAMP:20260808T030000Z
-UID:197540
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 20:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T210000
-DTEND;TZID=America/Los_Angeles:20260807T235000
-DTSTAMP:20260808T040000Z
-UID:197553
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 21:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T213000
-DTEND;TZID=America/Los_Angeles:20260808T002000
-DTSTAMP:20260808T043000Z
-UID:197549
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 21:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T220000
-DTEND;TZID=America/Los_Angeles:20260808T005000
-DTSTAMP:20260808T050000Z
-UID:197545
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 4\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 22:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260807T223000
-DTEND;TZID=America/Los_Angeles:20260808T012000
-DTSTAMP:20260808T053000Z
-UID:195164
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 22:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260807T102000
-DTEND;TZID=America/Los_Angeles:20260807T134000
-DTSTAMP:20260807T172000Z
-UID:197561
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 10:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260807T141000
-DTEND;TZID=America/Los_Angeles:20260807T173000
-DTSTAMP:20260807T211000Z
-UID:197562
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 14:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260807T181500
-DTEND;TZID=America/Los_Angeles:20260807T213500
-DTSTAMP:20260808T011500Z
-UID:197563
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 18:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260807T221000
-DTEND;TZID=America/Los_Angeles:20260808T013000
-DTSTAMP:20260808T051000Z
-UID:197564
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 22:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260807T114500
-DTEND;TZID=America/Los_Angeles:20260807T135500
-DTSTAMP:20260807T184500Z
-UID:195767
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 12:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260807T142000
-DTEND;TZID=America/Los_Angeles:20260807T163000
-DTSTAMP:20260807T212000Z
-UID:195768
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 14:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260807T170000
-DTEND;TZID=America/Los_Angeles:20260807T191000
-DTSTAMP:20260808T000000Z
-UID:195769
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 17:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260807T194000
-DTEND;TZID=America/Los_Angeles:20260807T215000
-DTSTAMP:20260808T024000Z
-UID:195770
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 20:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260807T222000
-DTEND;TZID=America/Los_Angeles:20260808T003000
-DTSTAMP:20260808T052000Z
-UID:195771
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 22:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260807T095500
-DTEND;TZID=America/Los_Angeles:20260807T120500
-DTSTAMP:20260807T165500Z
-UID:197713
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 10:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260807T112500
-DTEND;TZID=America/Los_Angeles:20260807T133500
-DTSTAMP:20260807T182500Z
-UID:197133
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 2\n\nTwo strangers search f
- or love in an ever-so-slightly fictionalized New York on the one night of 
- the year when single people are allowed to have sex.\n\nEstimated start: 1
- 1:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260807T140000
-DTEND;TZID=America/Los_Angeles:20260807T161000
-DTSTAMP:20260807T210000Z
-UID:197134
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 2\n\nTwo strangers search f
- or love in an ever-so-slightly fictionalized New York on the one night of 
- the year when single people are allowed to have sex.\n\nEstimated start: 1
- 4:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260807T164000
-DTEND;TZID=America/Los_Angeles:20260807T185000
-DTSTAMP:20260807T234000Z
-UID:197135
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 2\n\nTwo strangers search f
- or love in an ever-so-slightly fictionalized New York on the one night of 
- the year when single people are allowed to have sex.\n\nEstimated start: 1
- 7:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260807T191500
-DTEND;TZID=America/Los_Angeles:20260807T212500
-DTSTAMP:20260808T021500Z
-UID:197136
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 2\n\nTwo strangers search f
- or love in an ever-so-slightly fictionalized New York on the one night of 
- the year when single people are allowed to have sex.\n\nEstimated start: 1
- 9:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260807T215000
-DTEND;TZID=America/Los_Angeles:20260808T000000
-DTSTAMP:20260808T045000Z
-UID:197137
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 2\n\nTwo strangers search f
- or love in an ever-so-slightly fictionalized New York on the one night of 
- the year when single people are allowed to have sex.\n\nEstimated start: 2
- 2:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260807T101000
-DTEND;TZID=America/Los_Angeles:20260807T120500
-DTSTAMP:20260807T171000Z
-UID:197565
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 10:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260807T124000
-DTEND;TZID=America/Los_Angeles:20260807T143500
-DTSTAMP:20260807T194000Z
-UID:197566
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 13:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260807T151500
-DTEND;TZID=America/Los_Angeles:20260807T171000
-DTSTAMP:20260807T221500Z
-UID:197567
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 15:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DC (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260807T174500
-DTEND;TZID=America/Los_Angeles:20260807T204500
-DTSTAMP:20260808T004500Z
-UID:197568
-DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 9\n\nRebel Devadas joins fo
- rces with Chandra in a dangerous world where passion and peril collide. Th
- eir turbulent alliance demands bloodshed and tests loyalties as survival b
- ecomes the ultimate stake in their fight.\n\nEstimated start: 18:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DC (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260807T212000
-DTEND;TZID=America/Los_Angeles:20260808T002000
-DTSTAMP:20260808T042000Z
-UID:197569
-DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 9\n\nRebel Devadas joins fo
- rces with Chandra in a dangerous world where passion and peril collide. Th
- eir turbulent alliance demands bloodshed and tests loyalties as survival b
- ecomes the ultimate stake in their fight.\n\nEstimated start: 21:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
+LAST-MODIFIED:20260808T155051Z
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Brand New Day
 DTSTART;TZID=America/Los_Angeles:20260808T084000
@@ -3709,6 +3158,58 @@ DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260814T113000
+DTEND;TZID=America/Los_Angeles:20260814T142000
+DTSTAMP:20260814T183000Z
+UID:197715
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 11:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260814T150000
+DTEND;TZID=America/Los_Angeles:20260814T175000
+DTSTAMP:20260814T220000Z
+UID:197716
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260814T183000
+DTEND;TZID=America/Los_Angeles:20260814T212000
+DTSTAMP:20260815T013000Z
+UID:197717
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260814T220000
+DTEND;TZID=America/Los_Angeles:20260815T005000
+DTSTAMP:20260815T050000Z
+UID:197718
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 22:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The End of Oak Street
 DTSTART;TZID=America/Los_Angeles:20260814T103000
 DTEND;TZID=America/Los_Angeles:20260814T123500
@@ -3865,6 +3366,58 @@ DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260815T113000
+DTEND;TZID=America/Los_Angeles:20260815T142000
+DTSTAMP:20260815T183000Z
+UID:197722
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 11:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260815T150000
+DTEND;TZID=America/Los_Angeles:20260815T175000
+DTSTAMP:20260815T220000Z
+UID:197721
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260815T183000
+DTEND;TZID=America/Los_Angeles:20260815T212000
+DTSTAMP:20260816T013000Z
+UID:197720
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260815T220000
+DTEND;TZID=America/Los_Angeles:20260816T005000
+DTSTAMP:20260816T050000Z
+UID:197719
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 22:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The End of Oak Street
 DTSTART;TZID=America/Los_Angeles:20260815T103000
 DTEND;TZID=America/Los_Angeles:20260815T123500
@@ -4018,6 +3571,58 @@ DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
  d bodies. The total strangers struggle to navigate each other's lives\, wa
  lking tightropes of intimacy and distance. But when they finally resolve t
  o meet\, the t\n\nEstimated start: 22:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260816T104000
+DTEND;TZID=America/Los_Angeles:20260816T133000
+DTSTAMP:20260816T174000Z
+UID:197726
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 11:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260816T140000
+DTEND;TZID=America/Los_Angeles:20260816T165000
+DTSTAMP:20260816T210000Z
+UID:197725
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 14:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260816T173000
+DTEND;TZID=America/Los_Angeles:20260816T202000
+DTSTAMP:20260817T003000Z
+UID:197724
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 17:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260816T210000
+DTEND;TZID=America/Los_Angeles:20260816T235000
+DTSTAMP:20260817T040000Z
+UID:197723
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 21:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4190,6 +3795,45 @@ DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260817T113000
+DTEND;TZID=America/Los_Angeles:20260817T142000
+DTSTAMP:20260817T183000Z
+UID:197727
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 11:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260817T150000
+DTEND;TZID=America/Los_Angeles:20260817T175000
+DTSTAMP:20260817T220000Z
+UID:197728
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260817T183000
+DTEND;TZID=America/Los_Angeles:20260817T212000
+DTSTAMP:20260818T013000Z
+UID:197729
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PAW Patrol: The Dino Movie
 DTSTART;TZID=America/Los_Angeles:20260817T110000
 DTEND;TZID=America/Los_Angeles:20260817T125500
@@ -4308,15 +3952,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260817T220000
-DTEND;TZID=America/Los_Angeles:20260818T000500
-DTSTAMP:20260818T050000Z
+DTSTART;TZID=America/Los_Angeles:20260817T221000
+DTEND;TZID=America/Los_Angeles:20260818T001500
+DTSTAMP:20260818T051000Z
 UID:196722
 DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
  ic event rips Oak Street from suburbia and transports their neighborhood t
  o someplace unknown\, the Platt family soon discovers that their very surv
  ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 22:25
+ izable surr\n\nEstimated start: 22:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4355,6 +3999,45 @@ DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
  d bodies. The total strangers struggle to navigate each other's lives\, wa
  lking tightropes of intimacy and distance. But when they finally resolve t
  o meet\, the t\n\nEstimated start: 22:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260818T113000
+DTEND;TZID=America/Los_Angeles:20260818T142000
+DTSTAMP:20260818T183000Z
+UID:197732
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 11:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260818T150000
+DTEND;TZID=America/Los_Angeles:20260818T175000
+DTSTAMP:20260818T220000Z
+UID:197731
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260818T183000
+DTEND;TZID=America/Los_Angeles:20260818T212000
+DTSTAMP:20260819T013000Z
+UID:197730
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 18:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4476,15 +4159,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260818T220000
-DTEND;TZID=America/Los_Angeles:20260819T000500
-DTSTAMP:20260819T050000Z
+DTSTART;TZID=America/Los_Angeles:20260818T221000
+DTEND;TZID=America/Los_Angeles:20260819T001500
+DTSTAMP:20260819T051000Z
 UID:196735
 DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
  ic event rips Oak Street from suburbia and transports their neighborhood t
  o someplace unknown\, the Platt family soon discovers that their very surv
  ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 22:25
+ izable surr\n\nEstimated start: 22:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4524,6 +4207,45 @@ DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
  d bodies. The total strangers struggle to navigate each other's lives\, wa
  lking tightropes of intimacy and distance. But when they finally resolve t
  o meet\, the t\n\nEstimated start: 22:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260819T113000
+DTEND;TZID=America/Los_Angeles:20260819T142000
+DTSTAMP:20260819T183000Z
+UID:197735
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 11:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260819T150000
+DTEND;TZID=America/Los_Angeles:20260819T175000
+DTSTAMP:20260819T220000Z
+UID:197734
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260819T183000
+DTEND;TZID=America/Los_Angeles:20260819T212000
+DTSTAMP:20260820T013000Z
+UID:197733
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 18:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4645,15 +4367,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260819T220000
-DTEND;TZID=America/Los_Angeles:20260820T000500
-DTSTAMP:20260820T050000Z
+DTSTART;TZID=America/Los_Angeles:20260819T221000
+DTEND;TZID=America/Los_Angeles:20260820T001500
+DTSTAMP:20260820T051000Z
 UID:196745
 DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
  ic event rips Oak Street from suburbia and transports their neighborhood t
  o someplace unknown\, the Platt family soon discovers that their very surv
  ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 22:25
+ izable surr\n\nEstimated start: 22:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4693,6 +4415,45 @@ DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
  d bodies. The total strangers struggle to navigate each other's lives\, wa
  lking tightropes of intimacy and distance. But when they finally resolve t
  o meet\, the t\n\nEstimated start: 22:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260820T113000
+DTEND;TZID=America/Los_Angeles:20260820T142000
+DTSTAMP:20260820T183000Z
+UID:197738
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 11:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260820T150000
+DTEND;TZID=America/Los_Angeles:20260820T175000
+DTSTAMP:20260820T220000Z
+UID:197737
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260820T183000
+DTEND;TZID=America/Los_Angeles:20260820T212000
+DTSTAMP:20260821T013000Z
+UID:197736
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 18:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4736,15 +4497,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260820T183000
-DTEND;TZID=America/Los_Angeles:20260820T202500
-DTSTAMP:20260821T013000Z
+DTSTART;TZID=America/Los_Angeles:20260820T182500
+DTEND;TZID=America/Los_Angeles:20260820T202000
+DTSTAMP:20260821T012500Z
 UID:196752
 DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
  aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
  opical island filled with dinosaurs. They meet Rex\, a pup who has been st
  randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 18:55
+ -related. Wh\n\nEstimated start: 18:50
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4814,15 +4575,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260820T215000
-DTEND;TZID=America/Los_Angeles:20260820T235500
-DTSTAMP:20260821T045000Z
+DTSTART;TZID=America/Los_Angeles:20260820T214500
+DTEND;TZID=America/Los_Angeles:20260820T235000
+DTSTAMP:20260821T044500Z
 UID:196755
 DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
  ic event rips Oak Street from suburbia and transports their neighborhood t
  o someplace unknown\, the Platt family soon discovers that their very surv
  ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 22:15
+ izable surr\n\nEstimated start: 22:10
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4866,15 +4627,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260820T220000
-DTEND;TZID=America/Los_Angeles:20260821T001500
-DTSTAMP:20260821T050000Z
+DTSTART;TZID=America/Los_Angeles:20260820T220500
+DTEND;TZID=America/Los_Angeles:20260821T002000
+DTSTAMP:20260821T050500Z
 UID:197415
 DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
  0 million at the global box office\, the Insidious  franchise returns with
   a new family and a terror that redefines what  The Further is capable of.
   In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 22:25
+ other raising\n\nEstimated start: 22:30
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4905,15 +4666,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mutiny
-DTSTART;TZID=America/Los_Angeles:20260820T221000
-DTEND;TZID=America/Los_Angeles:20260821T001000
-DTSTAMP:20260821T051000Z
+DTSTART;TZID=America/Los_Angeles:20260820T221500
+DTEND;TZID=America/Los_Angeles:20260821T001500
+DTSTAMP:20260821T051500Z
 UID:197411
 DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
  ssing his billionaire boss's murder and being framed for the crime\, Cole 
  Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
  s boss' death only to discover an international conspiracy.\n\nEstimated s
- tart: 22:35
+ tart: 22:40
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7115,6 +6876,19 @@ DESCRIPTION:Duration: 141 mins (2h21m)\nScreen 2\n\nFrom the legendary Stu
  ic masterpiece that has dazzled audiences worldwide with its breathtaking 
  imagination\, exhilarating battles\, and deep humanity.\nInflicted with a 
  deadly curse\, t\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Op: Cosi fan tutte
+DTSTART;TZID=America/Los_Angeles:20261003T100000
+DTEND;TZID=America/Los_Angeles:20261003T142500
+DTSTAMP:20261003T170000Z
+UID:196384
+DESCRIPTION:Duration: 237 mins (3h57m)\nScreen 4\n\nThe Met: Live in HD se
+ ason continues with Mozart's satirical comedy of fickle young love. Phelim
+  McDermott's "colorful\, inventive" (The New York Times) staging\, inspire
+ d by Coney Island in the 1950s\, sets the uproarious story at a boardwalk 
+ amusement park\n\nEstimated start: 10:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 END:VCALENDAR
