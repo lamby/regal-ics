@@ -3,529 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Regal Bella Bottega
 X-WR-CALNAME:Cinema 🇺🇸 Regal Bella Bottega
-LAST-MODIFIED:20260812T145956Z
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T103000
-DTEND;TZID=America/Los_Angeles:20260812T132000
-DTSTAMP:20260812T173000Z
-UID:197693
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 11\n\nIt's a BRAND NEW DAY 
- for Peter Parker. Fighting crime full-time as Spider-Man in a world that d
- oesn't remember him -- and the pressure of seeing his old friends move on 
- without him -- sparks a change in Peter he may not have the power to contr
- ol. But that\n\nEstimated start: 10:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T122500
-DTEND;TZID=America/Los_Angeles:20260812T151500
-DTSTAMP:20260812T192500Z
-UID:197696
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 12:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T130500
-DTEND;TZID=America/Los_Angeles:20260812T155500
-DTSTAMP:20260812T200500Z
-UID:197708
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 13:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T135500
-DTEND;TZID=America/Los_Angeles:20260812T164500
-DTSTAMP:20260812T205500Z
-UID:197699
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 4\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 14:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T143000
-DTEND;TZID=America/Los_Angeles:20260812T172000
-DTSTAMP:20260812T213000Z
-UID:197709
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 2\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 14:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T150000
-DTEND;TZID=America/Los_Angeles:20260812T175000
-DTSTAMP:20260812T220000Z
-UID:197692
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 15:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T153000
-DTEND;TZID=America/Los_Angeles:20260812T182000
-DTSTAMP:20260812T223000Z
-UID:195186
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 15:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T160000
-DTEND;TZID=America/Los_Angeles:20260812T185000
-DTSTAMP:20260812T230000Z
-UID:197695
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T163000
-DTEND;TZID=America/Los_Angeles:20260812T192000
-DTSTAMP:20260812T233000Z
-UID:197707
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T173000
-DTEND;TZID=America/Los_Angeles:20260812T202000
-DTSTAMP:20260813T003000Z
-UID:197700
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 4\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 17:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T180000
-DTEND;TZID=America/Los_Angeles:20260812T205000
-DTSTAMP:20260813T010000Z
-UID:197711
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 2\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 18:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T183000
-DTEND;TZID=America/Los_Angeles:20260812T212000
-DTSTAMP:20260813T013000Z
-UID:197694
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 18:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T190000
-DTEND;TZID=America/Los_Angeles:20260812T215000
-DTSTAMP:20260813T020000Z
-UID:195187
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T193000
-DTEND;TZID=America/Los_Angeles:20260812T222000
-DTSTAMP:20260813T023000Z
-UID:197698
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T200000
-DTEND;TZID=America/Los_Angeles:20260812T225000
-DTSTAMP:20260813T030000Z
-UID:197706
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 20:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T210000
-DTEND;TZID=America/Los_Angeles:20260812T235000
-DTSTAMP:20260813T040000Z
-UID:197701
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 4\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 21:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T220000
-DTEND;TZID=America/Los_Angeles:20260813T005000
-DTSTAMP:20260813T050000Z
-UID:197691
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 22:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260812T223000
-DTEND;TZID=America/Los_Angeles:20260813T012000
-DTSTAMP:20260813T053000Z
-UID:195188
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 22:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260812T103500
-DTEND;TZID=America/Los_Angeles:20260812T135500
-DTSTAMP:20260812T173500Z
-UID:197705
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 11:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260812T142500
-DTEND;TZID=America/Los_Angeles:20260812T174500
-DTSTAMP:20260812T212500Z
-UID:197704
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 14:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260812T181500
-DTEND;TZID=America/Los_Angeles:20260812T213500
-DTSTAMP:20260813T011500Z
-UID:197703
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 18:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260812T221000
-DTEND;TZID=America/Los_Angeles:20260813T013000
-DTSTAMP:20260813T051000Z
-UID:197702
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 22:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260812T113500
-DTEND;TZID=America/Los_Angeles:20260812T134500
-DTSTAMP:20260812T183500Z
-UID:195797
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 12:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260812T142000
-DTEND;TZID=America/Los_Angeles:20260812T163000
-DTSTAMP:20260812T212000Z
-UID:195798
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 14:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260812T170000
-DTEND;TZID=America/Los_Angeles:20260812T191000
-DTSTAMP:20260813T000000Z
-UID:195799
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 17:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260812T194000
-DTEND;TZID=America/Los_Angeles:20260812T215000
-DTSTAMP:20260813T024000Z
-UID:195800
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 20:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260812T222000
-DTEND;TZID=America/Los_Angeles:20260813T003000
-DTSTAMP:20260813T052000Z
-UID:195801
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 22:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260812T140000
-DTEND;TZID=America/Los_Angeles:20260812T161000
-DTSTAMP:20260812T210000Z
-UID:197164
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 14:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260812T164000
-DTEND;TZID=America/Los_Angeles:20260812T185000
-DTSTAMP:20260812T234000Z
-UID:197165
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 17:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260812T191500
-DTEND;TZID=America/Los_Angeles:20260812T212500
-DTSTAMP:20260813T021500Z
-UID:197166
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 19:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260812T215000
-DTEND;TZID=America/Los_Angeles:20260813T000000
-DTSTAMP:20260813T045000Z
-UID:197167
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 22:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260812T104000
-DTEND;TZID=America/Los_Angeles:20260812T123500
-DTSTAMP:20260812T174000Z
-UID:197690
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 11:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260812T130000
-DTEND;TZID=America/Los_Angeles:20260812T145500
-DTSTAMP:20260812T200000Z
-UID:197689
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 13:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260812T152000
-DTEND;TZID=America/Los_Angeles:20260812T171500
-DTSTAMP:20260812T222000Z
-UID:197688
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 15:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sandlot
-DTSTART;TZID=America/Los_Angeles:20260812T110000
-DTEND;TZID=America/Los_Angeles:20260812T131000
-DTSTAMP:20260812T180000Z
-UID:192643
-DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 4\n\nIn the summer of 1962\
- , a new kid in town is taken under the wing of a young baseball prodigy an
- d his rowdy team\, resulting in many adventures.\n\nEstimated start: 11:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Muppet Treasure Island
-DTSTART;TZID=America/Los_Angeles:20260812T110000
-DTEND;TZID=America/Los_Angeles:20260812T130500
-DTSTAMP:20260812T180000Z
-UID:192642
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 2\n\nA reworking of Robert L
- ouis Stevenson's classic tale in which the Muppets take to the high seas i
- n search of buried treasure. Young Jim Hawkins is given a treasure map by 
- a mysterious sailor and sets sail with his friends the Great Gonzo and Riz
- zo the Rat\n\nEstimated start: 11:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day (Subbed)
-DTSTART;TZID=America/Los_Angeles:20260812T114500
-DTEND;TZID=America/Los_Angeles:20260812T143500
-DTSTAMP:20260812T184500Z
-UID:195185
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nAfter the record-break
- ing global success of Spider-Man: No Way Home\, Spider-Man: Brand New Day 
- marks an entirely new chapter for Peter Parker and Spider-Man. Four years 
- have passed since the events of No Way Home\, and Peter is now an adult li
- ving entirely\n\nEstimated start: 12:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day (Subbed)
-DTSTART;TZID=America/Los_Angeles:20260812T213000
-DTEND;TZID=America/Los_Angeles:20260813T002000
-DTSTAMP:20260813T043000Z
-UID:197710
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 2\n\nAfter the record-break
- ing global success of Spider-Man: No Way Home\, Spider-Man: Brand New Day 
- marks an entirely new chapter for Peter Parker and Spider-Man. Four years 
- have passed since the events of No Way Home\, and Peter is now an adult li
- ving entirely\n\nEstimated start: 21:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only (Subbed)
-DTSTART;TZID=America/Los_Angeles:20260812T121000
-DTEND;TZID=America/Los_Angeles:20260812T142000
-DTSTAMP:20260812T191000Z
-UID:197163
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 8\n\nPlot unknown\n\nEstima
- ted start: 12:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DC (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260812T174000
-DTEND;TZID=America/Los_Angeles:20260812T204000
-DTSTAMP:20260813T004000Z
-UID:197687
-DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 9\n\nRebel Devadas joins fo
- rces with Chandra in a dangerous world where passion and peril collide. Th
- eir turbulent alliance demands bloodshed and tests loyalties as survival b
- ecomes the ultimate stake in their fight.\n\nEstimated start: 18:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DC (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260812T212000
-DTEND;TZID=America/Los_Angeles:20260813T002000
-DTSTAMP:20260813T042000Z
-UID:197686
-DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 9\n\nRebel Devadas joins fo
- rces with Chandra in a dangerous world where passion and peril collide. Th
- eir turbulent alliance demands bloodshed and tests loyalties as survival b
- ecomes the ultimate stake in their fight.\n\nEstimated start: 21:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
+LAST-MODIFIED:20260813T145243Z
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Brand New Day
 DTSTART;TZID=America/Los_Angeles:20260813T114500
@@ -683,233 +161,6 @@ DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 11\n\nChristopher Nolan's n
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260813T113500
-DTEND;TZID=America/Los_Angeles:20260813T134500
-DTSTAMP:20260813T183500Z
-UID:195803
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 12:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260813T142000
-DTEND;TZID=America/Los_Angeles:20260813T163000
-DTSTAMP:20260813T212000Z
-UID:195804
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 14:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260813T171000
-DTEND;TZID=America/Los_Angeles:20260813T192000
-DTSTAMP:20260814T001000Z
-UID:195805
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 17:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260813T195000
-DTEND;TZID=America/Los_Angeles:20260813T220000
-DTSTAMP:20260814T025000Z
-UID:195806
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 20:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260813T223500
-DTEND;TZID=America/Los_Angeles:20260814T004500
-DTSTAMP:20260814T053500Z
-UID:195807
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 23:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260813T112000
-DTEND;TZID=America/Los_Angeles:20260813T133000
-DTSTAMP:20260813T182000Z
-UID:197172
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 11:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260813T140500
-DTEND;TZID=America/Los_Angeles:20260813T161500
-DTSTAMP:20260813T210500Z
-UID:197171
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 14:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260813T164000
-DTEND;TZID=America/Los_Angeles:20260813T185000
-DTSTAMP:20260813T234000Z
-UID:197170
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 17:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260813T191500
-DTEND;TZID=America/Los_Angeles:20260813T212500
-DTSTAMP:20260814T021500Z
-UID:197169
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 19:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260813T221000
-DTEND;TZID=America/Los_Angeles:20260814T002000
-DTSTAMP:20260814T051000Z
-UID:197168
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 3\n\nTwo strangers search f
- or love in an ever-so-slightly fictionalized New York on the one night of 
- the year when single people are allowed to have sex.\n\nEstimated start: 2
- 2:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260813T115500
-DTEND;TZID=America/Los_Angeles:20260813T135000
-DTSTAMP:20260813T185500Z
-UID:197930
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 12:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260813T141500
-DTEND;TZID=America/Los_Angeles:20260813T161000
-DTSTAMP:20260813T211500Z
-UID:197931
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 14:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sandlot
-DTSTART;TZID=America/Los_Angeles:20260813T110000
-DTEND;TZID=America/Los_Angeles:20260813T131000
-DTSTAMP:20260813T180000Z
-UID:192645
-DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 4\n\nIn the summer of 1962\
- , a new kid in town is taken under the wing of a young baseball prodigy an
- d his rowdy team\, resulting in many adventures.\n\nEstimated start: 11:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Muppet Treasure Island
-DTSTART;TZID=America/Los_Angeles:20260813T110000
-DTEND;TZID=America/Los_Angeles:20260813T130500
-DTSTAMP:20260813T180000Z
-UID:192644
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 2\n\nA reworking of Robert L
- ouis Stevenson's classic tale in which the Muppets take to the high seas i
- n search of buried treasure. Young Jim Hawkins is given a treasure map by 
- a mysterious sailor and sets sail with his friends the Great Gonzo and Riz
- zo the Rat\n\nEstimated start: 11:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260813T120500
-DTEND;TZID=America/Los_Angeles:20260813T143000
-DTSTAMP:20260813T190500Z
-UID:197982
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 8\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 12:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260813T151000
-DTEND;TZID=America/Los_Angeles:20260813T173500
-DTSTAMP:20260813T221000Z
-UID:197983
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 8\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 15:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260813T183000
-DTEND;TZID=America/Los_Angeles:20260813T205500
-DTSTAMP:20260814T013000Z
-UID:197984
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 8\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 18:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260813T213000
-DTEND;TZID=America/Los_Angeles:20260813T235500
-DTSTAMP:20260814T043000Z
-UID:197985
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 8\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 21:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PAW Patrol: The Dino Movie
 DTSTART;TZID=America/Los_Angeles:20260813T140000
 DTEND;TZID=America/Los_Angeles:20260813T155500
@@ -1014,6 +265,209 @@ DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Brink of War
+DTSTART;TZID=America/Los_Angeles:20260813T120500
+DTEND;TZID=America/Los_Angeles:20260813T143000
+DTSTAMP:20260813T190500Z
+UID:197982
+DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 8\n\nPresident Reagan races
+  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
+ could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
+ g from advisors\, intelligence agencies\, and history itself\, every word 
+ spoken brings\n\nEstimated start: 12:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brink of War
+DTSTART;TZID=America/Los_Angeles:20260813T151000
+DTEND;TZID=America/Los_Angeles:20260813T173500
+DTSTAMP:20260813T221000Z
+UID:197983
+DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 8\n\nPresident Reagan races
+  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
+ could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
+ g from advisors\, intelligence agencies\, and history itself\, every word 
+ spoken brings\n\nEstimated start: 15:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brink of War
+DTSTART;TZID=America/Los_Angeles:20260813T183000
+DTEND;TZID=America/Los_Angeles:20260813T205500
+DTSTAMP:20260814T013000Z
+UID:197984
+DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 8\n\nPresident Reagan races
+  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
+ could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
+ g from advisors\, intelligence agencies\, and history itself\, every word 
+ spoken brings\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brink of War
+DTSTART;TZID=America/Los_Angeles:20260813T213000
+DTEND;TZID=America/Los_Angeles:20260813T235500
+DTSTAMP:20260814T043000Z
+UID:197985
+DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 8\n\nPresident Reagan races
+  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
+ could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
+ g from advisors\, intelligence agencies\, and history itself\, every word 
+ spoken brings\n\nEstimated start: 21:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260813T112000
+DTEND;TZID=America/Los_Angeles:20260813T133000
+DTSTAMP:20260813T182000Z
+UID:197172
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
+ for love in an ever-so-slightly fictionalized New York on the one night of
+  the year when single people are allowed to have sex.\n\nEstimated start: 
+ 11:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260813T140500
+DTEND;TZID=America/Los_Angeles:20260813T161500
+DTSTAMP:20260813T210500Z
+UID:197171
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
+ for love in an ever-so-slightly fictionalized New York on the one night of
+  the year when single people are allowed to have sex.\n\nEstimated start: 
+ 14:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260813T164000
+DTEND;TZID=America/Los_Angeles:20260813T185000
+DTSTAMP:20260813T234000Z
+UID:197170
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
+ for love in an ever-so-slightly fictionalized New York on the one night of
+  the year when single people are allowed to have sex.\n\nEstimated start: 
+ 17:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260813T191500
+DTEND;TZID=America/Los_Angeles:20260813T212500
+DTSTAMP:20260814T021500Z
+UID:197169
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
+ for love in an ever-so-slightly fictionalized New York on the one night of
+  the year when single people are allowed to have sex.\n\nEstimated start: 
+ 19:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260813T221000
+DTEND;TZID=America/Los_Angeles:20260814T002000
+DTSTAMP:20260814T051000Z
+UID:197168
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 3\n\nTwo strangers search f
+ or love in an ever-so-slightly fictionalized New York on the one night of 
+ the year when single people are allowed to have sex.\n\nEstimated start: 2
+ 2:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART;TZID=America/Los_Angeles:20260813T115500
+DTEND;TZID=America/Los_Angeles:20260813T135000
+DTSTAMP:20260813T185500Z
+UID:197930
+DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
+  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
+ Illumination expands its joyful animated universe with a riotous new chapt
+ er\, featuring all-new characters\, in the biggest global animated franchi
+ se in history:\n\nEstimated start: 12:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART;TZID=America/Los_Angeles:20260813T141500
+DTEND;TZID=America/Los_Angeles:20260813T161000
+DTSTAMP:20260813T211500Z
+UID:197931
+DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
+  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
+ Illumination expands its joyful animated universe with a riotous new chapt
+ er\, featuring all-new characters\, in the biggest global animated franchi
+ se in history:\n\nEstimated start: 14:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260813T113500
+DTEND;TZID=America/Los_Angeles:20260813T134500
+DTSTAMP:20260813T183500Z
+UID:195803
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 12:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260813T142000
+DTEND;TZID=America/Los_Angeles:20260813T163000
+DTSTAMP:20260813T212000Z
+UID:195804
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 14:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260813T171000
+DTEND;TZID=America/Los_Angeles:20260813T192000
+DTSTAMP:20260814T001000Z
+UID:195805
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 17:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260813T195000
+DTEND;TZID=America/Los_Angeles:20260813T220000
+DTSTAMP:20260814T025000Z
+UID:195806
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 20:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260813T223500
+DTEND;TZID=America/Los_Angeles:20260814T004500
+DTSTAMP:20260814T053500Z
+UID:195807
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 23:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Your Name.
 DTSTART;TZID=America/Los_Angeles:20260813T170000
 DTEND;TZID=America/Los_Angeles:20260813T191500
@@ -1050,6 +504,30 @@ DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
  d bodies. The total strangers struggle to navigate each other's lives\, wa
  lking tightropes of intimacy and distance. But when they finally resolve t
  o meet\, the t\n\nEstimated start: 22:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sandlot
+DTSTART;TZID=America/Los_Angeles:20260813T110000
+DTEND;TZID=America/Los_Angeles:20260813T131000
+DTSTAMP:20260813T180000Z
+UID:192645
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 4\n\nIn the summer of 1962\
+ , a new kid in town is taken under the wing of a young baseball prodigy an
+ d his rowdy team\, resulting in many adventures.\n\nEstimated start: 11:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Muppet Treasure Island
+DTSTART;TZID=America/Los_Angeles:20260813T110000
+DTEND;TZID=America/Los_Angeles:20260813T130500
+DTSTAMP:20260813T180000Z
+UID:192644
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 2\n\nA reworking of Robert L
+ ouis Stevenson's classic tale in which the Muppets take to the high seas i
+ n search of buried treasure. Young Jim Hawkins is given a treasure map by 
+ a mysterious sailor and sets sail with his friends the Great Gonzo and Riz
+ zo the Rat\n\nEstimated start: 11:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1235,115 +713,68 @@ DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 4\n\nChristopher Nolan's ne
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260814T193000
-DTEND;TZID=America/Los_Angeles:20260814T214000
-DTSTAMP:20260815T023000Z
-UID:197971
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 19:55
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260814T110000
+DTEND;TZID=America/Los_Angeles:20260814T125500
+DTSTAMP:20260814T180000Z
+UID:196689
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 11:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260814T105500
-DTEND;TZID=America/Los_Angeles:20260814T130500
-DTSTAMP:20260814T175500Z
-UID:197953
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 1\n\nTwo strangers search f
- or love in an ever-so-slightly fictionalized New York on the one night of 
- the year when single people are allowed to have sex.\n\nEstimated start: 1
- 1:20
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260814T133000
+DTEND;TZID=America/Los_Angeles:20260814T152500
+DTSTAMP:20260814T203000Z
+UID:196690
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 13:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260814T135500
-DTEND;TZID=America/Los_Angeles:20260814T160500
-DTSTAMP:20260814T205500Z
-UID:197968
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 14:20
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260814T160000
+DTEND;TZID=America/Los_Angeles:20260814T175500
+DTSTAMP:20260814T230000Z
+UID:196691
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 16:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260814T164000
-DTEND;TZID=America/Los_Angeles:20260814T185000
-DTSTAMP:20260814T234000Z
-UID:197970
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 17:05
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260814T183500
+DTEND;TZID=America/Los_Angeles:20260814T203000
+DTSTAMP:20260815T013500Z
+UID:196692
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 19:00
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260814T192000
-DTEND;TZID=America/Los_Angeles:20260814T213000
-DTSTAMP:20260815T022000Z
-UID:197972
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260814T220500
-DTEND;TZID=America/Los_Angeles:20260815T001500
-DTSTAMP:20260815T050500Z
-UID:197973
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 22:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260814T114000
-DTEND;TZID=America/Los_Angeles:20260814T133500
-DTSTAMP:20260814T184000Z
-UID:197948
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 12:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260814T140500
-DTEND;TZID=America/Los_Angeles:20260814T160000
-DTSTAMP:20260814T210500Z
-UID:197947
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 14:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260814T165000
-DTEND;TZID=America/Los_Angeles:20260814T184500
-DTSTAMP:20260814T235000Z
-UID:197946
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 17:15
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260814T210000
+DTEND;TZID=America/Los_Angeles:20260814T225500
+DTSTAMP:20260815T040000Z
+UID:196693
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 21:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1451,6 +882,144 @@ DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 7\n\nPresident Reagan races
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260814T105500
+DTEND;TZID=America/Los_Angeles:20260814T130500
+DTSTAMP:20260814T175500Z
+UID:197953
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 1\n\nTwo strangers search f
+ or love in an ever-so-slightly fictionalized New York on the one night of 
+ the year when single people are allowed to have sex.\n\nEstimated start: 1
+ 1:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260814T135500
+DTEND;TZID=America/Los_Angeles:20260814T160500
+DTSTAMP:20260814T205500Z
+UID:197968
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
+ for love in an ever-so-slightly fictionalized New York on the one night of
+  the year when single people are allowed to have sex.\n\nEstimated start: 
+ 14:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260814T164000
+DTEND;TZID=America/Los_Angeles:20260814T185000
+DTSTAMP:20260814T234000Z
+UID:197970
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
+ for love in an ever-so-slightly fictionalized New York on the one night of
+  the year when single people are allowed to have sex.\n\nEstimated start: 
+ 17:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260814T192000
+DTEND;TZID=America/Los_Angeles:20260814T213000
+DTSTAMP:20260815T022000Z
+UID:197972
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
+ for love in an ever-so-slightly fictionalized New York on the one night of
+  the year when single people are allowed to have sex.\n\nEstimated start: 
+ 19:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260814T220500
+DTEND;TZID=America/Los_Angeles:20260815T001500
+DTSTAMP:20260815T050500Z
+UID:197973
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
+ for love in an ever-so-slightly fictionalized New York on the one night of
+  the year when single people are allowed to have sex.\n\nEstimated start: 
+ 22:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART;TZID=America/Los_Angeles:20260814T114000
+DTEND;TZID=America/Los_Angeles:20260814T133500
+DTSTAMP:20260814T184000Z
+UID:197948
+DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
+  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
+ Illumination expands its joyful animated universe with a riotous new chapt
+ er\, featuring all-new characters\, in the biggest global animated franchi
+ se in history:\n\nEstimated start: 12:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART;TZID=America/Los_Angeles:20260814T140500
+DTEND;TZID=America/Los_Angeles:20260814T160000
+DTSTAMP:20260814T210500Z
+UID:197947
+DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
+  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
+ Illumination expands its joyful animated universe with a riotous new chapt
+ er\, featuring all-new characters\, in the biggest global animated franchi
+ se in history:\n\nEstimated start: 14:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART;TZID=America/Los_Angeles:20260814T165000
+DTEND;TZID=America/Los_Angeles:20260814T184500
+DTSTAMP:20260814T235000Z
+UID:197946
+DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
+  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
+ Illumination expands its joyful animated universe with a riotous new chapt
+ er\, featuring all-new characters\, in the biggest global animated franchi
+ se in history:\n\nEstimated start: 17:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260814T193000
+DTEND;TZID=America/Los_Angeles:20260814T214000
+DTSTAMP:20260815T023000Z
+UID:197971
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260814T191000
+DTEND;TZID=America/Los_Angeles:20260814T212500
+DTSTAMP:20260815T021000Z
+UID:197219
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260814T215000
+DTEND;TZID=America/Los_Angeles:20260815T000500
+DTSTAMP:20260815T045000Z
+UID:197220
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 22:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vishwanath & Sons (Tamil)
 DTSTART;TZID=America/Los_Angeles:20260814T105000
 DTEND;TZID=America/Los_Angeles:20260814T135500
@@ -1474,71 +1043,6 @@ DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nSanjay Vishwanath has
  ly responsibilities\, and an unexpected romance collide with his ambitions
  \, he is forced to confront what truly makes a life worth living.\n\nEstim
  ated start: 18:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260814T110000
-DTEND;TZID=America/Los_Angeles:20260814T125500
-DTSTAMP:20260814T180000Z
-UID:196689
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 11:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260814T133000
-DTEND;TZID=America/Los_Angeles:20260814T152500
-DTSTAMP:20260814T203000Z
-UID:196690
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 13:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260814T160000
-DTEND;TZID=America/Los_Angeles:20260814T175500
-DTSTAMP:20260814T230000Z
-UID:196691
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260814T183500
-DTEND;TZID=America/Los_Angeles:20260814T203000
-DTSTAMP:20260815T013500Z
-UID:196692
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 19:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260814T210000
-DTEND;TZID=America/Los_Angeles:20260814T225500
-DTSTAMP:20260815T040000Z
-UID:196693
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 21:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1580,10 +1084,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Batwara 1947
 DTSTART;TZID=America/Los_Angeles:20260814T144000
-DTEND;TZID=America/Los_Angeles:20260814T173000
+DTEND;TZID=America/Los_Angeles:20260814T174000
 DTSTAMP:20260814T214000Z
 UID:197988
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nSet against the backdr
+DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
  op of one of history's most turbulent chapters\, Batwara 1947 tells the st
  ory of a man who chose courage in times of hatred and fear. \n\nDirected b
  y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
@@ -1593,40 +1097,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Batwara 1947
 DTSTART;TZID=America/Los_Angeles:20260814T213000
-DTEND;TZID=America/Los_Angeles:20260815T002000
+DTEND;TZID=America/Los_Angeles:20260815T003000
 DTSTAMP:20260815T043000Z
 UID:197990
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nSet against the backdr
+DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
  op of one of history's most turbulent chapters\, Batwara 1947 tells the st
  ory of a man who chose courage in times of hatred and fear. \n\nDirected b
  y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
  s the much-await\n\nEstimated start: 21:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260814T191000
-DTEND;TZID=America/Los_Angeles:20260814T212500
-DTSTAMP:20260815T021000Z
-UID:197219
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260814T215000
-DTEND;TZID=America/Los_Angeles:20260815T000500
-DTSTAMP:20260815T045000Z
-UID:197220
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 22:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1799,103 +1277,68 @@ DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 4\n\nChristopher Nolan's ne
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260815T193000
-DTEND;TZID=America/Los_Angeles:20260815T214000
-DTSTAMP:20260816T023000Z
-UID:198007
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 19:55
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260815T110000
+DTEND;TZID=America/Los_Angeles:20260815T125500
+DTSTAMP:20260815T180000Z
+UID:196700
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 11:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260815T222000
-DTEND;TZID=America/Los_Angeles:20260816T003000
-DTSTAMP:20260816T052000Z
-UID:198005
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 22:45
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260815T133000
+DTEND;TZID=America/Los_Angeles:20260815T152500
+DTSTAMP:20260815T203000Z
+UID:196708
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 13:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260815T105500
-DTEND;TZID=America/Los_Angeles:20260815T130500
-DTSTAMP:20260815T175500Z
-UID:198012
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 1\n\nTwo strangers search f
- or love in an ever-so-slightly fictionalized New York on the one night of 
- the year when single people are allowed to have sex.\n\nEstimated start: 1
- 1:20
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260815T160000
+DTEND;TZID=America/Los_Angeles:20260815T175500
+DTSTAMP:20260815T230000Z
+UID:196706
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 16:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260815T135500
-DTEND;TZID=America/Los_Angeles:20260815T160500
-DTSTAMP:20260815T205500Z
-UID:198011
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 14:20
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260815T183500
+DTEND;TZID=America/Los_Angeles:20260815T203000
+DTSTAMP:20260816T013500Z
+UID:196705
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 19:00
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260815T192000
-DTEND;TZID=America/Los_Angeles:20260815T213000
-DTSTAMP:20260816T022000Z
-UID:198014
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260815T220500
-DTEND;TZID=America/Los_Angeles:20260816T001500
-DTSTAMP:20260816T050500Z
-UID:198015
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 22:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260815T140500
-DTEND;TZID=America/Los_Angeles:20260815T160000
-DTSTAMP:20260815T210500Z
-UID:198009
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 14:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260815T165000
-DTEND;TZID=America/Los_Angeles:20260815T184500
-DTSTAMP:20260815T235000Z
-UID:198010
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 17:15
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260815T210000
+DTEND;TZID=America/Los_Angeles:20260815T225500
+DTSTAMP:20260816T040000Z
+UID:196703
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 21:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2003,6 +1446,132 @@ DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 7\n\nPresident Reagan races
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260815T105500
+DTEND;TZID=America/Los_Angeles:20260815T130500
+DTSTAMP:20260815T175500Z
+UID:198012
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 1\n\nTwo strangers search f
+ or love in an ever-so-slightly fictionalized New York on the one night of 
+ the year when single people are allowed to have sex.\n\nEstimated start: 1
+ 1:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260815T135500
+DTEND;TZID=America/Los_Angeles:20260815T160500
+DTSTAMP:20260815T205500Z
+UID:198011
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
+ for love in an ever-so-slightly fictionalized New York on the one night of
+  the year when single people are allowed to have sex.\n\nEstimated start: 
+ 14:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260815T192000
+DTEND;TZID=America/Los_Angeles:20260815T213000
+DTSTAMP:20260816T022000Z
+UID:198014
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
+ for love in an ever-so-slightly fictionalized New York on the one night of
+  the year when single people are allowed to have sex.\n\nEstimated start: 
+ 19:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260815T220500
+DTEND;TZID=America/Los_Angeles:20260816T001500
+DTSTAMP:20260816T050500Z
+UID:198015
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
+ for love in an ever-so-slightly fictionalized New York on the one night of
+  the year when single people are allowed to have sex.\n\nEstimated start: 
+ 22:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART;TZID=America/Los_Angeles:20260815T140500
+DTEND;TZID=America/Los_Angeles:20260815T160000
+DTSTAMP:20260815T210500Z
+UID:198009
+DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
+  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
+ Illumination expands its joyful animated universe with a riotous new chapt
+ er\, featuring all-new characters\, in the biggest global animated franchi
+ se in history:\n\nEstimated start: 14:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART;TZID=America/Los_Angeles:20260815T165000
+DTEND;TZID=America/Los_Angeles:20260815T184500
+DTSTAMP:20260815T235000Z
+UID:198010
+DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
+  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
+ Illumination expands its joyful animated universe with a riotous new chapt
+ er\, featuring all-new characters\, in the biggest global animated franchi
+ se in history:\n\nEstimated start: 17:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260815T193000
+DTEND;TZID=America/Los_Angeles:20260815T214000
+DTSTAMP:20260816T023000Z
+UID:198007
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260815T222000
+DTEND;TZID=America/Los_Angeles:20260816T003000
+DTSTAMP:20260816T052000Z
+UID:198005
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 22:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260815T191000
+DTEND;TZID=America/Los_Angeles:20260815T212500
+DTSTAMP:20260816T021000Z
+UID:197222
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260815T215000
+DTEND;TZID=America/Los_Angeles:20260816T000500
+DTSTAMP:20260816T045000Z
+UID:197221
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 22:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Vishwanath & Sons (Tamil)
 DTSTART;TZID=America/Los_Angeles:20260815T105000
 DTEND;TZID=America/Los_Angeles:20260815T135500
@@ -2026,71 +1595,6 @@ DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nSanjay Vishwanath has
  ly responsibilities\, and an unexpected romance collide with his ambitions
  \, he is forced to confront what truly makes a life worth living.\n\nEstim
  ated start: 18:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260815T110000
-DTEND;TZID=America/Los_Angeles:20260815T125500
-DTSTAMP:20260815T180000Z
-UID:196700
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 11:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260815T133000
-DTEND;TZID=America/Los_Angeles:20260815T152500
-DTSTAMP:20260815T203000Z
-UID:196708
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 13:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260815T160000
-DTEND;TZID=America/Los_Angeles:20260815T175500
-DTSTAMP:20260815T230000Z
-UID:196706
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260815T183500
-DTEND;TZID=America/Los_Angeles:20260815T203000
-DTSTAMP:20260816T013500Z
-UID:196705
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 19:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260815T210000
-DTEND;TZID=America/Los_Angeles:20260815T225500
-DTSTAMP:20260816T040000Z
-UID:196703
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 21:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2142,10 +1646,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Batwara 1947
 DTSTART;TZID=America/Los_Angeles:20260815T144000
-DTEND;TZID=America/Los_Angeles:20260815T173000
+DTEND;TZID=America/Los_Angeles:20260815T174000
 DTSTAMP:20260815T214000Z
 UID:197997
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nSet against the backdr
+DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
  op of one of history's most turbulent chapters\, Batwara 1947 tells the st
  ory of a man who chose courage in times of hatred and fear. \n\nDirected b
  y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
@@ -2155,10 +1659,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Batwara 1947
 DTSTART;TZID=America/Los_Angeles:20260815T213000
-DTEND;TZID=America/Los_Angeles:20260816T002000
+DTEND;TZID=America/Los_Angeles:20260816T003000
 DTSTAMP:20260816T043000Z
 UID:197995
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nSet against the backdr
+DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
  op of one of history's most turbulent chapters\, Batwara 1947 tells the st
  ory of a man who chose courage in times of hatred and fear. \n\nDirected b
  y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
@@ -2173,32 +1677,6 @@ DTSTAMP:20260815T234000Z
 UID:198013
 DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nPlot unknown\n\nEstim
  ated start: 17:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260815T191000
-DTEND;TZID=America/Los_Angeles:20260815T212500
-DTSTAMP:20260816T021000Z
-UID:197222
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260815T215000
-DTEND;TZID=America/Los_Angeles:20260816T000500
-DTSTAMP:20260816T045000Z
-UID:197221
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 22:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2358,29 +1836,133 @@ DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260816T193000
-DTEND;TZID=America/Los_Angeles:20260816T214000
-DTSTAMP:20260817T023000Z
-UID:198033
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 19:55
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260816T110000
+DTEND;TZID=America/Los_Angeles:20260816T125500
+DTSTAMP:20260816T180000Z
+UID:196710
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 11:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260816T221000
-DTEND;TZID=America/Los_Angeles:20260817T002000
-DTSTAMP:20260817T051000Z
-UID:198035
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 22:35
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260816T133000
+DTEND;TZID=America/Los_Angeles:20260816T152500
+DTSTAMP:20260816T203000Z
+UID:196718
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 13:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260816T160000
+DTEND;TZID=America/Los_Angeles:20260816T175500
+DTSTAMP:20260816T230000Z
+UID:196716
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 16:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260816T212500
+DTEND;TZID=America/Los_Angeles:20260816T232000
+DTSTAMP:20260817T042500Z
+UID:196713
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 21:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260816T103000
+DTEND;TZID=America/Los_Angeles:20260816T123500
+DTSTAMP:20260816T173000Z
+UID:196711
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 10:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260816T131000
+DTEND;TZID=America/Los_Angeles:20260816T151500
+DTSTAMP:20260816T201000Z
+UID:196709
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 13:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260816T155000
+DTEND;TZID=America/Los_Angeles:20260816T175500
+DTSTAMP:20260816T225000Z
+UID:196717
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 16:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260816T184000
+DTEND;TZID=America/Los_Angeles:20260816T204500
+DTSTAMP:20260817T014000Z
+UID:196714
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brink of War
+DTSTART;TZID=America/Los_Angeles:20260816T103500
+DTEND;TZID=America/Los_Angeles:20260816T130000
+DTSTAMP:20260816T173500Z
+UID:198028
+DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 7\n\nPresident Reagan races
+  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
+ could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
+ g from advisors\, intelligence agencies\, and history itself\, every word 
+ spoken brings\n\nEstimated start: 11:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brink of War
+DTSTART;TZID=America/Los_Angeles:20260816T134000
+DTEND;TZID=America/Los_Angeles:20260816T160500
+DTSTAMP:20260816T204000Z
+UID:198025
+DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 7\n\nPresident Reagan races
+  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
+ could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
+ g from advisors\, intelligence agencies\, and history itself\, every word 
+ spoken brings\n\nEstimated start: 14:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2483,133 +2065,68 @@ DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260816T103000
-DTEND;TZID=America/Los_Angeles:20260816T123500
-DTSTAMP:20260816T173000Z
-UID:196711
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 10:55
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260816T193000
+DTEND;TZID=America/Los_Angeles:20260816T214000
+DTSTAMP:20260817T023000Z
+UID:198033
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 19:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260816T131000
-DTEND;TZID=America/Los_Angeles:20260816T151500
-DTSTAMP:20260816T201000Z
-UID:196709
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 13:35
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260816T221000
+DTEND;TZID=America/Los_Angeles:20260817T002000
+DTSTAMP:20260817T051000Z
+UID:198035
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 22:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260816T155000
-DTEND;TZID=America/Los_Angeles:20260816T175500
-DTSTAMP:20260816T225000Z
-UID:196717
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 16:15
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260816T191000
+DTEND;TZID=America/Los_Angeles:20260816T212500
+DTSTAMP:20260817T021000Z
+UID:197224
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 19:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260816T184000
-DTEND;TZID=America/Los_Angeles:20260816T204500
-DTSTAMP:20260817T014000Z
-UID:196714
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 19:05
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260816T215000
+DTEND;TZID=America/Los_Angeles:20260817T000500
+DTSTAMP:20260817T045000Z
+UID:197223
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 22:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260816T103500
-DTEND;TZID=America/Los_Angeles:20260816T130000
-DTSTAMP:20260816T173500Z
-UID:198028
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 7\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 11:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260816T134000
-DTEND;TZID=America/Los_Angeles:20260816T160500
-DTSTAMP:20260816T204000Z
-UID:198025
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 7\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 14:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260816T110000
-DTEND;TZID=America/Los_Angeles:20260816T125500
-DTSTAMP:20260816T180000Z
-UID:196710
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 11:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260816T133000
-DTEND;TZID=America/Los_Angeles:20260816T152500
-DTSTAMP:20260816T203000Z
-UID:196718
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 13:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260816T160000
-DTEND;TZID=America/Los_Angeles:20260816T175500
-DTSTAMP:20260816T230000Z
-UID:196716
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260816T212500
-DTEND;TZID=America/Los_Angeles:20260816T232000
-DTSTAMP:20260817T042500Z
-UID:196713
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 21:50
+SUMMARY:Point Break
+DTSTART;TZID=America/Los_Angeles:20260816T190000
+DTEND;TZID=America/Los_Angeles:20260816T214000
+DTSTAMP:20260817T020000Z
+UID:196142
+DESCRIPTION:Duration: 132 mins (2h12m)\nScreen 5\n\nIn Los Angeles\, a gan
+ g of bank robbers call themselves the Ex-Presidents and commit their crime
+ s while wearing masks of Reagan\, Carter\, Nixon and Johnson. The F.B.I. b
+ elieves that the members of the gang could be surfers and send young agent
+  Johnny Utah u\n\nEstimated start: 19:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2677,10 +2194,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Batwara 1947
 DTSTART;TZID=America/Los_Angeles:20260816T145000
-DTEND;TZID=America/Los_Angeles:20260816T174000
+DTEND;TZID=America/Los_Angeles:20260816T175000
 DTSTAMP:20260816T215000Z
 UID:198030
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nSet against the backdr
+DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
  op of one of history's most turbulent chapters\, Batwara 1947 tells the st
  ory of a man who chose courage in times of hatred and fear. \n\nDirected b
  y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
@@ -2690,10 +2207,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Batwara 1947
 DTSTART;TZID=America/Los_Angeles:20260816T214000
-DTEND;TZID=America/Los_Angeles:20260817T003000
+DTEND;TZID=America/Los_Angeles:20260817T004000
 DTSTAMP:20260817T044000Z
 UID:198032
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nSet against the backdr
+DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
  op of one of history's most turbulent chapters\, Batwara 1947 tells the st
  ory of a man who chose courage in times of hatred and fear. \n\nDirected b
  y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
@@ -2724,45 +2241,6 @@ DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
  opical island filled with dinosaurs. They meet Rex\, a pup who has been st
  randed on the island for years and has become an expert in all things dino
  -related. Wh\n\nEstimated start: 19:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Point Break
-DTSTART;TZID=America/Los_Angeles:20260816T190000
-DTEND;TZID=America/Los_Angeles:20260816T214000
-DTSTAMP:20260817T020000Z
-UID:196142
-DESCRIPTION:Duration: 132 mins (2h12m)\nScreen 5\n\nIn Los Angeles\, a gan
- g of bank robbers call themselves the Ex-Presidents and commit their crime
- s while wearing masks of Reagan\, Carter\, Nixon and Johnson. The F.B.I. b
- elieves that the members of the gang could be surfers and send young agent
-  Johnny Utah u\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260816T191000
-DTEND;TZID=America/Los_Angeles:20260816T212500
-DTSTAMP:20260817T021000Z
-UID:197224
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260816T215000
-DTEND;TZID=America/Los_Angeles:20260817T000500
-DTSTAMP:20260817T045000Z
-UID:197223
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 22:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2819,19 +2297,6 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260817T120000
-DTEND;TZID=America/Los_Angeles:20260817T145000
-DTSTAMP:20260817T190000Z
-UID:197727
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 12:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
 DTSTART;TZID=America/Los_Angeles:20260817T143000
 DTEND;TZID=America/Los_Angeles:20260817T172000
 DTSTAMP:20260817T213000Z
@@ -2841,19 +2306,6 @@ DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
  esn't remember him -- and the pressure of seeing his old friends move on w
  ithout him -- sparks a change in Peter he may not have the power to contro
  l. But that\n\nEstimated start: 14:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260817T153000
-DTEND;TZID=America/Los_Angeles:20260817T182000
-DTSTAMP:20260817T223000Z
-UID:197728
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 15:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2948,16 +2400,159 @@ DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260817T213500
-DTEND;TZID=America/Los_Angeles:20260817T234500
-DTSTAMP:20260818T043500Z
-UID:198068
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 22:00
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260817T111500
+DTEND;TZID=America/Los_Angeles:20260817T131000
+DTSTAMP:20260817T181500Z
+UID:196720
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 11:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260817T133000
+DTEND;TZID=America/Los_Angeles:20260817T152500
+DTSTAMP:20260817T203000Z
+UID:196728
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 13:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260817T160000
+DTEND;TZID=America/Los_Angeles:20260817T175500
+DTSTAMP:20260817T230000Z
+UID:196726
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 16:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260817T184000
+DTEND;TZID=America/Los_Angeles:20260817T203500
+DTSTAMP:20260818T014000Z
+UID:196725
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260817T210500
+DTEND;TZID=America/Los_Angeles:20260817T230000
+DTSTAMP:20260818T040500Z
+UID:196723
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 21:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260817T111000
+DTEND;TZID=America/Los_Angeles:20260817T131500
+DTSTAMP:20260817T181000Z
+UID:196721
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 11:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260817T135000
+DTEND;TZID=America/Los_Angeles:20260817T155500
+DTSTAMP:20260817T205000Z
+UID:196719
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 14:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260817T163000
+DTEND;TZID=America/Los_Angeles:20260817T183500
+DTSTAMP:20260817T233000Z
+UID:196727
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 16:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260817T192000
+DTEND;TZID=America/Los_Angeles:20260817T212500
+DTSTAMP:20260818T022000Z
+UID:196724
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 19:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260817T221000
+DTEND;TZID=America/Los_Angeles:20260818T001500
+DTSTAMP:20260818T051000Z
+UID:196722
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 22:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brink of War
+DTSTART;TZID=America/Los_Angeles:20260817T114000
+DTEND;TZID=America/Los_Angeles:20260817T140500
+DTSTAMP:20260817T184000Z
+UID:198061
+DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 6\n\nPresident Reagan races
+  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
+ could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
+ g from advisors\, intelligence agencies\, and history itself\, every word 
+ spoken brings\n\nEstimated start: 12:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brink of War
+DTSTART;TZID=America/Los_Angeles:20260817T155000
+DTEND;TZID=America/Los_Angeles:20260817T181500
+DTSTAMP:20260817T225000Z
+UID:198069
+DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 7\n\nPresident Reagan races
+  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
+ could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
+ g from advisors\, intelligence agencies\, and history itself\, every word 
+ spoken brings\n\nEstimated start: 16:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3036,6 +2631,57 @@ DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260817T213500
+DTEND;TZID=America/Los_Angeles:20260817T234500
+DTSTAMP:20260818T043500Z
+UID:198068
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 22:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260817T191000
+DTEND;TZID=America/Los_Angeles:20260817T212500
+DTSTAMP:20260818T021000Z
+UID:197225
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260817T215000
+DTEND;TZID=America/Los_Angeles:20260818T000500
+DTSTAMP:20260818T045000Z
+UID:197226
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 22:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Mystery Movie (8/17) - Horror Edition
+DTSTART;TZID=America/Los_Angeles:20260817T190000
+DTEND;TZID=America/Los_Angeles:20260817T210500
+DTSTAMP:20260818T020000Z
+UID:197408
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 5\n\nShhh! Be the first to s
+ ee this NEW movie before its official release date for only $5... We just 
+ can't tell you the title! The next Monday Mystery Movie: Horror Edition at
+  Regal is on August 17!\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:One Night Only (Subbed)
 DTSTART;TZID=America/Los_Angeles:20260817T110500
 DTEND;TZID=America/Los_Angeles:20260817T131500
@@ -3043,136 +2689,6 @@ DTSTAMP:20260817T180500Z
 UID:198052
 DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 3\n\nPlot unknown\n\nEstima
  ted start: 11:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260817T111000
-DTEND;TZID=America/Los_Angeles:20260817T131500
-DTSTAMP:20260817T181000Z
-UID:196721
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 11:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260817T135000
-DTEND;TZID=America/Los_Angeles:20260817T155500
-DTSTAMP:20260817T205000Z
-UID:196719
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 14:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260817T163000
-DTEND;TZID=America/Los_Angeles:20260817T183500
-DTSTAMP:20260817T233000Z
-UID:196727
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260817T192000
-DTEND;TZID=America/Los_Angeles:20260817T212500
-DTSTAMP:20260818T022000Z
-UID:196724
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260817T221000
-DTEND;TZID=America/Los_Angeles:20260818T001500
-DTSTAMP:20260818T051000Z
-UID:196722
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 22:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260817T111500
-DTEND;TZID=America/Los_Angeles:20260817T131000
-DTSTAMP:20260817T181500Z
-UID:196720
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 11:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260817T133000
-DTEND;TZID=America/Los_Angeles:20260817T152500
-DTSTAMP:20260817T203000Z
-UID:196728
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 13:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260817T160000
-DTEND;TZID=America/Los_Angeles:20260817T175500
-DTSTAMP:20260817T230000Z
-UID:196726
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260817T184000
-DTEND;TZID=America/Los_Angeles:20260817T203500
-DTSTAMP:20260818T014000Z
-UID:196725
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 19:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260817T210500
-DTEND;TZID=America/Los_Angeles:20260817T230000
-DTSTAMP:20260818T040500Z
-UID:196723
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 21:30
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3189,40 +2705,14 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DC (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260817T175000
-DTEND;TZID=America/Los_Angeles:20260817T205000
-DTSTAMP:20260818T005000Z
+DTSTART;TZID=America/Los_Angeles:20260817T175500
+DTEND;TZID=America/Los_Angeles:20260817T205500
+DTSTAMP:20260818T005500Z
 UID:198064
 DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 8\n\nRebel Devadas joins fo
  rces with Chandra in a dangerous world where passion and peril collide. Th
  eir turbulent alliance demands bloodshed and tests loyalties as survival b
- ecomes the ultimate stake in their fight.\n\nEstimated start: 18:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260817T114000
-DTEND;TZID=America/Los_Angeles:20260817T140500
-DTSTAMP:20260817T184000Z
-UID:198061
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 6\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 12:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260817T155000
-DTEND;TZID=America/Los_Angeles:20260817T181500
-DTSTAMP:20260817T225000Z
-UID:198069
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 7\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 16:15
+ ecomes the ultimate stake in their fight.\n\nEstimated start: 18:20
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3266,10 +2756,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Batwara 1947
 DTSTART;TZID=America/Los_Angeles:20260817T144000
-DTEND;TZID=America/Los_Angeles:20260817T173000
+DTEND;TZID=America/Los_Angeles:20260817T174000
 DTSTAMP:20260817T214000Z
 UID:198063
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nSet against the backdr
+DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
  op of one of history's most turbulent chapters\, Batwara 1947 tells the st
  ory of a man who chose courage in times of hatred and fear. \n\nDirected b
  y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
@@ -3279,10 +2769,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Batwara 1947
 DTSTART;TZID=America/Los_Angeles:20260817T211000
-DTEND;TZID=America/Los_Angeles:20260818T000000
+DTEND;TZID=America/Los_Angeles:20260818T001000
 DTSTAMP:20260818T041000Z
 UID:198065
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nSet against the backdr
+DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
  op of one of history's most turbulent chapters\, Batwara 1947 tells the st
  ory of a man who chose courage in times of hatred and fear. \n\nDirected b
  y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
@@ -3300,44 +2790,6 @@ DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
   Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
  ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
  s must navig\n\nEstimated start: 19:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monday Mystery Movie (8/17) - Horror Edition
-DTSTART;TZID=America/Los_Angeles:20260817T190000
-DTEND;TZID=America/Los_Angeles:20260817T210500
-DTSTAMP:20260818T020000Z
-UID:197408
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 5\n\nShhh! Be the first to s
- ee this NEW movie before its official release date for only $5... We just 
- can't tell you the title! The next Monday Mystery Movie: Horror Edition at
-  Regal is on August 17!\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260817T191000
-DTEND;TZID=America/Los_Angeles:20260817T212500
-DTSTAMP:20260818T021000Z
-UID:197225
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260817T215000
-DTEND;TZID=America/Los_Angeles:20260818T000500
-DTSTAMP:20260818T045000Z
-UID:197226
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 22:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3497,29 +2949,159 @@ DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260818T185000
-DTEND;TZID=America/Los_Angeles:20260818T210000
-DTSTAMP:20260819T015000Z
-UID:198095
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 19:15
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260818T111500
+DTEND;TZID=America/Los_Angeles:20260818T131000
+DTSTAMP:20260818T181500Z
+UID:196737
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 11:40
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260818T213500
-DTEND;TZID=America/Los_Angeles:20260818T234500
-DTSTAMP:20260819T043500Z
-UID:198093
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 22:00
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260818T133000
+DTEND;TZID=America/Los_Angeles:20260818T152500
+DTSTAMP:20260818T203000Z
+UID:196729
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 13:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260818T160000
+DTEND;TZID=America/Los_Angeles:20260818T175500
+DTSTAMP:20260818T230000Z
+UID:196731
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 16:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260818T184000
+DTEND;TZID=America/Los_Angeles:20260818T203500
+DTSTAMP:20260819T014000Z
+UID:196732
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260818T210500
+DTEND;TZID=America/Los_Angeles:20260818T230000
+DTSTAMP:20260819T040500Z
+UID:196734
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 21:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260818T111000
+DTEND;TZID=America/Los_Angeles:20260818T131500
+DTSTAMP:20260818T181000Z
+UID:196736
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 11:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260818T135000
+DTEND;TZID=America/Los_Angeles:20260818T155500
+DTSTAMP:20260818T205000Z
+UID:196738
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 14:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260818T163000
+DTEND;TZID=America/Los_Angeles:20260818T183500
+DTSTAMP:20260818T233000Z
+UID:196730
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 16:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260818T192000
+DTEND;TZID=America/Los_Angeles:20260818T212500
+DTSTAMP:20260819T022000Z
+UID:196733
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 19:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260818T221000
+DTEND;TZID=America/Los_Angeles:20260819T001500
+DTSTAMP:20260819T051000Z
+UID:196735
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 22:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brink of War
+DTSTART;TZID=America/Los_Angeles:20260818T114000
+DTEND;TZID=America/Los_Angeles:20260818T140500
+DTSTAMP:20260818T184000Z
+UID:198088
+DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 6\n\nPresident Reagan races
+  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
+ could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
+ g from advisors\, intelligence agencies\, and history itself\, every word 
+ spoken brings\n\nEstimated start: 12:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brink of War
+DTSTART;TZID=America/Los_Angeles:20260818T155000
+DTEND;TZID=America/Los_Angeles:20260818T181500
+DTSTAMP:20260818T225000Z
+UID:198092
+DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 7\n\nPresident Reagan races
+  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
+ could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
+ g from advisors\, intelligence agencies\, and history itself\, every word 
+ spoken brings\n\nEstimated start: 16:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3610,133 +3192,68 @@ DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260818T111000
-DTEND;TZID=America/Los_Angeles:20260818T131500
-DTSTAMP:20260818T181000Z
-UID:196736
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 11:35
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260818T185000
+DTEND;TZID=America/Los_Angeles:20260818T210000
+DTSTAMP:20260819T015000Z
+UID:198095
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 19:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260818T135000
-DTEND;TZID=America/Los_Angeles:20260818T155500
-DTSTAMP:20260818T205000Z
-UID:196738
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 14:15
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260818T213500
+DTEND;TZID=America/Los_Angeles:20260818T234500
+DTSTAMP:20260819T043500Z
+UID:198093
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 22:00
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260818T163000
-DTEND;TZID=America/Los_Angeles:20260818T183500
-DTSTAMP:20260818T233000Z
-UID:196730
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260818T192000
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260818T191000
 DTEND;TZID=America/Los_Angeles:20260818T212500
-DTSTAMP:20260819T022000Z
-UID:196733
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 19:45
+DTSTAMP:20260819T021000Z
+UID:197228
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 19:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260818T221000
-DTEND;TZID=America/Los_Angeles:20260819T001500
-DTSTAMP:20260819T051000Z
-UID:196735
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 22:35
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260818T215000
+DTEND;TZID=America/Los_Angeles:20260819T000500
+DTSTAMP:20260819T045000Z
+UID:197227
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 22:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260818T111500
-DTEND;TZID=America/Los_Angeles:20260818T131000
-DTSTAMP:20260818T181500Z
-UID:196737
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 11:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260818T133000
-DTEND;TZID=America/Los_Angeles:20260818T152500
-DTSTAMP:20260818T203000Z
-UID:196729
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 13:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260818T160000
-DTEND;TZID=America/Los_Angeles:20260818T175500
-DTSTAMP:20260818T230000Z
-UID:196731
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260818T184000
-DTEND;TZID=America/Los_Angeles:20260818T203500
-DTSTAMP:20260819T014000Z
-UID:196732
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 19:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260818T210500
-DTEND;TZID=America/Los_Angeles:20260818T230000
-DTSTAMP:20260819T040500Z
-UID:196734
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 21:30
+SUMMARY:Texas Chain Saw Day
+DTSTART;TZID=America/Los_Angeles:20260818T190000
+DTEND;TZID=America/Los_Angeles:20260818T211000
+DTSTAMP:20260819T020000Z
+UID:196144
+DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 5\n\nShocking\, lurid and c
+ ompletely unapologetic in its brutality\, director Tobe Hooper's THE TEXAS
+  CHAIN SAW MASSACRE completely changed cinema following its debut in 1974.
+  The film follows five youths on a weekend getaway in the Texas countrysid
+ e on August 1\n\nEstimated start: 19:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3753,40 +3270,14 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DC (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260818T175000
-DTEND;TZID=America/Los_Angeles:20260818T205000
-DTSTAMP:20260819T005000Z
+DTSTART;TZID=America/Los_Angeles:20260818T175500
+DTEND;TZID=America/Los_Angeles:20260818T205500
+DTSTAMP:20260819T005500Z
 UID:198085
 DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 8\n\nRebel Devadas joins fo
  rces with Chandra in a dangerous world where passion and peril collide. Th
  eir turbulent alliance demands bloodshed and tests loyalties as survival b
- ecomes the ultimate stake in their fight.\n\nEstimated start: 18:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260818T114000
-DTEND;TZID=America/Los_Angeles:20260818T140500
-DTSTAMP:20260818T184000Z
-UID:198088
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 6\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 12:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260818T155000
-DTEND;TZID=America/Los_Angeles:20260818T181500
-DTSTAMP:20260818T225000Z
-UID:198092
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 7\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 16:15
+ ecomes the ultimate stake in their fight.\n\nEstimated start: 18:20
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3818,10 +3309,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Batwara 1947
 DTSTART;TZID=America/Los_Angeles:20260818T144000
-DTEND;TZID=America/Los_Angeles:20260818T173000
+DTEND;TZID=America/Los_Angeles:20260818T174000
 DTSTAMP:20260818T214000Z
 UID:198086
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nSet against the backdr
+DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
  op of one of history's most turbulent chapters\, Batwara 1947 tells the st
  ory of a man who chose courage in times of hatred and fear. \n\nDirected b
  y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
@@ -3831,10 +3322,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Batwara 1947
 DTSTART;TZID=America/Los_Angeles:20260818T211000
-DTEND;TZID=America/Los_Angeles:20260819T000000
+DTEND;TZID=America/Los_Angeles:20260819T001000
 DTSTAMP:20260819T041000Z
 UID:198096
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nSet against the backdr
+DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
  op of one of history's most turbulent chapters\, Batwara 1947 tells the st
  ory of a man who chose courage in times of hatred and fear. \n\nDirected b
  y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
@@ -3851,45 +3342,6 @@ DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nShivam returns to the
  crime world\, where his path forward demands redemption\, love\, and sacri
  fice. As relationships deepen and conflicts intensify\, every choice tests
   his resolve and shapes his destiny.\n\nEstimated start: 15:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Texas Chain Saw Day
-DTSTART;TZID=America/Los_Angeles:20260818T190000
-DTEND;TZID=America/Los_Angeles:20260818T211000
-DTSTAMP:20260819T020000Z
-UID:196144
-DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 5\n\nShocking\, lurid and c
- ompletely unapologetic in its brutality\, director Tobe Hooper's THE TEXAS
-  CHAIN SAW MASSACRE completely changed cinema following its debut in 1974.
-  The film follows five youths on a weekend getaway in the Texas countrysid
- e on August 1\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260818T191000
-DTEND;TZID=America/Los_Angeles:20260818T212500
-DTSTAMP:20260819T021000Z
-UID:197228
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260818T215000
-DTEND;TZID=America/Los_Angeles:20260819T000500
-DTSTAMP:20260819T045000Z
-UID:197227
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 22:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4049,29 +3501,133 @@ DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260819T185000
-DTEND;TZID=America/Los_Angeles:20260819T210000
-DTSTAMP:20260820T015000Z
-UID:198122
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 19:15
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260819T111500
+DTEND;TZID=America/Los_Angeles:20260819T131000
+DTSTAMP:20260819T181500Z
+UID:196747
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 11:40
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260819T213500
-DTEND;TZID=America/Los_Angeles:20260819T234500
-DTSTAMP:20260820T043500Z
-UID:198124
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 22:00
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260819T133000
+DTEND;TZID=America/Los_Angeles:20260819T152500
+DTSTAMP:20260819T203000Z
+UID:196739
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 13:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260819T160000
+DTEND;TZID=America/Los_Angeles:20260819T175500
+DTSTAMP:20260819T230000Z
+UID:196741
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 16:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260819T184000
+DTEND;TZID=America/Los_Angeles:20260819T203500
+DTSTAMP:20260820T014000Z
+UID:196742
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260819T210500
+DTEND;TZID=America/Los_Angeles:20260819T230000
+DTSTAMP:20260820T040500Z
+UID:196744
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 21:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260819T135000
+DTEND;TZID=America/Los_Angeles:20260819T155500
+DTSTAMP:20260819T205000Z
+UID:196748
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 14:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260819T163000
+DTEND;TZID=America/Los_Angeles:20260819T183500
+DTSTAMP:20260819T233000Z
+UID:196740
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 16:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260819T192000
+DTEND;TZID=America/Los_Angeles:20260819T212500
+DTSTAMP:20260820T022000Z
+UID:196743
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 19:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260819T221000
+DTEND;TZID=America/Los_Angeles:20260820T001500
+DTSTAMP:20260820T051000Z
+UID:196745
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 22:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brink of War
+DTSTART;TZID=America/Los_Angeles:20260819T155000
+DTEND;TZID=America/Los_Angeles:20260819T181500
+DTSTAMP:20260819T225000Z
+UID:198113
+DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 7\n\nPresident Reagan races
+  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
+ could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
+ g from advisors\, intelligence agencies\, and history itself\, every word 
+ spoken brings\n\nEstimated start: 16:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4162,6 +3718,71 @@ DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260819T185000
+DTEND;TZID=America/Los_Angeles:20260819T210000
+DTSTAMP:20260820T015000Z
+UID:198122
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 19:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260819T213500
+DTEND;TZID=America/Los_Angeles:20260819T234500
+DTSTAMP:20260820T043500Z
+UID:198124
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 22:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260819T191000
+DTEND;TZID=America/Los_Angeles:20260819T212500
+DTSTAMP:20260820T021000Z
+UID:197230
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260819T215000
+DTEND;TZID=America/Los_Angeles:20260820T000500
+DTSTAMP:20260820T045000Z
+UID:197229
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 22:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Point Break
+DTSTART;TZID=America/Los_Angeles:20260819T190000
+DTEND;TZID=America/Los_Angeles:20260819T214000
+DTSTAMP:20260820T020000Z
+UID:196143
+DESCRIPTION:Duration: 132 mins (2h12m)\nScreen 5\n\nIn Los Angeles\, a gan
+ g of bank robbers call themselves the Ex-Presidents and commit their crime
+ s while wearing masks of Reagan\, Carter\, Nixon and Johnson. The F.B.I. b
+ elieves that the members of the gang could be surfers and send young agent
+  Johnny Utah u\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The End of Oak Street (Subbed)
 DTSTART;TZID=America/Los_Angeles:20260819T111000
 DTEND;TZID=America/Los_Angeles:20260819T131500
@@ -4172,71 +3793,6 @@ DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
  o someplace unknown\, the Platt family soon discovers that their very surv
  ival depends on them sticking together as they navigate their now unrecogn
  izable surr\n\nEstimated start: 11:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260819T111500
-DTEND;TZID=America/Los_Angeles:20260819T131000
-DTSTAMP:20260819T181500Z
-UID:196747
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 11:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260819T133000
-DTEND;TZID=America/Los_Angeles:20260819T152500
-DTSTAMP:20260819T203000Z
-UID:196739
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 13:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260819T160000
-DTEND;TZID=America/Los_Angeles:20260819T175500
-DTSTAMP:20260819T230000Z
-UID:196741
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260819T184000
-DTEND;TZID=America/Los_Angeles:20260819T203500
-DTSTAMP:20260820T014000Z
-UID:196742
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 19:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260819T210500
-DTEND;TZID=America/Los_Angeles:20260819T230000
-DTSTAMP:20260820T040500Z
-UID:196744
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 21:30
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4253,14 +3809,14 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DC (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260819T175000
-DTEND;TZID=America/Los_Angeles:20260819T205000
-DTSTAMP:20260820T005000Z
+DTSTART;TZID=America/Los_Angeles:20260819T175500
+DTEND;TZID=America/Los_Angeles:20260819T205500
+DTSTAMP:20260820T005500Z
 UID:198120
 DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 8\n\nRebel Devadas joins fo
  rces with Chandra in a dangerous world where passion and peril collide. Th
  eir turbulent alliance demands bloodshed and tests loyalties as survival b
- ecomes the ultimate stake in their fight.\n\nEstimated start: 18:15
+ ecomes the ultimate stake in their fight.\n\nEstimated start: 18:20
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4303,64 +3859,12 @@ DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nSanjay Vishwanath has
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260819T135000
-DTEND;TZID=America/Los_Angeles:20260819T155500
-DTSTAMP:20260819T205000Z
-UID:196748
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 14:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260819T163000
-DTEND;TZID=America/Los_Angeles:20260819T183500
-DTSTAMP:20260819T233000Z
-UID:196740
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260819T192000
-DTEND;TZID=America/Los_Angeles:20260819T212500
-DTSTAMP:20260820T022000Z
-UID:196743
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260819T221000
-DTEND;TZID=America/Los_Angeles:20260820T001500
-DTSTAMP:20260820T051000Z
-UID:196745
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 22:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Batwara 1947
 DTSTART;TZID=America/Los_Angeles:20260819T144000
-DTEND;TZID=America/Los_Angeles:20260819T173000
+DTEND;TZID=America/Los_Angeles:20260819T174000
 DTSTAMP:20260819T214000Z
 UID:198119
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nSet against the backdr
+DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
  op of one of history's most turbulent chapters\, Batwara 1947 tells the st
  ory of a man who chose courage in times of hatred and fear. \n\nDirected b
  y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
@@ -4370,10 +3874,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Batwara 1947
 DTSTART;TZID=America/Los_Angeles:20260819T211000
-DTEND;TZID=America/Los_Angeles:20260820T000000
+DTEND;TZID=America/Los_Angeles:20260820T001000
 DTSTAMP:20260820T041000Z
 UID:198121
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 8\n\nSet against the backdr
+DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
  op of one of history's most turbulent chapters\, Batwara 1947 tells the st
  ory of a man who chose courage in times of hatred and fear. \n\nDirected b
  y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
@@ -4390,58 +3894,6 @@ DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nShivam returns to the
  crime world\, where his path forward demands redemption\, love\, and sacri
  fice. As relationships deepen and conflicts intensify\, every choice tests
   his resolve and shapes his destiny.\n\nEstimated start: 15:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260819T155000
-DTEND;TZID=America/Los_Angeles:20260819T181500
-DTSTAMP:20260819T225000Z
-UID:198113
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 7\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 16:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Point Break
-DTSTART;TZID=America/Los_Angeles:20260819T190000
-DTEND;TZID=America/Los_Angeles:20260819T214000
-DTSTAMP:20260820T020000Z
-UID:196143
-DESCRIPTION:Duration: 132 mins (2h12m)\nScreen 5\n\nIn Los Angeles\, a gan
- g of bank robbers call themselves the Ex-Presidents and commit their crime
- s while wearing masks of Reagan\, Carter\, Nixon and Johnson. The F.B.I. b
- elieves that the members of the gang could be surfers and send young agent
-  Johnny Utah u\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260819T191000
-DTEND;TZID=America/Los_Angeles:20260819T212500
-DTSTAMP:20260820T021000Z
-UID:197230
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260819T215000
-DTEND;TZID=America/Los_Angeles:20260820T000500
-DTSTAMP:20260820T045000Z
-UID:197229
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 22:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4510,16 +3962,55 @@ DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie (Subbed)
-DTSTART;TZID=America/Los_Angeles:20260820T110000
-DTEND;TZID=America/Los_Angeles:20260820T125500
-DTSTAMP:20260820T180000Z
-UID:196757
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260820T133000
+DTEND;TZID=America/Los_Angeles:20260820T152500
+DTSTAMP:20260820T203000Z
+UID:196749
 DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
  aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
  opical island filled with dinosaurs. They meet Rex\, a pup who has been st
  randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 11:25
+ -related. Wh\n\nEstimated start: 13:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260820T160000
+DTEND;TZID=America/Los_Angeles:20260820T175500
+DTSTAMP:20260820T230000Z
+UID:196751
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 16:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260820T182500
+DTEND;TZID=America/Los_Angeles:20260820T202000
+DTSTAMP:20260821T012500Z
+UID:196752
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 18:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260820T210000
+DTEND;TZID=America/Los_Angeles:20260820T225500
+DTSTAMP:20260821T040000Z
+UID:196754
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 21:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4588,55 +4079,42 @@ DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260820T133000
-DTEND;TZID=America/Los_Angeles:20260820T152500
-DTSTAMP:20260820T203000Z
-UID:196749
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 13:55
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260820T190000
+DTEND;TZID=America/Los_Angeles:20260820T211500
+DTSTAMP:20260821T020000Z
+UID:197231
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 19:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260820T160000
-DTEND;TZID=America/Los_Angeles:20260820T175500
-DTSTAMP:20260820T230000Z
-UID:196751
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 16:25
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260820T214000
+DTEND;TZID=America/Los_Angeles:20260820T235500
+DTSTAMP:20260821T044000Z
+UID:197232
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 22:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260820T182500
-DTEND;TZID=America/Los_Angeles:20260820T202000
-DTSTAMP:20260821T012500Z
-UID:196752
+SUMMARY:PAW Patrol: The Dino Movie (Subbed)
+DTSTART;TZID=America/Los_Angeles:20260820T110000
+DTEND;TZID=America/Los_Angeles:20260820T125500
+DTSTAMP:20260820T180000Z
+UID:196757
 DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
  aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
  opical island filled with dinosaurs. They meet Rex\, a pup who has been st
  randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 18:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260820T210000
-DTEND;TZID=America/Los_Angeles:20260820T225500
-DTSTAMP:20260821T040000Z
-UID:196754
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 21:25
+ -related. Wh\n\nEstimated start: 11:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4728,32 +4206,6 @@ DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
  Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
  s boss' death only to discover an international conspiracy.\n\nEstimated s
  tart: 22:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260820T190000
-DTEND;TZID=America/Los_Angeles:20260820T211500
-DTSTAMP:20260821T020000Z
-UID:197231
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260820T214000
-DTEND;TZID=America/Los_Angeles:20260820T235500
-DTSTAMP:20260821T044000Z
-UID:197232
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 22:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7338,6 +6790,19 @@ DTSTART;TZID=America/Los_Angeles:20260929T183000
 DTEND;TZID=America/Los_Angeles:20260929T212000
 DTSTAMP:20260930T013000Z
 UID:192771
+DESCRIPTION:Duration: 141 mins (2h21m)\nScreen 2\n\nFrom the legendary Stu
+ dio Ghibli and Academy Award®-winning director Hayao Miyazaki comes an ep
+ ic masterpiece that has dazzled audiences worldwide with its breathtaking 
+ imagination\, exhilarating battles\, and deep humanity.\nInflicted with a 
+ deadly curse\, t\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Princess Mononoke
+DTSTART;TZID=America/Los_Angeles:20260930T183000
+DTEND;TZID=America/Los_Angeles:20260930T212000
+DTSTAMP:20261001T013000Z
+UID:192769
 DESCRIPTION:Duration: 141 mins (2h21m)\nScreen 2\n\nFrom the legendary Stu
  dio Ghibli and Academy Award®-winning director Hayao Miyazaki comes an ep
  ic masterpiece that has dazzled audiences worldwide with its breathtaking 
