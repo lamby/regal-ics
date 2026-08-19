@@ -3,598 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Regal Bella Bottega
 X-WR-CALNAME:Cinema 🇺🇸 Regal Bella Bottega
-LAST-MODIFIED:20260818T151012Z
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260818T110000
-DTEND;TZID=America/Los_Angeles:20260818T135000
-DTSTAMP:20260818T180000Z
-UID:198102
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 11:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260818T120000
-DTEND;TZID=America/Los_Angeles:20260818T145000
-DTSTAMP:20260818T190000Z
-UID:197732
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 12:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260818T143000
-DTEND;TZID=America/Los_Angeles:20260818T172000
-DTSTAMP:20260818T213000Z
-UID:198101
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 14:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260818T153000
-DTEND;TZID=America/Los_Angeles:20260818T182000
-DTSTAMP:20260818T223000Z
-UID:197731
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 15:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260818T180000
-DTEND;TZID=America/Los_Angeles:20260818T205000
-DTSTAMP:20260819T010000Z
-UID:198104
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 18:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260818T212500
-DTEND;TZID=America/Los_Angeles:20260819T001500
-DTSTAMP:20260819T042500Z
-UID:198103
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 21:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260818T220000
-DTEND;TZID=America/Los_Angeles:20260819T005000
-DTSTAMP:20260819T050000Z
-UID:197740
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 22:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260818T112000
-DTEND;TZID=America/Los_Angeles:20260818T144000
-DTSTAMP:20260818T182000Z
-UID:198081
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 11\n\nChristopher Nolan's n
- ext film\, The Odyssey\, is a mythic action epic shot across the world usi
- ng brand new IMAX® film technology. The film brings Homer's foundational 
- saga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt 
- Damon\, Tom Holland\n\nEstimated start: 11:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260818T134000
-DTEND;TZID=America/Los_Angeles:20260818T170000
-DTSTAMP:20260818T204000Z
-UID:198098
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 14:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260818T173000
-DTEND;TZID=America/Los_Angeles:20260818T205000
-DTSTAMP:20260819T003000Z
-UID:198099
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 17:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260818T212000
-DTEND;TZID=America/Los_Angeles:20260819T004000
-DTSTAMP:20260819T042000Z
-UID:198100
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 3\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 21:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260818T111500
-DTEND;TZID=America/Los_Angeles:20260818T131000
-DTSTAMP:20260818T181500Z
-UID:196737
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 11:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260818T133000
-DTEND;TZID=America/Los_Angeles:20260818T152500
-DTSTAMP:20260818T203000Z
-UID:196729
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 13:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260818T160000
-DTEND;TZID=America/Los_Angeles:20260818T175500
-DTSTAMP:20260818T230000Z
-UID:196731
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260818T184000
-DTEND;TZID=America/Los_Angeles:20260818T203500
-DTSTAMP:20260819T014000Z
-UID:196732
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 19:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260818T210500
-DTEND;TZID=America/Los_Angeles:20260818T230000
-DTSTAMP:20260819T040500Z
-UID:196734
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 2\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 21:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Texas Chain Saw Day
-DTSTART;TZID=America/Los_Angeles:20260818T190000
-DTEND;TZID=America/Los_Angeles:20260818T211000
-DTSTAMP:20260819T020000Z
-UID:196144
-DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 5\n\nShocking\, lurid and c
- ompletely unapologetic in its brutality\, director Tobe Hooper's THE TEXAS
-  CHAIN SAW MASSACRE completely changed cinema following its debut in 1974.
-  The film follows five youths on a weekend getaway in the Texas countrysid
- e on August 1\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260818T111000
-DTEND;TZID=America/Los_Angeles:20260818T131500
-DTSTAMP:20260818T181000Z
-UID:196736
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 11:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260818T135000
-DTEND;TZID=America/Los_Angeles:20260818T155500
-DTSTAMP:20260818T205000Z
-UID:196738
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 14:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260818T163000
-DTEND;TZID=America/Los_Angeles:20260818T183500
-DTSTAMP:20260818T233000Z
-UID:196730
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260818T192000
-DTEND;TZID=America/Los_Angeles:20260818T212500
-DTSTAMP:20260819T022000Z
-UID:196733
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260818T221000
-DTEND;TZID=America/Los_Angeles:20260819T001500
-DTSTAMP:20260819T051000Z
-UID:196735
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 22:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260818T114000
-DTEND;TZID=America/Los_Angeles:20260818T140500
-DTSTAMP:20260818T184000Z
-UID:198088
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 6\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 12:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260818T155000
-DTEND;TZID=America/Los_Angeles:20260818T181500
-DTSTAMP:20260818T225000Z
-UID:198092
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 7\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 16:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIX the Musical Live!
-DTSTART;TZID=America/Los_Angeles:20260818T180000
-DTEND;TZID=America/Los_Angeles:20260818T200000
-DTSTAMP:20260819T010000Z
-UID:198445
-DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 11\n\nCaptured live at Londo
- n's Vaudeville Theatre\, SIX the Musical Live! brings audiences an electri
- fying cinematic event starring the six original West End Queens\, each ret
- urning to the roles that helped ignite a global phenomenon. \n\nSeen by mo
- re than 3.5 mil\n\nEstimated start: 18:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260818T110500
-DTEND;TZID=America/Los_Angeles:20260818T131500
-DTSTAMP:20260818T180500Z
-UID:198097
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 3\n\nTwo strangers search f
- or love in an ever-so-slightly fictionalized New York on the one night of 
- the year when single people are allowed to have sex.\n\nEstimated start: 1
- 1:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260818T151000
-DTEND;TZID=America/Los_Angeles:20260818T172000
-DTSTAMP:20260818T221000Z
-UID:198078
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 15:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260818T205000
-DTEND;TZID=America/Los_Angeles:20260818T230000
-DTSTAMP:20260819T035000Z
-UID:198080
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 11\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 21:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260818T115000
-DTEND;TZID=America/Los_Angeles:20260818T134500
-DTSTAMP:20260818T185000Z
-UID:198082
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 12:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260818T142000
-DTEND;TZID=America/Los_Angeles:20260818T161500
-DTSTAMP:20260818T212000Z
-UID:198083
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 14:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260818T165000
-DTEND;TZID=America/Los_Angeles:20260818T184500
-DTSTAMP:20260818T235000Z
-UID:198084
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 17:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260818T185000
-DTEND;TZID=America/Los_Angeles:20260818T210000
-DTSTAMP:20260819T015000Z
-UID:198095
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 19:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260818T213500
-DTEND;TZID=America/Los_Angeles:20260818T234500
-DTSTAMP:20260819T043500Z
-UID:198093
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 22:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260818T191000
-DTEND;TZID=America/Los_Angeles:20260818T212500
-DTSTAMP:20260819T021000Z
-UID:197228
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260818T215000
-DTEND;TZID=America/Los_Angeles:20260819T000500
-DTSTAMP:20260819T045000Z
-UID:197227
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 22:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DC (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260818T112500
-DTEND;TZID=America/Los_Angeles:20260818T142500
-DTSTAMP:20260818T182500Z
-UID:198087
-DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 8\n\nRebel Devadas joins fo
- rces with Chandra in a dangerous world where passion and peril collide. Th
- eir turbulent alliance demands bloodshed and tests loyalties as survival b
- ecomes the ultimate stake in their fight.\n\nEstimated start: 11:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DC (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260818T175500
-DTEND;TZID=America/Los_Angeles:20260818T205500
-DTSTAMP:20260819T005500Z
-UID:198085
-DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 8\n\nRebel Devadas joins fo
- rces with Chandra in a dangerous world where passion and peril collide. Th
- eir turbulent alliance demands bloodshed and tests loyalties as survival b
- ecomes the ultimate stake in their fight.\n\nEstimated start: 18:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vishwanath & Sons (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260818T121000
-DTEND;TZID=America/Los_Angeles:20260818T151500
-DTSTAMP:20260818T191000Z
-UID:198089
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 7\n\nSanjay Vishwanath has 
- devoted decades to excellence as an international shooter. When age\, fami
- ly responsibilities\, and an unexpected romance collide with his ambitions
- \, he is forced to confront what truly makes a life worth living.\n\nEstim
- ated start: 12:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vishwanath & Sons (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260818T181000
-DTEND;TZID=America/Los_Angeles:20260818T211500
-DTSTAMP:20260819T011000Z
-UID:198091
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nSanjay Vishwanath has 
- devoted decades to excellence as an international shooter. When age\, fami
- ly responsibilities\, and an unexpected romance collide with his ambitions
- \, he is forced to confront what truly makes a life worth living.\n\nEstim
- ated start: 18:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vishwanath & Sons
-DTSTART;TZID=America/Los_Angeles:20260818T123500
-DTEND;TZID=America/Los_Angeles:20260818T154000
-DTSTAMP:20260818T193500Z
-UID:198449
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 10\n\nSanjay Vishwanath has
-  devoted decades to excellence as an international shooter. When age\, fam
- ily responsibilities\, and an unexpected romance collide with his ambition
- s\, he is forced to confront what truly makes a life worth living.\n\nEsti
- mated start: 13:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vishwanath & Sons
-DTSTART;TZID=America/Los_Angeles:20260818T194000
-DTEND;TZID=America/Los_Angeles:20260818T224500
-DTSTAMP:20260819T024000Z
-UID:198450
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 10\n\nSanjay Vishwanath has
-  devoted decades to excellence as an international shooter. When age\, fam
- ily responsibilities\, and an unexpected romance collide with his ambition
- s\, he is forced to confront what truly makes a life worth living.\n\nEsti
- mated start: 20:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vishwanath & Sons
-DTSTART;TZID=America/Los_Angeles:20260818T214000
-DTEND;TZID=America/Los_Angeles:20260819T004500
-DTSTAMP:20260819T044000Z
-UID:198094
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nSanjay Vishwanath has 
- devoted decades to excellence as an international shooter. When age\, fami
- ly responsibilities\, and an unexpected romance collide with his ambitions
- \, he is forced to confront what truly makes a life worth living.\n\nEstim
- ated start: 22:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Batwara 1947
-DTSTART;TZID=America/Los_Angeles:20260818T144000
-DTEND;TZID=America/Los_Angeles:20260818T174000
-DTSTAMP:20260818T214000Z
-UID:198086
-DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
- op of one of history's most turbulent chapters\, Batwara 1947 tells the st
- ory of a man who chose courage in times of hatred and fear. \n\nDirected b
- y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
- s the much-await\n\nEstimated start: 15:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Batwara 1947
-DTSTART;TZID=America/Los_Angeles:20260818T211000
-DTEND;TZID=America/Los_Angeles:20260819T001000
-DTSTAMP:20260819T041000Z
-UID:198096
-DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
- op of one of history's most turbulent chapters\, Batwara 1947 tells the st
- ory of a man who chose courage in times of hatred and fear. \n\nDirected b
- y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
- s the much-await\n\nEstimated start: 21:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Awarapan 2
-DTSTART;TZID=America/Los_Angeles:20260818T144500
-DTEND;TZID=America/Los_Angeles:20260818T175000
-DTSTAMP:20260818T214500Z
-UID:198425
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nShivam returns to the 
- crime world\, where his path forward demands redemption\, love\, and sacri
- fice. As relationships deepen and conflicts intensify\, every choice tests
-  his resolve and shapes his destiny.\n\nEstimated start: 15:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Awarapan 2
-DTSTART;TZID=America/Los_Angeles:20260818T161500
-DTEND;TZID=America/Los_Angeles:20260818T192000
-DTSTAMP:20260818T231500Z
-UID:198451
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 10\n\nShivam returns to the
-  crime world\, where his path forward demands redemption\, love\, and sacr
- ifice. As relationships deepen and conflicts intensify\, every choice test
- s his resolve and shapes his destiny.\n\nEstimated start: 16:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
+LAST-MODIFIED:20260819T142820Z
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Brand New Day
 DTSTART;TZID=America/Los_Angeles:20260819T110000
@@ -1202,6 +611,19 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260820T123000
+DTEND;TZID=America/Los_Angeles:20260820T152000
+DTSTAMP:20260820T193000Z
+UID:198464
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 12:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
 DTSTART;TZID=America/Los_Angeles:20260820T150000
 DTEND;TZID=America/Los_Angeles:20260820T175000
 DTSTAMP:20260820T220000Z
@@ -1240,6 +662,302 @@ DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260820T114000
+DTEND;TZID=America/Los_Angeles:20260820T150000
+DTSTAMP:20260820T184000Z
+UID:198475
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 10\n\nChristopher Nolan's n
+ ext film\, The Odyssey\, is a mythic action epic shot across the world usi
+ ng brand new IMAX® film technology. The film brings Homer's foundational 
+ saga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt 
+ Damon\, Tom Holland\n\nEstimated start: 12:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260820T134000
+DTEND;TZID=America/Los_Angeles:20260820T170000
+DTSTAMP:20260820T204000Z
+UID:198468
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 2\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 14:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260820T173000
+DTEND;TZID=America/Los_Angeles:20260820T205000
+DTSTAMP:20260821T003000Z
+UID:198469
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 2\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 17:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260820T212000
+DTEND;TZID=America/Los_Angeles:20260821T004000
+DTSTAMP:20260821T042000Z
+UID:198470
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 2\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 21:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260820T133000
+DTEND;TZID=America/Los_Angeles:20260820T152500
+DTSTAMP:20260820T203000Z
+UID:196749
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 11\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 13:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260820T161000
+DTEND;TZID=America/Los_Angeles:20260820T180500
+DTSTAMP:20260820T231000Z
+UID:196751
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 11\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260820T184000
+DTEND;TZID=America/Los_Angeles:20260820T203500
+DTSTAMP:20260821T014000Z
+UID:196752
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 11\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260820T210500
+DTEND;TZID=America/Los_Angeles:20260820T230000
+DTSTAMP:20260821T040500Z
+UID:196754
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 11\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 21:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260820T111000
+DTEND;TZID=America/Los_Angeles:20260820T131500
+DTSTAMP:20260820T181000Z
+UID:196756
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 11:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260820T135000
+DTEND;TZID=America/Los_Angeles:20260820T155500
+DTSTAMP:20260820T205000Z
+UID:196758
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 14:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260820T163000
+DTEND;TZID=America/Los_Angeles:20260820T183500
+DTSTAMP:20260820T233000Z
+UID:196750
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 16:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260820T191000
+DTEND;TZID=America/Los_Angeles:20260820T211500
+DTSTAMP:20260821T021000Z
+UID:196753
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260820T214500
+DTEND;TZID=America/Los_Angeles:20260820T235000
+DTSTAMP:20260821T044500Z
+UID:196755
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 22:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brink of War
+DTSTART;TZID=America/Los_Angeles:20260820T112000
+DTEND;TZID=America/Los_Angeles:20260820T134500
+DTSTAMP:20260820T182000Z
+UID:198480
+DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 3\n\nPresident Reagan races
+  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
+ could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
+ g from advisors\, intelligence agencies\, and history itself\, every word 
+ spoken brings\n\nEstimated start: 11:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brink of War
+DTSTART;TZID=America/Los_Angeles:20260820T141000
+DTEND;TZID=America/Los_Angeles:20260820T163500
+DTSTAMP:20260820T211000Z
+UID:198484
+DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 3\n\nPresident Reagan races
+  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
+ could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
+ g from advisors\, intelligence agencies\, and history itself\, every word 
+ spoken brings\n\nEstimated start: 14:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260820T110000
+DTEND;TZID=America/Los_Angeles:20260820T131000
+DTSTAMP:20260820T180000Z
+UID:198467
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 2\n\nTwo strangers search f
+ or love in an ever-so-slightly fictionalized New York on the one night of 
+ the year when single people are allowed to have sex.\n\nEstimated start: 1
+ 1:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260820T153000
+DTEND;TZID=America/Los_Angeles:20260820T174000
+DTSTAMP:20260820T223000Z
+UID:198476
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 10\n\nTwo strangers search 
+ for love in an ever-so-slightly fictionalized New York on the one night of
+  the year when single people are allowed to have sex.\n\nEstimated start: 
+ 15:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Night Only
+DTSTART;TZID=America/Los_Angeles:20260820T182000
+DTEND;TZID=America/Los_Angeles:20260820T203000
+DTSTAMP:20260821T012000Z
+UID:198477
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 10\n\nTwo strangers search 
+ for love in an ever-so-slightly fictionalized New York on the one night of
+  the year when single people are allowed to have sex.\n\nEstimated start: 
+ 18:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART;TZID=America/Los_Angeles:20260820T115000
+DTEND;TZID=America/Los_Angeles:20260820T134500
+DTSTAMP:20260820T185000Z
+UID:198461
+DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
+  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
+ Illumination expands its joyful animated universe with a riotous new chapt
+ er\, featuring all-new characters\, in the biggest global animated franchi
+ se in history:\n\nEstimated start: 12:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART;TZID=America/Los_Angeles:20260820T141500
+DTEND;TZID=America/Los_Angeles:20260820T161000
+DTSTAMP:20260820T211500Z
+UID:198462
+DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
+  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
+ Illumination expands its joyful animated universe with a riotous new chapt
+ er\, featuring all-new characters\, in the biggest global animated franchi
+ se in history:\n\nEstimated start: 14:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minions & Monsters
+DTSTART;TZID=America/Los_Angeles:20260820T163500
+DTEND;TZID=America/Los_Angeles:20260820T183000
+DTSTAMP:20260820T233500Z
+UID:198463
+DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
+  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
+ Illumination expands its joyful animated universe with a riotous new chapt
+ er\, featuring all-new characters\, in the biggest global animated franchi
+ se in history:\n\nEstimated start: 17:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260820T112500
+DTEND;TZID=America/Los_Angeles:20260820T133500
+DTSTAMP:20260820T182500Z
+UID:198485
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 11:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Super Troopers 3
+DTSTART;TZID=America/Los_Angeles:20260820T215000
+DTEND;TZID=America/Los_Angeles:20260821T000000
+DTSTAMP:20260821T045000Z
+UID:198491
+DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 6\n\nEveryone's favourite c
+ ops are back with the third instalment of the cult comedy classic from the
+  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
+ ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
+ s must navig\n\nEstimated start: 22:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Your Name.
 DTSTART;TZID=America/Los_Angeles:20260820T190000
 DTEND;TZID=America/Los_Angeles:20260820T211500
@@ -1266,16 +984,67 @@ DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons (Tamil)
+DTSTART;TZID=America/Los_Angeles:20260820T110500
+DTEND;TZID=America/Los_Angeles:20260820T141000
+DTSTAMP:20260820T180500Z
+UID:198483
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 11:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons (Tamil)
+DTSTART;TZID=America/Los_Angeles:20260820T181000
+DTEND;TZID=America/Los_Angeles:20260820T211500
+DTSTAMP:20260821T011000Z
+UID:198481
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 18:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie (Subbed)
+DTSTART;TZID=America/Los_Angeles:20260820T111500
+DTEND;TZID=America/Los_Angeles:20260820T131000
+DTSTAMP:20260820T181500Z
+UID:196757
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 11\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 11:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DC (Tamil)
+DTSTART;TZID=America/Los_Angeles:20260820T112500
+DTEND;TZID=America/Los_Angeles:20260820T142500
+DTSTAMP:20260820T182500Z
+UID:198474
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 8\n\nRebel Devadas joins fo
+ rces with Chandra in a dangerous world where passion and peril collide. Th
+ eir turbulent alliance demands bloodshed and tests loyalties as survival b
+ ecomes the ultimate stake in their fight.\n\nEstimated start: 11:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Insidious: Out of the Further
 DTSTART;TZID=America/Los_Angeles:20260820T140000
 DTEND;TZID=America/Los_Angeles:20260820T161500
 DTSTAMP:20260820T210000Z
 UID:197412
 DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 14:25
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 14:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1285,10 +1054,10 @@ DTEND;TZID=America/Los_Angeles:20260820T185500
 DTSTAMP:20260820T234000Z
 UID:197413
 DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 17:05
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 17:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1298,10 +1067,10 @@ DTEND;TZID=America/Los_Angeles:20260820T213500
 DTSTAMP:20260821T022000Z
 UID:197414
 DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 19:45
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 19:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1311,10 +1080,35 @@ DTEND;TZID=America/Los_Angeles:20260821T002000
 DTSTAMP:20260821T050500Z
 UID:197415
 DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 22:30
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 22:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Batwara 1947
+DTSTART;TZID=America/Los_Angeles:20260820T144000
+DTEND;TZID=America/Los_Angeles:20260820T174000
+DTSTAMP:20260820T214000Z
+UID:198473
+DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
+ op of one of history's most turbulent chapters\, Batwara 1947 tells the st
+ ory of a man who chose courage in times of hatred and fear. \n\nDirected b
+ y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
+ s the much-await\n\nEstimated start: 15:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Awarapan 2
+DTSTART;TZID=America/Los_Angeles:20260820T144500
+DTEND;TZID=America/Los_Angeles:20260820T175000
+DTSTAMP:20260820T214500Z
+UID:198482
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nShivam returns to the 
+ crime world\, where his path forward demands redemption\, love\, and sacri
+ fice. As relationships deepen and conflicts intensify\, every choice tests
+  his resolve and shapes his destiny.\n\nEstimated start: 15:10
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1357,68 +1151,380 @@ DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260821T111000
-DTEND;TZID=America/Los_Angeles:20260821T132500
-DTSTAMP:20260821T181000Z
-UID:197416
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 11:35
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260820T204000
+DTEND;TZID=America/Los_Angeles:20260820T234500
+DTSTAMP:20260821T034000Z
+UID:198479
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 10\n\nSanjay Vishwanath has
+  devoted decades to excellence as an international shooter. When age\, fam
+ ily responsibilities\, and an unexpected romance collide with his ambition
+ s\, he is forced to confront what truly makes a life worth living.\n\nEsti
+ mated start: 21:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260821T140000
-DTEND;TZID=America/Los_Angeles:20260821T161500
-DTSTAMP:20260821T210000Z
-UID:197417
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 14:25
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260821T112000
+DTEND;TZID=America/Los_Angeles:20260821T141000
+DTSTAMP:20260821T182000Z
+UID:198492
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 11:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260821T164000
-DTEND;TZID=America/Los_Angeles:20260821T185500
-DTSTAMP:20260821T234000Z
-UID:197418
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 17:05
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260821T130000
+DTEND;TZID=America/Los_Angeles:20260821T155000
+DTSTAMP:20260821T200000Z
+UID:198496
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 2\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 13:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260821T192500
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260821T144500
+DTEND;TZID=America/Los_Angeles:20260821T173500
+DTSTAMP:20260821T214500Z
+UID:198493
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 15:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260821T170000
+DTEND;TZID=America/Los_Angeles:20260821T195000
+DTSTAMP:20260822T000000Z
+UID:198497
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 2\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 17:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260821T181000
+DTEND;TZID=America/Los_Angeles:20260821T210000
+DTSTAMP:20260822T011000Z
+UID:198494
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 18:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260821T203000
+DTEND;TZID=America/Los_Angeles:20260821T232000
+DTSTAMP:20260822T033000Z
+UID:198498
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 2\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 20:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260821T214000
+DTEND;TZID=America/Los_Angeles:20260822T003000
+DTSTAMP:20260822T044000Z
+UID:198495
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 22:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260821T104000
+DTEND;TZID=America/Los_Angeles:20260821T140000
+DTSTAMP:20260821T174000Z
+UID:198499
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 11:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260821T143000
+DTEND;TZID=America/Los_Angeles:20260821T175000
+DTSTAMP:20260821T213000Z
+UID:198500
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 14:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260821T182000
 DTEND;TZID=America/Los_Angeles:20260821T214000
-DTSTAMP:20260822T022500Z
-UID:197419
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 19:50
+DTSTAMP:20260822T012000Z
+UID:198501
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 18:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260821T220500
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260821T211000
+DTEND;TZID=America/Los_Angeles:20260822T003000
+DTSTAMP:20260822T041000Z
+UID:198522
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 10\n\nChristopher Nolan's n
+ ext film\, The Odyssey\, is a mythic action epic shot across the world usi
+ ng brand new IMAX® film technology. The film brings Homer's foundational 
+ saga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt 
+ Damon\, Tom Holland\n\nEstimated start: 21:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260821T105000
+DTEND;TZID=America/Los_Angeles:20260821T124500
+DTSTAMP:20260821T175000Z
+UID:198526
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 11:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260821T133000
+DTEND;TZID=America/Los_Angeles:20260821T152500
+DTSTAMP:20260821T203000Z
+UID:198525
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 13:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260821T162000
+DTEND;TZID=America/Los_Angeles:20260821T181500
+DTSTAMP:20260821T232000Z
+UID:198524
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 16:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260821T221000
+DTEND;TZID=America/Los_Angeles:20260822T000500
+DTSTAMP:20260822T051000Z
+UID:198521
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 1\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 22:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260821T113000
+DTEND;TZID=America/Los_Angeles:20260821T133500
+DTSTAMP:20260821T183000Z
+UID:198520
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 11:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260821T140000
+DTEND;TZID=America/Los_Angeles:20260821T160500
+DTSTAMP:20260821T210000Z
+UID:198519
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 14:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260821T164500
+DTEND;TZID=America/Los_Angeles:20260821T185000
+DTSTAMP:20260821T234500Z
+UID:198518
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 17:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260821T193000
+DTEND;TZID=America/Los_Angeles:20260821T213500
+DTSTAMP:20260822T023000Z
+UID:198517
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260821T221500
 DTEND;TZID=America/Los_Angeles:20260822T002000
-DTSTAMP:20260822T050500Z
-UID:197420
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 22:30
+DTSTAMP:20260822T051500Z
+UID:198516
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 22:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIX the Musical Live!
+DTSTART;TZID=America/Los_Angeles:20260821T104500
+DTEND;TZID=America/Los_Angeles:20260821T124500
+DTSTAMP:20260821T174500Z
+UID:198511
+DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 6\n\nCaptured live at London
+ 's Vaudeville Theatre\, SIX the Musical Live! brings audiences an electrif
+ ying cinematic event starring the six original West End Queens\, each retu
+ rning to the roles that helped ignite a global phenomenon. \n\nSeen by mor
+ e than 3.5 mil\n\nEstimated start: 11:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260821T120000
+DTEND;TZID=America/Los_Angeles:20260821T141500
+DTSTAMP:20260821T190000Z
+UID:198509
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 12:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260821T150000
+DTEND;TZID=America/Los_Angeles:20260821T171500
+DTSTAMP:20260821T220000Z
+UID:198508
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260821T180000
+DTEND;TZID=America/Los_Angeles:20260821T201500
+DTSTAMP:20260822T010000Z
+UID:198507
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 18:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260821T103000
+DTEND;TZID=America/Los_Angeles:20260821T133500
+DTSTAMP:20260821T173000Z
+UID:198502
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 10:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260821T174500
+DTEND;TZID=America/Los_Angeles:20260821T205000
+DTSTAMP:20260822T004500Z
+UID:198503
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 18:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260821T212000
+DTEND;TZID=America/Los_Angeles:20260822T002500
+DTSTAMP:20260822T042000Z
+UID:198505
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 21:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260821T103500
+DTEND;TZID=America/Los_Angeles:20260821T123500
+DTSTAMP:20260821T173500Z
+UID:198510
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 2\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 11:00
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1488,15 +1594,456 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260821T111000
+DTEND;TZID=America/Los_Angeles:20260821T132500
+DTSTAMP:20260821T181000Z
+UID:197416
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 11:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260821T140000
+DTEND;TZID=America/Los_Angeles:20260821T161500
+DTSTAMP:20260821T210000Z
+UID:197417
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 14:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260821T164000
+DTEND;TZID=America/Los_Angeles:20260821T185500
+DTSTAMP:20260821T234000Z
+UID:197418
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 17:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260821T192500
+DTEND;TZID=America/Los_Angeles:20260821T214000
+DTSTAMP:20260822T022500Z
+UID:197419
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 19:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260821T220500
+DTEND;TZID=America/Los_Angeles:20260822T002000
+DTSTAMP:20260822T050500Z
+UID:197420
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 22:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irumudi
+DTSTART;TZID=America/Los_Angeles:20260821T141000
+DTEND;TZID=America/Los_Angeles:20260821T172500
+DTSTAMP:20260821T211000Z
+UID:198504
+DESCRIPTION:Duration: 170 mins (2h50m)\nScreen 4\n\nIrumudi' is a rooted f
+ amily drama set against the powerful devotional backdrop of Lord Ayyappa. 
+ Driven by grounded characters\, intense emotions\, and a realistic narrati
+ ve\, the film blends family sentiment with thrilling moments that organica
+ lly emerge fro\n\nEstimated start: 14:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie (Subbed)
+DTSTART;TZID=America/Los_Angeles:20260821T184000
+DTEND;TZID=America/Los_Angeles:20260821T203500
+DTSTAMP:20260822T014000Z
+UID:198523
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Awarapan 2
+DTSTART;TZID=America/Los_Angeles:20260821T205000
+DTEND;TZID=America/Los_Angeles:20260821T235500
+DTSTAMP:20260822T035000Z
+UID:198506
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 9\n\nShivam returns to the 
+ crime world\, where his path forward demands redemption\, love\, and sacri
+ fice. As relationships deepen and conflicts intensify\, every choice tests
+  his resolve and shapes his destiny.\n\nEstimated start: 21:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260822T112000
+DTEND;TZID=America/Los_Angeles:20260822T141000
+DTSTAMP:20260822T182000Z
+UID:198553
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 11:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260822T130000
+DTEND;TZID=America/Los_Angeles:20260822T155000
+DTSTAMP:20260822T200000Z
+UID:198563
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 2\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260822T144500
+DTEND;TZID=America/Los_Angeles:20260822T173500
+DTSTAMP:20260822T214500Z
+UID:198552
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 15:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260822T170000
+DTEND;TZID=America/Los_Angeles:20260822T195000
+DTSTAMP:20260823T000000Z
+UID:198564
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 2\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 17:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260822T181000
+DTEND;TZID=America/Los_Angeles:20260822T210000
+DTSTAMP:20260823T011000Z
+UID:198551
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 18:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260822T203000
+DTEND;TZID=America/Los_Angeles:20260822T232000
+DTSTAMP:20260823T033000Z
+UID:198565
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 2\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 20:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260822T104000
+DTEND;TZID=America/Los_Angeles:20260822T140000
+DTSTAMP:20260822T174000Z
+UID:198569
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 11:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260822T143000
+DTEND;TZID=America/Los_Angeles:20260822T175000
+DTSTAMP:20260822T213000Z
+UID:198568
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 14:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260822T182000
+DTEND;TZID=America/Los_Angeles:20260822T214000
+DTSTAMP:20260823T012000Z
+UID:198567
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 18:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260822T211000
+DTEND;TZID=America/Los_Angeles:20260823T003000
+DTSTAMP:20260823T041000Z
+UID:198539
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 10\n\nChristopher Nolan's n
+ ext film\, The Odyssey\, is a mythic action epic shot across the world usi
+ ng brand new IMAX® film technology. The film brings Homer's foundational 
+ saga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt 
+ Damon\, Tom Holland\n\nEstimated start: 21:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260822T105000
+DTEND;TZID=America/Los_Angeles:20260822T124500
+DTSTAMP:20260822T175000Z
+UID:198545
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 11:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260822T133000
+DTEND;TZID=America/Los_Angeles:20260822T152500
+DTSTAMP:20260822T203000Z
+UID:198536
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 13:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260822T162000
+DTEND;TZID=America/Los_Angeles:20260822T181500
+DTSTAMP:20260822T232000Z
+UID:198537
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 16:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260822T184000
+DTEND;TZID=America/Los_Angeles:20260822T203500
+DTSTAMP:20260823T014000Z
+UID:198538
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260822T221000
+DTEND;TZID=America/Los_Angeles:20260823T000500
+DTSTAMP:20260823T051000Z
+UID:198566
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 1\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 22:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260822T140000
+DTEND;TZID=America/Los_Angeles:20260822T160500
+DTSTAMP:20260822T210000Z
+UID:198541
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 14:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260822T164500
+DTEND;TZID=America/Los_Angeles:20260822T185000
+DTSTAMP:20260822T234500Z
+UID:198542
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 17:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260822T193000
+DTEND;TZID=America/Los_Angeles:20260822T213500
+DTSTAMP:20260823T023000Z
+UID:198543
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260822T221500
+DTEND;TZID=America/Los_Angeles:20260823T002000
+DTSTAMP:20260823T051500Z
+UID:198544
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 22:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIX the Musical Live!
+DTSTART;TZID=America/Los_Angeles:20260822T104500
+DTEND;TZID=America/Los_Angeles:20260822T124500
+DTSTAMP:20260822T174500Z
+UID:198562
+DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 6\n\nCaptured live at London
+ 's Vaudeville Theatre\, SIX the Musical Live! brings audiences an electrif
+ ying cinematic event starring the six original West End Queens\, each retu
+ rning to the roles that helped ignite a global phenomenon. \n\nSeen by mor
+ e than 3.5 mil\n\nEstimated start: 11:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260822T120000
+DTEND;TZID=America/Los_Angeles:20260822T141500
+DTSTAMP:20260822T190000Z
+UID:198546
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 12:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260822T150000
+DTEND;TZID=America/Los_Angeles:20260822T171500
+DTSTAMP:20260822T220000Z
+UID:198547
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260822T180000
+DTEND;TZID=America/Los_Angeles:20260822T201500
+DTSTAMP:20260823T010000Z
+UID:198548
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 18:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260822T103000
+DTEND;TZID=America/Los_Angeles:20260822T133500
+DTSTAMP:20260822T173000Z
+UID:198557
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 10:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260822T174500
+DTEND;TZID=America/Los_Angeles:20260822T205000
+DTSTAMP:20260823T004500Z
+UID:198556
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 18:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260822T212000
+DTEND;TZID=America/Los_Angeles:20260823T002500
+DTSTAMP:20260823T042000Z
+UID:198554
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 21:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
 DTSTART;TZID=America/Los_Angeles:20260822T111000
 DTEND;TZID=America/Los_Angeles:20260822T132500
 DTSTAMP:20260822T181000Z
 UID:197426
 DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 11:35
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 11:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1506,10 +2053,10 @@ DTEND;TZID=America/Los_Angeles:20260822T161500
 DTSTAMP:20260822T210000Z
 UID:197430
 DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 14:25
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 14:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1519,10 +2066,10 @@ DTEND;TZID=America/Los_Angeles:20260822T185500
 DTSTAMP:20260822T234000Z
 UID:197429
 DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 17:05
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 17:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1532,10 +2079,10 @@ DTEND;TZID=America/Los_Angeles:20260822T214000
 DTSTAMP:20260823T022500Z
 UID:197428
 DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 19:50
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 19:50
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1545,10 +2092,23 @@ DTEND;TZID=America/Los_Angeles:20260823T002000
 DTSTAMP:20260823T050500Z
 UID:197427
 DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 22:30
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 22:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street (Subbed)
+DTSTART;TZID=America/Los_Angeles:20260822T113000
+DTEND;TZID=America/Los_Angeles:20260822T133500
+DTSTAMP:20260822T183000Z
+UID:198540
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 11:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1604,6 +2164,32 @@ DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260822T215500
+DTEND;TZID=America/Los_Angeles:20260822T235500
+DTSTAMP:20260823T045500Z
+UID:197457
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 22:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irumudi
+DTSTART;TZID=America/Los_Angeles:20260822T141000
+DTEND;TZID=America/Los_Angeles:20260822T172500
+DTSTAMP:20260822T211000Z
+UID:198555
+DESCRIPTION:Duration: 170 mins (2h50m)\nScreen 4\n\nIrumudi' is a rooted f
+ amily drama set against the powerful devotional backdrop of Lord Ayyappa. 
+ Driven by grounded characters\, intense emotions\, and a realistic narrati
+ ve\, the film blends family sentiment with thrilling moments that organica
+ lly emerge fro\n\nEstimated start: 14:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Castle in the Sky 40th Anniversary
 DTSTART;TZID=America/Los_Angeles:20260822T160000
 DTEND;TZID=America/Los_Angeles:20260822T182000
@@ -1617,94 +2203,392 @@ DESCRIPTION:Duration: 111 mins (1h51m)\nScreen 11\n\nOne night\, Pazu spie
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260823T111000
-DTEND;TZID=America/Los_Angeles:20260823T132500
-DTSTAMP:20260823T181000Z
-UID:197431
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 11:35
+SUMMARY:Awarapan 2
+DTSTART;TZID=America/Los_Angeles:20260822T205000
+DTEND;TZID=America/Los_Angeles:20260822T235500
+DTSTAMP:20260823T035000Z
+UID:198549
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 9\n\nShivam returns to the 
+ crime world\, where his path forward demands redemption\, love\, and sacri
+ fice. As relationships deepen and conflicts intensify\, every choice tests
+  his resolve and shapes his destiny.\n\nEstimated start: 21:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260823T164000
-DTEND;TZID=America/Los_Angeles:20260823T185500
-DTSTAMP:20260823T234000Z
-UID:197434
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 17:05
+SUMMARY:Spider-Man: Brand New Day (Subbed)
+DTSTART;TZID=America/Los_Angeles:20260822T214000
+DTEND;TZID=America/Los_Angeles:20260823T003000
+DTSTAMP:20260823T044000Z
+UID:198550
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nAfter the record-break
+ ing global success of Spider-Man: No Way Home\, Spider-Man: Brand New Day 
+ marks an entirely new chapter for Peter Parker and Spider-Man. Four years 
+ have passed since the events of No Way Home\, and Peter is now an adult li
+ ving entirely\n\nEstimated start: 22:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260823T192500
-DTEND;TZID=America/Los_Angeles:20260823T214000
-DTSTAMP:20260824T022500Z
-UID:197433
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 19:50
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260823T112000
+DTEND;TZID=America/Los_Angeles:20260823T141000
+DTSTAMP:20260823T182000Z
+UID:198596
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 11:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260823T220500
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260823T130000
+DTEND;TZID=America/Los_Angeles:20260823T155000
+DTSTAMP:20260823T200000Z
+UID:198590
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 2\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260823T144500
+DTEND;TZID=America/Los_Angeles:20260823T173500
+DTSTAMP:20260823T214500Z
+UID:198597
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 15:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260823T170000
+DTEND;TZID=America/Los_Angeles:20260823T195000
+DTSTAMP:20260824T000000Z
+UID:198589
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 2\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 17:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260823T181000
+DTEND;TZID=America/Los_Angeles:20260823T210000
+DTSTAMP:20260824T011000Z
+UID:198598
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 18:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260823T203000
+DTEND;TZID=America/Los_Angeles:20260823T232000
+DTSTAMP:20260824T033000Z
+UID:198588
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 2\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 20:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260823T214000
+DTEND;TZID=America/Los_Angeles:20260824T003000
+DTSTAMP:20260824T044000Z
+UID:198599
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 22:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260823T104000
+DTEND;TZID=America/Los_Angeles:20260823T140000
+DTSTAMP:20260823T174000Z
+UID:198591
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 11:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260823T143000
+DTEND;TZID=America/Los_Angeles:20260823T175000
+DTSTAMP:20260823T213000Z
+UID:198592
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 14:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260823T211000
+DTEND;TZID=America/Los_Angeles:20260824T003000
+DTSTAMP:20260824T041000Z
+UID:198576
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 10\n\nChristopher Nolan's n
+ ext film\, The Odyssey\, is a mythic action epic shot across the world usi
+ ng brand new IMAX® film technology. The film brings Homer's foundational 
+ saga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt 
+ Damon\, Tom Holland\n\nEstimated start: 21:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260823T105000
+DTEND;TZID=America/Los_Angeles:20260823T124500
+DTSTAMP:20260823T175000Z
+UID:198584
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 11:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260823T133000
+DTEND;TZID=America/Los_Angeles:20260823T152500
+DTSTAMP:20260823T203000Z
+UID:198579
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 13:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260823T162000
+DTEND;TZID=America/Los_Angeles:20260823T181500
+DTSTAMP:20260823T232000Z
+UID:198578
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 16:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260823T184000
+DTEND;TZID=America/Los_Angeles:20260823T203500
+DTSTAMP:20260824T014000Z
+UID:198577
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260823T221000
+DTEND;TZID=America/Los_Angeles:20260824T000500
+DTSTAMP:20260824T051000Z
+UID:198587
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 1\n\nAfter their ship gets c
+ aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
+ opical island filled with dinosaurs. They meet Rex\, a pup who has been st
+ randed on the island for years and has become an expert in all things dino
+ -related. Wh\n\nEstimated start: 22:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260823T113000
+DTEND;TZID=America/Los_Angeles:20260823T133500
+DTSTAMP:20260823T183000Z
+UID:198575
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 11:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260823T140000
+DTEND;TZID=America/Los_Angeles:20260823T160500
+DTSTAMP:20260823T210000Z
+UID:198574
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 14:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260823T164500
+DTEND;TZID=America/Los_Angeles:20260823T185000
+DTSTAMP:20260823T234500Z
+UID:198573
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 17:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260823T193000
+DTEND;TZID=America/Los_Angeles:20260823T213500
+DTSTAMP:20260824T023000Z
+UID:198586
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260823T221500
 DTEND;TZID=America/Los_Angeles:20260824T002000
-DTSTAMP:20260824T050500Z
-UID:197432
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious  franchise returns with
-  a new family and a terror that redefines what  The Further is capable of.
-  In Insidious: Out of the Further\, Amelia Eve  stars as Gemma\, a young m
- other raising\n\nEstimated start: 22:30
+DTSTAMP:20260824T051500Z
+UID:198585
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 22:40
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mutiny (Subbed)
-DTSTART;TZID=America/Los_Angeles:20260823T115000
-DTEND;TZID=America/Los_Angeles:20260823T135000
-DTSTAMP:20260823T185000Z
-UID:197461
-DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+SUMMARY:SIX the Musical Live!
+DTSTART;TZID=America/Los_Angeles:20260823T103500
+DTEND;TZID=America/Los_Angeles:20260823T123500
+DTSTAMP:20260823T173500Z
+UID:198603
+DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 6\n\nCaptured live at London
+ 's Vaudeville Theatre\, SIX the Musical Live! brings audiences an electrif
+ ying cinematic event starring the six original West End Queens\, each retu
+ rning to the roles that helped ignite a global phenomenon. \n\nSeen by mor
+ e than 3.5 mil\n\nEstimated start: 11:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260823T120000
+DTEND;TZID=America/Los_Angeles:20260823T141500
+DTSTAMP:20260823T190000Z
+UID:198583
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 12:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260823T150000
+DTEND;TZID=America/Los_Angeles:20260823T171500
+DTSTAMP:20260823T220000Z
+UID:198582
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260823T180000
+DTEND;TZID=America/Los_Angeles:20260823T201500
+DTSTAMP:20260824T010000Z
+UID:198581
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 18:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260823T103000
+DTEND;TZID=America/Los_Angeles:20260823T133500
+DTSTAMP:20260823T173000Z
+UID:198600
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 10:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260823T174500
+DTEND;TZID=America/Los_Angeles:20260823T205000
+DTSTAMP:20260824T004500Z
+UID:198601
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 18:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260823T212000
+DTEND;TZID=America/Los_Angeles:20260824T002500
+DTSTAMP:20260824T042000Z
+UID:198595
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 21:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260823T103500
+DTEND;TZID=America/Los_Angeles:20260823T123500
+DTSTAMP:20260823T173500Z
+UID:198594
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 2\n\nIn MUTINY\, after witne
  ssing his billionaire boss's murder and being framed for the crime\, Cole 
  Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
  s boss' death only to discover an international conspiracy.\n\nEstimated s
- tart: 12:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coyote vs. ACME Early Access
-DTSTART;TZID=America/Los_Angeles:20260823T130000
-DTEND;TZID=America/Los_Angeles:20260823T150500
-DTSTAMP:20260823T200000Z
-UID:197750
-DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 6\n\nAfter all of the produc
- ts made by ACME Corporation backfire on Wile E. Coyote\, in his pursuit of
-  the Road Runner\, he hires an equally-unlucky human attorney to sue the c
- ompany. When Wile E.'s lawyer finds out that his former law firm's intimid
- ating boss i\n\nEstimated start: 13:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further (Subbed)
-DTSTART;TZID=America/Los_Angeles:20260823T140000
-DTEND;TZID=America/Los_Angeles:20260823T161500
-DTSTAMP:20260823T210000Z
-UID:197435
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nIn Insidious: Out of t
- he Further\, Amelia Eve stars as Gemma\, a young mother raising her daught
- er in the house she grew up in who discovers she can travel into The Furth
- er\, the purgatorial realm of lost souls at the heart of the Insidious uni
- verse. When so\n\nEstimated start: 14:25
+ tart: 11:00
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1747,6 +2631,123 @@ DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260823T215500
+DTEND;TZID=America/Los_Angeles:20260823T235500
+DTSTAMP:20260824T045500Z
+UID:197462
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 22:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260823T111000
+DTEND;TZID=America/Los_Angeles:20260823T132500
+DTSTAMP:20260823T181000Z
+UID:197431
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 11:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260823T164000
+DTEND;TZID=America/Los_Angeles:20260823T185500
+DTSTAMP:20260823T234000Z
+UID:197434
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 17:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260823T192500
+DTEND;TZID=America/Los_Angeles:20260823T214000
+DTSTAMP:20260824T022500Z
+UID:197433
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 19:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260823T220500
+DTEND;TZID=America/Los_Angeles:20260824T002000
+DTSTAMP:20260824T050500Z
+UID:197432
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 22:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny (Subbed)
+DTSTART;TZID=America/Los_Angeles:20260823T115000
+DTEND;TZID=America/Los_Angeles:20260823T135000
+DTSTAMP:20260823T185000Z
+UID:197461
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 12:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coyote vs. ACME Early Access
+DTSTART;TZID=America/Los_Angeles:20260823T130000
+DTEND;TZID=America/Los_Angeles:20260823T150500
+DTSTAMP:20260823T200000Z
+UID:197750
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 6\n\nAfter all of the produc
+ ts made by ACME Corporation backfire on Wile E. Coyote\, in his pursuit of
+  the Road Runner\, he hires an equally-unlucky human attorney to sue the c
+ ompany. When Wile E.'s lawyer finds out that his former law firm's intimid
+ ating boss i\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further (Subbed)
+DTSTART;TZID=America/Los_Angeles:20260823T140000
+DTEND;TZID=America/Los_Angeles:20260823T161500
+DTSTAMP:20260823T210000Z
+UID:197435
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nIn Insidious: Out of t
+ he Further\, Amelia Eve stars as Gemma\, a young mother raising her daught
+ er in the house she grew up in who discovers she can travel into The Furth
+ er\, the purgatorial realm of lost souls at the heart of the Insidious uni
+ verse. When so\n\nEstimated start: 14:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irumudi
+DTSTART;TZID=America/Los_Angeles:20260823T141000
+DTEND;TZID=America/Los_Angeles:20260823T172500
+DTSTAMP:20260823T211000Z
+UID:198602
+DESCRIPTION:Duration: 170 mins (2h50m)\nScreen 4\n\nIrumudi' is a rooted f
+ amily drama set against the powerful devotional backdrop of Lord Ayyappa. 
+ Driven by grounded characters\, intense emotions\, and a realistic narrati
+ ve\, the film blends family sentiment with thrilling moments that organica
+ lly emerge fro\n\nEstimated start: 14:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Castle in the Sky 40th Anniversary
 DTSTART;TZID=America/Los_Angeles:20260823T160000
 DTEND;TZID=America/Los_Angeles:20260823T182000
@@ -1773,6 +2774,408 @@ DESCRIPTION:Duration: 111 mins (1h51m)\nScreen 11\n\nOne night\, Pazu spie
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Odyssey (Subbed)
+DTSTART;TZID=America/Los_Angeles:20260823T182000
+DTEND;TZID=America/Los_Angeles:20260823T214000
+DTSTAMP:20260824T012000Z
+UID:198593
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 18:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Awarapan 2
+DTSTART;TZID=America/Los_Angeles:20260823T205000
+DTEND;TZID=America/Los_Angeles:20260823T235500
+DTSTAMP:20260824T035000Z
+UID:198580
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 9\n\nShivam returns to the 
+ crime world\, where his path forward demands redemption\, love\, and sacri
+ fice. As relationships deepen and conflicts intensify\, every choice tests
+  his resolve and shapes his destiny.\n\nEstimated start: 21:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260824T121000
+DTEND;TZID=America/Los_Angeles:20260824T150000
+DTSTAMP:20260824T191000Z
+UID:198633
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 12:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260824T131000
+DTEND;TZID=America/Los_Angeles:20260824T160000
+DTSTAMP:20260824T201000Z
+UID:198627
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 13:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260824T154000
+DTEND;TZID=America/Los_Angeles:20260824T183000
+DTSTAMP:20260824T224000Z
+UID:198634
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260824T164000
+DTEND;TZID=America/Los_Angeles:20260824T193000
+DTSTAMP:20260824T234000Z
+UID:198632
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 17:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260824T191000
+DTEND;TZID=America/Los_Angeles:20260824T220000
+DTSTAMP:20260825T021000Z
+UID:198635
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260824T201000
+DTEND;TZID=America/Los_Angeles:20260824T230000
+DTSTAMP:20260825T031000Z
+UID:198631
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 20:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260824T120000
+DTEND;TZID=America/Los_Angeles:20260824T152000
+DTSTAMP:20260824T190000Z
+UID:198607
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 12:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260824T155000
+DTEND;TZID=America/Los_Angeles:20260824T191000
+DTSTAMP:20260824T225000Z
+UID:198608
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 16:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260824T194000
+DTEND;TZID=America/Los_Angeles:20260824T230000
+DTSTAMP:20260825T024000Z
+UID:198609
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 20:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260824T124000
+DTEND;TZID=America/Los_Angeles:20260824T143500
+DTSTAMP:20260824T194000Z
+UID:198610
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 13:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260824T151000
+DTEND;TZID=America/Los_Angeles:20260824T170500
+DTSTAMP:20260824T221000Z
+UID:198611
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 15:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260824T174000
+DTEND;TZID=America/Los_Angeles:20260824T193500
+DTSTAMP:20260825T004000Z
+UID:198612
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 18:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260824T120500
+DTEND;TZID=America/Los_Angeles:20260824T141000
+DTSTAMP:20260824T190500Z
+UID:198618
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 12:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260824T143500
+DTEND;TZID=America/Los_Angeles:20260824T164000
+DTSTAMP:20260824T213500Z
+UID:198621
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 15:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260824T193500
+DTEND;TZID=America/Los_Angeles:20260824T214000
+DTSTAMP:20260825T023500Z
+UID:198622
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 20:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260824T125000
+DTEND;TZID=America/Los_Angeles:20260824T150500
+DTSTAMP:20260824T195000Z
+UID:198623
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 13:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260824T153000
+DTEND;TZID=America/Los_Angeles:20260824T174500
+DTSTAMP:20260824T223000Z
+UID:198624
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 15:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260824T121500
+DTEND;TZID=America/Los_Angeles:20260824T143000
+DTSTAMP:20260824T191500Z
+UID:197436
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 12:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260824T145500
+DTEND;TZID=America/Los_Angeles:20260824T171000
+DTSTAMP:20260824T215500Z
+UID:197440
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 15:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260824T173500
+DTEND;TZID=America/Los_Angeles:20260824T195000
+DTSTAMP:20260825T003500Z
+UID:197438
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 18:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260824T201500
+DTEND;TZID=America/Los_Angeles:20260824T223000
+DTSTAMP:20260825T031500Z
+UID:198637
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 20:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260824T122000
+DTEND;TZID=America/Los_Angeles:20260824T152500
+DTSTAMP:20260824T192000Z
+UID:198630
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 12:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260824T193000
+DTEND;TZID=America/Los_Angeles:20260824T223500
+DTSTAMP:20260825T023000Z
+UID:198628
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260824T123000
+DTEND;TZID=America/Los_Angeles:20260824T143000
+DTSTAMP:20260824T193000Z
+UID:197470
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 12:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260824T150000
+DTEND;TZID=America/Los_Angeles:20260824T170000
+DTSTAMP:20260824T220000Z
+UID:197466
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260824T173000
+DTEND;TZID=America/Los_Angeles:20260824T193000
+DTSTAMP:20260825T003000Z
+UID:197468
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 17:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260824T200000
+DTEND;TZID=America/Los_Angeles:20260824T220000
+DTSTAMP:20260825T030000Z
+UID:197469
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 20:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irumudi
+DTSTART;TZID=America/Los_Angeles:20260824T160000
+DTEND;TZID=America/Los_Angeles:20260824T191500
+DTSTAMP:20260824T230000Z
+UID:198629
+DESCRIPTION:Duration: 170 mins (2h50m)\nScreen 4\n\nIrumudi' is a rooted f
+ amily drama set against the powerful devotional backdrop of Lord Ayyappa. 
+ Driven by grounded characters\, intense emotions\, and a realistic narrati
+ ve\, the film blends family sentiment with thrilling moments that organica
+ lly emerge fro\n\nEstimated start: 16:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street (Subbed)
+DTSTART;TZID=America/Los_Angeles:20260824T170500
+DTEND;TZID=America/Los_Angeles:20260824T191000
+DTSTAMP:20260825T000500Z
+UID:198636
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 17:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Castle in the Sky 40th Anniversary
 DTSTART;TZID=America/Los_Angeles:20260824T183000
 DTEND;TZID=America/Los_Angeles:20260824T205000
@@ -1786,6 +3189,18 @@ DESCRIPTION:Duration: 111 mins (1h51m)\nScreen 2\n\nOne night\, Pazu spies
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Awarapan 2
+DTSTART;TZID=America/Los_Angeles:20260824T184000
+DTEND;TZID=America/Los_Angeles:20260824T214500
+DTSTAMP:20260825T014000Z
+UID:198626
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 9\n\nShivam returns to the 
+ crime world\, where his path forward demands redemption\, love\, and sacri
+ fice. As relationships deepen and conflicts intensify\, every choice tests
+  his resolve and shapes his destiny.\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Idiots
 DTSTART;TZID=America/Los_Angeles:20260824T190000
 DTEND;TZID=America/Los_Angeles:20260824T210500
@@ -1794,6 +3209,357 @@ UID:197749
 DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nWhen two unqualified b
  ozos are hired to transfer a rich teen to rehab\, their straightforward gi
  g quickly spirals into dangerous mayhem.\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie (Subbed)
+DTSTART;TZID=America/Los_Angeles:20260824T200500
+DTEND;TZID=America/Los_Angeles:20260824T220000
+DTSTAMP:20260825T030500Z
+UID:198613
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 20:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260825T121000
+DTEND;TZID=America/Los_Angeles:20260825T150000
+DTSTAMP:20260825T191000Z
+UID:198652
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 12:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260825T154000
+DTEND;TZID=America/Los_Angeles:20260825T183000
+DTSTAMP:20260825T224000Z
+UID:198651
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260825T191000
+DTEND;TZID=America/Los_Angeles:20260825T220000
+DTSTAMP:20260826T021000Z
+UID:198650
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260825T120000
+DTEND;TZID=America/Los_Angeles:20260825T152000
+DTSTAMP:20260825T190000Z
+UID:198640
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 12:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260825T155000
+DTEND;TZID=America/Los_Angeles:20260825T191000
+DTSTAMP:20260825T225000Z
+UID:198639
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 16:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260825T194000
+DTEND;TZID=America/Los_Angeles:20260825T230000
+DTSTAMP:20260826T024000Z
+UID:198638
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 20:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260825T124000
+DTEND;TZID=America/Los_Angeles:20260825T143500
+DTSTAMP:20260825T194000Z
+UID:198664
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 13:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260825T151000
+DTEND;TZID=America/Los_Angeles:20260825T170500
+DTSTAMP:20260825T221000Z
+UID:198663
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 15:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260825T174000
+DTEND;TZID=America/Los_Angeles:20260825T193500
+DTSTAMP:20260826T004000Z
+UID:198662
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 18:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260825T200500
+DTEND;TZID=America/Los_Angeles:20260825T220000
+DTSTAMP:20260826T030500Z
+UID:198661
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 20:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260825T120500
+DTEND;TZID=America/Los_Angeles:20260825T141000
+DTSTAMP:20260825T190500Z
+UID:198660
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 12:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260825T143500
+DTEND;TZID=America/Los_Angeles:20260825T164000
+DTSTAMP:20260825T213500Z
+UID:198659
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 15:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260825T170500
+DTEND;TZID=America/Los_Angeles:20260825T191000
+DTSTAMP:20260826T000500Z
+UID:198658
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 17:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260825T193500
+DTEND;TZID=America/Los_Angeles:20260825T214000
+DTSTAMP:20260826T023500Z
+UID:198656
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 20:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260825T125000
+DTEND;TZID=America/Los_Angeles:20260825T150500
+DTSTAMP:20260825T195000Z
+UID:198655
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 13:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260825T153000
+DTEND;TZID=America/Los_Angeles:20260825T174500
+DTSTAMP:20260825T223000Z
+UID:198654
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 15:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260825T121500
+DTEND;TZID=America/Los_Angeles:20260825T143000
+DTSTAMP:20260825T191500Z
+UID:198665
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 12:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260825T145500
+DTEND;TZID=America/Los_Angeles:20260825T171000
+DTSTAMP:20260825T215500Z
+UID:198667
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 15:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260825T173500
+DTEND;TZID=America/Los_Angeles:20260825T195000
+DTSTAMP:20260826T003500Z
+UID:198666
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 18:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260825T201500
+DTEND;TZID=America/Los_Angeles:20260825T223000
+DTSTAMP:20260826T031500Z
+UID:198657
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 20:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260825T122000
+DTEND;TZID=America/Los_Angeles:20260825T152500
+DTSTAMP:20260825T192000Z
+UID:198643
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 12:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260825T192500
+DTEND;TZID=America/Los_Angeles:20260825T223000
+DTSTAMP:20260826T022500Z
+UID:198645
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 19:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260825T123000
+DTEND;TZID=America/Los_Angeles:20260825T143000
+DTSTAMP:20260825T193000Z
+UID:198647
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 12:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260825T150000
+DTEND;TZID=America/Los_Angeles:20260825T170000
+DTSTAMP:20260825T220000Z
+UID:198646
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260825T173000
+DTEND;TZID=America/Los_Angeles:20260825T193000
+DTSTAMP:20260826T003000Z
+UID:198649
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 17:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260825T200000
+DTEND;TZID=America/Los_Angeles:20260825T220000
+DTSTAMP:20260826T030000Z
+UID:198648
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 20:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1821,6 +3587,19 @@ DESCRIPTION:Duration: 200 mins (3h20m)\nScreen 5\n\nSet in a bygone era\,
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Irumudi
+DTSTART;TZID=America/Los_Angeles:20260825T155500
+DTEND;TZID=America/Los_Angeles:20260825T191000
+DTSTAMP:20260825T225500Z
+UID:198644
+DESCRIPTION:Duration: 170 mins (2h50m)\nScreen 4\n\nIrumudi' is a rooted f
+ amily drama set against the powerful devotional backdrop of Lord Ayyappa. 
+ Driven by grounded characters\, intense emotions\, and a realistic narrati
+ ve\, the film blends family sentiment with thrilling moments that organica
+ lly emerge fro\n\nEstimated start: 16:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Castle in the Sky 40th Anniversary
 DTSTART;TZID=America/Los_Angeles:20260825T183000
 DTEND;TZID=America/Los_Angeles:20260825T205000
@@ -1834,6 +3613,18 @@ DESCRIPTION:Duration: 111 mins (1h51m)\nScreen 2\n\nOne night\, Pazu spies
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Awarapan 2
+DTSTART;TZID=America/Los_Angeles:20260825T184000
+DTEND;TZID=America/Los_Angeles:20260825T214500
+DTSTAMP:20260826T014000Z
+UID:198653
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 9\n\nShivam returns to the 
+ crime world\, where his path forward demands redemption\, love\, and sacri
+ fice. As relationships deepen and conflicts intensify\, every choice tests
+  his resolve and shapes his destiny.\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:American Martyr: The Stanley Rother Story
 DTSTART;TZID=America/Los_Angeles:20260825T190000
 DTEND;TZID=America/Los_Angeles:20260825T213000
@@ -1844,6 +3635,214 @@ DESCRIPTION:Duration: 123 mins (2h03m)\nScreen 11\n\n"American Martyr: The
  nning actor Martin Sheen\, tells the true story of Father Stanley Rother\,
   an American priest who was murdered for refusing to abandon his people.\n
  \nFathom events d\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260826T121000
+DTEND;TZID=America/Los_Angeles:20260826T150000
+DTSTAMP:20260826T191000Z
+UID:198683
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 12:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260826T154000
+DTEND;TZID=America/Los_Angeles:20260826T183000
+DTSTAMP:20260826T224000Z
+UID:198684
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Brand New Day
+DTSTART;TZID=America/Los_Angeles:20260826T191000
+DTEND;TZID=America/Los_Angeles:20260826T220000
+DTSTAMP:20260827T021000Z
+UID:198685
+DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 6\n\nIt's a BRAND NEW DAY f
+ or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
+ esn't remember him -- and the pressure of seeing his old friends move on w
+ ithout him -- sparks a change in Peter he may not have the power to contro
+ l. But that\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260826T120500
+DTEND;TZID=America/Los_Angeles:20260826T152500
+DTSTAMP:20260826T190500Z
+UID:198671
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 12:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260826T155000
+DTEND;TZID=America/Los_Angeles:20260826T191000
+DTSTAMP:20260826T225000Z
+UID:198672
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 16:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Odyssey
+DTSTART;TZID=America/Los_Angeles:20260826T194000
+DTEND;TZID=America/Los_Angeles:20260826T230000
+DTSTAMP:20260827T024000Z
+UID:198673
+DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 1\n\nChristopher Nolan's ne
+ xt film\, The Odyssey\, is a mythic action epic shot across the world usin
+ g brand new IMAX® film technology. The film brings Homer's foundational s
+ aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
+ amon\, Tom Holland\n\nEstimated start: 20:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260826T124000
+DTEND;TZID=America/Los_Angeles:20260826T143500
+DTSTAMP:20260826T194000Z
+UID:198699
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 13:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260826T151000
+DTEND;TZID=America/Los_Angeles:20260826T170500
+DTSTAMP:20260826T221000Z
+UID:198700
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 15:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260826T174000
+DTEND;TZID=America/Los_Angeles:20260826T193500
+DTSTAMP:20260827T004000Z
+UID:198686
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 18:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAW Patrol: The Dino Movie
+DTSTART;TZID=America/Los_Angeles:20260826T200500
+DTEND;TZID=America/Los_Angeles:20260826T220000
+DTSTAMP:20260827T030500Z
+UID:198687
+DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 10\n\nAfter their ship gets 
+ caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
+ ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
+ tranded on the island for years and has become an expert in all things din
+ o-related. Wh\n\nEstimated start: 20:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260826T122000
+DTEND;TZID=America/Los_Angeles:20260826T142500
+DTSTAMP:20260826T192000Z
+UID:198688
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 12:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260826T145000
+DTEND;TZID=America/Los_Angeles:20260826T165500
+DTSTAMP:20260826T215000Z
+UID:198689
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 15:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260826T172000
+DTEND;TZID=America/Los_Angeles:20260826T192500
+DTSTAMP:20260827T002000Z
+UID:198690
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 17:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The End of Oak Street
+DTSTART;TZID=America/Los_Angeles:20260826T195000
+DTEND;TZID=America/Los_Angeles:20260826T215500
+DTSTAMP:20260827T025000Z
+UID:198692
+DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 8\n\nAfter a mysterious cosm
+ ic event rips Oak Street from suburbia and transports their neighborhood t
+ o someplace unknown\, the Platt family soon discovers that their very surv
+ ival depends on them sticking together as they navigate their now unrecogn
+ izable surr\n\nEstimated start: 20:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260826T125000
+DTEND;TZID=America/Los_Angeles:20260826T150500
+DTSTAMP:20260826T195000Z
+UID:198693
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 13:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Name.
+DTSTART;TZID=America/Los_Angeles:20260826T153000
+DTEND;TZID=America/Los_Angeles:20260826T174500
+DTSTAMP:20260826T223000Z
+UID:198694
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
+ hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
+ d bodies. The total strangers struggle to navigate each other's lives\, wa
+ lking tightropes of intimacy and distance. But when they finally resolve t
+ o meet\, the t\n\nEstimated start: 15:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1868,6 +3867,136 @@ DESCRIPTION:Duration: 200 mins (3h20m)\nScreen 5\n\nSet in a bygone era\,
  this gripping tale unfolds in the coastal paradise of Goa\, where a powerf
  ul drug cartel pulls the strings behind a facade of sun-soaked beaches and
   vibrant culture.\n\nEstimated start: 20:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260826T121500
+DTEND;TZID=America/Los_Angeles:20260826T143000
+DTSTAMP:20260826T191500Z
+UID:198698
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 12:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260826T145500
+DTEND;TZID=America/Los_Angeles:20260826T171000
+DTSTAMP:20260826T215500Z
+UID:198696
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 15:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260826T173500
+DTEND;TZID=America/Los_Angeles:20260826T195000
+DTSTAMP:20260827T003500Z
+UID:198697
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 18:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260826T201500
+DTEND;TZID=America/Los_Angeles:20260826T223000
+DTSTAMP:20260827T031500Z
+UID:198691
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 20:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260826T122500
+DTEND;TZID=America/Los_Angeles:20260826T153000
+DTSTAMP:20260826T192500Z
+UID:198678
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 12:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vishwanath & Sons
+DTSTART;TZID=America/Los_Angeles:20260826T193000
+DTEND;TZID=America/Los_Angeles:20260826T223500
+DTSTAMP:20260827T023000Z
+UID:198676
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nSanjay Vishwanath has 
+ devoted decades to excellence as an international shooter. When age\, fami
+ ly responsibilities\, and an unexpected romance collide with his ambitions
+ \, he is forced to confront what truly makes a life worth living.\n\nEstim
+ ated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260826T123000
+DTEND;TZID=America/Los_Angeles:20260826T143000
+DTSTAMP:20260826T193000Z
+UID:198681
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 12:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260826T150000
+DTEND;TZID=America/Los_Angeles:20260826T170000
+DTSTAMP:20260826T220000Z
+UID:198682
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260826T173000
+DTEND;TZID=America/Los_Angeles:20260826T193000
+DTSTAMP:20260827T003000Z
+UID:198679
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 17:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irumudi
+DTSTART;TZID=America/Los_Angeles:20260826T160000
+DTEND;TZID=America/Los_Angeles:20260826T191500
+DTSTAMP:20260826T230000Z
+UID:198677
+DESCRIPTION:Duration: 170 mins (2h50m)\nScreen 4\n\nIrumudi' is a rooted f
+ amily drama set against the powerful devotional backdrop of Lord Ayyappa. 
+ Driven by grounded characters\, intense emotions\, and a realistic narrati
+ ve\, the film blends family sentiment with thrilling moments that organica
+ lly emerge fro\n\nEstimated start: 16:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1896,6 +4025,18 @@ DESCRIPTION:Duration: 111 mins (1h51m)\nScreen 2\n\nOne night\, Pazu spies
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Awarapan 2
+DTSTART;TZID=America/Los_Angeles:20260826T184000
+DTEND;TZID=America/Los_Angeles:20260826T214500
+DTSTAMP:20260827T014000Z
+UID:198695
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 9\n\nShivam returns to the 
+ crime world\, where his path forward demands redemption\, love\, and sacri
+ fice. As relationships deepen and conflicts intensify\, every choice tests
+  his resolve and shapes his destiny.\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:American Martyr: The Stanley Rother Story
 DTSTART;TZID=America/Los_Angeles:20260826T190000
 DTEND;TZID=America/Los_Angeles:20260826T213000
@@ -1906,6 +4047,19 @@ DESCRIPTION:Duration: 123 mins (2h03m)\nScreen 11\n\n"American Martyr: The
  nning actor Martin Sheen\, tells the true story of Father Stanley Rother\,
   an American priest who was murdered for refusing to abandon his people.\n
  \nFathom events d\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny (Subbed)
+DTSTART;TZID=America/Los_Angeles:20260826T200000
+DTEND;TZID=America/Los_Angeles:20260826T220000
+DTSTAMP:20260827T030000Z
+UID:198680
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 20:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1930,6 +4084,97 @@ DESCRIPTION:Duration: 180 mins (3h00m)\nScreen 5\n\nSet in a bygone era\,
  this gripping tale unfolds in the coastal paradise of Goa\, where a powerf
  ul drug cartel pulls the strings behind a facade of sun-soaked beaches and
   vibrant culture.\n\nEstimated start: 20:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260827T125000
+DTEND;TZID=America/Los_Angeles:20260827T150500
+DTSTAMP:20260827T195000Z
+UID:197455
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 13:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260827T153500
+DTEND;TZID=America/Los_Angeles:20260827T175000
+DTSTAMP:20260827T223500Z
+UID:197451
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 16:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further
+DTSTART;TZID=America/Los_Angeles:20260827T182000
+DTEND;TZID=America/Los_Angeles:20260827T203500
+DTSTAMP:20260828T012000Z
+UID:197453
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
+ 0 million at the global box office\, the Insidious franchise returns with 
+ a new family and a terror that  redefines what The Further is capable of. 
+ In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
+ her raising he\n\nEstimated start: 18:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260827T130000
+DTEND;TZID=America/Los_Angeles:20260827T150000
+DTSTAMP:20260827T200000Z
+UID:197481
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260827T154500
+DTEND;TZID=America/Los_Angeles:20260827T174500
+DTSTAMP:20260827T224500Z
+UID:197482
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 16:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260827T184000
+DTEND;TZID=America/Los_Angeles:20260827T204000
+DTSTAMP:20260828T014000Z
+UID:197483
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutiny
+DTSTART;TZID=America/Los_Angeles:20260827T213000
+DTEND;TZID=America/Los_Angeles:20260827T233000
+DTSTAMP:20260828T043000Z
+UID:197484
+DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
+ ssing his billionaire boss's murder and being framed for the crime\, Cole 
+ Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
+ s boss' death only to discover an international conspiracy.\n\nEstimated s
+ tart: 21:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2007,6 +4252,19 @@ DESCRIPTION:Duration: 152 mins (2h32m)\nScreen 1\n\nAdaptation of the firs
  ho learns on his eleventh birthday that he is the orphaned son of two powe
  rful wizards and possesses unique magical powers of his own. He is summone
  d from his l\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Insidious: Out of the Further (Subbed)
+DTSTART;TZID=America/Los_Angeles:20260827T212000
+DTEND;TZID=America/Los_Angeles:20260827T233500
+DTSTAMP:20260828T042000Z
+UID:197454
+DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nIn Insidious: Out of t
+ he Further\, Amelia Eve stars as Gemma\, a young mother raising her daught
+ er in the house she grew up in who discovers she can travel into The Furth
+ er\, the purgatorial realm of lost souls at the heart of the Insidious uni
+ verse. When so\n\nEstimated start: 21:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3317,8 +5575,9 @@ DTSTART;TZID=America/Los_Angeles:20260905T130000
 DTEND;TZID=America/Los_Angeles:20260905T151500
 DTSTAMP:20260905T200000Z
 UID:198150
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 11\n\n\n\nEstimated start: 
- 13:25
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 11\n\nAn insurance represen
+ tative lets himself be talked into a murder/insurance fraud scheme that ar
+ ouses an insurance investigator's suspicions.\n\nEstimated start: 13:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3327,8 +5586,9 @@ DTSTART;TZID=America/Los_Angeles:20260905T155000
 DTEND;TZID=America/Los_Angeles:20260905T180500
 DTSTAMP:20260905T225000Z
 UID:198147
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 11\n\n\n\nEstimated start: 
- 16:15
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 11\n\nAn insurance represen
+ tative lets himself be talked into a murder/insurance fraud scheme that ar
+ ouses an insurance investigator's suspicions.\n\nEstimated start: 16:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3337,8 +5597,9 @@ DTSTART;TZID=America/Los_Angeles:20260905T185000
 DTEND;TZID=America/Los_Angeles:20260905T210500
 DTSTAMP:20260906T015000Z
 UID:198148
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 11\n\n\n\nEstimated start: 
- 19:15
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 11\n\nAn insurance represen
+ tative lets himself be talked into a murder/insurance fraud scheme that ar
+ ouses an insurance investigator's suspicions.\n\nEstimated start: 19:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3347,8 +5608,9 @@ DTSTART;TZID=America/Los_Angeles:20260905T214000
 DTEND;TZID=America/Los_Angeles:20260905T235500
 DTSTAMP:20260906T044000Z
 UID:198149
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 11\n\n\n\nEstimated start: 
- 22:05
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 11\n\nAn insurance represen
+ tative lets himself be talked into a murder/insurance fraud scheme that ar
+ ouses an insurance investigator's suspicions.\n\nEstimated start: 22:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6235,6 +8497,32 @@ DTSTART;TZID=America/Los_Angeles:20261006T190000
 DTEND;TZID=America/Los_Angeles:20261006T212500
 DTSTAMP:20261007T020000Z
 UID:197746
+DESCRIPTION:Duration: 118 mins (1h58m)\nScreen 2\n\nADORE HIM is a new doc
+ udrama from the executive producer of the record-breaking and Gabriel Awar
+ d-winning Jesus Thirsts: The Miracle of the Eucharist (Fathom Entertainmen
+ t/2024) that aims to inspire deeper devotion to Jesus through Eucharistic 
+ adoration.\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Op: Cosi fan tutte Encore
+DTSTART;TZID=America/Los_Angeles:20261007T130000
+DTEND;TZID=America/Los_Angeles:20261007T172500
+DTSTAMP:20261007T200000Z
+UID:196393
+DESCRIPTION:Duration: 237 mins (3h57m)\nScreen 4\n\nThe Met: Live in HD se
+ ason continues with Mozart's satirical comedy of fickle young love. Phelim
+  McDermott's "colorful\, inventive" (The New York Times) staging\, inspire
+ d by Coney Island in the 1950s\, sets the uproarious story at a boardwalk 
+ amusement park\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adore Him: He Is Here
+DTSTART;TZID=America/Los_Angeles:20261007T190000
+DTEND;TZID=America/Los_Angeles:20261007T212500
+DTSTAMP:20261008T020000Z
+UID:197747
 DESCRIPTION:Duration: 118 mins (1h58m)\nScreen 2\n\nADORE HIM is a new doc
  udrama from the executive producer of the record-breaking and Gabriel Awar
  d-winning Jesus Thirsts: The Miracle of the Eucharist (Fathom Entertainmen
