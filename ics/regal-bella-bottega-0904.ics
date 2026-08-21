@@ -3,637 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Regal Bella Bottega
 X-WR-CALNAME:Cinema 🇺🇸 Regal Bella Bottega
-LAST-MODIFIED:20260820T150930Z
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260820T113000
-DTEND;TZID=America/Los_Angeles:20260820T142000
-DTSTAMP:20260820T183000Z
-UID:197738
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 11:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260820T123000
-DTEND;TZID=America/Los_Angeles:20260820T152000
-DTSTAMP:20260820T193000Z
-UID:198464
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 1\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 12:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260820T150000
-DTEND;TZID=America/Los_Angeles:20260820T175000
-DTSTAMP:20260820T220000Z
-UID:197737
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 15:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260820T183000
-DTEND;TZID=America/Los_Angeles:20260820T212000
-DTSTAMP:20260821T013000Z
-UID:197736
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 18:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Brand New Day
-DTSTART;TZID=America/Los_Angeles:20260820T215500
-DTEND;TZID=America/Los_Angeles:20260821T004500
-DTSTAMP:20260821T045500Z
-UID:197742
-DESCRIPTION:Duration: 145 mins (2h25m)\nScreen 5\n\nIt's a BRAND NEW DAY f
- or Peter Parker. Fighting crime full-time as Spider-Man in a world that do
- esn't remember him -- and the pressure of seeing his old friends move on w
- ithout him -- sparks a change in Peter he may not have the power to contro
- l. But that\n\nEstimated start: 22:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260820T140000
-DTEND;TZID=America/Los_Angeles:20260820T161500
-DTSTAMP:20260820T210000Z
-UID:197412
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious franchise returns with 
- a new family and a terror that  redefines what The Further is capable of. 
- In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
- her raising he\n\nEstimated start: 14:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260820T164000
-DTEND;TZID=America/Los_Angeles:20260820T185500
-DTSTAMP:20260820T234000Z
-UID:197413
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious franchise returns with 
- a new family and a terror that  redefines what The Further is capable of. 
- In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
- her raising he\n\nEstimated start: 17:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260820T192000
-DTEND;TZID=America/Los_Angeles:20260820T213500
-DTSTAMP:20260821T022000Z
-UID:197414
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious franchise returns with 
- a new family and a terror that  redefines what The Further is capable of. 
- In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
- her raising he\n\nEstimated start: 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insidious: Out of the Further
-DTSTART;TZID=America/Los_Angeles:20260820T220500
-DTEND;TZID=America/Los_Angeles:20260821T002000
-DTSTAMP:20260821T050500Z
-UID:197415
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 7\n\nHaving earned over $74
- 0 million at the global box office\, the Insidious franchise returns with 
- a new family and a terror that  redefines what The Further is capable of. 
- In Insidious: Out of the Further\, Amelia Eve stars as Gemma\, a young mot
- her raising he\n\nEstimated start: 22:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260820T114000
-DTEND;TZID=America/Los_Angeles:20260820T150000
-DTSTAMP:20260820T184000Z
-UID:198475
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 10\n\nChristopher Nolan's n
- ext film\, The Odyssey\, is a mythic action epic shot across the world usi
- ng brand new IMAX® film technology. The film brings Homer's foundational 
- saga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt 
- Damon\, Tom Holland\n\nEstimated start: 12:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260820T134000
-DTEND;TZID=America/Los_Angeles:20260820T170000
-DTSTAMP:20260820T204000Z
-UID:198468
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 2\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 14:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260820T173000
-DTEND;TZID=America/Los_Angeles:20260820T205000
-DTSTAMP:20260821T003000Z
-UID:198469
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 2\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 17:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Odyssey
-DTSTART;TZID=America/Los_Angeles:20260820T212000
-DTEND;TZID=America/Los_Angeles:20260821T004000
-DTSTAMP:20260821T042000Z
-UID:198470
-DESCRIPTION:Duration: 172 mins (2h52m)\nScreen 2\n\nChristopher Nolan's ne
- xt film\, The Odyssey\, is a mythic action epic shot across the world usin
- g brand new IMAX® film technology. The film brings Homer's foundational s
- aga to IMAX® film screens for the first time.\n\nThe Odyssey stars Matt D
- amon\, Tom Holland\n\nEstimated start: 21:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mutiny
-DTSTART;TZID=America/Los_Angeles:20260820T170000
-DTEND;TZID=America/Los_Angeles:20260820T190000
-DTSTAMP:20260821T000000Z
-UID:197409
-DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
- ssing his billionaire boss's murder and being framed for the crime\, Cole 
- Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
- s boss' death only to discover an international conspiracy.\n\nEstimated s
- tart: 17:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mutiny
-DTSTART;TZID=America/Los_Angeles:20260820T193000
-DTEND;TZID=America/Los_Angeles:20260820T213000
-DTSTAMP:20260821T023000Z
-UID:197410
-DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
- ssing his billionaire boss's murder and being framed for the crime\, Cole 
- Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
- s boss' death only to discover an international conspiracy.\n\nEstimated s
- tart: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mutiny
-DTSTART;TZID=America/Los_Angeles:20260820T221000
-DTEND;TZID=America/Los_Angeles:20260821T001000
-DTSTAMP:20260821T051000Z
-UID:197411
-DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 3\n\nIn MUTINY\, after witne
- ssing his billionaire boss's murder and being framed for the crime\, Cole 
- Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge hi
- s boss' death only to discover an international conspiracy.\n\nEstimated s
- tart: 22:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260820T133000
-DTEND;TZID=America/Los_Angeles:20260820T152500
-DTSTAMP:20260820T203000Z
-UID:196749
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 11\n\nAfter their ship gets 
- caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
- ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
- tranded on the island for years and has become an expert in all things din
- o-related. Wh\n\nEstimated start: 13:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260820T155500
-DTEND;TZID=America/Los_Angeles:20260820T175000
-DTSTAMP:20260820T225500Z
-UID:196751
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 11\n\nAfter their ship gets 
- caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
- ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
- tranded on the island for years and has become an expert in all things din
- o-related. Wh\n\nEstimated start: 16:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260820T182000
-DTEND;TZID=America/Los_Angeles:20260820T201500
-DTSTAMP:20260821T012000Z
-UID:196752
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 11\n\nAfter their ship gets 
- caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
- ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
- tranded on the island for years and has become an expert in all things din
- o-related. Wh\n\nEstimated start: 18:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie
-DTSTART;TZID=America/Los_Angeles:20260820T214500
-DTEND;TZID=America/Los_Angeles:20260820T234000
-DTSTAMP:20260821T044500Z
-UID:196754
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 6\n\nAfter their ship gets c
- aught in a mysterious storm\, the PAW Patrol crash land on an uncharted tr
- opical island filled with dinosaurs. They meet Rex\, a pup who has been st
- randed on the island for years and has become an expert in all things dino
- -related. Wh\n\nEstimated start: 22:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260820T111000
-DTEND;TZID=America/Los_Angeles:20260820T131500
-DTSTAMP:20260820T181000Z
-UID:196756
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 11:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260820T135000
-DTEND;TZID=America/Los_Angeles:20260820T155500
-DTSTAMP:20260820T205000Z
-UID:196758
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 14:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260820T163000
-DTEND;TZID=America/Los_Angeles:20260820T183500
-DTSTAMP:20260820T233000Z
-UID:196750
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260820T191000
-DTEND;TZID=America/Los_Angeles:20260820T211500
-DTSTAMP:20260821T021000Z
-UID:196753
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The End of Oak Street
-DTSTART;TZID=America/Los_Angeles:20260820T215000
-DTEND;TZID=America/Los_Angeles:20260820T235500
-DTSTAMP:20260821T045000Z
-UID:196755
-DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 4\n\nAfter a mysterious cosm
- ic event rips Oak Street from suburbia and transports their neighborhood t
- o someplace unknown\, the Platt family soon discovers that their very surv
- ival depends on them sticking together as they navigate their now unrecogn
- izable surr\n\nEstimated start: 22:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART;TZID=America/Los_Angeles:20260820T160000
-DTEND;TZID=America/Los_Angeles:20260820T181500
-DTSTAMP:20260820T230000Z
-UID:198486
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 1\n\nA 19-year-old Anthony 
- Bourdain travels to Provincetown and stumbles into the chaotic world of a 
- restaurant kitchen\, setting off a summer that will shape the course of hi
- s life.\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART;TZID=America/Los_Angeles:20260820T185000
-DTEND;TZID=America/Los_Angeles:20260820T210500
-DTSTAMP:20260821T015000Z
-UID:198487
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 1\n\nA 19-year-old Anthony 
- Bourdain travels to Provincetown and stumbles into the chaotic world of a 
- restaurant kitchen\, setting off a summer that will shape the course of hi
- s life.\n\nEstimated start: 19:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony
-DTSTART;TZID=America/Los_Angeles:20260820T213000
-DTEND;TZID=America/Los_Angeles:20260820T234500
-DTSTAMP:20260821T043000Z
-UID:198488
-DESCRIPTION:Duration: 106 mins (1h46m)\nScreen 1\n\nA 19-year-old Anthony 
- Bourdain travels to Provincetown and stumbles into the chaotic world of a 
- restaurant kitchen\, setting off a summer that will shape the course of hi
- s life.\n\nEstimated start: 21:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART;TZID=America/Los_Angeles:20260820T180000
-DTEND;TZID=America/Los_Angeles:20260820T202000
-DTSTAMP:20260821T010000Z
-UID:198489
-DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 8\n\nAfter years of slapdas
- h sequels and waning fandom\, the Camp Miasma slasher franchise is handed 
- over to an enthusiastic young director (Hannah Einbinder\, Hacks) for resu
- rrection. But when she visits the original movie's star (Gillian Anderson\
- , The X-Files\,\n\nEstimated start: 18:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Sex and Death at Camp Miasma
-DTSTART;TZID=America/Los_Angeles:20260820T213500
-DTEND;TZID=America/Los_Angeles:20260820T235500
-DTSTAMP:20260821T043500Z
-UID:198490
-DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 10\n\nAfter years of slapda
- sh sequels and waning fandom\, the Camp Miasma slasher franchise is handed
-  over to an enthusiastic young director (Hannah Einbinder\, Hacks) for res
- urrection. But when she visits the original movie's star (Gillian Anderson
- \, The X-Files\,\n\nEstimated start: 22:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Super Troopers 3
-DTSTART;TZID=America/Los_Angeles:20260820T112500
-DTEND;TZID=America/Los_Angeles:20260820T133500
-DTSTAMP:20260820T182500Z
-UID:198485
-DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nEveryone's favourite c
- ops are back with the third instalment of the cult comedy classic from the
-  Broken Lizard crew:  SUPER TROOPERS 3. When Farva's wildly over-the-top I
- ndian engagement to Thorny's sister spirals into chaos\, the Super Trooper
- s must navig\n\nEstimated start: 11:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260820T110000
-DTEND;TZID=America/Los_Angeles:20260820T131000
-DTSTAMP:20260820T180000Z
-UID:198467
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 2\n\nTwo strangers search f
- or love in an ever-so-slightly fictionalized New York on the one night of 
- the year when single people are allowed to have sex.\n\nEstimated start: 1
- 1:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Night Only
-DTSTART;TZID=America/Los_Angeles:20260820T153000
-DTEND;TZID=America/Los_Angeles:20260820T174000
-DTSTAMP:20260820T223000Z
-UID:198476
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 10\n\nTwo strangers search 
- for love in an ever-so-slightly fictionalized New York on the one night of
-  the year when single people are allowed to have sex.\n\nEstimated start: 
- 15:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260820T115000
-DTEND;TZID=America/Los_Angeles:20260820T134500
-DTSTAMP:20260820T185000Z
-UID:198461
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 12:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260820T141500
-DTEND;TZID=America/Los_Angeles:20260820T161000
-DTSTAMP:20260820T211500Z
-UID:198462
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 14:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions & Monsters
-DTSTART;TZID=America/Los_Angeles:20260820T163500
-DTEND;TZID=America/Los_Angeles:20260820T183000
-DTSTAMP:20260820T233500Z
-UID:198463
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nFresh off the worldwide
-  blockbuster success of summer 2024's funniest comedy\, Despicable Me 4\, 
- Illumination expands its joyful animated universe with a riotous new chapt
- er\, featuring all-new characters\, in the biggest global animated franchi
- se in history:\n\nEstimated start: 17:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260820T112000
-DTEND;TZID=America/Los_Angeles:20260820T134500
-DTSTAMP:20260820T182000Z
-UID:198480
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 3\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 11:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brink of War
-DTSTART;TZID=America/Los_Angeles:20260820T141000
-DTEND;TZID=America/Los_Angeles:20260820T163500
-DTSTAMP:20260820T211000Z
-UID:198484
-DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 3\n\nPresident Reagan races
-  against time to salvage a deal with Soviet leader Mikhail Gorbachev that 
- could dismantle nuclear arsenals-or ignite disaster. With pressure mountin
- g from advisors\, intelligence agencies\, and history itself\, every word 
- spoken brings\n\nEstimated start: 14:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260820T190000
-DTEND;TZID=America/Los_Angeles:20260820T211500
-DTSTAMP:20260821T020000Z
-UID:197231
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name.
-DTSTART;TZID=America/Los_Angeles:20260820T214000
-DTEND;TZID=America/Los_Angeles:20260820T235500
-DTSTAMP:20260821T044000Z
-UID:197232
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 9\n\nOne morning\, rural sc
- hoolgirl Mitsuha and city kid Taki awaken to discover that they've switche
- d bodies. The total strangers struggle to navigate each other's lives\, wa
- lking tightropes of intimacy and distance. But when they finally resolve t
- o meet\, the t\n\nEstimated start: 22:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vishwanath & Sons (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260820T110500
-DTEND;TZID=America/Los_Angeles:20260820T141000
-DTSTAMP:20260820T180500Z
-UID:198483
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nSanjay Vishwanath has 
- devoted decades to excellence as an international shooter. When age\, fami
- ly responsibilities\, and an unexpected romance collide with his ambitions
- \, he is forced to confront what truly makes a life worth living.\n\nEstim
- ated start: 11:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vishwanath & Sons (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260820T181000
-DTEND;TZID=America/Los_Angeles:20260820T211500
-DTSTAMP:20260821T011000Z
-UID:198481
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nSanjay Vishwanath has 
- devoted decades to excellence as an international shooter. When age\, fami
- ly responsibilities\, and an unexpected romance collide with his ambitions
- \, he is forced to confront what truly makes a life worth living.\n\nEstim
- ated start: 18:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAW Patrol: The Dino Movie (Subbed)
-DTSTART;TZID=America/Los_Angeles:20260820T111500
-DTEND;TZID=America/Los_Angeles:20260820T131000
-DTSTAMP:20260820T181500Z
-UID:196757
-DESCRIPTION:Duration: 88 mins (1h28m)\nScreen 11\n\nAfter their ship gets 
- caught in a mysterious storm\, the PAW Patrol crash land on an uncharted t
- ropical island filled with dinosaurs. They meet Rex\, a pup who has been s
- tranded on the island for years and has become an expert in all things din
- o-related. Wh\n\nEstimated start: 11:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DC (Tamil)
-DTSTART;TZID=America/Los_Angeles:20260820T112500
-DTEND;TZID=America/Los_Angeles:20260820T142500
-DTSTAMP:20260820T182500Z
-UID:198474
-DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 8\n\nRebel Devadas joins fo
- rces with Chandra in a dangerous world where passion and peril collide. Th
- eir turbulent alliance demands bloodshed and tests loyalties as survival b
- ecomes the ultimate stake in their fight.\n\nEstimated start: 11:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Batwara 1947
-DTSTART;TZID=America/Los_Angeles:20260820T144000
-DTEND;TZID=America/Los_Angeles:20260820T174000
-DTSTAMP:20260820T214000Z
-UID:198473
-DESCRIPTION:Duration: 155 mins (2h35m)\nScreen 8\n\nSet against the backdr
- op of one of history's most turbulent chapters\, Batwara 1947 tells the st
- ory of a man who chose courage in times of hatred and fear. \n\nDirected b
- y National Award-winning filmmaker\, Rajkumar Santoshi\, Batwara 1947 mark
- s the much-await\n\nEstimated start: 15:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Awarapan 2
-DTSTART;TZID=America/Los_Angeles:20260820T144500
-DTEND;TZID=America/Los_Angeles:20260820T174500
-DTSTAMP:20260820T214500Z
-UID:198482
-DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 6\n\nShivam returns to the 
- crime world\, where his path forward demands redemption\, love\, and sacri
- fice. As relationships deepen and conflicts intensify\, every choice tests
-  his resolve and shapes his destiny.\n\nEstimated start: 15:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Irumudi
-DTSTART;TZID=America/Los_Angeles:20260820T180500
-DTEND;TZID=America/Los_Angeles:20260820T211500
-DTSTAMP:20260821T010500Z
-UID:198704
-DESCRIPTION:Duration: 163 mins (2h43m)\nScreen 10\n\nIrumudi' is a rooted 
- family drama set against the powerful devotional backdrop of Lord Ayyappa.
-  Driven by grounded characters\, intense emotions\, and a realistic narrat
- ive\, the film blends family sentiment with thrilling moments that organic
- ally emerge fro\n\nEstimated start: 18:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Irumudi
-DTSTART;TZID=America/Los_Angeles:20260820T210000
-DTEND;TZID=America/Los_Angeles:20260821T001000
-DTSTAMP:20260821T040000Z
-UID:198705
-DESCRIPTION:Duration: 163 mins (2h43m)\nScreen 11\n\nIrumudi' is a rooted 
- family drama set against the powerful devotional backdrop of Lord Ayyappa.
-  Driven by grounded characters\, intense emotions\, and a realistic narrat
- ive\, the film blends family sentiment with thrilling moments that organic
- ally emerge fro\n\nEstimated start: 21:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vishwanath & Sons
-DTSTART;TZID=America/Los_Angeles:20260820T204000
-DTEND;TZID=America/Los_Angeles:20260820T234500
-DTSTAMP:20260821T034000Z
-UID:198479
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 8\n\nSanjay Vishwanath has 
- devoted decades to excellence as an international shooter. When age\, fami
- ly responsibilities\, and an unexpected romance collide with his ambitions
- \, he is forced to confront what truly makes a life worth living.\n\nEstim
- ated start: 21:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
+LAST-MODIFIED:20260821T145849Z
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Brand New Day
 DTSTART;TZID=America/Los_Angeles:20260821T112000
@@ -5914,7 +5284,7 @@ DTSTART;TZID=America/Los_Angeles:20260907T130000
 DTEND;TZID=America/Los_Angeles:20260907T153500
 DTSTAMP:20260907T200000Z
 UID:198171
-DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 11\n\nShoya Ishida starts b
+DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 10\n\nShoya Ishida starts b
  ullying the new girl in class\, Shoko Nishimiya\, because she is deaf. But
   as the teasing continues\, the rest of the class starts to turn on Shoya 
  for his lack of compassion. When they leave elementary school\, Shoko and 
@@ -5927,7 +5297,7 @@ DTSTART;TZID=America/Los_Angeles:20260907T162000
 DTEND;TZID=America/Los_Angeles:20260907T185500
 DTSTAMP:20260907T232000Z
 UID:198158
-DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 11\n\nShoya Ishida starts b
+DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 10\n\nShoya Ishida starts b
  ullying the new girl in class\, Shoko Nishimiya\, because she is deaf. But
   as the teasing continues\, the rest of the class starts to turn on Shoya 
  for his lack of compassion. When they leave elementary school\, Shoko and 
@@ -5940,7 +5310,7 @@ DTSTART;TZID=America/Los_Angeles:20260907T194000
 DTEND;TZID=America/Los_Angeles:20260907T221500
 DTSTAMP:20260908T024000Z
 UID:198157
-DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 11\n\nShoya Ishida starts b
+DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 10\n\nShoya Ishida starts b
  ullying the new girl in class\, Shoko Nishimiya\, because she is deaf. But
   as the teasing continues\, the rest of the class starts to turn on Shoya 
  for his lack of compassion. When they leave elementary school\, Shoko and 
@@ -6401,14 +5771,14 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Onslaught
-DTSTART;TZID=America/Los_Angeles:20260910T214000
-DTEND;TZID=America/Los_Angeles:20260910T234000
-DTSTAMP:20260911T044000Z
+DTSTART;TZID=America/Los_Angeles:20260910T220000
+DTEND;TZID=America/Los_Angeles:20260911T000000
+DTSTAMP:20260911T050000Z
 UID:198418
-DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 6\n\nWhen a rogue squad of g
+DESCRIPTION:Duration: 92 mins (1h32m)\nScreen 4\n\nWhen a rogue squad of g
  enetically engineered super soldiers break loose in the desert\, a badass 
  Army sniper must unleash hell to protect her young daughter.\n\nEstimated 
- start: 22:05
+ start: 22:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6465,15 +5835,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:By Any Means
-DTSTART;TZID=America/Los_Angeles:20260910T160000
-DTEND;TZID=America/Los_Angeles:20260910T181500
-DTSTAMP:20260910T230000Z
+DTSTART;TZID=America/Los_Angeles:20260910T161000
+DTEND;TZID=America/Los_Angeles:20260910T182500
+DTSTAMP:20260910T231000Z
 UID:198416
 DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 5\n\nBased on a true story\
  , a young Black FBI agent (Yahya Abdul-Mateen II) is sent into 1960s Missi
  ssippi to investigate a wave of brutal killings targeting civil rights lea
  ders. Forced to work alongside notorious mafia hitman Greg Scarpa (Mark Wa
- hlberg)\, he\n\nEstimated start: 16:25
+ hlberg)\, he\n\nEstimated start: 16:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6491,37 +5861,37 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:By Any Means
-DTSTART;TZID=America/Los_Angeles:20260910T213000
-DTEND;TZID=America/Los_Angeles:20260910T234500
-DTSTAMP:20260911T043000Z
+DTSTART;TZID=America/Los_Angeles:20260910T214000
+DTEND;TZID=America/Los_Angeles:20260910T235500
+DTSTAMP:20260911T044000Z
 UID:198414
-DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 5\n\nBased on a true story\
+DESCRIPTION:Duration: 107 mins (1h47m)\nScreen 6\n\nBased on a true story\
  , a young Black FBI agent (Yahya Abdul-Mateen II) is sent into 1960s Missi
  ssippi to investigate a wave of brutal killings targeting civil rights lea
  ders. Forced to work alongside notorious mafia hitman Greg Scarpa (Mark Wa
- hlberg)\, he\n\nEstimated start: 21:55
+ hlberg)\, he\n\nEstimated start: 22:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260910T161000
-DTEND;TZID=America/Los_Angeles:20260910T182500
-DTSTAMP:20260910T231000Z
+DTSTART;TZID=America/Los_Angeles:20260910T160000
+DTEND;TZID=America/Los_Angeles:20260910T183500
+DTSTAMP:20260910T230000Z
 UID:197751
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 16:35
+ l in a must-s\n\nEstimated start: 16:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
 DTSTART;TZID=America/Los_Angeles:20260910T190000
-DTEND;TZID=America/Los_Angeles:20260910T211500
+DTEND;TZID=America/Los_Angeles:20260910T213500
 DTSTAMP:20260911T020000Z
 UID:197752
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
@@ -6530,15 +5900,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260910T215000
+DTSTART;TZID=America/Los_Angeles:20260910T213000
 DTEND;TZID=America/Los_Angeles:20260911T000500
-DTSTAMP:20260911T045000Z
+DTSTAMP:20260911T043000Z
 UID:197753
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 5\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 22:15
+ l in a must-s\n\nEstimated start: 21:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6594,6 +5964,58 @@ DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 3\n\nIn the remote South Ko
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART;TZID=America/Los_Angeles:20260911T125000
+DTEND;TZID=America/Los_Angeles:20260911T152500
+DTSTAMP:20260911T195000Z
+UID:197754
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
+ k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
+ lit mischief and powerful ancestral magic\, as the Owens sisters must conf
+ ront the dark curse that threatens to unravel their family once and for al
+ l in a must-s\n\nEstimated start: 13:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART;TZID=America/Los_Angeles:20260911T155000
+DTEND;TZID=America/Los_Angeles:20260911T182500
+DTSTAMP:20260911T225000Z
+UID:198708
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
+ k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
+ lit mischief and powerful ancestral magic\, as the Owens sisters must conf
+ ront the dark curse that threatens to unravel their family once and for al
+ l in a must-s\n\nEstimated start: 16:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART;TZID=America/Los_Angeles:20260911T185000
+DTEND;TZID=America/Los_Angeles:20260911T212500
+DTSTAMP:20260912T015000Z
+UID:197756
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
+ k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
+ lit mischief and powerful ancestral magic\, as the Owens sisters must conf
+ ront the dark curse that threatens to unravel their family once and for al
+ l in a must-s\n\nEstimated start: 19:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART;TZID=America/Los_Angeles:20260911T215000
+DTEND;TZID=America/Los_Angeles:20260912T002500
+DTSTAMP:20260912T045000Z
+UID:197757
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
+ k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
+ lit mischief and powerful ancestral magic\, as the Owens sisters must conf
+ ront the dark curse that threatens to unravel their family once and for al
+ l in a must-s\n\nEstimated start: 22:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MOM2: Rear Window
 DTSTART;TZID=America/Los_Angeles:20260911T130000
 DTEND;TZID=America/Los_Angeles:20260911T152000
@@ -6643,58 +6065,6 @@ DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 9\n\nProfessional photograp
  n auto race. Confined to his New York apartment\, he spends his time looki
  ng out of the rear window observing the neighbors. He begins to suspect th
  at a man acr\n\nEstimated start: 21:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260911T132000
-DTEND;TZID=America/Los_Angeles:20260911T153500
-DTSTAMP:20260911T202000Z
-UID:197754
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
- k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
- lit mischief and powerful ancestral magic\, as the Owens sisters must conf
- ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 13:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260911T161000
-DTEND;TZID=America/Los_Angeles:20260911T182500
-DTSTAMP:20260911T231000Z
-UID:197755
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
- k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
- lit mischief and powerful ancestral magic\, as the Owens sisters must conf
- ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 16:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260911T190000
-DTEND;TZID=America/Los_Angeles:20260911T211500
-DTSTAMP:20260912T020000Z
-UID:197756
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
- k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
- lit mischief and powerful ancestral magic\, as the Owens sisters must conf
- ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260911T215000
-DTEND;TZID=America/Los_Angeles:20260912T000500
-DTSTAMP:20260912T045000Z
-UID:197757
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
- k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
- lit mischief and powerful ancestral magic\, as the Owens sisters must conf
- ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 22:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6822,10 +6192,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
 DTSTART;TZID=America/Los_Angeles:20260912T132000
-DTEND;TZID=America/Los_Angeles:20260912T153500
+DTEND;TZID=America/Los_Angeles:20260912T155500
 DTSTAMP:20260912T202000Z
 UID:197761
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
@@ -6834,37 +6204,37 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260912T161000
+DTSTART;TZID=America/Los_Angeles:20260912T155000
 DTEND;TZID=America/Los_Angeles:20260912T182500
-DTSTAMP:20260912T231000Z
-UID:197760
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DTSTAMP:20260912T225000Z
+UID:198709
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 5\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 16:35
+ l in a must-s\n\nEstimated start: 16:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260912T190000
-DTEND;TZID=America/Los_Angeles:20260912T211500
-DTSTAMP:20260913T020000Z
+DTSTART;TZID=America/Los_Angeles:20260912T185000
+DTEND;TZID=America/Los_Angeles:20260912T212500
+DTSTAMP:20260913T015000Z
 UID:197759
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 5\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 19:25
+ l in a must-s\n\nEstimated start: 19:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
 DTSTART;TZID=America/Los_Angeles:20260912T215000
-DTEND;TZID=America/Los_Angeles:20260913T000500
+DTEND;TZID=America/Los_Angeles:20260913T002500
 DTSTAMP:20260913T045000Z
 UID:197758
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 5\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
@@ -6885,55 +6255,55 @@ DESCRIPTION:Duration: 137 mins (2h17m)\nScreen 11\n\nExperience Oscar®-wi
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MOM2: E.T. the Extra-Terrestrial
+SUMMARY:Practical Magic 2
 DTSTART;TZID=America/Los_Angeles:20260913T113000
-DTEND;TZID=America/Los_Angeles:20260913T135000
+DTEND;TZID=America/Los_Angeles:20260913T140500
 DTSTAMP:20260913T183000Z
+UID:197765
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
+ k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
+ lit mischief and powerful ancestral magic\, as the Owens sisters must conf
+ ront the dark curse that threatens to unravel their family once and for al
+ l in a must-s\n\nEstimated start: 11:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART;TZID=America/Los_Angeles:20260913T143000
+DTEND;TZID=America/Los_Angeles:20260913T170500
+DTSTAMP:20260913T213000Z
+UID:197764
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
+ k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
+ lit mischief and powerful ancestral magic\, as the Owens sisters must conf
+ ront the dark curse that threatens to unravel their family once and for al
+ l in a must-s\n\nEstimated start: 14:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practical Magic 2
+DTSTART;TZID=America/Los_Angeles:20260913T173000
+DTEND;TZID=America/Los_Angeles:20260913T200500
+DTSTAMP:20260914T003000Z
+UID:197763
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
+ k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
+ lit mischief and powerful ancestral magic\, as the Owens sisters must conf
+ ront the dark curse that threatens to unravel their family once and for al
+ l in a must-s\n\nEstimated start: 17:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOM2: E.T. the Extra-Terrestrial
+DTSTART;TZID=America/Los_Angeles:20260913T115000
+DTEND;TZID=America/Los_Angeles:20260913T141000
+DTSTAMP:20260913T185000Z
 UID:198173
 DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 1\n\nJoin Elliot (Henry Tho
  mas)\, Gertie (Drew Barrymore) and Michael (Robert MacNaughton) as they co
  me together to help E.T. find his way back home. Winning four Academy Awar
  ds®\, including one for the iconic score by John Williams\, E.T. The Extr
- a-Terrestrial i\n\nEstimated start: 11:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260913T120000
-DTEND;TZID=America/Los_Angeles:20260913T141500
-DTSTAMP:20260913T190000Z
-UID:197765
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
- k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
- lit mischief and powerful ancestral magic\, as the Owens sisters must conf
- ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 12:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260913T145000
-DTEND;TZID=America/Los_Angeles:20260913T170500
-DTSTAMP:20260913T215000Z
-UID:197764
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
- k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
- lit mischief and powerful ancestral magic\, as the Owens sisters must conf
- ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 15:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260913T174000
-DTEND;TZID=America/Los_Angeles:20260913T195500
-DTSTAMP:20260914T004000Z
-UID:197763
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
- k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
- lit mischief and powerful ancestral magic\, as the Owens sisters must conf
- ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 18:05
+ a-Terrestrial i\n\nEstimated start: 12:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7037,10 +6407,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2 (Subbed)
 DTSTART;TZID=America/Los_Angeles:20260913T203000
-DTEND;TZID=America/Los_Angeles:20260913T224500
+DTEND;TZID=America/Los_Angeles:20260913T230500
 DTSTAMP:20260914T033000Z
 UID:197762
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
@@ -7050,10 +6420,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
 DTSTART;TZID=America/Los_Angeles:20260914T120000
-DTEND;TZID=America/Los_Angeles:20260914T141500
+DTEND;TZID=America/Los_Angeles:20260914T143500
 DTSTAMP:20260914T190000Z
-UID:197766
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+UID:197767
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 5\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
@@ -7062,41 +6432,41 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260914T144500
-DTEND;TZID=America/Los_Angeles:20260914T170000
-DTSTAMP:20260914T214500Z
-UID:197767
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DTSTART;TZID=America/Los_Angeles:20260914T150000
+DTEND;TZID=America/Los_Angeles:20260914T173500
+DTSTAMP:20260914T220000Z
+UID:198707
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 5\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 15:10
+ l in a must-s\n\nEstimated start: 15:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260914T173000
-DTEND;TZID=America/Los_Angeles:20260914T194500
-DTSTAMP:20260915T003000Z
+DTSTART;TZID=America/Los_Angeles:20260914T172000
+DTEND;TZID=America/Los_Angeles:20260914T195500
+DTSTAMP:20260915T002000Z
 UID:197768
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 17:55
+ l in a must-s\n\nEstimated start: 17:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260914T201500
-DTEND;TZID=America/Los_Angeles:20260914T223000
-DTSTAMP:20260915T031500Z
+DTSTART;TZID=America/Los_Angeles:20260914T202000
+DTEND;TZID=America/Los_Angeles:20260914T225500
+DTSTAMP:20260915T032000Z
 UID:197769
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 20:40
+ l in a must-s\n\nEstimated start: 20:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7214,10 +6584,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
 DTSTART;TZID=America/Los_Angeles:20260915T120000
-DTEND;TZID=America/Los_Angeles:20260915T141500
+DTEND;TZID=America/Los_Angeles:20260915T143500
 DTSTAMP:20260915T190000Z
 UID:197773
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 5\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
@@ -7226,41 +6596,41 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260915T144500
-DTEND;TZID=America/Los_Angeles:20260915T170000
-DTSTAMP:20260915T214500Z
+DTSTART;TZID=America/Los_Angeles:20260915T150000
+DTEND;TZID=America/Los_Angeles:20260915T173500
+DTSTAMP:20260915T220000Z
 UID:197772
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 5\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 15:10
+ l in a must-s\n\nEstimated start: 15:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260915T173000
-DTEND;TZID=America/Los_Angeles:20260915T194500
-DTSTAMP:20260916T003000Z
+DTSTART;TZID=America/Los_Angeles:20260915T172000
+DTEND;TZID=America/Los_Angeles:20260915T195500
+DTSTAMP:20260916T002000Z
 UID:197771
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 17:55
+ l in a must-s\n\nEstimated start: 17:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260915T201500
-DTEND;TZID=America/Los_Angeles:20260915T223000
-DTSTAMP:20260916T031500Z
+DTSTART;TZID=America/Los_Angeles:20260915T202000
+DTEND;TZID=America/Los_Angeles:20260915T225500
+DTSTAMP:20260916T032000Z
 UID:197770
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 20:40
+ l in a must-s\n\nEstimated start: 20:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7354,10 +6724,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2 (Subbed)
 DTSTART;TZID=America/Los_Angeles:20260916T120000
-DTEND;TZID=America/Los_Angeles:20260916T141500
+DTEND;TZID=America/Los_Angeles:20260916T143500
 DTSTAMP:20260916T190000Z
 UID:197777
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 5\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
@@ -7457,41 +6827,41 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260916T144500
-DTEND;TZID=America/Los_Angeles:20260916T170000
-DTSTAMP:20260916T214500Z
+DTSTART;TZID=America/Los_Angeles:20260916T150000
+DTEND;TZID=America/Los_Angeles:20260916T173500
+DTSTAMP:20260916T220000Z
 UID:197776
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 5\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 15:10
+ l in a must-s\n\nEstimated start: 15:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260916T173000
-DTEND;TZID=America/Los_Angeles:20260916T194500
-DTSTAMP:20260917T003000Z
+DTSTART;TZID=America/Los_Angeles:20260916T172000
+DTEND;TZID=America/Los_Angeles:20260916T195500
+DTSTAMP:20260917T002000Z
 UID:197775
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 17:55
+ l in a must-s\n\nEstimated start: 17:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260916T201500
-DTEND;TZID=America/Los_Angeles:20260916T223000
-DTSTAMP:20260917T031500Z
+DTSTART;TZID=America/Los_Angeles:20260916T202000
+DTEND;TZID=America/Los_Angeles:20260916T225500
+DTSTAMP:20260917T032000Z
 UID:197774
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 20:40
+ l in a must-s\n\nEstimated start: 20:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7510,10 +6880,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
 DTSTART;TZID=America/Los_Angeles:20260917T120000
-DTEND;TZID=America/Los_Angeles:20260917T141500
+DTEND;TZID=America/Los_Angeles:20260917T143500
 DTSTAMP:20260917T190000Z
 UID:197781
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 5\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
@@ -7522,41 +6892,41 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260917T144500
-DTEND;TZID=America/Los_Angeles:20260917T170000
-DTSTAMP:20260917T214500Z
+DTSTART;TZID=America/Los_Angeles:20260917T150000
+DTEND;TZID=America/Los_Angeles:20260917T173500
+DTSTAMP:20260917T220000Z
 UID:197780
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 5\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 15:10
+ l in a must-s\n\nEstimated start: 15:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260917T173000
-DTEND;TZID=America/Los_Angeles:20260917T194500
-DTSTAMP:20260918T003000Z
+DTSTART;TZID=America/Los_Angeles:20260917T172000
+DTEND;TZID=America/Los_Angeles:20260917T195500
+DTSTAMP:20260918T002000Z
 UID:197779
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 17:55
+ l in a must-s\n\nEstimated start: 17:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Practical Magic 2
-DTSTART;TZID=America/Los_Angeles:20260917T201500
-DTEND;TZID=America/Los_Angeles:20260917T223000
-DTSTAMP:20260918T031500Z
+DTSTART;TZID=America/Los_Angeles:20260917T202000
+DTEND;TZID=America/Los_Angeles:20260917T225500
+DTSTAMP:20260918T032000Z
 UID:197778
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nStarring Sandra Bulloc
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nStarring Sandra Bulloc
  k and Nicole Kidman\, Practical Magic 2 returns to a world steeped in moon
  lit mischief and powerful ancestral magic\, as the Owens sisters must conf
  ront the dark curse that threatens to unravel their family once and for al
- l in a must-s\n\nEstimated start: 20:40
+ l in a must-s\n\nEstimated start: 20:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -8473,6 +7843,19 @@ DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 4\n\nDuring her family's mo
  ve to the suburbs\, a sullen 10-year-old girl wanders into a world ruled b
  y gods\, witches\, and spirits\, and where humans are changed into beasts.
  \n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gone with the Wind
+DTSTART;TZID=America/Los_Angeles:20261010T130000
+DTEND;TZID=America/Los_Angeles:20261010T172500
+DTSTAMP:20261010T200000Z
+UID:188108
+DESCRIPTION:Duration: 237 mins (3h57m)\nScreen 11\n\nClark Gable\, Vivien 
+ Leigh\, Olivia de Havilland and Hattie McDaniel star in this classic epic 
+ of the American South.\n\nOn the eve of the United States Civil War\, rich
+ \, beautiful and self-centered Scarlett O'Hara (Leigh) has everything she 
+ could want-except\n\nEstimated start: 13:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 END:VCALENDAR
