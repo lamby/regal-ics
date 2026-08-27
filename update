@@ -246,11 +246,12 @@ class RegalICS:
         val = re.sub(r"Open Cap/Eng Sub", "Subbed", val, flags=re.IGNORECASE)
 
         val = re.sub(r"\s+-\s+Early Access$", "", val, flags=re.IGNORECASE)
-        val = re.sub(r"^SMX\d+:\s+", "", val, flags=re.IGNORECASE)
-        val = re.sub(r"\s+\d+..\s+Anniversary$", "", val, flags=re.IGNORECASE)
+        val = re.sub(r"^[A-Z]{2,3}\d+:\s+", "", val, flags=re.IGNORECASE)
 
         val = re.sub(r"\s+-\s+Ghibli\s+\d+$", "", val, flags=re.IGNORECASE)
         val = re.sub(r"Anniv\.?$", "Anniversary", val, flags=re.IGNORECASE)
+
+        val = re.sub(r"\s+\d+..\s+Anniversary$", "", val, flags=re.IGNORECASE)
 
         return val
 
