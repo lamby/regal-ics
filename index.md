@@ -39,7 +39,7 @@ layout: default
 <ul class="list-unstyled">
 {% for theatre in site.data.theatres %}
 <li>
-    <a class="btn mt-1 btn-primary" href="ics/{{ theatre.path_name }}.ics?{{ site.github.build_revision }}">{{ theatre.name }}</a> {{ theatre.address }}, {{ theatre.city }} {{ theatre.state }}
+    <a class="btn mt-1 btn-primary" href="ics/{{ theatre.path_name }}.ics?{{ site.github.build_revision }}">{{ theatre.name }}</a> ({{ theatre.address }}, {{ theatre.city }}, {{ theatre.state }})
 </li>
 {% endfor %}
 </ul>
@@ -48,12 +48,25 @@ layout: default
 
 <h2 class="mt-5 mb-3">Instructions</h2>
 
-<p>
-  <img src="assets/screenshot.png?{{ site.github.build_revision }}">
-</p>
+<ol>
+
+<li>Right-click the button for the above theatres and select <em>Copy link address</em>.</li>
+
+<li>Load your calendar app such as Google Calendar.<li>
+
+<li>Add a new calendar from URL:
+    <img src="assets/screenshot.png?{{ site.github.build_revision }}">
+</li>
+
+<li>Use the link you copied in Step 1 to add the calendar.</li>
+
+</ol>
 
 <p>
-  Copy-paste an ICS link from above, and import using <em>From URL</em> within Google Calendar.
+    Note that the calendar may time some time to refresh in Google Calendar,
+    and it is opaque how often Google will update its version of the calendar.
+    (On initial import, the events may also trickle in over an hour.) These are
+    all issues on Google's end, alas.
 </p>
 
 <p class="mt-5"><a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}">Last update</a></p>
