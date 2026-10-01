@@ -2,8 +2,8 @@
   api_concessions_enabled: true
   city: Redmond
   concessions_enabled: true
-  display_fees: false
-  display_taxes: false
+  display_fees: true
+  display_taxes: true
   iana_timezone: US/Pacific
   latitude: 47.6811
   longitude: -122.1232
