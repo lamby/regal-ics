@@ -3,279 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Regal Bella Bottega
 X-WR-CALNAME:Cinema 🇺🇸 Regal Bella Bottega
-LAST-MODIFIED:20261005T162041Z
-BEGIN:VEVENT
-SUMMARY:Verity
-DTSTART;TZID=America/Los_Angeles:20261005T160000
-DTEND;TZID=America/Los_Angeles:20261005T182000
-DTSTAMP:20261005T230000Z
-UID:199065
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 1\n\nStruggling writer Lowe
- n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
- nder mysterious circumstances\, but her assignment takes a dark turn after
-  discovering chilling autobiographical notes. Faced with a series of deadl
- y family sec\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Verity
-DTSTART;TZID=America/Los_Angeles:20261005T185000
-DTEND;TZID=America/Los_Angeles:20261005T211000
-DTSTAMP:20261006T015000Z
-UID:199066
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 10\n\nStruggling writer Low
- en Ashleigh is hired as a ghostwriter for renowned author Verity Crawford 
- under mysterious circumstances\, but her assignment takes a dark turn afte
- r discovering chilling autobiographical notes. Faced with a series of dead
- ly family sec\n\nEstimated start: 19:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART;TZID=America/Los_Angeles:20261005T183000
-DTEND;TZID=America/Los_Angeles:20261005T210500
-DTSTAMP:20261006T013000Z
-UID:200128
-DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 5\n\nThe most powerful man 
- in the world embarks on a frantic mission to prove he is humanity's saviou
- r before the disaster he's unleashed destroys everything.\n\nEstimated sta
- rt: 18:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART;TZID=America/Los_Angeles:20261005T162000
-DTEND;TZID=America/Los_Angeles:20261005T182000
-DTSTAMP:20261005T232000Z
-UID:200492
-DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
- ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
- errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
- ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
- unwittingly fin\n\nEstimated start: 16:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART;TZID=America/Los_Angeles:20261005T194000
-DTEND;TZID=America/Los_Angeles:20261005T214000
-DTSTAMP:20261006T024000Z
-UID:200494
-DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 11\n\nFrom the mind of visio
- nary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and 
- terrifying\n- reinvention of the Resident Evil franchise. In an all-new st
- ory\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who
-  unwittingly fin\n\nEstimated start: 20:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heart of the Beast
-DTSTART;TZID=America/Los_Angeles:20261005T200000
-DTEND;TZID=America/Los_Angeles:20261005T221000
-DTSTAMP:20261006T030000Z
-UID:200499
-DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
- e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
- dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
- ther\, they are forced into a brutal fight for survival against the elemen
- ts. From acclai\n\nEstimated start: 20:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers Endgame: Encore
-DTSTART;TZID=America/Los_Angeles:20261005T150000
-DTEND;TZID=America/Los_Angeles:20261005T183000
-DTSTAMP:20261005T220000Z
-UID:200502
-DESCRIPTION:Duration: 185 mins (3h05m)\nScreen 3\n\nThe grave course of ev
- ents set in motion by Thanos that wiped out half the universe and fracture
- d the Avengers ranks compels the remaining Avengers to take one final stan
- d in Marvel Studios' grand conclusion to twenty-two films\, "Avengers: End
- game."\n\nEstimated start: 15:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART;TZID=America/Los_Angeles:20261005T161000
-DTEND;TZID=America/Los_Angeles:20261005T182500
-DTSTAMP:20261005T231000Z
-UID:200496
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nIn 2006\, To Catch a P
- redator host Chris Hansen sets out to make television history.\n\nEstimate
- d start: 16:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART;TZID=America/Los_Angeles:20261005T193000
-DTEND;TZID=America/Los_Angeles:20261005T214500
-DTSTAMP:20261006T023000Z
-UID:200497
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 4\n\nIn 2006\, To Catch a P
- redator host Chris Hansen sets out to make television history.\n\nEstimate
- d start: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forgotten Island
-DTSTART;TZID=America/Los_Angeles:20261005T154000
-DTEND;TZID=America/Los_Angeles:20261005T175500
-DTSTAMP:20261005T224000Z
-UID:200500
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 2\n\nWhile celebrating thei
- r last night together\, Jo and Raissa stumble upon a mysterious portal tha
- t transports them to the fantastical island of Nakali\, packed with magica
- l and mythological creatures they grew up hearing stories about from their
-  Filipino fam\n\nEstimated start: 16:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forgotten Island
-DTSTART;TZID=America/Los_Angeles:20261005T192000
-DTEND;TZID=America/Los_Angeles:20261005T213500
-DTSTAMP:20261006T022000Z
-UID:200501
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nWhile celebrating thei
- r last night together\, Jo and Raissa stumble upon a mysterious portal tha
- t transports them to the fantastical island of Nakali\, packed with magica
- l and mythological creatures they grew up hearing stories about from their
-  Filipino fam\n\nEstimated start: 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monday Mystery Movie (10/5)
-DTSTART;TZID=America/Los_Angeles:20261005T190000
-DTEND;TZID=America/Los_Angeles:20261005T214000
-DTSTAMP:20261006T020000Z
-UID:200113
-DESCRIPTION:Duration: 134 mins (2h14m)\nScreen 8\n\nShhh! Be the first to 
- see this NEW movie before its official release date for only $5... We just
-  can't tell you the title! The next Monday Mystery Movie at Regal is on Oc
- tober 5th!\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:007: Casino Royale
-DTSTART;TZID=America/Los_Angeles:20261005T190000
-DTEND;TZID=America/Los_Angeles:20261005T215000
-DTSTAMP:20261006T020000Z
-UID:200301
-DESCRIPTION:Duration: 144 mins (2h24m)\nScreen 7\n\nAfter receiving a lice
- nse to kill\, British Secret Service agent James Bond (Daniel Craig) heads
-  to Madagascar\, where he uncovers a link to Le Chiffre (Mads Mikkelsen)\,
-  a man who finances terrorist organizations. Learning that Le Chiffre plan
- s to raise mon\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Don't Trouble the Trouble
-DTSTART;TZID=America/Los_Angeles:20261005T151000
-DTEND;TZID=America/Los_Angeles:20261005T182500
-DTSTAMP:20261005T221000Z
-UID:200491
-DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 10\n\nFollows Suri\, a magi
- cian\, who accidentally makes a young girl vanish with a spell. The girl\,
-  revealed to be a genie who grants wishes\, explores the city and unleashe
- s her powers when angered.\n\nEstimated start: 15:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drishyam: The Conclusion
-DTSTART;TZID=America/Los_Angeles:20261005T152000
-DTEND;TZID=America/Los_Angeles:20261005T182500
-DTSTAMP:20261005T222000Z
-UID:200495
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 7\n\nFollow the Salgaonkar 
- family as they try to cover up a murder.\n\nEstimated start: 15:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drishyam: The Conclusion
-DTSTART;TZID=America/Los_Angeles:20261005T191000
-DTEND;TZID=America/Los_Angeles:20261005T221500
-DTSTAMP:20261006T021000Z
-UID:200548
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 1\n\nFollow the Salgaonkar 
- family as they try to cover up a murder.\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261005T153000
-DTEND;TZID=America/Los_Angeles:20261005T180500
-DTSTAMP:20261005T223000Z
-UID:200130
-DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 5\n\nThe most powerful man 
- in the world embarks on a frantic mission to prove he is humanity's saviou
- r before the disaster he's unleashed destroys everything.\n\nEstimated sta
- rt: 15:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hanuman Ansh
-DTSTART;TZID=America/Los_Angeles:20261005T155000
-DTEND;TZID=America/Los_Angeles:20261005T184500
-DTSTAMP:20261005T225000Z
-UID:200490
-DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 11\n\nAfter the death of hi
- s mother\, a young boy leaves his home in grief\, believing that only by f
- inding God can he meet her again. His search takes him across temples\, fo
- rests\, rivers and villages\, where he lives in silence\, discipline and d
- evotion\, slowly sh\n\nEstimated start: 16:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heart of the Beast (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261005T163000
-DTEND;TZID=America/Los_Angeles:20261005T184000
-DTSTAMP:20261005T233000Z
-UID:200498
-DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
- e crash\, Special Forces officer James Belmont (Brad Pitt) and his combat 
- dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
- ther\, they are forced into a brutal fight for survival against the elemen
- ts. From acclai\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poltergeist
-DTSTART;TZID=America/Los_Angeles:20261005T170000
-DTEND;TZID=America/Los_Angeles:20261005T192000
-DTSTAMP:20261006T000000Z
-UID:199803
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 9\n\nSteve Freeling lives w
- ith his wife\, Diane\, and their three children\, Dana\, Robbie\, and Caro
- l Anne\, in Southern California where he sells houses for the company that
-  built the neighborhood. It starts with just a few odd occurrences\, such 
- as broken dishes a\n\nEstimated start: 17:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poltergeist
-DTSTART;TZID=America/Los_Angeles:20261005T195000
-DTEND;TZID=America/Los_Angeles:20261005T221000
-DTSTAMP:20261006T025000Z
-UID:199802
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 9\n\nSteve Freeling lives w
- ith his wife\, Diane\, and their three children\, Dana\, Robbie\, and Caro
- l Anne\, in Southern California where he sells houses for the company that
-  built the neighborhood. It starts with just a few odd occurrences\, such 
- as broken dishes a\n\nEstimated start: 20:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers Endgame: Encore (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261005T182000
-DTEND;TZID=America/Los_Angeles:20261005T215000
-DTSTAMP:20261006T012000Z
-UID:200503
-DESCRIPTION:Duration: 185 mins (3h05m)\nScreen 2\n\nThe grave course of ev
- ents set in motion by Thanos that wiped out half the universe and fracture
- d the Avengers ranks compels the remaining Avengers to take one final stan
- d in Marvel Studios' grand conclusion to twenty-two films\, "Avengers: End
- game."\n\nEstimated start: 18:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
+LAST-MODIFIED:20261006T144254Z
 BEGIN:VEVENT
 SUMMARY:Verity
 DTSTART;TZID=America/Los_Angeles:20261006T134000
@@ -1006,15 +734,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Verity
-DTSTART;TZID=America/Los_Angeles:20261008T150000
-DTEND;TZID=America/Los_Angeles:20261008T172000
-DTSTAMP:20261008T220000Z
+DTSTART;TZID=America/Los_Angeles:20261008T145000
+DTEND;TZID=America/Los_Angeles:20261008T171000
+DTSTAMP:20261008T215000Z
 UID:199074
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nStruggling writer Lowe
- n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
- nder mysterious circumstances\, but her assignment takes a dark turn after
-  discovering chilling autobiographical notes. Faced with a series of deadl
- y family sec\n\nEstimated start: 15:25
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 10\n\nStruggling writer Low
+ en Ashleigh is hired as a ghostwriter for renowned author Verity Crawford 
+ under mysterious circumstances\, but her assignment takes a dark turn afte
+ r discovering chilling autobiographical notes. Faced with a series of dead
+ ly family sec\n\nEstimated start: 15:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1023,11 +751,11 @@ DTSTART;TZID=America/Los_Angeles:20261008T180000
 DTEND;TZID=America/Los_Angeles:20261008T202000
 DTSTAMP:20261009T010000Z
 UID:199073
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nStruggling writer Lowe
- n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
- nder mysterious circumstances\, but her assignment takes a dark turn after
-  discovering chilling autobiographical notes. Faced with a series of deadl
- y family sec\n\nEstimated start: 18:25
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 10\n\nStruggling writer Low
+ en Ashleigh is hired as a ghostwriter for renowned author Verity Crawford 
+ under mysterious circumstances\, but her assignment takes a dark turn afte
+ r discovering chilling autobiographical notes. Faced with a series of dead
+ ly family sec\n\nEstimated start: 18:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1036,47 +764,11 @@ DTSTART;TZID=America/Los_Angeles:20261008T210000
 DTEND;TZID=America/Los_Angeles:20261008T232000
 DTSTAMP:20261009T040000Z
 UID:199705
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nStruggling writer Lowe
- n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
- nder mysterious circumstances\, but her assignment takes a dark turn after
-  discovering chilling autobiographical notes. Faced with a series of deadl
- y family sec\n\nEstimated start: 21:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART;TZID=America/Los_Angeles:20261008T151000
-DTEND;TZID=America/Los_Angeles:20261008T174500
-DTSTAMP:20261008T221000Z
-UID:200137
-DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 9\n\nThe most powerful man 
- in the world embarks on a frantic mission to prove he is humanity's saviou
- r before the disaster he's unleashed destroys everything.\n\nEstimated sta
- rt: 15:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART;TZID=America/Los_Angeles:20261008T181000
-DTEND;TZID=America/Los_Angeles:20261008T204500
-DTSTAMP:20261009T011000Z
-UID:200138
-DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 9\n\nThe most powerful man 
- in the world embarks on a frantic mission to prove he is humanity's saviou
- r before the disaster he's unleashed destroys everything.\n\nEstimated sta
- rt: 18:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART;TZID=America/Los_Angeles:20261008T211000
-DTEND;TZID=America/Los_Angeles:20261008T234500
-DTSTAMP:20261009T041000Z
-UID:200139
-DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 9\n\nThe most powerful man 
- in the world embarks on a frantic mission to prove he is humanity's saviou
- r before the disaster he's unleashed destroys everything.\n\nEstimated sta
- rt: 21:35
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 10\n\nStruggling writer Low
+ en Ashleigh is hired as a ghostwriter for renowned author Verity Crawford 
+ under mysterious circumstances\, but her assignment takes a dark turn afte
+ r discovering chilling autobiographical notes. Faced with a series of dead
+ ly family sec\n\nEstimated start: 21:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1331,13 +1023,13 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In the Mouth of Madness
-DTSTART;TZID=America/Los_Angeles:20261009T143000
-DTEND;TZID=America/Los_Angeles:20261009T163000
-DTSTAMP:20261009T213000Z
+DTSTART;TZID=America/Los_Angeles:20261009T143500
+DTEND;TZID=America/Los_Angeles:20261009T163500
+DTSTAMP:20261009T213500Z
 UID:199821
 DESCRIPTION:Duration: 95 mins (1h35m)\nScreen 11\n\nAn insurance investiga
  tor begins discovering that the impact a horror writer's books have on his
-  fans is more than inspirational.\n\nEstimated start: 14:55
+  fans is more than inspirational.\n\nEstimated start: 15:00
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1375,15 +1067,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Social Reckoning
-DTSTART;TZID=America/Los_Angeles:20261009T123000
-DTEND;TZID=America/Los_Angeles:20261009T145000
-DTSTAMP:20261009T193000Z
+DTSTART;TZID=America/Los_Angeles:20261009T122000
+DTEND;TZID=America/Los_Angeles:20261009T144000
+DTSTAMP:20261009T192000Z
 UID:200171
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
  s and the whistleblower who started  the social media reckoning we're seei
  ng play out today\, this Aaron Sorkin original  screenplay is a companion 
  piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 12:55
+ ry. Frances\n\nEstimated start: 12:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1453,28 +1145,28 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goosebumps
-DTSTART;TZID=America/Los_Angeles:20261010T110000
-DTEND;TZID=America/Los_Angeles:20261010T131000
-DTSTAMP:20261010T180000Z
+DTSTART;TZID=America/Los_Angeles:20261010T110500
+DTEND;TZID=America/Los_Angeles:20261010T131500
+DTSTAMP:20261010T180500Z
 UID:199827
 DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 9\n\nUpset about moving fro
  m a big city to a small town\, teenager Zach Cooper (Dylan Minnette) finds
   a silver lining when he meets the beautiful girl\, Hannah (Odeya Rush)\, 
  living right next door. But every silver lining has a cloud\, and Zach's c
- omes when he le\n\nEstimated start: 11:25
+ omes when he le\n\nEstimated start: 11:30
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Mommy
-DTSTART;TZID=America/Los_Angeles:20261010T115000
-DTEND;TZID=America/Los_Angeles:20261010T135000
-DTSTAMP:20261010T185000Z
+DTSTART;TZID=America/Los_Angeles:20261010T114000
+DTEND;TZID=America/Los_Angeles:20261010T134000
+DTSTAMP:20261010T184000Z
 UID:199716
 DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 5\n\nBela\, an 8-year-old gi
  rl living in a home with marital problems\, confronts a sinister entity th
  at comes out of her closet. The presence\, whom she calls "Other Mommy\," 
  becomes increasingly threatening to her and her family.\n\nEstimated start
- : 12:15
+ : 12:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1531,28 +1223,28 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Social Reckoning
-DTSTART;TZID=America/Los_Angeles:20261010T123000
-DTEND;TZID=America/Los_Angeles:20261010T145000
-DTSTAMP:20261010T193000Z
+DTSTART;TZID=America/Los_Angeles:20261010T120000
+DTEND;TZID=America/Los_Angeles:20261010T142000
+DTSTAMP:20261010T190000Z
 UID:200174
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
  s and the whistleblower who started  the social media reckoning we're seei
  ng play out today\, this Aaron Sorkin original  screenplay is a companion 
  piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 12:55
+ ry. Frances\n\nEstimated start: 12:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Social Reckoning
-DTSTART;TZID=America/Los_Angeles:20261010T152000
-DTEND;TZID=America/Los_Angeles:20261010T174000
-DTSTAMP:20261010T222000Z
+DTSTART;TZID=America/Los_Angeles:20261010T151000
+DTEND;TZID=America/Los_Angeles:20261010T173000
+DTSTAMP:20261010T221000Z
 UID:200173
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
  s and the whistleblower who started  the social media reckoning we're seei
  ng play out today\, this Aaron Sorkin original  screenplay is a companion 
  piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 15:45
+ ry. Frances\n\nEstimated start: 15:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1608,26 +1300,26 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pet Sematary
-DTSTART;TZID=America/Los_Angeles:20261010T162000
-DTEND;TZID=America/Los_Angeles:20261010T183000
-DTSTAMP:20261010T232000Z
+DTSTART;TZID=America/Los_Angeles:20261010T161500
+DTEND;TZID=America/Los_Angeles:20261010T182500
+DTSTAMP:20261010T231500Z
 UID:199824
 DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 9\n\nBehind a young family'
  s home in Maine is a terrible secret that holds the power of life after de
  ath. When tragedy strikes\, the threat of that power soon becomes undeniab
- le.\n\nEstimated start: 16:45
+ le.\n\nEstimated start: 16:40
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pet Sematary
-DTSTART;TZID=America/Los_Angeles:20261010T190000
-DTEND;TZID=America/Los_Angeles:20261010T211000
-DTSTAMP:20261011T020000Z
+DTSTART;TZID=America/Los_Angeles:20261010T185000
+DTEND;TZID=America/Los_Angeles:20261010T210000
+DTSTAMP:20261011T015000Z
 UID:199825
 DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 9\n\nBehind a young family'
  s home in Maine is a terrible secret that holds the power of life after de
  ath. When tragedy strikes\, the threat of that power soon becomes undeniab
- le.\n\nEstimated start: 19:25
+ le.\n\nEstimated start: 19:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1875,6 +1567,32 @@ DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 5\n\nBela\, an 8-year-old gi
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pan's Labyrinth 20th Anniversary (Spanish)
+DTSTART;TZID=America/Los_Angeles:20261012T160000
+DTEND;TZID=America/Los_Angeles:20261012T183000
+DTSTAMP:20261012T230000Z
+UID:200769
+DESCRIPTION:Duration: 124 mins (2h04m)\nScreen 3\n\nCelebrating its 20th A
+ nniversary\, Guillermo del Toro's Pan's Labyrinth is an Academy Award-winn
+ ing dark fable set in 1944\, five years after the end of the Spanish Civil
+  War. Eleven-year-old Ofelia (Ivana Baquero\, in a mature and tender perfo
+ rmance) comes\n\nEstimated start: 16:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pan's Labyrinth 20th Anniversary (Spanish)
+DTSTART;TZID=America/Los_Angeles:20261012T191000
+DTEND;TZID=America/Los_Angeles:20261012T214000
+DTSTAMP:20261013T021000Z
+UID:199044
+DESCRIPTION:Duration: 124 mins (2h04m)\nScreen 3\n\nCelebrating its 20th A
+ nniversary\, Guillermo del Toro's Pan's Labyrinth is an Academy Award-winn
+ ing dark fable set in 1944\, five years after the end of the Spanish Civil
+  War. Eleven-year-old Ofelia (Ivana Baquero\, in a mature and tender perfo
+ rmance) comes\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Social Reckoning
 DTSTART;TZID=America/Los_Angeles:20261012T161000
 DTEND;TZID=America/Los_Angeles:20261012T183000
@@ -1889,15 +1607,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Social Reckoning
-DTSTART;TZID=America/Los_Angeles:20261012T190000
-DTEND;TZID=America/Los_Angeles:20261012T212000
-DTSTAMP:20261013T020000Z
+DTSTART;TZID=America/Los_Angeles:20261012T190500
+DTEND;TZID=America/Los_Angeles:20261012T212500
+DTSTAMP:20261013T020500Z
 UID:200182
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
  s and the whistleblower who started  the social media reckoning we're seei
  ng play out today\, this Aaron Sorkin original  screenplay is a companion 
  piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 19:25
+ ry. Frances\n\nEstimated start: 19:30
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1947,19 +1665,6 @@ DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 7\n\nWhen a deadly satellit
  orld from certain disaster. Armed with his license to kill\, Bond races to
   Russia in search of the stolen access codes for "Goldeneye\," an awesome 
  space weapon t\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pan's Labyrinth 20th Anniversary (Spanish)
-DTSTART;TZID=America/Los_Angeles:20261012T191000
-DTEND;TZID=America/Los_Angeles:20261012T214000
-DTSTAMP:20261013T021000Z
-UID:199044
-DESCRIPTION:Duration: 124 mins (2h04m)\nScreen 3\n\nCelebrating its 20th A
- nniversary\, Guillermo del Toro's Pan's Labyrinth is an Academy Award-winn
- ing dark fable set in 1944\, five years after the end of the Spanish Civil
-  War. Eleven-year-old Ofelia (Ivana Baquero\, in a mature and tender perfo
- rmance) comes\n\nEstimated start: 19:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2041,6 +1746,32 @@ DESCRIPTION:Duration: 83 mins (1h23m)\nScreen 8\n\nShocking\, lurid and co
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pan's Labyrinth 20th Anniversary (Spanish)
+DTSTART;TZID=America/Los_Angeles:20261013T160000
+DTEND;TZID=America/Los_Angeles:20261013T183000
+DTSTAMP:20261013T230000Z
+UID:200783
+DESCRIPTION:Duration: 124 mins (2h04m)\nScreen 3\n\nCelebrating its 20th A
+ nniversary\, Guillermo del Toro's Pan's Labyrinth is an Academy Award-winn
+ ing dark fable set in 1944\, five years after the end of the Spanish Civil
+  War. Eleven-year-old Ofelia (Ivana Baquero\, in a mature and tender perfo
+ rmance) comes\n\nEstimated start: 16:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pan's Labyrinth 20th Anniversary (Spanish)
+DTSTART;TZID=America/Los_Angeles:20261013T191000
+DTEND;TZID=America/Los_Angeles:20261013T214000
+DTSTAMP:20261014T021000Z
+UID:199045
+DESCRIPTION:Duration: 124 mins (2h04m)\nScreen 3\n\nCelebrating its 20th A
+ nniversary\, Guillermo del Toro's Pan's Labyrinth is an Academy Award-winn
+ ing dark fable set in 1944\, five years after the end of the Spanish Civil
+  War. Eleven-year-old Ofelia (Ivana Baquero\, in a mature and tender perfo
+ rmance) comes\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Social Reckoning
 DTSTART;TZID=America/Los_Angeles:20261013T161000
 DTEND;TZID=America/Los_Angeles:20261013T183000
@@ -2055,28 +1786,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Social Reckoning
-DTSTART;TZID=America/Los_Angeles:20261013T190000
-DTEND;TZID=America/Los_Angeles:20261013T212000
-DTSTAMP:20261014T020000Z
+DTSTART;TZID=America/Los_Angeles:20261013T192000
+DTEND;TZID=America/Los_Angeles:20261013T214000
+DTSTAMP:20261014T022000Z
 UID:200185
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
  s and the whistleblower who started  the social media reckoning we're seei
  ng play out today\, this Aaron Sorkin original  screenplay is a companion 
  piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pan's Labyrinth 20th Anniversary (Spanish)
-DTSTART;TZID=America/Los_Angeles:20261013T191000
-DTEND;TZID=America/Los_Angeles:20261013T214000
-DTSTAMP:20261014T021000Z
-UID:199045
-DESCRIPTION:Duration: 124 mins (2h04m)\nScreen 3\n\nCelebrating its 20th A
- nniversary\, Guillermo del Toro's Pan's Labyrinth is an Academy Award-winn
- ing dark fable set in 1944\, five years after the end of the Spanish Civil
-  War. Eleven-year-old Ofelia (Ivana Baquero\, in a mature and tender perfo
- rmance) comes\n\nEstimated start: 19:35
+ ry. Frances\n\nEstimated start: 19:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2094,54 +1812,54 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Other Mommy
-DTSTART;TZID=America/Los_Angeles:20261014T173000
-DTEND;TZID=America/Los_Angeles:20261014T193000
-DTSTAMP:20261015T003000Z
+DTSTART;TZID=America/Los_Angeles:20261014T172500
+DTEND;TZID=America/Los_Angeles:20261014T192500
+DTSTAMP:20261015T002500Z
 UID:199730
 DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 6\n\nBela\, an 8-year-old gi
  rl living in a home with marital problems\, confronts a sinister entity th
  at comes out of her closet. The presence\, whom she calls "Other Mommy\," 
  becomes increasingly threatening to her and her family.\n\nEstimated start
- : 17:55
+ : 17:50
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Henry: Portrait of a Serial Killer
-DTSTART;TZID=America/Los_Angeles:20261014T152500
-DTEND;TZID=America/Los_Angeles:20261014T171500
-DTSTAMP:20261014T222500Z
+DTSTART;TZID=America/Los_Angeles:20261014T150500
+DTEND;TZID=America/Los_Angeles:20261014T165500
+DTSTAMP:20261014T220500Z
 UID:199843
 DESCRIPTION:Duration: 83 mins (1h23m)\nScreen 9\n\nOne of the most harrowi
  ng American horror films of the 20th century\, Henry: Portrait of a Serial
   Killer celebrates its 40th anniversary with an immaculate new 4K presenta
  tion that cements this shocking and thought-provoking plunge into the mind
-  of a murde\n\nEstimated start: 15:50
+  of a murde\n\nEstimated start: 15:30
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Henry: Portrait of a Serial Killer
-DTSTART;TZID=America/Los_Angeles:20261014T174000
-DTEND;TZID=America/Los_Angeles:20261014T193000
-DTSTAMP:20261015T004000Z
+DTSTART;TZID=America/Los_Angeles:20261014T172000
+DTEND;TZID=America/Los_Angeles:20261014T191000
+DTSTAMP:20261015T002000Z
 UID:199841
 DESCRIPTION:Duration: 83 mins (1h23m)\nScreen 9\n\nOne of the most harrowi
  ng American horror films of the 20th century\, Henry: Portrait of a Serial
   Killer celebrates its 40th anniversary with an immaculate new 4K presenta
  tion that cements this shocking and thought-provoking plunge into the mind
-  of a murde\n\nEstimated start: 18:05
+  of a murde\n\nEstimated start: 17:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Henry: Portrait of a Serial Killer
-DTSTART;TZID=America/Los_Angeles:20261014T195500
-DTEND;TZID=America/Los_Angeles:20261014T214500
-DTSTAMP:20261015T025500Z
+DTSTART;TZID=America/Los_Angeles:20261014T194000
+DTEND;TZID=America/Los_Angeles:20261014T213000
+DTSTAMP:20261015T024000Z
 UID:199840
 DESCRIPTION:Duration: 83 mins (1h23m)\nScreen 9\n\nOne of the most harrowi
  ng American horror films of the 20th century\, Henry: Portrait of a Serial
   Killer celebrates its 40th anniversary with an immaculate new 4K presenta
  tion that cements this shocking and thought-provoking plunge into the mind
-  of a murde\n\nEstimated start: 20:20
+  of a murde\n\nEstimated start: 20:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2150,7 +1868,7 @@ DTSTART;TZID=America/Los_Angeles:20261014T161000
 DTEND;TZID=America/Los_Angeles:20261014T183000
 DTSTAMP:20261014T231000Z
 UID:200187
-DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 7\n\nA companion piece to t
+DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nA companion piece to t
  he hit film The Social Network\, Sorkin's original screenplay is based on 
  the events that gave rise to the Wall Street Journal's shocking exposé Th
  e Facebook Files. The film is inspired by the true story of how Frances Ha
@@ -2183,15 +1901,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Social Reckoning
-DTSTART;TZID=America/Los_Angeles:20261014T190000
-DTEND;TZID=America/Los_Angeles:20261014T212000
-DTSTAMP:20261015T020000Z
+DTSTART;TZID=America/Los_Angeles:20261014T191000
+DTEND;TZID=America/Los_Angeles:20261014T213000
+DTSTAMP:20261015T021000Z
 UID:200188
-DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 7\n\nInspired by true event
+DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
  s and the whistleblower who started  the social media reckoning we're seei
  ng play out today\, this Aaron Sorkin original  screenplay is a companion 
  piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 19:25
+ ry. Frances\n\nEstimated start: 19:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2205,6 +1923,19 @@ DESCRIPTION:Duration: 185 mins (3h05m)\nScreen 4\n\nOfficial Sequel to Jai
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Other Mommy (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261014T195000
+DTEND;TZID=America/Los_Angeles:20261014T215000
+DTSTAMP:20261015T025000Z
+UID:199729
+DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 6\n\nBela\, an 8-year-old gi
+ rl living in a home with marital problems\, confronts a sinister entity th
+ at comes out of her closet. The presence\, whom she calls "Other Mommy\," 
+ becomes increasingly threatening to her and her family.\n\nEstimated start
+ : 20:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jailer 2 - Premiere Show
 DTSTART;TZID=America/Los_Angeles:20261014T200000
 DTEND;TZID=America/Los_Angeles:20261014T233000
@@ -2212,19 +1943,6 @@ DTSTAMP:20261015T030000Z
 UID:200628
 DESCRIPTION:Duration: 185 mins (3h05m)\nScreen 5\n\nOfficial Sequel to Jai
  ler (2023)\n\nEstimated start: 20:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Other Mommy (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261014T200000
-DTEND;TZID=America/Los_Angeles:20261014T220000
-DTSTAMP:20261015T030000Z
-UID:199729
-DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 6\n\nBela\, an 8-year-old gi
- rl living in a home with marital problems\, confronts a sinister entity th
- at comes out of her closet. The presence\, whom she calls "Other Mommy\," 
- becomes increasingly threatening to her and her family.\n\nEstimated start
- : 20:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2454,22 +2172,22 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jailer 2 (Tamil)
-DTSTART;TZID=America/Los_Angeles:20261015T155500
-DTEND;TZID=America/Los_Angeles:20261015T192500
-DTSTAMP:20261015T225500Z
+DTSTART;TZID=America/Los_Angeles:20261015T154000
+DTEND;TZID=America/Los_Angeles:20261015T191000
+DTSTAMP:20261015T224000Z
 UID:200595
 DESCRIPTION:Duration: 185 mins (3h05m)\nScreen 1\n\nOfficial Sequel to Jai
- ler (2023)\n\nEstimated start: 16:20
+ ler (2023)\n\nEstimated start: 16:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jailer 2 (Tamil)
-DTSTART;TZID=America/Los_Angeles:20261015T195000
-DTEND;TZID=America/Los_Angeles:20261015T232000
-DTSTAMP:20261016T025000Z
+DTSTART;TZID=America/Los_Angeles:20261015T193000
+DTEND;TZID=America/Los_Angeles:20261015T230000
+DTSTAMP:20261016T023000Z
 UID:200594
 DESCRIPTION:Duration: 185 mins (3h05m)\nScreen 1\n\nOfficial Sequel to Jai
- ler (2023)\n\nEstimated start: 20:15
+ ler (2023)\n\nEstimated start: 19:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3618,6 +3336,18 @@ UID:200322
 DESCRIPTION:Duration: 132 mins (2h12m)\nScreen 3\n\nSisters Elinor and Mar
  ianne Dashwood must leave their Sussex estate and move in with a distant r
  elative\, facing romance and money troubles.\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Mystery Movie (10/19)
+DTSTART;TZID=America/Los_Angeles:20261019T190000
+DTEND;TZID=America/Los_Angeles:20261019T210500
+DTSTAMP:20261020T020000Z
+UID:200655
+DESCRIPTION:Duration: 100 mins (1h40m)\nScreen 9\n\nShhh! Be the first to 
+ see this NEW movie before its official release date for only $5... We just
+  can't tell you the title! The next Monday Mystery Movie at Regal is on Oc
+ tober 19th!\n\nEstimated start: 19:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -5557,6 +5287,227 @@ DESCRIPTION:Duration: 142 mins (2h22m)\nScreen 7\n\nAgent 007 (George Laze
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261105T160000
+DTEND;TZID=America/Los_Angeles:20261105T184000
+DTSTAMP:20261106T000000Z
+UID:200629
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 16:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261105T192000
+DTEND;TZID=America/Los_Angeles:20261105T220000
+DTSTAMP:20261106T032000Z
+UID:200630
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 19:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261105T220000
+DTEND;TZID=America/Los_Angeles:20261106T004000
+DTSTAMP:20261106T060000Z
+UID:200631
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 2\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 22:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261106T122000
+DTEND;TZID=America/Los_Angeles:20261106T150000
+DTSTAMP:20261106T202000Z
+UID:200632
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 12:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261106T154000
+DTEND;TZID=America/Los_Angeles:20261106T182000
+DTSTAMP:20261106T234000Z
+UID:200633
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261106T185000
+DTEND;TZID=America/Los_Angeles:20261106T213000
+DTSTAMP:20261107T025000Z
+UID:200634
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 19:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261106T220000
+DTEND;TZID=America/Los_Angeles:20261107T004000
+DTSTAMP:20261107T060000Z
+UID:200635
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 22:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261107T122000
+DTEND;TZID=America/Los_Angeles:20261107T150000
+DTSTAMP:20261107T202000Z
+UID:200639
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 12:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261107T154000
+DTEND;TZID=America/Los_Angeles:20261107T182000
+DTSTAMP:20261107T234000Z
+UID:200638
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261107T185000
+DTEND;TZID=America/Los_Angeles:20261107T213000
+DTSTAMP:20261108T025000Z
+UID:200637
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 19:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261107T220000
+DTEND;TZID=America/Los_Angeles:20261108T004000
+DTSTAMP:20261108T060000Z
+UID:200636
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 22:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261108T130000
+DTEND;TZID=America/Los_Angeles:20261108T154000
+DTSTAMP:20261108T210000Z
+UID:200640
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261108T161000
+DTEND;TZID=America/Los_Angeles:20261108T185000
+DTSTAMP:20261109T001000Z
+UID:200641
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261108T192000
+DTEND;TZID=America/Los_Angeles:20261108T220000
+DTSTAMP:20261109T032000Z
+UID:200642
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 19:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261109T130000
+DTEND;TZID=America/Los_Angeles:20261109T154000
+DTSTAMP:20261109T210000Z
+UID:200645
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261109T161000
+DTEND;TZID=America/Los_Angeles:20261109T185000
+DTSTAMP:20261110T001000Z
+UID:200644
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261109T192000
+DTEND;TZID=America/Los_Angeles:20261109T220000
+DTSTAMP:20261110T032000Z
+UID:200643
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 19:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:007: Goldfinger
 DTSTART;TZID=America/Los_Angeles:20261109T190000
 DTEND;TZID=America/Los_Angeles:20261109T211500
@@ -5567,6 +5518,123 @@ DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 7\n\nSpecial agent 007 (Sea
  ll time\, and now he must outwit and outgun the powerful tycoon to prevent
   him from cashing in on a devious scheme to raid Fort Knox -- and oblitera
  te the world\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261110T130000
+DTEND;TZID=America/Los_Angeles:20261110T154000
+DTSTAMP:20261110T210000Z
+UID:200648
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261110T161000
+DTEND;TZID=America/Los_Angeles:20261110T185000
+DTSTAMP:20261111T001000Z
+UID:200647
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261110T192000
+DTEND;TZID=America/Los_Angeles:20261110T220000
+DTSTAMP:20261111T032000Z
+UID:200646
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 19:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261111T130000
+DTEND;TZID=America/Los_Angeles:20261111T154000
+DTSTAMP:20261111T210000Z
+UID:200651
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261111T161000
+DTEND;TZID=America/Los_Angeles:20261111T185000
+DTSTAMP:20261112T001000Z
+UID:200650
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261111T192000
+DTEND;TZID=America/Los_Angeles:20261111T220000
+DTSTAMP:20261112T032000Z
+UID:200649
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 19:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261112T130000
+DTEND;TZID=America/Los_Angeles:20261112T154000
+DTSTAMP:20261112T210000Z
+UID:200654
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261112T161000
+DTEND;TZID=America/Los_Angeles:20261112T185000
+DTSTAMP:20261113T001000Z
+UID:200653
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero
+DTSTART;TZID=America/Los_Angeles:20261112T192000
+DTEND;TZID=America/Los_Angeles:20261112T220000
+DTSTAMP:20261113T032000Z
+UID:200652
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
+ ero\, and Godzilla plunged it into minus. Two years have passed since then
+ \, and the country has faced agonizing struggles to achieve recovery and f
+ inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
+ ard-won peace\,\n\nEstimated start: 19:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6815,559 +6883,6 @@ DTEND;TZID=America/Los_Angeles:20261223T023000
 DTSTAMP:20261223T072000Z
 UID:197859
 DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 23:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T071000
-DTEND;TZID=America/Los_Angeles:20261223T102000
-DTSTAMP:20261223T151000Z
-UID:197873
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 7:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T074000
-DTEND;TZID=America/Los_Angeles:20261223T105000
-DTSTAMP:20261223T154000Z
-UID:197872
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 8:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T081000
-DTEND;TZID=America/Los_Angeles:20261223T112000
-DTSTAMP:20261223T161000Z
-UID:197871
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 8:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T105500
-DTEND;TZID=America/Los_Angeles:20261223T140500
-DTSTAMP:20261223T185500Z
-UID:197870
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 11:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T115500
-DTEND;TZID=America/Los_Angeles:20261223T150500
-DTSTAMP:20261223T195500Z
-UID:197868
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 12:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T144000
-DTEND;TZID=America/Los_Angeles:20261223T175000
-DTSTAMP:20261223T224000Z
-UID:197867
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 15:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T151000
-DTEND;TZID=America/Los_Angeles:20261223T182000
-DTSTAMP:20261223T231000Z
-UID:197875
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 15:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T154000
-DTEND;TZID=America/Los_Angeles:20261223T185000
-DTSTAMP:20261223T234000Z
-UID:197877
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 16:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T183000
-DTEND;TZID=America/Los_Angeles:20261223T214000
-DTSTAMP:20261224T023000Z
-UID:197866
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 18:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T190000
-DTEND;TZID=America/Los_Angeles:20261223T221000
-DTSTAMP:20261224T030000Z
-UID:197880
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T193000
-DTEND;TZID=America/Los_Angeles:20261223T224000
-DTSTAMP:20261224T033000Z
-UID:197879
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T222000
-DTEND;TZID=America/Los_Angeles:20261224T013000
-DTSTAMP:20261224T062000Z
-UID:197878
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 22:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T225000
-DTEND;TZID=America/Los_Angeles:20261224T020000
-DTSTAMP:20261224T065000Z
-UID:197876
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 23:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261223T232000
-DTEND;TZID=America/Los_Angeles:20261224T023000
-DTSTAMP:20261224T072000Z
-UID:197874
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 23:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261223T112500
-DTEND;TZID=America/Los_Angeles:20261223T143500
-DTSTAMP:20261223T192500Z
-UID:197869
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nPlot unknown\n\nEstima
- ted start: 11:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261224T081000
-DTEND;TZID=America/Los_Angeles:20261224T112000
-DTSTAMP:20261224T161000Z
-UID:197888
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 8:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261224T101000
-DTEND;TZID=America/Los_Angeles:20261224T132000
-DTSTAMP:20261224T181000Z
-UID:197887
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 10:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261224T115500
-DTEND;TZID=America/Los_Angeles:20261224T150500
-DTSTAMP:20261224T195500Z
-UID:197890
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 12:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261224T135500
-DTEND;TZID=America/Los_Angeles:20261224T170500
-DTSTAMP:20261224T215500Z
-UID:197889
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 14:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261224T154000
-DTEND;TZID=America/Los_Angeles:20261224T185000
-DTSTAMP:20261224T234000Z
-UID:197895
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 16:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261224T174000
-DTEND;TZID=America/Los_Angeles:20261224T205000
-DTSTAMP:20261225T014000Z
-UID:197891
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 18:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261224T193000
-DTEND;TZID=America/Los_Angeles:20261224T224000
-DTSTAMP:20261225T033000Z
-UID:197893
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261224T213000
-DTEND;TZID=America/Los_Angeles:20261225T004000
-DTSTAMP:20261225T053000Z
-UID:197892
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 21:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261225T081000
-DTEND;TZID=America/Los_Angeles:20261225T112000
-DTSTAMP:20261225T161000Z
-UID:198263
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 8:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261225T115500
-DTEND;TZID=America/Los_Angeles:20261225T150500
-DTSTAMP:20261225T195500Z
-UID:198262
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 12:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261225T154000
-DTEND;TZID=America/Los_Angeles:20261225T185000
-DTSTAMP:20261225T234000Z
-UID:198261
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 16:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261225T193000
-DTEND;TZID=America/Los_Angeles:20261225T224000
-DTSTAMP:20261226T033000Z
-UID:198260
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261225T232000
-DTEND;TZID=America/Los_Angeles:20261226T023000
-DTSTAMP:20261226T072000Z
-UID:198259
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 23:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261226T081000
-DTEND;TZID=America/Los_Angeles:20261226T112000
-DTSTAMP:20261226T161000Z
-UID:197904
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 8:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261226T115500
-DTEND;TZID=America/Los_Angeles:20261226T150500
-DTSTAMP:20261226T195500Z
-UID:197903
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 12:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261226T154000
-DTEND;TZID=America/Los_Angeles:20261226T185000
-DTSTAMP:20261226T234000Z
-UID:197902
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 16:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261226T193000
-DTEND;TZID=America/Los_Angeles:20261226T224000
-DTSTAMP:20261227T033000Z
-UID:197901
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261226T232000
-DTEND;TZID=America/Los_Angeles:20261227T023000
-DTSTAMP:20261227T072000Z
-UID:197900
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 23:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261227T081000
-DTEND;TZID=America/Los_Angeles:20261227T112000
-DTSTAMP:20261227T161000Z
-UID:197905
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 8:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261227T115500
-DTEND;TZID=America/Los_Angeles:20261227T150500
-DTSTAMP:20261227T195500Z
-UID:197906
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 12:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261227T154000
-DTEND;TZID=America/Los_Angeles:20261227T185000
-DTSTAMP:20261227T234000Z
-UID:197907
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 16:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261227T193000
-DTEND;TZID=America/Los_Angeles:20261227T224000
-DTSTAMP:20261228T033000Z
-UID:197908
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261227T232000
-DTEND;TZID=America/Los_Angeles:20261228T023000
-DTSTAMP:20261228T072000Z
-UID:197909
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nPlot unknown\n\nEstima
- ted start: 23:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261228T081000
-DTEND;TZID=America/Los_Angeles:20261228T112000
-DTSTAMP:20261228T161000Z
-UID:197910
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 8:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261228T115500
-DTEND;TZID=America/Los_Angeles:20261228T150500
-DTSTAMP:20261228T195500Z
-UID:197911
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 12:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261228T154000
-DTEND;TZID=America/Los_Angeles:20261228T185000
-DTSTAMP:20261228T234000Z
-UID:197912
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 16:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261228T193000
-DTEND;TZID=America/Los_Angeles:20261228T224000
-DTSTAMP:20261229T033000Z
-UID:197913
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
- the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
- Doomsday. Beloved heroes from three distinct universes will be set on a de
- adly collision course and ultimately face an existential threat unlike any
- thing they'\n\nEstimated start: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers: Doomsday
-DTSTART;TZID=America/Los_Angeles:20261228T232000
-DTEND;TZID=America/Los_Angeles:20261229T023000
-DTSTAMP:20261229T072000Z
-UID:197914
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
