@@ -3,362 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Regal Bella Bottega
 X-WR-CALNAME:Cinema 🇺🇸 Regal Bella Bottega
-LAST-MODIFIED:20261006T144254Z
-BEGIN:VEVENT
-SUMMARY:Verity
-DTSTART;TZID=America/Los_Angeles:20261006T134000
-DTEND;TZID=America/Los_Angeles:20261006T160000
-DTSTAMP:20261006T204000Z
-UID:199067
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 1\n\nStruggling writer Lowe
- n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
- nder mysterious circumstances\, but her assignment takes a dark turn after
-  discovering chilling autobiographical notes. Faced with a series of deadl
- y family sec\n\nEstimated start: 14:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Verity
-DTSTART;TZID=America/Los_Angeles:20261006T164000
-DTEND;TZID=America/Los_Angeles:20261006T190000
-DTSTAMP:20261006T234000Z
-UID:199068
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 1\n\nStruggling writer Lowe
- n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
- nder mysterious circumstances\, but her assignment takes a dark turn after
-  discovering chilling autobiographical notes. Faced with a series of deadl
- y family sec\n\nEstimated start: 17:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Verity
-DTSTART;TZID=America/Los_Angeles:20261006T194000
-DTEND;TZID=America/Los_Angeles:20261006T220000
-DTSTAMP:20261007T024000Z
-UID:199069
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 1\n\nStruggling writer Lowe
- n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
- nder mysterious circumstances\, but her assignment takes a dark turn after
-  discovering chilling autobiographical notes. Faced with a series of deadl
- y family sec\n\nEstimated start: 20:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART;TZID=America/Los_Angeles:20261006T133000
-DTEND;TZID=America/Los_Angeles:20261006T160500
-DTSTAMP:20261006T203000Z
-UID:200131
-DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 5\n\nThe most powerful man 
- in the world embarks on a frantic mission to prove he is humanity's saviou
- r before the disaster he's unleashed destroys everything.\n\nEstimated sta
- rt: 13:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART;TZID=America/Los_Angeles:20261006T163000
-DTEND;TZID=America/Los_Angeles:20261006T190500
-DTSTAMP:20261006T233000Z
-UID:200132
-DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 5\n\nThe most powerful man 
- in the world embarks on a frantic mission to prove he is humanity's saviou
- r before the disaster he's unleashed destroys everything.\n\nEstimated sta
- rt: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digger
-DTSTART;TZID=America/Los_Angeles:20261006T193000
-DTEND;TZID=America/Los_Angeles:20261006T220500
-DTSTAMP:20261007T023000Z
-UID:200133
-DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 5\n\nThe most powerful man 
- in the world embarks on a frantic mission to prove he is humanity's saviou
- r before the disaster he's unleashed destroys everything.\n\nEstimated sta
- rt: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART;TZID=America/Los_Angeles:20261006T143000
-DTEND;TZID=America/Los_Angeles:20261006T163000
-DTSTAMP:20261006T213000Z
-UID:200514
-DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
- ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
- errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
- ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
- unwittingly fin\n\nEstimated start: 14:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART;TZID=America/Los_Angeles:20261006T171000
-DTEND;TZID=America/Los_Angeles:20261006T191000
-DTSTAMP:20261007T001000Z
-UID:200520
-DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
- ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
- errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
- ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
- unwittingly fin\n\nEstimated start: 17:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resident Evil
-DTSTART;TZID=America/Los_Angeles:20261006T200000
-DTEND;TZID=America/Los_Angeles:20261006T220000
-DTSTAMP:20261007T030000Z
-UID:200513
-DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
- ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
- errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
- ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
- unwittingly fin\n\nEstimated start: 20:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heart of the Beast
-DTSTART;TZID=America/Los_Angeles:20261006T141000
-DTEND;TZID=America/Los_Angeles:20261006T162000
-DTSTAMP:20261006T211000Z
-UID:200511
-DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
- e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
- dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
- ther\, they are forced into a brutal fight for survival against the elemen
- ts. From acclai\n\nEstimated start: 14:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heart of the Beast
-DTSTART;TZID=America/Los_Angeles:20261006T170000
-DTEND;TZID=America/Los_Angeles:20261006T191000
-DTSTAMP:20261007T000000Z
-UID:200519
-DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
- e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
- dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
- ther\, they are forced into a brutal fight for survival against the elemen
- ts. From acclai\n\nEstimated start: 17:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heart of the Beast
-DTSTART;TZID=America/Los_Angeles:20261006T195000
-DTEND;TZID=America/Los_Angeles:20261006T220000
-DTSTAMP:20261007T025000Z
-UID:200510
-DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
- e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
- dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
- ther\, they are forced into a brutal fight for survival against the elemen
- ts. From acclai\n\nEstimated start: 20:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers Endgame: Encore
-DTSTART;TZID=America/Los_Angeles:20261006T142000
-DTEND;TZID=America/Los_Angeles:20261006T175000
-DTSTAMP:20261006T212000Z
-UID:200505
-DESCRIPTION:Duration: 185 mins (3h05m)\nScreen 3\n\nThe grave course of ev
- ents set in motion by Thanos that wiped out half the universe and fracture
- d the Avengers ranks compels the remaining Avengers to take one final stan
- d in Marvel Studios' grand conclusion to twenty-two films\, "Avengers: End
- game."\n\nEstimated start: 14:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Avengers Endgame: Encore
-DTSTART;TZID=America/Los_Angeles:20261006T183000
-DTEND;TZID=America/Los_Angeles:20261006T220000
-DTSTAMP:20261007T013000Z
-UID:200504
-DESCRIPTION:Duration: 185 mins (3h05m)\nScreen 3\n\nThe grave course of ev
- ents set in motion by Thanos that wiped out half the universe and fracture
- d the Avengers ranks compels the remaining Avengers to take one final stan
- d in Marvel Studios' grand conclusion to twenty-two films\, "Avengers: End
- game."\n\nEstimated start: 18:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART;TZID=America/Los_Angeles:20261006T163500
-DTEND;TZID=America/Los_Angeles:20261006T185000
-DTSTAMP:20261006T233500Z
-UID:200517
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 7\n\nIn 2006\, To Catch a P
- redator host Chris Hansen sets out to make television history.\n\nEstimate
- d start: 17:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime
-DTSTART;TZID=America/Los_Angeles:20261006T192000
-DTEND;TZID=America/Los_Angeles:20261006T213500
-DTSTAMP:20261007T022000Z
-UID:200508
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 7\n\nIn 2006\, To Catch a P
- redator host Chris Hansen sets out to make television history.\n\nEstimate
- d start: 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forgotten Island
-DTSTART;TZID=America/Los_Angeles:20261006T140000
-DTEND;TZID=America/Los_Angeles:20261006T161500
-DTSTAMP:20261006T210000Z
-UID:200507
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 2\n\nWhile celebrating thei
- r last night together\, Jo and Raissa stumble upon a mysterious portal tha
- t transports them to the fantastical island of Nakali\, packed with magica
- l and mythological creatures they grew up hearing stories about from their
-  Filipino fam\n\nEstimated start: 14:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forgotten Island
-DTSTART;TZID=America/Los_Angeles:20261006T165000
-DTEND;TZID=America/Los_Angeles:20261006T190500
-DTSTAMP:20261006T235000Z
-UID:200518
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 2\n\nWhile celebrating thei
- r last night together\, Jo and Raissa stumble upon a mysterious portal tha
- t transports them to the fantastical island of Nakali\, packed with magica
- l and mythological creatures they grew up hearing stories about from their
-  Filipino fam\n\nEstimated start: 17:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forgotten Island
-DTSTART;TZID=America/Los_Angeles:20261006T193500
-DTEND;TZID=America/Los_Angeles:20261006T215000
-DTSTAMP:20261007T023500Z
-UID:200506
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 2\n\nWhile celebrating thei
- r last night together\, Jo and Raissa stumble upon a mysterious portal tha
- t transports them to the fantastical island of Nakali\, packed with magica
- l and mythological creatures they grew up hearing stories about from their
-  Filipino fam\n\nEstimated start: 20:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Haunting
-DTSTART;TZID=America/Los_Angeles:20261006T133500
-DTEND;TZID=America/Los_Angeles:20261006T155500
-DTSTAMP:20261006T203500Z
-UID:199805
-DESCRIPTION:Duration: 113 mins (1h53m)\nScreen 9\n\nWhen Eleanor\, Theo\, 
- and Luke decide to take part in a sleep study at a huge mansion they get m
- ore than they bargained for when Dr. Marrow tells them of the house's ghos
- tly past.\n\nEstimated start: 14:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Haunting
-DTSTART;TZID=America/Los_Angeles:20261006T162500
-DTEND;TZID=America/Los_Angeles:20261006T184500
-DTSTAMP:20261006T232500Z
-UID:199806
-DESCRIPTION:Duration: 113 mins (1h53m)\nScreen 9\n\nWhen Eleanor\, Theo\, 
- and Luke decide to take part in a sleep study at a huge mansion they get m
- ore than they bargained for when Dr. Marrow tells them of the house's ghos
- tly past.\n\nEstimated start: 16:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Haunting
-DTSTART;TZID=America/Los_Angeles:20261006T192000
-DTEND;TZID=America/Los_Angeles:20261006T214000
-DTSTAMP:20261007T022000Z
-UID:199807
-DESCRIPTION:Duration: 113 mins (1h53m)\nScreen 9\n\nWhen Eleanor\, Theo\, 
- and Luke decide to take part in a sleep study at a huge mansion they get m
- ore than they bargained for when Dr. Marrow tells them of the house's ghos
- tly past.\n\nEstimated start: 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Primetime (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261006T135000
-DTEND;TZID=America/Los_Angeles:20261006T160500
-DTSTAMP:20261006T205000Z
-UID:200509
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 7\n\nIn 2006\, To Catch a P
- redator host Chris Hansen sets out to make television history.\n\nEstimate
- d start: 14:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drishyam: The Conclusion
-DTSTART;TZID=America/Los_Angeles:20261006T144000
-DTEND;TZID=America/Los_Angeles:20261006T174500
-DTSTAMP:20261006T214000Z
-UID:200512
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
- family as they try to cover up a murder.\n\nEstimated start: 15:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drishyam: The Conclusion
-DTSTART;TZID=America/Los_Angeles:20261006T182000
-DTEND;TZID=America/Los_Angeles:20261006T212500
-DTSTAMP:20261007T012000Z
-UID:200521
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
- family as they try to cover up a murder.\n\nEstimated start: 18:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drishyam: The Conclusion
-DTSTART;TZID=America/Los_Angeles:20261006T191000
-DTEND;TZID=America/Los_Angeles:20261006T221500
-DTSTAMP:20261007T021000Z
-UID:200549
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 10\n\nFollow the Salgaonkar
-  family as they try to cover up a murder.\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hanuman Ansh
-DTSTART;TZID=America/Los_Angeles:20261006T150000
-DTEND;TZID=America/Los_Angeles:20261006T175500
-DTSTAMP:20261006T220000Z
-UID:200516
-DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 11\n\nAfter the death of hi
- s mother\, a young boy leaves his home in grief\, believing that only by f
- inding God can he meet her again. His search takes him across temples\, fo
- rests\, rivers and villages\, where he lives in silence\, discipline and d
- evotion\, slowly sh\n\nEstimated start: 15:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hanuman Ansh
-DTSTART;TZID=America/Los_Angeles:20261006T184000
-DTEND;TZID=America/Los_Angeles:20261006T213500
-DTSTAMP:20261007T014000Z
-UID:200522
-DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 11\n\nAfter the death of hi
- s mother\, a young boy leaves his home in grief\, believing that only by f
- inding God can he meet her again. His search takes him across temples\, fo
- rests\, rivers and villages\, where he lives in silence\, discipline and d
- evotion\, slowly sh\n\nEstimated start: 19:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Don't Trouble the Trouble
-DTSTART;TZID=America/Los_Angeles:20261006T152000
-DTEND;TZID=America/Los_Angeles:20261006T183500
-DTSTAMP:20261006T222000Z
-UID:200515
-DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 10\n\nFollows Suri\, a magi
- cian\, who accidentally makes a young girl vanish with a spell. The girl\,
-  revealed to be a genie who grants wishes\, explores the city and unleashe
- s her powers when angered.\n\nEstimated start: 15:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
+LAST-MODIFIED:20261007T170533Z
 BEGIN:VEVENT
 SUMMARY:Verity
 DTSTART;TZID=America/Los_Angeles:20261007T131000
@@ -772,6 +417,135 @@ DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 10\n\nStruggling writer Low
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART;TZID=America/Los_Angeles:20261008T150000
+DTEND;TZID=America/Los_Angeles:20261008T173500
+DTSTAMP:20261008T220000Z
+UID:200138
+DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 9\n\nThe most powerful man 
+ in the world embarks on a frantic mission to prove he is humanity's saviou
+ r before the disaster he's unleashed destroys everything.\n\nEstimated sta
+ rt: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261008T142000
+DTEND;TZID=America/Los_Angeles:20261008T162000
+DTSTAMP:20261008T212000Z
+UID:200660
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 14:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261008T164500
+DTEND;TZID=America/Los_Angeles:20261008T184500
+DTSTAMP:20261008T234500Z
+UID:200658
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 17:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261008T191000
+DTEND;TZID=America/Los_Angeles:20261008T211000
+DTSTAMP:20261009T021000Z
+UID:200659
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261008T214000
+DTEND;TZID=America/Los_Angeles:20261008T234000
+DTSTAMP:20261009T044000Z
+UID:200670
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 22:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261008T141000
+DTEND;TZID=America/Los_Angeles:20261008T162000
+DTSTAMP:20261008T211000Z
+UID:200661
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 14:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261008T164000
+DTEND;TZID=America/Los_Angeles:20261008T185000
+DTSTAMP:20261008T234000Z
+UID:200662
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 17:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261008T191500
+DTEND;TZID=America/Los_Angeles:20261008T212500
+DTSTAMP:20261009T021500Z
+UID:200663
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 19:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261008T214500
+DTEND;TZID=America/Los_Angeles:20261008T235500
+DTSTAMP:20261009T044500Z
+UID:200671
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 22:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forgotten Island
+DTSTART;TZID=America/Los_Angeles:20261008T141500
+DTEND;TZID=America/Los_Angeles:20261008T163000
+DTSTAMP:20261008T211500Z
+UID:200664
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nWhile celebrating thei
+ r last night together\, Jo and Raissa stumble upon a mysterious portal tha
+ t transports them to the fantastical island of Nakali\, packed with magica
+ l and mythological creatures they grew up hearing stories about from their
+  Filipino fam\n\nEstimated start: 14:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Other Mommy
 DTSTART;TZID=America/Los_Angeles:20261008T140000
 DTEND;TZID=America/Los_Angeles:20261008T160000
@@ -855,16 +629,88 @@ DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 7\n\nA funeral director tell
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261008T143000
+DTEND;TZID=America/Los_Angeles:20261008T164000
+DTSTAMP:20261008T213000Z
+UID:200672
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 11\n\nWhen feared outlaw Qu
+ irt Evans staggers onto a rancher's land with a bullet in his back\, he ex
+ pects a quick death\, not mercy. But Penny\, the rancher's daughter\, offe
+ rs him a chance at something he's never had: a life beyond violence. Howev
+ er\, the past doe\n\nEstimated start: 14:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261008T172000
+DTEND;TZID=America/Los_Angeles:20261008T193000
+DTSTAMP:20261009T002000Z
+UID:200673
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 11\n\nWhen feared outlaw Qu
+ irt Evans staggers onto a rancher's land with a bullet in his back\, he ex
+ pects a quick death\, not mercy. But Penny\, the rancher's daughter\, offe
+ rs him a chance at something he's never had: a life beyond violence. Howev
+ er\, the past doe\n\nEstimated start: 17:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261008T201000
+DTEND;TZID=America/Los_Angeles:20261008T222000
+DTSTAMP:20261009T031000Z
+UID:200674
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 11\n\nWhen feared outlaw Qu
+ irt Evans staggers onto a rancher's land with a bullet in his back\, he ex
+ pects a quick death\, not mercy. But Penny\, the rancher's daughter\, offe
+ rs him a chance at something he's never had: a life beyond violence. Howev
+ er\, the past doe\n\nEstimated start: 20:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261008T145000
+DTEND;TZID=America/Los_Angeles:20261008T175500
+DTSTAMP:20261008T215000Z
+UID:200657
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 2\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 15:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261008T185000
+DTEND;TZID=America/Los_Angeles:20261008T215500
+DTSTAMP:20261009T015000Z
+UID:200656
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 2\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 19:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261008T152000
+DTEND;TZID=America/Los_Angeles:20261008T181500
+DTSTAMP:20261008T222000Z
+UID:200669
+DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 4\n\nAfter the death of his
+  mother\, a young boy leaves his home in grief\, believing that only by fi
+ nding God can he meet her again. His search takes him across temples\, for
+ ests\, rivers and villages\, where he lives in silence\, discipline and de
+ votion\, slowly sh\n\nEstimated start: 15:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Social Reckoning
 DTSTART;TZID=America/Los_Angeles:20261008T160000
 DTEND;TZID=America/Los_Angeles:20261008T182000
 DTSTAMP:20261008T230000Z
 UID:200193
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 16:25
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 16:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -874,10 +720,10 @@ DTEND;TZID=America/Los_Angeles:20261008T210000
 DTSTAMP:20261009T014000Z
 UID:200195
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 19:05
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 19:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -887,10 +733,10 @@ DTEND;TZID=America/Los_Angeles:20261008T235000
 DTSTAMP:20261009T043000Z
 UID:200194
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 21:55
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 21:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -920,6 +766,18 @@ DESCRIPTION:Duration: 124 mins (2h04m)\nScreen 3\n\nCelebrating its 20th A
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261008T181000
+DTEND;TZID=America/Los_Angeles:20261008T212500
+DTSTAMP:20261009T011000Z
+UID:200799
+DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 9\n\nA grieving boy seeks G
+ od to meet his departed mother\, and in finding the divine\, learns to ser
+ ve humanity with miracles of love\, food and silent blessings\, becoming H
+ anuman Ansh\, Neem Karoli Baba.\n\nEstimated start: 18:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spirited Away: Live on Stage  - Ghibli 2026 (Sub)
 DTSTART;TZID=America/Los_Angeles:20261008T190000
 DTEND;TZID=America/Los_Angeles:20261008T222000
@@ -943,6 +801,213 @@ DESCRIPTION:Duration: 100 mins (1h40m)\nScreen 5\n\nBela\, an 8-year-old g
  hat comes out of her closet. The presence\, whom she calls "Other Mommy\,"
   becomes increasingly threatening to her and her family. This Fan Event Sc
  reening is in c\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261009T124000
+DTEND;TZID=America/Los_Angeles:20261009T150000
+DTSTAMP:20261009T194000Z
+UID:200685
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 10\n\nStruggling writer Low
+ en Ashleigh is hired as a ghostwriter for renowned author Verity Crawford 
+ under mysterious circumstances\, but her assignment takes a dark turn afte
+ r discovering chilling autobiographical notes. Faced with a series of dead
+ ly family sec\n\nEstimated start: 13:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261009T154000
+DTEND;TZID=America/Los_Angeles:20261009T180000
+DTSTAMP:20261009T224000Z
+UID:200686
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 10\n\nStruggling writer Low
+ en Ashleigh is hired as a ghostwriter for renowned author Verity Crawford 
+ under mysterious circumstances\, but her assignment takes a dark turn afte
+ r discovering chilling autobiographical notes. Faced with a series of dead
+ ly family sec\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261009T183000
+DTEND;TZID=America/Los_Angeles:20261009T205000
+DTSTAMP:20261010T013000Z
+UID:200687
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 10\n\nStruggling writer Low
+ en Ashleigh is hired as a ghostwriter for renowned author Verity Crawford 
+ under mysterious circumstances\, but her assignment takes a dark turn afte
+ r discovering chilling autobiographical notes. Faced with a series of dead
+ ly family sec\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261009T212000
+DTEND;TZID=America/Los_Angeles:20261009T234000
+DTSTAMP:20261010T042000Z
+UID:200688
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 10\n\nStruggling writer Low
+ en Ashleigh is hired as a ghostwriter for renowned author Verity Crawford 
+ under mysterious circumstances\, but her assignment takes a dark turn afte
+ r discovering chilling autobiographical notes. Faced with a series of dead
+ ly family sec\n\nEstimated start: 21:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART;TZID=America/Los_Angeles:20261009T130000
+DTEND;TZID=America/Los_Angeles:20261009T153500
+DTSTAMP:20261009T200000Z
+UID:200700
+DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 7\n\nThe most powerful man 
+ in the world embarks on a frantic mission to prove he is humanity's saviou
+ r before the disaster he's unleashed destroys everything.\n\nEstimated sta
+ rt: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261009T121000
+DTEND;TZID=America/Los_Angeles:20261009T141000
+DTSTAMP:20261009T191000Z
+UID:200679
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 12:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261009T144000
+DTEND;TZID=America/Los_Angeles:20261009T164000
+DTSTAMP:20261009T214000Z
+UID:200696
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 15:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261009T171000
+DTEND;TZID=America/Los_Angeles:20261009T191000
+DTSTAMP:20261010T001000Z
+UID:200697
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 17:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261009T193500
+DTEND;TZID=America/Los_Angeles:20261009T213500
+DTSTAMP:20261010T023500Z
+UID:200698
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 20:00
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261009T220500
+DTEND;TZID=America/Los_Angeles:20261010T000500
+DTSTAMP:20261010T050500Z
+UID:200699
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 22:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261009T115500
+DTEND;TZID=America/Los_Angeles:20261009T140500
+DTSTAMP:20261009T185500Z
+UID:200678
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 12:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261009T142500
+DTEND;TZID=America/Los_Angeles:20261009T163500
+DTSTAMP:20261009T212500Z
+UID:200692
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 14:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261009T165500
+DTEND;TZID=America/Los_Angeles:20261009T190500
+DTSTAMP:20261009T235500Z
+UID:200693
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 17:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261009T192500
+DTEND;TZID=America/Los_Angeles:20261009T213500
+DTSTAMP:20261010T022500Z
+UID:200694
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 19:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261009T215500
+DTEND;TZID=America/Los_Angeles:20261010T000500
+DTSTAMP:20261010T045500Z
+UID:200695
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 6\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 22:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forgotten Island
+DTSTART;TZID=America/Los_Angeles:20261009T114500
+DTEND;TZID=America/Los_Angeles:20261009T140000
+DTSTAMP:20261009T184500Z
+UID:200684
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 9\n\nWhile celebrating thei
+ r last night together\, Jo and Raissa stumble upon a mysterious portal tha
+ t transports them to the fantastical island of Nakali\, packed with magica
+ l and mythological creatures they grew up hearing stories about from their
+  Filipino fam\n\nEstimated start: 12:10
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1072,10 +1137,10 @@ DTEND;TZID=America/Los_Angeles:20261009T144000
 DTSTAMP:20261009T192000Z
 UID:200171
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 12:45
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 12:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1085,10 +1150,10 @@ DTEND;TZID=America/Los_Angeles:20261009T174000
 DTSTAMP:20261009T222000Z
 UID:200172
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 15:45
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 15:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1098,10 +1163,10 @@ DTEND;TZID=America/Los_Angeles:20261009T203000
 DTSTAMP:20261010T011000Z
 UID:200169
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 18:35
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 18:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1111,10 +1176,105 @@ DTEND;TZID=America/Los_Angeles:20261009T232000
 DTSTAMP:20261010T040000Z
 UID:200170
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 21:25
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 21:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261009T123000
+DTEND;TZID=America/Los_Angeles:20261009T153500
+DTSTAMP:20261009T193000Z
+UID:200677
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 12:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261009T162000
+DTEND;TZID=America/Los_Angeles:20261009T192500
+DTSTAMP:20261009T232000Z
+UID:200676
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 16:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261009T200000
+DTEND;TZID=America/Los_Angeles:20261009T230500
+DTSTAMP:20261010T030000Z
+UID:200675
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 20:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261009T125000
+DTEND;TZID=America/Los_Angeles:20261009T150000
+DTSTAMP:20261009T195000Z
+UID:200680
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 13:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261009T153000
+DTEND;TZID=America/Los_Angeles:20261009T174000
+DTSTAMP:20261009T223000Z
+UID:200681
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 15:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261009T182000
+DTEND;TZID=America/Los_Angeles:20261009T203000
+DTSTAMP:20261010T012000Z
+UID:200682
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 18:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261009T211000
+DTEND;TZID=America/Los_Angeles:20261009T232000
+DTSTAMP:20261010T041000Z
+UID:200683
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 21:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pan's Labyrinth 20th Anniversary (Spanish)
+DTSTART;TZID=America/Los_Angeles:20261009T131000
+DTEND;TZID=America/Los_Angeles:20261009T154000
+DTSTAMP:20261009T201000Z
+UID:200704
+DESCRIPTION:Duration: 124 mins (2h04m)\nScreen 3\n\nCelebrating its 20th A
+ nniversary\, Guillermo del Toro's Pan's Labyrinth is an Academy Award-winn
+ ing dark fable set in 1944\, five years after the end of the Spanish Civil
+  War. Eleven-year-old Ofelia (Ivana Baquero\, in a mature and tender perfo
+ rmance) comes\n\nEstimated start: 13:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1141,6 +1301,249 @@ DESCRIPTION:Duration: 124 mins (2h04m)\nScreen 3\n\nCelebrating its 20th A
  ing dark fable set in 1944\, five years after the end of the Spanish Civil
   War. Eleven-year-old Ofelia (Ivana Baquero\, in a mature and tender perfo
  rmance) comes\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pan's Labyrinth 20th Anniversary (Spanish)
+DTSTART;TZID=America/Los_Angeles:20261009T214000
+DTEND;TZID=America/Los_Angeles:20261010T001000
+DTSTAMP:20261010T044000Z
+UID:200703
+DESCRIPTION:Duration: 124 mins (2h04m)\nScreen 3\n\nCelebrating its 20th A
+ nniversary\, Guillermo del Toro's Pan's Labyrinth is an Academy Award-winn
+ ing dark fable set in 1944\, five years after the end of the Spanish Civil
+  War. Eleven-year-old Ofelia (Ivana Baquero\, in a mature and tender perfo
+ rmance) comes\n\nEstimated start: 22:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261009T143000
+DTEND;TZID=America/Los_Angeles:20261009T172500
+DTSTAMP:20261009T213000Z
+UID:200689
+DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 9\n\nAfter the death of his
+  mother\, a young boy leaves his home in grief\, believing that only by fi
+ nding God can he meet her again. His search takes him across temples\, for
+ ests\, rivers and villages\, where he lives in silence\, discipline and de
+ votion\, slowly sh\n\nEstimated start: 14:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261009T174000
+DTEND;TZID=America/Los_Angeles:20261009T203500
+DTSTAMP:20261010T004000Z
+UID:200690
+DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 9\n\nAfter the death of his
+  mother\, a young boy leaves his home in grief\, believing that only by fi
+ nding God can he meet her again. His search takes him across temples\, for
+ ests\, rivers and villages\, where he lives in silence\, discipline and de
+ votion\, slowly sh\n\nEstimated start: 18:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261009T205000
+DTEND;TZID=America/Los_Angeles:20261009T234500
+DTSTAMP:20261010T035000Z
+UID:200691
+DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 9\n\nAfter the death of his
+  mother\, a young boy leaves his home in grief\, believing that only by fi
+ nding God can he meet her again. His search takes him across temples\, for
+ ests\, rivers and villages\, where he lives in silence\, discipline and de
+ votion\, slowly sh\n\nEstimated start: 21:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261009T161000
+DTEND;TZID=America/Los_Angeles:20261009T192500
+DTSTAMP:20261009T231000Z
+UID:200701
+DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 7\n\nA grieving boy seeks G
+ od to meet his departed mother\, and in finding the divine\, learns to ser
+ ve humanity with miracles of love\, food and silent blessings\, becoming H
+ anuman Ansh\, Neem Karoli Baba.\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261009T202000
+DTEND;TZID=America/Los_Angeles:20261009T233500
+DTSTAMP:20261010T032000Z
+UID:200702
+DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 7\n\nA grieving boy seeks G
+ od to meet his departed mother\, and in finding the divine\, learns to ser
+ ve humanity with miracles of love\, food and silent blessings\, becoming H
+ anuman Ansh\, Neem Karoli Baba.\n\nEstimated start: 20:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261010T122000
+DTEND;TZID=America/Los_Angeles:20261010T144000
+DTSTAMP:20261010T192000Z
+UID:200708
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 10\n\nStruggling writer Low
+ en Ashleigh is hired as a ghostwriter for renowned author Verity Crawford 
+ under mysterious circumstances\, but her assignment takes a dark turn afte
+ r discovering chilling autobiographical notes. Faced with a series of dead
+ ly family sec\n\nEstimated start: 12:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261010T183000
+DTEND;TZID=America/Los_Angeles:20261010T205000
+DTSTAMP:20261011T013000Z
+UID:200706
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 10\n\nStruggling writer Low
+ en Ashleigh is hired as a ghostwriter for renowned author Verity Crawford 
+ under mysterious circumstances\, but her assignment takes a dark turn afte
+ r discovering chilling autobiographical notes. Faced with a series of dead
+ ly family sec\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261010T212000
+DTEND;TZID=America/Los_Angeles:20261010T234000
+DTSTAMP:20261011T042000Z
+UID:200705
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 10\n\nStruggling writer Low
+ en Ashleigh is hired as a ghostwriter for renowned author Verity Crawford 
+ under mysterious circumstances\, but her assignment takes a dark turn afte
+ r discovering chilling autobiographical notes. Faced with a series of dead
+ ly family sec\n\nEstimated start: 21:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART;TZID=America/Los_Angeles:20261010T110000
+DTEND;TZID=America/Los_Angeles:20261010T133500
+DTSTAMP:20261010T180000Z
+UID:200733
+DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 3\n\nThe most powerful man 
+ in the world embarks on a frantic mission to prove he is humanity's saviou
+ r before the disaster he's unleashed destroys everything.\n\nEstimated sta
+ rt: 11:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART;TZID=America/Los_Angeles:20261010T171000
+DTEND;TZID=America/Los_Angeles:20261010T194500
+DTSTAMP:20261011T001000Z
+UID:200723
+DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 7\n\nThe most powerful man 
+ in the world embarks on a frantic mission to prove he is humanity's saviou
+ r before the disaster he's unleashed destroys everything.\n\nEstimated sta
+ rt: 17:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261010T143000
+DTEND;TZID=America/Los_Angeles:20261010T163000
+DTSTAMP:20261010T213000Z
+UID:200720
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 14:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261010T170000
+DTEND;TZID=America/Los_Angeles:20261010T190000
+DTSTAMP:20261011T000000Z
+UID:200719
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 17:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261010T193000
+DTEND;TZID=America/Los_Angeles:20261010T213000
+DTSTAMP:20261011T023000Z
+UID:200725
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261010T220000
+DTEND;TZID=America/Los_Angeles:20261011T000000
+DTSTAMP:20261011T050000Z
+UID:200724
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 22:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261010T111000
+DTEND;TZID=America/Los_Angeles:20261010T132000
+DTSTAMP:20261010T181000Z
+UID:200732
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 7\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 11:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261010T184000
+DTEND;TZID=America/Los_Angeles:20261010T205000
+DTSTAMP:20261011T014000Z
+UID:200712
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 11\n\nAfter a harrowing pla
+ ne crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat
+  dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Tog
+ ether\, they are forced into a brutal fight for survival against the eleme
+ nts. From acclai\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261010T213000
+DTEND;TZID=America/Los_Angeles:20261010T234000
+DTSTAMP:20261011T043000Z
+UID:200713
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 11\n\nAfter a harrowing pla
+ ne crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat
+  dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Tog
+ ether\, they are forced into a brutal fight for survival against the eleme
+ nts. From acclai\n\nEstimated start: 21:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forgotten Island
+DTSTART;TZID=America/Los_Angeles:20261010T112000
+DTEND;TZID=America/Los_Angeles:20261010T133500
+DTSTAMP:20261010T182000Z
+UID:200717
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 6\n\nWhile celebrating thei
+ r last night together\, Jo and Raissa stumble upon a mysterious portal tha
+ t transports them to the fantastical island of Nakali\, packed with magica
+ l and mythological creatures they grew up hearing stories about from their
+  Filipino fam\n\nEstimated start: 11:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1222,16 +1625,29 @@ DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 5\n\nBela\, an 8-year-old gi
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Resident Evil (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261010T115000
+DTEND;TZID=America/Los_Angeles:20261010T135000
+DTSTAMP:20261010T185000Z
+UID:200718
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 12:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Social Reckoning
 DTSTART;TZID=America/Los_Angeles:20261010T120000
 DTEND;TZID=America/Los_Angeles:20261010T142000
 DTSTAMP:20261010T190000Z
 UID:200174
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 12:25
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 12:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1241,10 +1657,10 @@ DTEND;TZID=America/Los_Angeles:20261010T173000
 DTSTAMP:20261010T221000Z
 UID:200173
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 15:35
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 15:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1254,10 +1670,10 @@ DTEND;TZID=America/Los_Angeles:20261010T203000
 DTSTAMP:20261011T011000Z
 UID:200176
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 18:35
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 18:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1267,10 +1683,102 @@ DTEND;TZID=America/Los_Angeles:20261010T232000
 DTSTAMP:20261011T040000Z
 UID:200175
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 21:25
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 21:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261010T121000
+DTEND;TZID=America/Los_Angeles:20261010T151500
+DTSTAMP:20261010T191000Z
+UID:200709
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 12:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261010T161000
+DTEND;TZID=America/Los_Angeles:20261010T191500
+DTSTAMP:20261010T231000Z
+UID:200710
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261010T190000
+DTEND;TZID=America/Los_Angeles:20261010T220500
+DTSTAMP:20261011T020000Z
+UID:200731
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 3\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261010T200000
+DTEND;TZID=America/Los_Angeles:20261010T230500
+DTSTAMP:20261011T030000Z
+UID:200711
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 20:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261010T123000
+DTEND;TZID=America/Los_Angeles:20261010T144000
+DTSTAMP:20261010T193000Z
+UID:200729
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 12:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261010T153000
+DTEND;TZID=America/Los_Angeles:20261010T174000
+DTSTAMP:20261010T223000Z
+UID:200728
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 15:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261010T182000
+DTEND;TZID=America/Los_Angeles:20261010T203000
+DTSTAMP:20261011T012000Z
+UID:200727
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 18:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261010T211000
+DTEND;TZID=America/Los_Angeles:20261010T232000
+DTSTAMP:20261011T041000Z
+UID:200726
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 21:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1335,6 +1843,30 @@ DESCRIPTION:Duration: 103 mins (1h43m)\nScreen 9\n\nBehind a young family'
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261010T134000
+DTEND;TZID=America/Los_Angeles:20261010T165500
+DTSTAMP:20261010T204000Z
+UID:200722
+DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 7\n\nA grieving boy seeks G
+ od to meet his departed mother\, and in finding the divine\, learns to ser
+ ve humanity with miracles of love\, food and silent blessings\, becoming H
+ anuman Ansh\, Neem Karoli Baba.\n\nEstimated start: 14:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261010T202000
+DTEND;TZID=America/Los_Angeles:20261010T233500
+DTSTAMP:20261011T032000Z
+UID:200721
+DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 7\n\nA grieving boy seeks G
+ od to meet his departed mother\, and in finding the divine\, learns to ser
+ ve humanity with miracles of love\, food and silent blessings\, becoming H
+ anuman Ansh\, Neem Karoli Baba.\n\nEstimated start: 20:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pan's Labyrinth 20th Anniversary (Spanish)
 DTSTART;TZID=America/Los_Angeles:20261010T140000
 DTEND;TZID=America/Los_Angeles:20261010T163000
@@ -1348,6 +1880,201 @@ DESCRIPTION:Duration: 124 mins (2h04m)\nScreen 3\n\nCelebrating its 20th A
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261010T141000
+DTEND;TZID=America/Los_Angeles:20261010T170500
+DTSTAMP:20261010T211000Z
+UID:200716
+DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 6\n\nAfter the death of his
+  mother\, a young boy leaves his home in grief\, believing that only by fi
+ nding God can he meet her again. His search takes him across temples\, for
+ ests\, rivers and villages\, where he lives in silence\, discipline and de
+ votion\, slowly sh\n\nEstimated start: 14:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261010T173000
+DTEND;TZID=America/Los_Angeles:20261010T202500
+DTSTAMP:20261011T003000Z
+UID:200715
+DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 6\n\nAfter the death of his
+  mother\, a young boy leaves his home in grief\, believing that only by fi
+ nding God can he meet her again. His search takes him across temples\, for
+ ests\, rivers and villages\, where he lives in silence\, discipline and de
+ votion\, slowly sh\n\nEstimated start: 17:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261010T205000
+DTEND;TZID=America/Los_Angeles:20261010T234500
+DTSTAMP:20261011T035000Z
+UID:200714
+DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 6\n\nAfter the death of his
+  mother\, a young boy leaves his home in grief\, believing that only by fi
+ nding God can he meet her again. His search takes him across temples\, for
+ ests\, rivers and villages\, where he lives in silence\, discipline and de
+ votion\, slowly sh\n\nEstimated start: 21:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261010T152000
+DTEND;TZID=America/Los_Angeles:20261010T174000
+DTSTAMP:20261010T222000Z
+UID:200707
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 10\n\nStruggling writer Low
+ en Ashleigh is hired as a ghostwriter for renowned author Verity Crawford 
+ under mysterious circumstances\, but her assignment takes a dark turn afte
+ r discovering chilling autobiographical notes. Faced with a series of dead
+ ly family sec\n\nEstimated start: 15:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261010T163000
+DTEND;TZID=America/Los_Angeles:20261010T184000
+DTSTAMP:20261010T233000Z
+UID:200730
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 3\n\nAfter a harrowing plan
+ e crash\, Special Forces officer James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 16:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261011T123000
+DTEND;TZID=America/Los_Angeles:20261011T145000
+DTSTAMP:20261011T193000Z
+UID:200735
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 9\n\nStruggling writer Lowe
+ n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
+ nder mysterious circumstances\, but her assignment takes a dark turn after
+  discovering chilling autobiographical notes. Faced with a series of deadl
+ y family sec\n\nEstimated start: 12:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261011T154000
+DTEND;TZID=America/Los_Angeles:20261011T180000
+DTSTAMP:20261011T224000Z
+UID:200736
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 9\n\nStruggling writer Lowe
+ n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
+ nder mysterious circumstances\, but her assignment takes a dark turn after
+  discovering chilling autobiographical notes. Faced with a series of deadl
+ y family sec\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261011T185000
+DTEND;TZID=America/Los_Angeles:20261011T211000
+DTSTAMP:20261012T015000Z
+UID:200737
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 9\n\nStruggling writer Lowe
+ n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
+ nder mysterious circumstances\, but her assignment takes a dark turn after
+  discovering chilling autobiographical notes. Faced with a series of deadl
+ y family sec\n\nEstimated start: 19:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261011T121000
+DTEND;TZID=America/Los_Angeles:20261011T141000
+DTSTAMP:20261011T191000Z
+UID:200741
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 12:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261011T144000
+DTEND;TZID=America/Los_Angeles:20261011T164000
+DTSTAMP:20261011T214000Z
+UID:200739
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 15:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261011T172000
+DTEND;TZID=America/Los_Angeles:20261011T192000
+DTSTAMP:20261012T002000Z
+UID:200740
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 17:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261011T195000
+DTEND;TZID=America/Los_Angeles:20261011T215000
+DTSTAMP:20261012T025000Z
+UID:200738
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 8\n\nFrom the mind of vision
+ ary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and t
+ errifying\n- reinvention of the Resident Evil franchise. In an all-new sto
+ ry\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who 
+ unwittingly fin\n\nEstimated start: 20:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261011T160500
+DTEND;TZID=America/Los_Angeles:20261011T181500
+DTSTAMP:20261011T230500Z
+UID:200752
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 3\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 16:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261011T175000
+DTEND;TZID=America/Los_Angeles:20261011T200000
+DTSTAMP:20261012T005000Z
+UID:200734
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 11\n\nAfter a harrowing pla
+ ne crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat
+  dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Tog
+ ether\, they are forced into a brutal fight for survival against the eleme
+ nts. From acclai\n\nEstimated start: 18:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261011T202500
+DTEND;TZID=America/Los_Angeles:20261011T223500
+DTSTAMP:20261012T032500Z
+UID:200754
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 11\n\nAfter a harrowing pla
+ ne crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat
+  dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Tog
+ ether\, they are forced into a brutal fight for survival against the eleme
+ nts. From acclai\n\nEstimated start: 20:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Social Reckoning (Subbed)
 DTSTART;TZID=America/Los_Angeles:20261011T120000
 DTEND;TZID=America/Los_Angeles:20261011T142000
@@ -1358,6 +2085,58 @@ DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nA companion piece to t
  the events that gave rise to the Wall Street Journal's shocking exposé Th
  e Facebook Files. The film is inspired by the true story of how Frances Ha
  ugen (Madison\n\nEstimated start: 12:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digger (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261011T120500
+DTEND;TZID=America/Los_Angeles:20261011T144000
+DTSTAMP:20261011T190500Z
+UID:200747
+DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 7\n\nThe most powerful man 
+ in the world embarks on a frantic mission to prove he is humanity's saviou
+ r before the disaster he's unleashed destroys everything.\n\nEstimated sta
+ rt: 12:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261011T122000
+DTEND;TZID=America/Los_Angeles:20261011T152500
+DTSTAMP:20261011T192000Z
+UID:200753
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 3\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 12:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261011T135000
+DTEND;TZID=America/Los_Angeles:20261011T165500
+DTSTAMP:20261011T205000Z
+UID:200745
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 14:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261011T181000
+DTEND;TZID=America/Los_Angeles:20261011T211500
+DTSTAMP:20261012T011000Z
+UID:200746
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 18:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forgotten Island (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261011T124000
+DTEND;TZID=America/Los_Angeles:20261011T145500
+DTSTAMP:20261011T194000Z
+UID:200742
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 6\n\nPlot unknown\n\nEstima
+ ted start: 13:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1398,16 +2177,42 @@ DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 5\n\nBela\, an 8-year-old gi
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261011T131000
+DTEND;TZID=America/Los_Angeles:20261011T152000
+DTSTAMP:20261011T201000Z
+UID:200749
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 13:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261011T161500
+DTEND;TZID=America/Los_Angeles:20261011T182500
+DTSTAMP:20261011T231500Z
+UID:200750
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 16:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Social Reckoning
 DTSTART;TZID=America/Los_Angeles:20261011T145000
 DTEND;TZID=America/Los_Angeles:20261011T171000
 DTSTAMP:20261011T215000Z
 UID:200177
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 15:15
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 15:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1417,10 +2222,10 @@ DTEND;TZID=America/Los_Angeles:20261011T200000
 DTSTAMP:20261012T004000Z
 UID:200180
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 18:05
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 18:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1430,10 +2235,10 @@ DTEND;TZID=America/Los_Angeles:20261011T224000
 DTSTAMP:20261012T032000Z
 UID:200179
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 20:45
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 20:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1476,6 +2281,30 @@ DESCRIPTION:Duration: 99 mins (1h39m)\nScreen 10\n\nA loan officer who evi
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261011T150500
+DTEND;TZID=America/Los_Angeles:20261011T182000
+DTSTAMP:20261011T220500Z
+UID:200748
+DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 7\n\nA grieving boy seeks G
+ od to meet his departed mother\, and in finding the divine\, learns to ser
+ ve humanity with miracles of love\, food and silent blessings\, becoming H
+ anuman Ansh\, Neem Karoli Baba.\n\nEstimated start: 15:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261011T184000
+DTEND;TZID=America/Los_Angeles:20261011T215500
+DTSTAMP:20261012T014000Z
+UID:200755
+DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 7\n\nA grieving boy seeks G
+ od to meet his departed mother\, and in finding the divine\, learns to ser
+ ve humanity with miracles of love\, food and silent blessings\, becoming H
+ anuman Ansh\, Neem Karoli Baba.\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Other Mommy
 DTSTART;TZID=America/Los_Angeles:20261011T153000
 DTEND;TZID=America/Los_Angeles:20261011T173000
@@ -1515,6 +2344,32 @@ DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 5\n\nBela\, an 8-year-old gi
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261011T155000
+DTEND;TZID=America/Los_Angeles:20261011T184500
+DTSTAMP:20261011T225000Z
+UID:200743
+DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 6\n\nAfter the death of his
+  mother\, a young boy leaves his home in grief\, believing that only by fi
+ nding God can he meet her again. His search takes him across temples\, for
+ ests\, rivers and villages\, where he lives in silence\, discipline and de
+ votion\, slowly sh\n\nEstimated start: 16:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261011T192000
+DTEND;TZID=America/Los_Angeles:20261011T221500
+DTSTAMP:20261012T022000Z
+UID:200744
+DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 6\n\nAfter the death of his
+  mother\, a young boy leaves his home in grief\, believing that only by fi
+ nding God can he meet her again. His search takes him across temples\, for
+ ests\, rivers and villages\, where he lives in silence\, discipline and de
+ votion\, slowly sh\n\nEstimated start: 19:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pan's Labyrinth 20th Anniversary (Spanish)
 DTSTART;TZID=America/Los_Angeles:20261011T190000
 DTEND;TZID=America/Los_Angeles:20261011T213000
@@ -1525,6 +2380,109 @@ DESCRIPTION:Duration: 124 mins (2h04m)\nScreen 3\n\nCelebrating its 20th A
  ing dark fable set in 1944\, five years after the end of the Spanish Civil
   War. Eleven-year-old Ofelia (Ivana Baquero\, in a mature and tender perfo
  rmance) comes\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261011T191000
+DTEND;TZID=America/Los_Angeles:20261011T212000
+DTSTAMP:20261012T021000Z
+UID:200751
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 2\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261012T153000
+DTEND;TZID=America/Los_Angeles:20261012T175000
+DTSTAMP:20261012T223000Z
+UID:200763
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 9\n\nStruggling writer Lowe
+ n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
+ nder mysterious circumstances\, but her assignment takes a dark turn after
+  discovering chilling autobiographical notes. Faced with a series of deadl
+ y family sec\n\nEstimated start: 15:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART;TZID=America/Los_Angeles:20261012T154000
+DTEND;TZID=America/Los_Angeles:20261012T181500
+DTSTAMP:20261012T224000Z
+UID:200761
+DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 11\n\nThe most powerful man
+  in the world embarks on a frantic mission to prove he is humanity's savio
+ ur before the disaster he's unleashed destroys everything.\n\nEstimated st
+ art: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261012T150000
+DTEND;TZID=America/Los_Angeles:20261012T170000
+DTSTAMP:20261012T220000Z
+UID:200766
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 10\n\nFrom the mind of visio
+ nary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and 
+ terrifying\n- reinvention of the Resident Evil franchise. In an all-new st
+ ory\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who
+  unwittingly fin\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261012T172500
+DTEND;TZID=America/Los_Angeles:20261012T192500
+DTSTAMP:20261013T002500Z
+UID:200767
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 10\n\nFrom the mind of visio
+ nary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and 
+ terrifying\n- reinvention of the Resident Evil franchise. In an all-new st
+ ory\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who
+  unwittingly fin\n\nEstimated start: 17:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261012T195000
+DTEND;TZID=America/Los_Angeles:20261012T215000
+DTSTAMP:20261013T025000Z
+UID:200768
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 10\n\nFrom the mind of visio
+ nary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and 
+ terrifying\n- reinvention of the Resident Evil franchise. In an all-new st
+ ory\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who
+  unwittingly fin\n\nEstimated start: 20:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261012T163000
+DTEND;TZID=America/Los_Angeles:20261012T184000
+DTSTAMP:20261012T233000Z
+UID:200765
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 7\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 16:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forgotten Island
+DTSTART;TZID=America/Los_Angeles:20261012T152000
+DTEND;TZID=America/Los_Angeles:20261012T173500
+DTSTAMP:20261012T222000Z
+UID:200757
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 2\n\nWhile celebrating thei
+ r last night together\, Jo and Raissa stumble upon a mysterious portal tha
+ t transports them to the fantastical island of Nakali\, packed with magica
+ l and mythological creatures they grew up hearing stories about from their
+  Filipino fam\n\nEstimated start: 15:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1567,6 +2525,39 @@ DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 5\n\nBela\, an 8-year-old gi
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261012T151000
+DTEND;TZID=America/Los_Angeles:20261012T181500
+DTSTAMP:20261012T221000Z
+UID:200759
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 15:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261012T183000
+DTEND;TZID=America/Los_Angeles:20261012T213500
+DTSTAMP:20261013T013000Z
+UID:200760
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261012T155000
+DTEND;TZID=America/Los_Angeles:20261012T180000
+DTSTAMP:20261012T225000Z
+UID:200756
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 16:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pan's Labyrinth 20th Anniversary (Spanish)
 DTSTART;TZID=America/Los_Angeles:20261012T160000
 DTEND;TZID=America/Los_Angeles:20261012T183000
@@ -1599,10 +2590,10 @@ DTEND;TZID=America/Los_Angeles:20261012T183000
 DTSTAMP:20261012T231000Z
 UID:200181
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 16:35
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 16:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1612,10 +2603,10 @@ DTEND;TZID=America/Los_Angeles:20261012T212500
 DTSTAMP:20261013T020500Z
 UID:200182
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 19:30
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 19:30
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1643,15 +2634,41 @@ DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 8\n\nA research facility in
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monday Mystery Movie (10/12)
-DTSTART;TZID=America/Los_Angeles:20261012T190000
-DTEND;TZID=America/Los_Angeles:20261012T211500
-DTSTAMP:20261013T020000Z
-UID:200296
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 6\n\nShhh! Be the first to 
- see this NEW movie before its official release date for only $5... We just
-  can't tell you the title! The next Monday Mystery Movie at Regal is on Oc
- tober 12th!\n\nEstimated start: 19:25
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261012T181000
+DTEND;TZID=America/Los_Angeles:20261012T210500
+DTSTAMP:20261013T011000Z
+UID:200758
+DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 2\n\nAfter the death of his
+  mother\, a young boy leaves his home in grief\, believing that only by fi
+ nding God can he meet her again. His search takes him across temples\, for
+ ests\, rivers and villages\, where he lives in silence\, discipline and de
+ votion\, slowly sh\n\nEstimated start: 18:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261012T184000
+DTEND;TZID=America/Los_Angeles:20261012T210000
+DTSTAMP:20261013T014000Z
+UID:200764
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 9\n\nStruggling writer Lowe
+ n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
+ nder mysterious circumstances\, but her assignment takes a dark turn after
+  discovering chilling autobiographical notes. Faced with a series of deadl
+ y family sec\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261012T185000
+DTEND;TZID=America/Los_Angeles:20261012T220500
+DTSTAMP:20261013T015000Z
+UID:200762
+DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 11\n\nA grieving boy seeks 
+ God to meet his departed mother\, and in finding the divine\, learns to se
+ rve humanity with miracles of love\, food and silent blessings\, becoming 
+ Hanuman Ansh\, Neem Karoli Baba.\n\nEstimated start: 19:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1665,6 +2682,122 @@ DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 7\n\nWhen a deadly satellit
  orld from certain disaster. Armed with his license to kill\, Bond races to
   Russia in search of the stolen access codes for "Goldeneye\," an awesome 
  space weapon t\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Mystery Movie (10/12)
+DTSTART;TZID=America/Los_Angeles:20261012T190000
+DTEND;TZID=America/Los_Angeles:20261012T211500
+DTSTAMP:20261013T020000Z
+UID:200296
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 6\n\nShhh! Be the first to 
+ see this NEW movie before its official release date for only $5... We just
+  can't tell you the title! The next Monday Mystery Movie at Regal is on Oc
+ tober 12th!\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261013T153000
+DTEND;TZID=America/Los_Angeles:20261013T175000
+DTSTAMP:20261013T223000Z
+UID:200774
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 9\n\nStruggling writer Lowe
+ n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
+ nder mysterious circumstances\, but her assignment takes a dark turn after
+  discovering chilling autobiographical notes. Faced with a series of deadl
+ y family sec\n\nEstimated start: 15:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261013T184000
+DTEND;TZID=America/Los_Angeles:20261013T210000
+DTSTAMP:20261014T014000Z
+UID:200773
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 9\n\nStruggling writer Lowe
+ n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
+ nder mysterious circumstances\, but her assignment takes a dark turn after
+  discovering chilling autobiographical notes. Faced with a series of deadl
+ y family sec\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261013T150000
+DTEND;TZID=America/Los_Angeles:20261013T170000
+DTSTAMP:20261013T220000Z
+UID:200772
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 10\n\nFrom the mind of visio
+ nary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and 
+ terrifying\n- reinvention of the Resident Evil franchise. In an all-new st
+ ory\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who
+  unwittingly fin\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261013T172500
+DTEND;TZID=America/Los_Angeles:20261013T192500
+DTSTAMP:20261014T002500Z
+UID:200771
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 10\n\nFrom the mind of visio
+ nary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and 
+ terrifying\n- reinvention of the Resident Evil franchise. In an all-new st
+ ory\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who
+  unwittingly fin\n\nEstimated start: 17:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261013T195000
+DTEND;TZID=America/Los_Angeles:20261013T215000
+DTSTAMP:20261014T025000Z
+UID:200770
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 10\n\nFrom the mind of visio
+ nary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and 
+ terrifying\n- reinvention of the Resident Evil franchise. In an all-new st
+ ory\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who
+  unwittingly fin\n\nEstimated start: 20:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261013T162000
+DTEND;TZID=America/Los_Angeles:20261013T183000
+DTSTAMP:20261013T232000Z
+UID:200777
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 7\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 16:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261013T193000
+DTEND;TZID=America/Los_Angeles:20261013T214000
+DTSTAMP:20261014T023000Z
+UID:200778
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 7\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forgotten Island
+DTSTART;TZID=America/Los_Angeles:20261013T152500
+DTEND;TZID=America/Los_Angeles:20261013T174000
+DTSTAMP:20261013T222500Z
+UID:200785
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 2\n\nWhile celebrating thei
+ r last night together\, Jo and Raissa stumble upon a mysterious portal tha
+ t transports them to the fantastical island of Nakali\, packed with magica
+ l and mythological creatures they grew up hearing stories about from their
+  Filipino fam\n\nEstimated start: 15:50
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1707,6 +2840,26 @@ DESCRIPTION:Duration: 93 mins (1h33m)\nScreen 5\n\nBela\, an 8-year-old gi
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261013T151000
+DTEND;TZID=America/Los_Angeles:20261013T181500
+DTSTAMP:20261013T221000Z
+UID:200782
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 15:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261013T183000
+DTEND;TZID=America/Los_Angeles:20261013T213500
+DTSTAMP:20261014T013000Z
+UID:200781
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Texas Chainsaw Massacre
 DTSTART;TZID=America/Los_Angeles:20261013T152000
 DTEND;TZID=America/Los_Angeles:20261013T171000
@@ -1746,6 +2899,44 @@ DESCRIPTION:Duration: 83 mins (1h23m)\nScreen 8\n\nShocking\, lurid and co
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Digger (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261013T154000
+DTEND;TZID=America/Los_Angeles:20261013T181500
+DTSTAMP:20261013T224000Z
+UID:200776
+DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 11\n\nThe most powerful man
+  in the world embarks on a frantic mission to prove he is humanity's savio
+ ur before the disaster he's unleashed destroys everything.\n\nEstimated st
+ art: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261013T155000
+DTEND;TZID=America/Los_Angeles:20261013T180000
+DTSTAMP:20261013T225000Z
+UID:200779
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 16:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261013T190000
+DTEND;TZID=America/Los_Angeles:20261013T211000
+DTSTAMP:20261014T020000Z
+UID:200780
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pan's Labyrinth 20th Anniversary (Spanish)
 DTSTART;TZID=America/Los_Angeles:20261013T160000
 DTEND;TZID=America/Los_Angeles:20261013T183000
@@ -1778,10 +2969,10 @@ DTEND;TZID=America/Los_Angeles:20261013T183000
 DTSTAMP:20261013T231000Z
 UID:200186
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 16:35
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 16:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1791,10 +2982,151 @@ DTEND;TZID=America/Los_Angeles:20261013T214000
 DTSTAMP:20261014T022000Z
 UID:200185
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 19:45
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 19:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261013T181000
+DTEND;TZID=America/Los_Angeles:20261013T210500
+DTSTAMP:20261014T011000Z
+UID:200784
+DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 2\n\nAfter the death of his
+  mother\, a young boy leaves his home in grief\, believing that only by fi
+ nding God can he meet her again. His search takes him across temples\, for
+ ests\, rivers and villages\, where he lives in silence\, discipline and de
+ votion\, slowly sh\n\nEstimated start: 18:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261013T185000
+DTEND;TZID=America/Los_Angeles:20261013T220500
+DTSTAMP:20261014T015000Z
+UID:200775
+DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 11\n\nA grieving boy seeks 
+ God to meet his departed mother\, and in finding the divine\, learns to se
+ rve humanity with miracles of love\, food and silent blessings\, becoming 
+ Hanuman Ansh\, Neem Karoli Baba.\n\nEstimated start: 19:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261014T153000
+DTEND;TZID=America/Los_Angeles:20261014T175000
+DTSTAMP:20261014T223000Z
+UID:200794
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 7\n\nStruggling writer Lowe
+ n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
+ nder mysterious circumstances\, but her assignment takes a dark turn after
+  discovering chilling autobiographical notes. Faced with a series of deadl
+ y family sec\n\nEstimated start: 15:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verity
+DTSTART;TZID=America/Los_Angeles:20261014T184000
+DTEND;TZID=America/Los_Angeles:20261014T210000
+DTSTAMP:20261015T014000Z
+UID:200795
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 7\n\nStruggling writer Lowe
+ n Ashleigh is hired as a ghostwriter for renowned author Verity Crawford u
+ nder mysterious circumstances\, but her assignment takes a dark turn after
+  discovering chilling autobiographical notes. Faced with a series of deadl
+ y family sec\n\nEstimated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digger
+DTSTART;TZID=America/Los_Angeles:20261014T154000
+DTEND;TZID=America/Los_Angeles:20261014T181500
+DTSTAMP:20261014T224000Z
+UID:200797
+DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 8\n\nThe most powerful man 
+ in the world embarks on a frantic mission to prove he is humanity's saviou
+ r before the disaster he's unleashed destroys everything.\n\nEstimated sta
+ rt: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261014T150000
+DTEND;TZID=America/Los_Angeles:20261014T170000
+DTSTAMP:20261014T220000Z
+UID:200791
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 10\n\nFrom the mind of visio
+ nary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and 
+ terrifying\n- reinvention of the Resident Evil franchise. In an all-new st
+ ory\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who
+  unwittingly fin\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261014T173000
+DTEND;TZID=America/Los_Angeles:20261014T193000
+DTSTAMP:20261015T003000Z
+UID:200792
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 10\n\nFrom the mind of visio
+ nary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and 
+ terrifying\n- reinvention of the Resident Evil franchise. In an all-new st
+ ory\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who
+  unwittingly fin\n\nEstimated start: 17:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resident Evil
+DTSTART;TZID=America/Los_Angeles:20261014T195500
+DTEND;TZID=America/Los_Angeles:20261014T215500
+DTSTAMP:20261015T025500Z
+UID:200793
+DESCRIPTION:Duration: 94 mins (1h34m)\nScreen 10\n\nFrom the mind of visio
+ nary filmmaker Zach Cregger (Weapons\, Barbarian) comes a thrilling - and 
+ terrifying\n- reinvention of the Resident Evil franchise. In an all-new st
+ ory\, Resident Evil follows Bryan (Austin Abrams)\, a medical\ncourier who
+  unwittingly fin\n\nEstimated start: 20:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261014T151500
+DTEND;TZID=America/Los_Angeles:20261014T172500
+DTSTAMP:20261014T221500Z
+UID:200798
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 11\n\nAfter a harrowing pla
+ ne crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat
+  dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Tog
+ ether\, they are forced into a brutal fight for survival against the eleme
+ nts. From acclai\n\nEstimated start: 15:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heart of the Beast
+DTSTART;TZID=America/Los_Angeles:20261014T162000
+DTEND;TZID=America/Los_Angeles:20261014T183000
+DTSTAMP:20261014T232000Z
+UID:200788
+DESCRIPTION:Duration: 101 mins (1h41m)\nScreen 5\n\nAfter a harrowing plan
+ e crash\, Special Forces veteran James Belmont (Brad Pitt) and his combat 
+ dog\, Odin\, find themselves stranded deep in the Alaskan wilderness. Toge
+ ther\, they are forced into a brutal fight for survival against the elemen
+ ts. From acclai\n\nEstimated start: 16:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forgotten Island
+DTSTART;TZID=America/Los_Angeles:20261014T152000
+DTEND;TZID=America/Los_Angeles:20261014T173500
+DTSTAMP:20261014T222000Z
+UID:200789
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nWhile celebrating thei
+ r last night together\, Jo and Raissa stumble upon a mysterious portal tha
+ t transports them to the fantastical island of Nakali\, packed with magica
+ l and mythological creatures they grew up hearing stories about from their
+  Filipino fam\n\nEstimated start: 15:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1863,6 +3195,29 @@ DESCRIPTION:Duration: 83 mins (1h23m)\nScreen 9\n\nOne of the most harrowi
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Drishyam: The Conclusion
+DTSTART;TZID=America/Los_Angeles:20261014T151000
+DTEND;TZID=America/Los_Angeles:20261014T181500
+DTSTAMP:20261014T221000Z
+UID:200786
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 2\n\nFollow the Salgaonkar 
+ family as they try to cover up a murder.\n\nEstimated start: 15:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angel and the Badman
+DTSTART;TZID=America/Los_Angeles:20261014T155000
+DTEND;TZID=America/Los_Angeles:20261014T180000
+DTSTAMP:20261014T225000Z
+UID:200787
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 4\n\nWhen feared outlaw Qui
+ rt Evans staggers onto a rancher's land with a bullet in his back\, he exp
+ ects a quick death\, not mercy. But Penny\, the rancher's daughter\, offer
+ s him a chance at something he's never had: a life beyond violence. Howeve
+ r\, the past doe\n\nEstimated start: 16:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Social Reckoning (Subbed)
 DTSTART;TZID=America/Los_Angeles:20261014T161000
 DTEND;TZID=America/Los_Angeles:20261014T183000
@@ -1889,6 +3244,31 @@ DESCRIPTION:Duration: 237 mins (3h57m)\nScreen 11\n\nClark Gable\, Vivien
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261014T181000
+DTEND;TZID=America/Los_Angeles:20261014T210500
+DTSTAMP:20261015T011000Z
+UID:200790
+DESCRIPTION:Duration: 150 mins (2h30m)\nScreen 3\n\nAfter the death of his
+  mother\, a young boy leaves his home in grief\, believing that only by fi
+ nding God can he meet her again. His search takes him across temples\, for
+ ests\, rivers and villages\, where he lives in silence\, discipline and de
+ votion\, slowly sh\n\nEstimated start: 18:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanuman Ansh
+DTSTART;TZID=America/Los_Angeles:20261014T185000
+DTEND;TZID=America/Los_Angeles:20261014T220500
+DTSTAMP:20261015T015000Z
+UID:200796
+DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 8\n\nA grieving boy seeks G
+ od to meet his departed mother\, and in finding the divine\, learns to ser
+ ve humanity with miracles of love\, food and silent blessings\, becoming H
+ anuman Ansh\, Neem Karoli Baba.\n\nEstimated start: 19:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sense and Sensibility - Early Access Movie Party
 DTSTART;TZID=America/Los_Angeles:20261014T190000
 DTEND;TZID=America/Los_Angeles:20261014T214000
@@ -1906,10 +3286,10 @@ DTEND;TZID=America/Los_Angeles:20261014T213000
 DTSTAMP:20261015T021000Z
 UID:200188
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 1\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 19:35
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 19:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2102,10 +3482,10 @@ DTEND;TZID=America/Los_Angeles:20261015T174000
 DTSTAMP:20261015T222000Z
 UID:200190
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 7\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 15:45
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 15:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2115,10 +3495,10 @@ DTEND;TZID=America/Los_Angeles:20261015T203000
 DTSTAMP:20261016T011000Z
 UID:200191
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 7\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 18:35
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 18:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2128,10 +3508,10 @@ DTEND;TZID=America/Los_Angeles:20261015T231500
 DTSTAMP:20261016T035500Z
 UID:200196
 DESCRIPTION:Duration: 112 mins (1h52m)\nScreen 7\n\nInspired by true event
- s and the whistleblower who started  the social media reckoning we're seei
- ng play out today\, this Aaron Sorkin original  screenplay is a companion 
- piece to the hit film The Social Network and a true David  and Goliath sto
- ry. Frances\n\nEstimated start: 21:20
+ s and the whistleblower who started \nthe social media reckoning we're see
+ ing play out today\, this Aaron Sorkin original \nscreenplay is a companio
+ n piece to the hit film The Social Network and a true David \nand Goliath 
+ story. Frances\n\nEstimated start: 21:20
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4440,10 +5820,10 @@ DTEND;TZID=America/Los_Angeles:20261024T192500
 DTSTAMP:20261024T224500Z
 UID:199698
 DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 4\n\nThe first-ever BTS Liv
- e Viewing broadcast from South America. Experience the BTS WORLD TOUR 'ARI
- RANG' in cinemas worldwide\, broadcasting from Buenos Aires\, Argentina! M
- arking the first time the band has ever performed in Argentina\, this monu
- mental concert\n\nEstimated start: 16:10
+ e Viewing broadcast from South America.\nExperience the BTS WORLD TOUR 'AR
+ IRANG' in cinemas worldwide\, broadcasting from\nBuenos Aires\, Argentina!
+ \nMarking the first time the band has ever performed in Argentina\, this m
+ onumental\nconcert\n\nEstimated start: 16:10
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4542,10 +5922,10 @@ DTEND;TZID=America/Los_Angeles:20261025T172500
 DTSTAMP:20261025T204500Z
 UID:199699
 DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 4\n\nThe first-ever BTS Liv
- e Viewing broadcast from South America. Experience the BTS WORLD TOUR 'ARI
- RANG' in cinemas worldwide\, broadcasting from Buenos Aires\, Argentina! M
- arking the first time the band has ever performed in Argentina\, this monu
- mental concert\n\nEstimated start: 14:10
+ e Viewing broadcast from South America.\nExperience the BTS WORLD TOUR 'AR
+ IRANG' in cinemas worldwide\, broadcasting from\nBuenos Aires\, Argentina!
+ \nMarking the first time the band has ever performed in Argentina\, this m
+ onumental\nconcert\n\nEstimated start: 14:10
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6887,6 +8267,198 @@ DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
  thing they'\n\nEstimated start: 23:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T071000
+DTEND;TZID=America/Los_Angeles:20261223T102000
+DTSTAMP:20261223T151000Z
+UID:197873
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 7:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T074000
+DTEND;TZID=America/Los_Angeles:20261223T105000
+DTSTAMP:20261223T154000Z
+UID:197872
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 8:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T081000
+DTEND;TZID=America/Los_Angeles:20261223T112000
+DTSTAMP:20261223T161000Z
+UID:197871
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 8:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T105500
+DTEND;TZID=America/Los_Angeles:20261223T140500
+DTSTAMP:20261223T185500Z
+UID:197870
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 11:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T115500
+DTEND;TZID=America/Los_Angeles:20261223T150500
+DTSTAMP:20261223T195500Z
+UID:197868
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 12:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T144000
+DTEND;TZID=America/Los_Angeles:20261223T175000
+DTSTAMP:20261223T224000Z
+UID:197867
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 15:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T151000
+DTEND;TZID=America/Los_Angeles:20261223T182000
+DTSTAMP:20261223T231000Z
+UID:197875
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 15:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T154000
+DTEND;TZID=America/Los_Angeles:20261223T185000
+DTSTAMP:20261223T234000Z
+UID:197877
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T183000
+DTEND;TZID=America/Los_Angeles:20261223T214000
+DTSTAMP:20261224T023000Z
+UID:197866
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T190000
+DTEND;TZID=America/Los_Angeles:20261223T221000
+DTSTAMP:20261224T030000Z
+UID:197880
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T193000
+DTEND;TZID=America/Los_Angeles:20261223T224000
+DTSTAMP:20261224T033000Z
+UID:197879
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T222000
+DTEND;TZID=America/Los_Angeles:20261224T013000
+DTSTAMP:20261224T062000Z
+UID:197878
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 22:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T225000
+DTEND;TZID=America/Los_Angeles:20261224T020000
+DTSTAMP:20261224T065000Z
+UID:197876
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 23:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261223T232000
+DTEND;TZID=America/Los_Angeles:20261224T023000
+DTSTAMP:20261224T072000Z
+UID:197874
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 23:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261223T112500
+DTEND;TZID=America/Los_Angeles:20261223T143500
+DTSTAMP:20261223T192500Z
+UID:197869
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nPlot unknown\n\nEstima
+ ted start: 11:50
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 END:VCALENDAR
