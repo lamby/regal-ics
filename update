@@ -191,9 +191,13 @@ class RegalICS:
 
                 for x in film["Performances"]:
                     event = icalendar.Event()
-
                     event.add("uid", x["PerformanceId"])
-                    event.add("summary", title)
+
+                    summary = title
+                    if "3D" in x["PerformanceAttributes"]:
+                        summary = f"{summary} (3D)"
+
+                    event.add("summary", summary)
                     event.add(
                         "location", "{}, {}".format(theatre_data["name"], address)
                     )
@@ -223,9 +227,20 @@ class RegalICS:
                         "Screen {}".format(x["Auditorium"]),
                         "",
                         movie["Description"],
+                    ]
+
+                    attributes = []
+                    if "Sub-Titled" in x["PerformanceAttributes"]:
+                        attributes.append("Subtitled.")
+                    if "No Pass/PT" in x["PerformanceAttributes"]:
+                        attributes.append("No passes.")
+                    if attributes:
+                        description.extend(["", " ".join(attributes)])
+
+                    description.extend([
                         "",
                         f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}",
-                    ]
+                    ])
 
                     event.add("description", "\n".join(description))
 
