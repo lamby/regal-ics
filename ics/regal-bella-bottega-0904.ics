@@ -3,1030 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Regal Bella Bottega
 X-WR-CALNAME:Cinema 🇺🇸 Regal Bella Bottega
-LAST-MODIFIED:20261112T153701Z
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261112T154500
-DTEND;TZID=America/Los_Angeles:20261112T180500
-DTSTAMP:20261112T234500Z
-UID:201391
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 16:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261112T184000
-DTEND;TZID=America/Los_Angeles:20261112T210000
-DTSTAMP:20261113T024000Z
-UID:201392
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 19:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261112T214000
-DTEND;TZID=America/Los_Angeles:20261113T000000
-DTSTAMP:20261113T054000Z
-UID:201393
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 22:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART;TZID=America/Los_Angeles:20261112T120000
-DTEND;TZID=America/Los_Angeles:20261112T144000
-DTSTAMP:20261112T200000Z
-UID:200654
-DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
- ero\, and Godzilla plunged it into minus. Two years have passed since then
- \, and the country has faced agonizing struggles to achieve recovery and f
- inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
- ard-won peace\,\n\nSubtitled.\n\nEstimated start: 12:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART;TZID=America/Los_Angeles:20261112T151000
-DTEND;TZID=America/Los_Angeles:20261112T175000
-DTSTAMP:20261112T231000Z
-UID:200653
-DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
- ero\, and Godzilla plunged it into minus. Two years have passed since then
- \, and the country has faced agonizing struggles to achieve recovery and f
- inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
- ard-won peace\,\n\nSubtitled.\n\nEstimated start: 15:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART;TZID=America/Los_Angeles:20261112T182000
-DTEND;TZID=America/Los_Angeles:20261112T210000
-DTSTAMP:20261113T022000Z
-UID:200652
-DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
- ero\, and Godzilla plunged it into minus. Two years have passed since then
- \, and the country has faced agonizing struggles to achieve recovery and f
- inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
- ard-won peace\,\n\nSubtitled.\n\nEstimated start: 18:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART;TZID=America/Los_Angeles:20261112T213000
-DTEND;TZID=America/Los_Angeles:20261113T001000
-DTSTAMP:20261113T053000Z
-UID:201521
-DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 1\n\nWar reduced Japan to z
- ero\, and Godzilla plunged it into minus. Two years have passed since then
- \, and the country has faced agonizing struggles to achieve recovery and f
- inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
- ard-won peace\,\n\nSubtitled.\n\nEstimated start: 21:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261112T121500
-DTEND;TZID=America/Los_Angeles:20261112T143500
-DTSTAMP:20261112T201500Z
-UID:202119
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 5\n\nA clever cat brings ch
- aos and mischief to the home of two young children.\n\nEstimated start: 12
- :40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261112T131000
-DTEND;TZID=America/Los_Angeles:20261112T153000
-DTSTAMP:20261112T211000Z
-UID:201139
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 10\n\nA clever cat brings c
- haos and mischief to the home of two young children.\n\nEstimated start: 1
- 3:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261112T155500
-DTEND;TZID=America/Los_Angeles:20261112T181500
-DTSTAMP:20261112T235500Z
-UID:201138
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 10\n\nA clever cat brings c
- haos and mischief to the home of two young children.\n\nEstimated start: 1
- 6:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261112T185000
-DTEND;TZID=America/Los_Angeles:20261112T211000
-DTSTAMP:20261113T025000Z
-UID:201137
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 10\n\nA clever cat brings c
- haos and mischief to the home of two young children.\n\nEstimated start: 1
- 9:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261112T214500
-DTEND;TZID=America/Los_Angeles:20261113T000500
-DTSTAMP:20261113T054500Z
-UID:201520
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 10\n\nA clever cat brings c
- haos and mischief to the home of two young children.\n\nEstimated start: 2
- 2:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261112T160000
-DTEND;TZID=America/Los_Angeles:20261112T183000
-DTSTAMP:20261113T000000Z
-UID:201395
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 4\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261112T190000
-DTEND;TZID=America/Los_Angeles:20261112T213000
-DTSTAMP:20261113T030000Z
-UID:201396
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 4\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261112T215500
-DTEND;TZID=America/Los_Angeles:20261113T002500
-DTSTAMP:20261113T055500Z
-UID:201519
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 4\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 22:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261112T121000
-DTEND;TZID=America/Los_Angeles:20261112T140500
-DTSTAMP:20261112T201000Z
-UID:201997
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 8\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 12:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261112T165000
-DTEND;TZID=America/Los_Angeles:20261112T184500
-DTSTAMP:20261113T005000Z
-UID:201995
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 8\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 17:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261112T191000
-DTEND;TZID=America/Los_Angeles:20261112T210500
-DTSTAMP:20261113T031000Z
-UID:201994
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 8\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261112T213500
-DTEND;TZID=America/Los_Angeles:20261112T233000
-DTSTAMP:20261113T053500Z
-UID:201998
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 8\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 22:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261112T120500
-DTEND;TZID=America/Los_Angeles:20261112T152500
-DTSTAMP:20261112T200500Z
-UID:202110
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 11\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 12:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261112T161000
-DTEND;TZID=America/Los_Angeles:20261112T193000
-DTSTAMP:20261113T001000Z
-UID:202111
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 11\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 16:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261112T200000
-DTEND;TZID=America/Los_Angeles:20261112T232000
-DTSTAMP:20261113T040000Z
-UID:202108
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 11\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 20:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261112T122000
-DTEND;TZID=America/Los_Angeles:20261112T145500
-DTSTAMP:20261112T202000Z
-UID:202106
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 12:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261112T152000
-DTEND;TZID=America/Los_Angeles:20261112T175500
-DTSTAMP:20261112T232000Z
-UID:202107
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 15:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261112T181500
-DTEND;TZID=America/Los_Angeles:20261112T205000
-DTSTAMP:20261113T021500Z
-UID:202120
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 18:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261112T211000
-DTEND;TZID=America/Los_Angeles:20261112T234500
-DTSTAMP:20261113T051000Z
-UID:202109
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 21:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261112T125000
-DTEND;TZID=America/Los_Angeles:20261112T151500
-DTSTAMP:20261112T205000Z
-UID:200857
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 2\n\nShortly before the 197
- 3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
- are dispatched from Santiago to Easter island by their bureau chief\, MJ (
- Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
- partners wrest\n\nEstimated start: 13:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261112T154000
-DTEND;TZID=America/Los_Angeles:20261112T180500
-DTSTAMP:20261112T234000Z
-UID:200858
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 2\n\nShortly before the 197
- 3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
- are dispatched from Santiago to Easter island by their bureau chief\, MJ (
- Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
- partners wrest\n\nEstimated start: 16:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261112T183500
-DTEND;TZID=America/Los_Angeles:20261112T210000
-DTSTAMP:20261113T023500Z
-UID:200859
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 2\n\nShortly before the 197
- 3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
- are dispatched from Santiago to Easter island by their bureau chief\, MJ (
- Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
- partners wrest\n\nEstimated start: 19:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261112T212500
-DTEND;TZID=America/Los_Angeles:20261112T235000
-DTSTAMP:20261113T052500Z
-UID:201522
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 2\n\nShortly before the 197
- 3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
- are dispatched from Santiago to Easter island by their bureau chief\, MJ (
- Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
- partners wrest\n\nEstimated start: 21:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drummer Boy
-DTSTART;TZID=America/Los_Angeles:20261112T124000
-DTEND;TZID=America/Los_Angeles:20261112T151500
-DTSTAMP:20261112T204000Z
-UID:202112
-DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 6\n\nIn this epic musical\,
-  two brothers are driven onto opposite sides of the American Revolutionary
-  War. With love\, loyalty\, and family caught in the crossfire\, each must
-  decide who he will become\, as the fight for freedom turns into a deeply 
- personal battle\n\nEstimated start: 13:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drummer Boy
-DTSTART;TZID=America/Los_Angeles:20261112T162000
-DTEND;TZID=America/Los_Angeles:20261112T185500
-DTSTAMP:20261113T002000Z
-UID:202113
-DESCRIPTION:Duration: 129 mins (2h09m)\nScreen 6\n\nIn this epic musical\,
-  two brothers are driven onto opposite sides of the American Revolutionary
-  War. With love\, loyalty\, and family caught in the crossfire\, each must
-  decide who he will become\, as the fight for freedom turns into a deeply 
- personal battle\n\nEstimated start: 16:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261112T142000
-DTEND;TZID=America/Los_Angeles:20261112T180000
-DTSTAMP:20261112T222000Z
-UID:200831
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 3\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 14:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana (3D)
-DTSTART;TZID=America/Los_Angeles:20261112T183000
-DTEND;TZID=America/Los_Angeles:20261112T221000
-DTSTAMP:20261113T023000Z
-UID:200830
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 3\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 18:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fjord
-DTSTART;TZID=America/Los_Angeles:20261112T123000
-DTEND;TZID=America/Los_Angeles:20261112T152500
-DTSTAMP:20261112T203000Z
-UID:202118
-DESCRIPTION:Duration: 146 mins (2h26m)\nScreen 4\n\nMihai and Lisbet Gheor
- ghiu\, a Romanian-Norwegian Pentecostal couple\, move with their five chil
- dren from Romania to Norway after Mihai's parents die\, seeking closeness 
- to Lisbet's family\, who share their faith. Settling in an isolated coasta
- l village\, they\n\nSubtitled.\n\nEstimated start: 12:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aadarsha Kutumbam House No: 47
-DTSTART;TZID=America/Los_Angeles:20261112T130000
-DTEND;TZID=America/Los_Angeles:20261112T160000
-DTSTAMP:20261112T210000Z
-UID:202115
-DESCRIPTION:Duration: 152 mins (2h32m)\nScreen 7\n\nA seemingly flawless f
- amily at House No. 47 unravels after an incident reveals hidden tensions. 
- As secrets emerge and bonds fray\, each member faces the truth behind thei
- r perfect facade in this tale of appearances versus reality.\n\nSubtitled.
- \n\nEstimated start: 13:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aadarsha Kutumbam House No: 47
-DTSTART;TZID=America/Los_Angeles:20261112T201000
-DTEND;TZID=America/Los_Angeles:20261112T231000
-DTSTAMP:20261113T041000Z
-UID:202117
-DESCRIPTION:Duration: 152 mins (2h32m)\nScreen 7\n\nA seemingly flawless f
- amily at House No. 47 unravels after an incident reveals hidden tensions. 
- As secrets emerge and bonds fray\, each member faces the truth behind thei
- r perfect facade in this tale of appearances versus reality.\n\nSubtitled.
- \n\nEstimated start: 20:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261112T143000
-DTEND;TZID=America/Los_Angeles:20261112T162500
-DTSTAMP:20261112T223000Z
-UID:201996
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 8\n\nA weapon systems engine
- er and former Green Beret protects his Wyoming neighbors against a ruthles
- s corporation threatening their rural community.\n\nSubtitled.\n\nEstimate
- d start: 14:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jailer 2 (Tamil)
-DTSTART;TZID=America/Los_Angeles:20261112T163000
-DTEND;TZID=America/Los_Angeles:20261112T195000
-DTSTAMP:20261113T003000Z
-UID:202116
-DESCRIPTION:Duration: 174 mins (2h54m)\nScreen 7\n\nOfficial Sequel to Jai
- ler (2023)\n\nSubtitled.\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scene (Tamil)
-DTSTART;TZID=America/Los_Angeles:20261112T194000
-DTEND;TZID=America/Los_Angeles:20261112T224500
-DTSTAMP:20261113T034000Z
-UID:202114
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nFollows an eccentric p
- olice officer and his quirky team whose lives take an unexpected turn afte
- r they are assigned a new mission.\n\nSubtitled.\n\nEstimated start: 20:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261113T122000
-DTEND;TZID=America/Los_Angeles:20261113T144000
-DTSTAMP:20261113T202000Z
-UID:201361
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 12:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261113T132000
-DTEND;TZID=America/Los_Angeles:20261113T154000
-DTSTAMP:20261113T212000Z
-UID:202135
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 13:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261113T153000
-DTEND;TZID=America/Los_Angeles:20261113T175000
-DTSTAMP:20261113T233000Z
-UID:201362
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 15:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261113T163000
-DTEND;TZID=America/Los_Angeles:20261113T185000
-DTSTAMP:20261114T003000Z
-UID:202136
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261113T184000
-DTEND;TZID=America/Los_Angeles:20261113T210000
-DTSTAMP:20261114T024000Z
-UID:201363
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 19:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261113T214000
-DTEND;TZID=America/Los_Angeles:20261114T000000
-DTSTAMP:20261114T054000Z
-UID:201364
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 22:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART;TZID=America/Los_Angeles:20261113T121000
-DTEND;TZID=America/Los_Angeles:20261113T145000
-DTSTAMP:20261113T201000Z
-UID:202062
-DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 7\n\nWar reduced Japan to z
- ero\, and Godzilla plunged it into minus. Two years have passed since then
- \, and the country has faced agonizing struggles to achieve recovery and f
- inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
- ard-won peace\,\n\nSubtitled.\n\nEstimated start: 12:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART;TZID=America/Los_Angeles:20261113T153500
-DTEND;TZID=America/Los_Angeles:20261113T181500
-DTSTAMP:20261113T233500Z
-UID:202066
-DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\nWar reduced Japan to 
- zero\, and Godzilla plunged it into minus. Two years have passed since the
- n\, and the country has faced agonizing struggles to achieve recovery and 
- finally reclaim its daily life.\n\nJust as humanity managed to cling to a 
- hard-won peace\,\n\nSubtitled.\n\nEstimated start: 16:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART;TZID=America/Los_Angeles:20261113T181000
-DTEND;TZID=America/Los_Angeles:20261113T205000
-DTSTAMP:20261114T021000Z
-UID:202067
-DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 7\n\nWar reduced Japan to z
- ero\, and Godzilla plunged it into minus. Two years have passed since then
- \, and the country has faced agonizing struggles to achieve recovery and f
- inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
- ard-won peace\,\n\nSubtitled.\n\nEstimated start: 18:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART;TZID=America/Los_Angeles:20261113T213500
-DTEND;TZID=America/Los_Angeles:20261114T001500
-DTSTAMP:20261114T053500Z
-UID:202064
-DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\nWar reduced Japan to 
- zero\, and Godzilla plunged it into minus. Two years have passed since the
- n\, and the country has faced agonizing struggles to achieve recovery and 
- finally reclaim its daily life.\n\nJust as humanity managed to cling to a 
- hard-won peace\,\n\nSubtitled.\n\nEstimated start: 22:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261113T123500
-DTEND;TZID=America/Los_Angeles:20261113T145500
-DTSTAMP:20261113T203500Z
-UID:202131
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 6\n\nA clever cat brings ch
- aos and mischief to the home of two young children.\n\nEstimated start: 13
- :00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261113T152500
-DTEND;TZID=America/Los_Angeles:20261113T174500
-DTSTAMP:20261113T232500Z
-UID:202132
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 6\n\nA clever cat brings ch
- aos and mischief to the home of two young children.\n\nEstimated start: 15
- :50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261113T182000
-DTEND;TZID=America/Los_Angeles:20261113T204000
-DTSTAMP:20261114T022000Z
-UID:202133
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 6\n\nA clever cat brings ch
- aos and mischief to the home of two young children.\n\nEstimated start: 18
- :45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261113T210500
-DTEND;TZID=America/Los_Angeles:20261113T232500
-DTSTAMP:20261114T050500Z
-UID:202134
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 6\n\nA clever cat brings ch
- aos and mischief to the home of two young children.\n\nEstimated start: 21
- :30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261113T123000
-DTEND;TZID=America/Los_Angeles:20261113T150000
-DTSTAMP:20261113T203000Z
-UID:201399
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 2\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 12:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261113T160000
-DTEND;TZID=America/Los_Angeles:20261113T183000
-DTSTAMP:20261114T000000Z
-UID:201400
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 2\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261113T190000
-DTEND;TZID=America/Los_Angeles:20261113T213000
-DTSTAMP:20261114T030000Z
-UID:201401
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 2\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261113T220000
-DTEND;TZID=America/Los_Angeles:20261114T003000
-DTSTAMP:20261114T060000Z
-UID:201398
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 2\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 22:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261113T121500
-DTEND;TZID=America/Los_Angeles:20261113T141000
-DTSTAMP:20261113T201500Z
-UID:202069
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 8\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 12:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261113T144000
-DTEND;TZID=America/Los_Angeles:20261113T163500
-DTSTAMP:20261113T224000Z
-UID:202070
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 8\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 15:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261113T170000
-DTEND;TZID=America/Los_Angeles:20261113T185500
-DTSTAMP:20261114T010000Z
-UID:202071
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 8\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 17:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261113T192000
-DTEND;TZID=America/Los_Angeles:20261113T211500
-DTSTAMP:20261114T032000Z
-UID:202072
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 8\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261113T214500
-DTEND;TZID=America/Los_Angeles:20261113T234000
-DTSTAMP:20261114T054500Z
-UID:202073
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 8\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 22:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261113T122500
-DTEND;TZID=America/Los_Angeles:20261113T154500
-DTSTAMP:20261113T202500Z
-UID:202130
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 12:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261113T162000
-DTEND;TZID=America/Los_Angeles:20261113T194000
-DTSTAMP:20261114T002000Z
-UID:202129
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 16:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261113T202000
-DTEND;TZID=America/Los_Angeles:20261113T234000
-DTSTAMP:20261114T042000Z
-UID:202128
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 20:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261113T125000
-DTEND;TZID=America/Los_Angeles:20261113T152500
-DTSTAMP:20261113T205000Z
-UID:202121
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 13:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261113T155000
-DTEND;TZID=America/Los_Angeles:20261113T182500
-DTSTAMP:20261113T235000Z
-UID:202122
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 16:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261113T185000
-DTEND;TZID=America/Los_Angeles:20261113T212500
-DTSTAMP:20261114T025000Z
-UID:202123
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 19:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261113T215000
-DTEND;TZID=America/Los_Angeles:20261114T002500
-DTSTAMP:20261114T055000Z
-UID:202124
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 22:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261113T124000
-DTEND;TZID=America/Los_Angeles:20261113T150500
-DTSTAMP:20261113T204000Z
-UID:202065
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 11\n\nShortly before the 19
- 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
-  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
- (Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime
-  partners wrest\n\nEstimated start: 13:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261113T152000
-DTEND;TZID=America/Los_Angeles:20261113T174500
-DTSTAMP:20261113T232000Z
-UID:202061
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 7\n\nShortly before the 197
- 3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
- are dispatched from Santiago to Easter island by their bureau chief\, MJ (
- Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
- partners wrest\n\nEstimated start: 15:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261113T184500
-DTEND;TZID=America/Los_Angeles:20261113T211000
-DTSTAMP:20261114T024500Z
-UID:202063
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 11\n\nShortly before the 19
- 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
-  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
- (Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime
-  partners wrest\n\nEstimated start: 19:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261113T212000
-DTEND;TZID=America/Los_Angeles:20261113T234500
-DTSTAMP:20261114T052000Z
-UID:202068
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 7\n\nShortly before the 197
- 3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
- are dispatched from Santiago to Easter island by their bureau chief\, MJ (
- Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
- partners wrest\n\nEstimated start: 21:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261113T120000
-DTEND;TZID=America/Los_Angeles:20261113T154000
-DTSTAMP:20261113T200000Z
-UID:202075
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 1\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 12:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261113T161000
-DTEND;TZID=America/Los_Angeles:20261113T195000
-DTSTAMP:20261114T001000Z
-UID:202076
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 1\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 16:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261113T193000
-DTEND;TZID=America/Los_Angeles:20261113T231000
-DTSTAMP:20261114T033000Z
-UID:202137
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 5\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana (3D)
-DTSTART;TZID=America/Los_Angeles:20261113T203000
-DTEND;TZID=America/Los_Angeles:20261114T001000
-DTSTAMP:20261114T043000Z
-UID:202074
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 1\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 20:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scene (Tamil)
-DTSTART;TZID=America/Los_Angeles:20261113T131000
-DTEND;TZID=America/Los_Angeles:20261113T161500
-DTSTAMP:20261113T211000Z
-UID:202127
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollows an eccentric p
- olice officer and his quirky team whose lives take an unexpected turn afte
- r they are assigned a new mission.\n\nSubtitled.\n\nEstimated start: 13:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scene (Tamil)
-DTSTART;TZID=America/Los_Angeles:20261113T201000
-DTEND;TZID=America/Los_Angeles:20261113T231500
-DTSTAMP:20261114T041000Z
-UID:202125
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollows an eccentric p
- olice officer and his quirky team whose lives take an unexpected turn afte
- r they are assigned a new mission.\n\nSubtitled.\n\nEstimated start: 20:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scene
-DTSTART;TZID=America/Los_Angeles:20261113T164000
-DTEND;TZID=America/Los_Angeles:20261113T194500
-DTSTAMP:20261114T004000Z
-UID:202126
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollows an eccentric p
- olice officer and his quirky team whose lives take an unexpected turn afte
- r they are assigned a new mission.\n\nSubtitled.\n\nEstimated start: 17:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
+LAST-MODIFIED:20261114T174119Z
 BEGIN:VEVENT
 SUMMARY:Ebenezer
 DTSTART;TZID=America/Los_Angeles:20261114T122000
@@ -1553,7 +530,7 @@ DTSTART;TZID=America/Los_Angeles:20261115T130000
 DTEND;TZID=America/Los_Angeles:20261115T152000
 DTSTAMP:20261115T210000Z
 UID:201413
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
   Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
  i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
  in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
@@ -1566,7 +543,7 @@ DTSTART;TZID=America/Los_Angeles:20261115T160000
 DTEND;TZID=America/Los_Angeles:20261115T182000
 DTSTAMP:20261116T000000Z
 UID:201414
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
   Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
  i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
  in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
@@ -1579,7 +556,7 @@ DTSTART;TZID=America/Los_Angeles:20261115T190000
 DTEND;TZID=America/Los_Angeles:20261115T212000
 DTSTAMP:20261116T030000Z
 UID:201415
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
   Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
  i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
  in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
@@ -1792,7 +769,7 @@ DTSTART;TZID=America/Los_Angeles:20261115T153000
 DTEND;TZID=America/Los_Angeles:20261115T175500
 DTSTAMP:20261115T233000Z
 UID:202102
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 5\n\nShortly before the 197
+DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
  3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
  are dispatched from Santiago to Easter island by their bureau chief\, MJ (
  Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
@@ -1805,7 +782,7 @@ DTSTART;TZID=America/Los_Angeles:20261115T185000
 DTEND;TZID=America/Los_Angeles:20261115T211500
 DTSTAMP:20261116T025000Z
 UID:202098
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 5\n\nShortly before the 197
+DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
  3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
  are dispatched from Santiago to Easter island by their bureau chief\, MJ (
  Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
@@ -1879,7 +856,7 @@ DTSTART;TZID=America/Los_Angeles:20261115T122000
 DTEND;TZID=America/Los_Angeles:20261115T144500
 DTSTAMP:20261115T202000Z
 UID:202099
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 5\n\nShortly before the 197
+DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
  3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
  are dispatched from Santiago to Easter island by their bureau chief\, MJ (
  Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
@@ -1954,7 +931,7 @@ DTSTART;TZID=America/Los_Angeles:20261116T130000
 DTEND;TZID=America/Los_Angeles:20261116T152000
 DTSTAMP:20261116T210000Z
 UID:201375
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
   Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
  i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
  in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
@@ -1980,7 +957,7 @@ DTSTART;TZID=America/Los_Angeles:20261116T160000
 DTEND;TZID=America/Los_Angeles:20261116T182000
 DTSTAMP:20261117T000000Z
 UID:201376
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
   Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
  i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
  in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
@@ -2210,7 +1187,7 @@ DTSTART;TZID=America/Los_Angeles:20261116T134000
 DTEND;TZID=America/Los_Angeles:20261116T160500
 DTSTAMP:20261116T214000Z
 UID:202184
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 5\n\nShortly before the 197
+DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
  3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
  are dispatched from Santiago to Easter island by their bureau chief\, MJ (
  Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
@@ -2223,7 +1200,7 @@ DTSTART;TZID=America/Los_Angeles:20261116T164000
 DTEND;TZID=America/Los_Angeles:20261116T190500
 DTSTAMP:20261117T004000Z
 UID:202189
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 5\n\nShortly before the 197
+DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
  3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
  are dispatched from Santiago to Easter island by their bureau chief\, MJ (
  Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
@@ -2236,7 +1213,7 @@ DTSTART;TZID=America/Los_Angeles:20261116T194000
 DTEND;TZID=America/Los_Angeles:20261116T220500
 DTSTAMP:20261117T034000Z
 UID:202186
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 5\n\nShortly before the 197
+DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
  3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
  are dispatched from Santiago to Easter island by their bureau chief\, MJ (
  Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
@@ -2308,7 +1285,7 @@ DTSTART;TZID=America/Los_Angeles:20261116T190000
 DTEND;TZID=America/Los_Angeles:20261116T212000
 DTSTAMP:20261117T030000Z
 UID:201377
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nA thrilling ghost stor
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nA thrilling ghost stor
  y set in Dickens' London\, following one man's supernatural journey to fac
  e his past\, present and future as he fights for a second chance at redemp
  tion.\n\nSubtitled.\n\nEstimated start: 19:25
@@ -2320,7 +1297,7 @@ DTSTART;TZID=America/Los_Angeles:20261117T130000
 DTEND;TZID=America/Los_Angeles:20261117T152000
 DTSTAMP:20261117T210000Z
 UID:201382
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
   Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
  i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
  in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
@@ -2346,7 +1323,7 @@ DTSTART;TZID=America/Los_Angeles:20261117T160000
 DTEND;TZID=America/Los_Angeles:20261117T182000
 DTSTAMP:20261118T000000Z
 UID:201381
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
   Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
  i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
  in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
@@ -2372,7 +1349,7 @@ DTSTART;TZID=America/Los_Angeles:20261117T190000
 DTEND;TZID=America/Los_Angeles:20261117T212000
 DTSTAMP:20261118T030000Z
 UID:201380
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
   Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
  i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
  in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
@@ -2587,7 +1564,7 @@ DTSTART;TZID=America/Los_Angeles:20261117T134000
 DTEND;TZID=America/Los_Angeles:20261117T160500
 DTSTAMP:20261117T214000Z
 UID:202207
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 5\n\nShortly before the 197
+DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
  3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
  are dispatched from Santiago to Easter island by their bureau chief\, MJ (
  Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
@@ -2600,7 +1577,7 @@ DTSTART;TZID=America/Los_Angeles:20261117T164000
 DTEND;TZID=America/Los_Angeles:20261117T190500
 DTSTAMP:20261118T004000Z
 UID:202219
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 5\n\nShortly before the 197
+DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
  3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
  are dispatched from Santiago to Easter island by their bureau chief\, MJ (
  Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
@@ -2613,7 +1590,7 @@ DTSTART;TZID=America/Los_Angeles:20261117T194000
 DTEND;TZID=America/Los_Angeles:20261117T220500
 DTSTAMP:20261118T034000Z
 UID:202206
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 5\n\nShortly before the 197
+DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
  3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
  are dispatched from Santiago to Easter island by their bureau chief\, MJ (
  Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
@@ -2686,7 +1663,7 @@ DTSTART;TZID=America/Los_Angeles:20261118T130000
 DTEND;TZID=America/Los_Angeles:20261118T152000
 DTSTAMP:20261118T210000Z
 UID:201437
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
   Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
  i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
  in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
@@ -2712,7 +1689,7 @@ DTSTART;TZID=America/Los_Angeles:20261118T160000
 DTEND;TZID=America/Los_Angeles:20261118T182000
 DTSTAMP:20261119T000000Z
 UID:201436
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
   Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
  i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
  in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
@@ -2738,7 +1715,7 @@ DTSTART;TZID=America/Los_Angeles:20261118T190000
 DTEND;TZID=America/Los_Angeles:20261118T212000
 DTSTAMP:20261119T030000Z
 UID:201438
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 3\n\nThis November\, Johnny
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
   Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
  i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
  in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
@@ -2953,7 +1930,7 @@ DTSTART;TZID=America/Los_Angeles:20261118T134000
 DTEND;TZID=America/Los_Angeles:20261118T160500
 DTSTAMP:20261118T214000Z
 UID:202228
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 5\n\nShortly before the 197
+DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
  3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
  are dispatched from Santiago to Easter island by their bureau chief\, MJ (
  Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
@@ -2966,7 +1943,7 @@ DTSTART;TZID=America/Los_Angeles:20261118T164000
 DTEND;TZID=America/Los_Angeles:20261118T190500
 DTSTAMP:20261119T004000Z
 UID:202240
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 5\n\nShortly before the 197
+DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
  3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
  are dispatched from Santiago to Easter island by their bureau chief\, MJ (
  Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
@@ -3040,7 +2017,7 @@ DTSTART;TZID=America/Los_Angeles:20261118T194000
 DTEND;TZID=America/Los_Angeles:20261118T220500
 DTSTAMP:20261119T034000Z
 UID:202227
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 5\n\nShortly before the 197
+DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
  3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
  are dispatched from Santiago to Easter island by their bureau chief\, MJ (
  Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
@@ -4782,7 +3759,7 @@ DTSTART;TZID=America/Los_Angeles:20261126T110000
 DTEND;TZID=America/Los_Angeles:20261126T131000
 DTSTAMP:20261126T190000Z
 UID:201778
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -4795,7 +3772,7 @@ DTSTART;TZID=America/Los_Angeles:20261126T134000
 DTEND;TZID=America/Los_Angeles:20261126T155000
 DTSTAMP:20261126T214000Z
 UID:201777
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -4808,7 +3785,7 @@ DTSTART;TZID=America/Los_Angeles:20261126T162500
 DTEND;TZID=America/Los_Angeles:20261126T183500
 DTSTAMP:20261127T002500Z
 UID:201776
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -4821,7 +3798,7 @@ DTSTART;TZID=America/Los_Angeles:20261126T191000
 DTEND;TZID=America/Los_Angeles:20261126T212000
 DTSTAMP:20261127T031000Z
 UID:201775
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -4834,7 +3811,7 @@ DTSTART;TZID=America/Los_Angeles:20261126T220000
 DTEND;TZID=America/Los_Angeles:20261127T001000
 DTSTAMP:20261127T060000Z
 UID:201774
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -4990,7 +3967,7 @@ DTSTART;TZID=America/Los_Angeles:20261127T105000
 DTEND;TZID=America/Los_Angeles:20261127T130000
 DTSTAMP:20261127T185000Z
 UID:201779
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -4999,15 +3976,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Focker-in-Law
-DTSTART;TZID=America/Los_Angeles:20261127T134000
-DTEND;TZID=America/Los_Angeles:20261127T155000
-DTSTAMP:20261127T214000Z
+DTSTART;TZID=America/Los_Angeles:20261127T133000
+DTEND;TZID=America/Los_Angeles:20261127T154000
+DTSTAMP:20261127T213000Z
 UID:201780
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
- ise.\n\nWritten and\n\nEstimated start: 14:05
+ ise.\n\nWritten and\n\nEstimated start: 13:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -5016,7 +3993,7 @@ DTSTART;TZID=America/Los_Angeles:20261127T162500
 DTEND;TZID=America/Los_Angeles:20261127T183500
 DTSTAMP:20261128T002500Z
 UID:201781
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5029,7 +4006,7 @@ DTSTART;TZID=America/Los_Angeles:20261127T191000
 DTEND;TZID=America/Los_Angeles:20261127T212000
 DTSTAMP:20261128T031000Z
 UID:201782
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5042,7 +4019,7 @@ DTSTART;TZID=America/Los_Angeles:20261127T215500
 DTEND;TZID=America/Los_Angeles:20261128T000500
 DTSTAMP:20261128T055500Z
 UID:201783
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5237,7 +4214,7 @@ DTSTART;TZID=America/Los_Angeles:20261128T105000
 DTEND;TZID=America/Los_Angeles:20261128T130000
 DTSTAMP:20261128T185000Z
 UID:201788
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5250,7 +4227,7 @@ DTSTART;TZID=America/Los_Angeles:20261128T134000
 DTEND;TZID=America/Los_Angeles:20261128T155000
 DTSTAMP:20261128T214000Z
 UID:201787
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5263,7 +4240,7 @@ DTSTART;TZID=America/Los_Angeles:20261128T162500
 DTEND;TZID=America/Los_Angeles:20261128T183500
 DTSTAMP:20261129T002500Z
 UID:201786
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5276,7 +4253,7 @@ DTSTART;TZID=America/Los_Angeles:20261128T191000
 DTEND;TZID=America/Los_Angeles:20261128T212000
 DTSTAMP:20261129T031000Z
 UID:201785
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5289,7 +4266,7 @@ DTSTART;TZID=America/Los_Angeles:20261128T215500
 DTEND;TZID=America/Los_Angeles:20261129T000500
 DTSTAMP:20261129T055500Z
 UID:201784
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5471,7 +4448,7 @@ DTSTART;TZID=America/Los_Angeles:20261129T105000
 DTEND;TZID=America/Los_Angeles:20261129T130000
 DTSTAMP:20261129T185000Z
 UID:201789
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5480,15 +4457,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Focker-in-Law
-DTSTART;TZID=America/Los_Angeles:20261129T134000
-DTEND;TZID=America/Los_Angeles:20261129T155000
-DTSTAMP:20261129T214000Z
+DTSTART;TZID=America/Los_Angeles:20261129T133000
+DTEND;TZID=America/Los_Angeles:20261129T154000
+DTSTAMP:20261129T213000Z
 UID:201790
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
- ise.\n\nWritten and\n\nEstimated start: 14:05
+ ise.\n\nWritten and\n\nEstimated start: 13:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -5497,7 +4474,7 @@ DTSTART;TZID=America/Los_Angeles:20261129T191000
 DTEND;TZID=America/Los_Angeles:20261129T212000
 DTSTAMP:20261130T031000Z
 UID:201792
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5510,7 +4487,7 @@ DTSTART;TZID=America/Los_Angeles:20261129T215500
 DTEND;TZID=America/Los_Angeles:20261130T000500
 DTSTAMP:20261130T055500Z
 UID:201793
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5588,7 +4565,7 @@ DTSTART;TZID=America/Los_Angeles:20261129T162500
 DTEND;TZID=America/Los_Angeles:20261129T183500
 DTSTAMP:20261130T002500Z
 UID:201791
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5653,7 +4630,7 @@ DTSTART;TZID=America/Los_Angeles:20261130T111000
 DTEND;TZID=America/Los_Angeles:20261130T132000
 DTSTAMP:20261130T191000Z
 UID:201794
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5666,7 +4643,7 @@ DTSTART;TZID=America/Los_Angeles:20261130T163000
 DTEND;TZID=America/Los_Angeles:20261130T184000
 DTSTAMP:20261201T003000Z
 UID:202253
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5679,7 +4656,7 @@ DTSTART;TZID=America/Los_Angeles:20261130T191000
 DTEND;TZID=America/Los_Angeles:20261130T212000
 DTSTAMP:20261201T031000Z
 UID:201796
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5692,7 +4669,7 @@ DTSTART;TZID=America/Los_Angeles:20261130T220000
 DTEND;TZID=America/Los_Angeles:20261201T001000
 DTSTAMP:20261201T060000Z
 UID:201797
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5796,7 +4773,7 @@ DTSTART;TZID=America/Los_Angeles:20261130T135000
 DTEND;TZID=America/Los_Angeles:20261130T160000
 DTSTAMP:20261130T215000Z
 UID:201795
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5814,6 +4791,18 @@ DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
  d unconventional teenage girl named Billie discovers secret magical abilit
  ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
  t of suburbia a\n\nSubtitled.\n\nEstimated start: 18:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Mystery Movie - 11/30
+DTSTART;TZID=America/Los_Angeles:20261130T190000
+DTEND;TZID=America/Los_Angeles:20261130T213500
+DTSTAMP:20261201T030000Z
+UID:202258
+DESCRIPTION:Duration: 126 mins (2h06m)\nScreen 9\n\nShhh! Be the first to 
+ see this NEW movie before its official release date for only $5... We just
+  can't tell you the title! The next Monday Mystery Movie at Regal is on No
+ vember 30th!\n\nEstimated start: 19:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -5874,7 +4863,7 @@ DTSTART;TZID=America/Los_Angeles:20261201T111000
 DTEND;TZID=America/Los_Angeles:20261201T132000
 DTSTAMP:20261201T191000Z
 UID:201801
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5887,7 +4876,7 @@ DTSTART;TZID=America/Los_Angeles:20261201T135000
 DTEND;TZID=America/Los_Angeles:20261201T160000
 DTSTAMP:20261201T215000Z
 UID:201800
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5900,7 +4889,7 @@ DTSTART;TZID=America/Los_Angeles:20261201T163000
 DTEND;TZID=America/Los_Angeles:20261201T184000
 DTSTAMP:20261202T003000Z
 UID:202254
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5913,7 +4902,7 @@ DTSTART;TZID=America/Los_Angeles:20261201T191000
 DTEND;TZID=America/Los_Angeles:20261201T212000
 DTSTAMP:20261202T031000Z
 UID:201799
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5926,7 +4915,7 @@ DTSTART;TZID=America/Los_Angeles:20261201T220000
 DTEND;TZID=America/Los_Angeles:20261202T001000
 DTSTAMP:20261202T060000Z
 UID:201798
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -6095,7 +5084,7 @@ DTSTART;TZID=America/Los_Angeles:20261202T111000
 DTEND;TZID=America/Los_Angeles:20261202T132000
 DTSTAMP:20261202T191000Z
 UID:201805
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -6108,7 +5097,7 @@ DTSTART;TZID=America/Los_Angeles:20261202T135000
 DTEND;TZID=America/Los_Angeles:20261202T160000
 DTSTAMP:20261202T215000Z
 UID:201804
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -6121,7 +5110,7 @@ DTSTART;TZID=America/Los_Angeles:20261202T163000
 DTEND;TZID=America/Los_Angeles:20261202T184000
 DTSTAMP:20261203T003000Z
 UID:202255
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -6134,7 +5123,7 @@ DTSTART;TZID=America/Los_Angeles:20261202T191000
 DTEND;TZID=America/Los_Angeles:20261202T212000
 DTSTAMP:20261203T031000Z
 UID:201803
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -6147,7 +5136,7 @@ DTSTART;TZID=America/Los_Angeles:20261202T220000
 DTEND;TZID=America/Los_Angeles:20261203T001000
 DTSTAMP:20261203T060000Z
 UID:201802
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -6264,8 +5253,11 @@ DTSTART;TZID=America/Los_Angeles:20261202T190000
 DTEND;TZID=America/Los_Angeles:20261202T213500
 DTSTAMP:20261203T030000Z
 UID:201183
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 2\n\n\n\nNo passes.\n\nEsti
- mated start: 19:25
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 11\n\nThe magician Herr Dro
+ sselmeyer is on a quest to save his nephew. Hans-Peter has been transforme
+ d into a Nutcracker doll by the wicked Queen of the Mice\; the only way to
+  break the spell is for the Nutcracker to defeat the Mouse King and find a
+  girl to love\n\nNo passes.\n\nEstimated start: 19:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6481,9 +5473,9 @@ DTSTAMP:20261204T001000Z
 UID:202027
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 16:35
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 16:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6494,9 +5486,9 @@ DTSTAMP:20261204T030000Z
 UID:202028
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 19:25
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 19:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6507,9 +5499,9 @@ DTSTAMP:20261204T054500Z
 UID:202029
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 22:10
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 22:10
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6568,9 +5560,9 @@ DTSTAMP:20261204T212500Z
 UID:202034
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 13:50
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 13:50
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6581,9 +5573,9 @@ DTSTAMP:20261205T001000Z
 UID:202033
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 16:35
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 16:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6594,9 +5586,9 @@ DTSTAMP:20261205T030000Z
 UID:202031
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 19:25
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 19:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6607,9 +5599,9 @@ DTSTAMP:20261205T054500Z
 UID:202032
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 22:10
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 22:10
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6690,9 +5682,9 @@ DTSTAMP:20261205T182000Z
 UID:202039
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 10:45
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 10:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6703,9 +5695,9 @@ DTSTAMP:20261205T212000Z
 UID:202038
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 13:45
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 13:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6716,9 +5708,9 @@ DTSTAMP:20261206T001000Z
 UID:202037
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 16:35
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 16:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6729,9 +5721,9 @@ DTSTAMP:20261206T030000Z
 UID:202036
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 19:25
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 19:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6742,9 +5734,9 @@ DTSTAMP:20261206T054500Z
 UID:202035
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 22:10
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 22:10
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6814,8 +5806,11 @@ DTSTART;TZID=America/Los_Angeles:20261206T130000
 DTEND;TZID=America/Los_Angeles:20261206T153500
 DTSTAMP:20261206T210000Z
 UID:201184
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\n\n\nNo passes.\n\nEsti
- mated start: 13:25
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 4\n\nThe magician Herr Dros
+ selmeyer is on a quest to save his nephew. Hans-Peter has been transformed
+  into a Nutcracker doll by the wicked Queen of the Mice\; the only way to 
+ break the spell is for the Nutcracker to defeat the Mouse King and find a 
+ girl to love\n\nNo passes.\n\nEstimated start: 13:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6826,9 +5821,9 @@ DTSTAMP:20261206T221500Z
 UID:202041
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 14:40
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 14:40
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6839,9 +5834,9 @@ DTSTAMP:20261207T011000Z
 UID:202042
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 17:35
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 17:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6852,9 +5847,9 @@ DTSTAMP:20261207T041000Z
 UID:202043
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 20:35
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 20:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6878,9 +5873,9 @@ DTSTAMP:20261207T200000Z
 UID:202044
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 12:25
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 12:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6891,9 +5886,9 @@ DTSTAMP:20261207T224000Z
 UID:202045
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 15:05
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 15:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6904,9 +5899,9 @@ DTSTAMP:20261208T012000Z
 UID:202046
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 17:45
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 17:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6917,9 +5912,9 @@ DTSTAMP:20261208T040000Z
 UID:202047
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 20:25
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 20:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6966,9 +5961,9 @@ DTSTAMP:20261208T200000Z
 UID:202051
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 12:25
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 12:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6979,9 +5974,9 @@ DTSTAMP:20261208T224000Z
 UID:202050
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 15:05
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 15:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6992,9 +5987,9 @@ DTSTAMP:20261209T012000Z
 UID:202049
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 17:45
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 17:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7005,9 +6000,9 @@ DTSTAMP:20261209T040000Z
 UID:202048
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 20:25
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 20:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7054,9 +6049,9 @@ DTSTAMP:20261209T200000Z
 UID:202055
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 12:25
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 12:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7067,9 +6062,9 @@ DTSTAMP:20261209T224000Z
 UID:202054
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 15:05
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 15:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7080,9 +6075,9 @@ DTSTAMP:20261210T012000Z
 UID:202053
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 17:45
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 17:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7217,9 +6212,9 @@ DTSTAMP:20261210T210000Z
 UID:202056
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 13:25
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 13:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7230,9 +6225,9 @@ DTSTAMP:20261210T234000Z
 UID:202057
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 16:05
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 16:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7243,9 +6238,9 @@ DTSTAMP:20261211T022000Z
 UID:202058
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 18:45
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 18:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7256,9 +6251,9 @@ DTSTAMP:20261211T050000Z
 UID:202059
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
- om 87North\, \nas not -so-jolly Saint Nick suits up again to take on a rut
- hless gangster terrorizing the merchants of the Silver \nBell Mall.\n\nEst
- imated start: 21:25
+ om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
+ ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
+ ed start: 21:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -9740,6 +8735,71 @@ DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
  thing they'\n\nEstimated start: 23:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261231T081000
+DTEND;TZID=America/Los_Angeles:20261231T112000
+DTSTAMP:20261231T161000Z
+UID:197929
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 8:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261231T115500
+DTEND;TZID=America/Los_Angeles:20261231T150500
+DTSTAMP:20261231T195500Z
+UID:197928
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 12:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261231T154000
+DTEND;TZID=America/Los_Angeles:20261231T185000
+DTSTAMP:20261231T234000Z
+UID:197927
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Avengers: Doomsday
+DTSTART;TZID=America/Los_Angeles:20261231T193000
+DTEND;TZID=America/Los_Angeles:20261231T224000
+DTSTAMP:20270101T033000Z
+UID:197926
+DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+ the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
+ Doomsday. Beloved heroes from three distinct universes will be set on a de
+ adly collision course and ultimately face an existential threat unlike any
+ thing they'\n\nEstimated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Op: La Fanciulla del West
+DTSTART;TZID=America/Los_Angeles:20270123T100000
+DTEND;TZID=America/Los_Angeles:20270123T134000
+DTSTAMP:20270123T180000Z
+UID:196387
+DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 4\n\nPuccini's exhilarating
+  drama of the Wild West returns in a new staging by Richard Jones\, markin
+ g the company's first new production of La Fanciulla del West in more than
+  30 years. Soprano Sondra Radvanovsky makes her role debut as Minnie\, the
+  tough tavern\n\nNo passes.\n\nEstimated start: 10:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 END:VCALENDAR
