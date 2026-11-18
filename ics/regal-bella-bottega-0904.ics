@@ -3,373 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Regal Bella Bottega
 X-WR-CALNAME:Cinema 🇺🇸 Regal Bella Bottega
-LAST-MODIFIED:20261117T164005Z
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261117T130000
-DTEND;TZID=America/Los_Angeles:20261117T152000
-DTSTAMP:20261117T210000Z
-UID:201382
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 13:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261117T145000
-DTEND;TZID=America/Los_Angeles:20261117T171000
-DTSTAMP:20261117T225000Z
-UID:202215
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 11\n\nThis November\, Johnn
- y Depp is Ebenezer Scrooge. The name you know\, the story you don't. From 
- Ti West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Claf
- lin\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Ch
- arlie Murphy\, with Tra\n\nEstimated start: 15:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261117T160000
-DTEND;TZID=America/Los_Angeles:20261117T182000
-DTSTAMP:20261118T000000Z
-UID:201381
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261117T180000
-DTEND;TZID=America/Los_Angeles:20261117T202000
-DTSTAMP:20261118T020000Z
-UID:202214
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 11\n\nThis November\, Johnn
- y Depp is Ebenezer Scrooge. The name you know\, the story you don't. From 
- Ti West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Claf
- lin\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Ch
- arlie Murphy\, with Tra\n\nEstimated start: 18:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261117T190000
-DTEND;TZID=America/Los_Angeles:20261117T212000
-DTSTAMP:20261118T030000Z
-UID:201380
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 5\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART;TZID=America/Los_Angeles:20261117T132000
-DTEND;TZID=America/Los_Angeles:20261117T160000
-DTSTAMP:20261117T212000Z
-UID:202208
-DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 7\n\nWar reduced Japan to z
- ero\, and Godzilla plunged it into minus. Two years have passed since then
- \, and the country has faced agonizing struggles to achieve recovery and f
- inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
- ard-won peace\,\n\nSubtitled.\n\nEstimated start: 13:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART;TZID=America/Los_Angeles:20261117T162500
-DTEND;TZID=America/Los_Angeles:20261117T190500
-DTSTAMP:20261118T002500Z
-UID:202204
-DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 7\n\nWar reduced Japan to z
- ero\, and Godzilla plunged it into minus. Two years have passed since then
- \, and the country has faced agonizing struggles to achieve recovery and f
- inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
- ard-won peace\,\n\nSubtitled.\n\nEstimated start: 16:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus Zero
-DTSTART;TZID=America/Los_Angeles:20261117T193000
-DTEND;TZID=America/Los_Angeles:20261117T221000
-DTSTAMP:20261118T033000Z
-UID:202216
-DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 7\n\nWar reduced Japan to z
- ero\, and Godzilla plunged it into minus. Two years have passed since then
- \, and the country has faced agonizing struggles to achieve recovery and f
- inally reclaim its daily life.\n\nJust as humanity managed to cling to a h
- ard-won peace\,\n\nSubtitled.\n\nEstimated start: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261117T140000
-DTEND;TZID=America/Los_Angeles:20261117T162000
-DTSTAMP:20261117T220000Z
-UID:202201
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 6\n\nA clever cat brings ch
- aos and mischief to the home of two young children.\n\nEstimated start: 14
- :25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261117T170000
-DTEND;TZID=America/Los_Angeles:20261117T192000
-DTSTAMP:20261118T010000Z
-UID:202209
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 6\n\nA clever cat brings ch
- aos and mischief to the home of two young children.\n\nEstimated start: 17
- :25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261117T195000
-DTEND;TZID=America/Los_Angeles:20261117T221000
-DTSTAMP:20261118T035000Z
-UID:202210
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 6\n\nA clever cat brings ch
- aos and mischief to the home of two young children.\n\nEstimated start: 20
- :15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261117T131000
-DTEND;TZID=America/Los_Angeles:20261117T154000
-DTSTAMP:20261117T211000Z
-UID:201433
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 2\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 13:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261117T161000
-DTEND;TZID=America/Los_Angeles:20261117T184000
-DTSTAMP:20261118T001000Z
-UID:201434
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 2\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 16:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261117T191000
-DTEND;TZID=America/Los_Angeles:20261117T214000
-DTSTAMP:20261118T031000Z
-UID:201435
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 2\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261117T172000
-DTEND;TZID=America/Los_Angeles:20261117T191500
-DTSTAMP:20261118T012000Z
-UID:202205
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 8\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 17:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261117T200000
-DTEND;TZID=America/Los_Angeles:20261117T215500
-DTSTAMP:20261118T040000Z
-UID:202217
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 8\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 20:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261117T141000
-DTEND;TZID=America/Los_Angeles:20261117T173000
-DTSTAMP:20261117T221000Z
-UID:202199
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 14:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261117T184000
-DTEND;TZID=America/Los_Angeles:20261117T220000
-DTSTAMP:20261118T024000Z
-UID:202200
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 19:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261117T133000
-DTEND;TZID=America/Los_Angeles:20261117T160500
-DTSTAMP:20261117T213000Z
-UID:202211
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 13:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261117T163000
-DTEND;TZID=America/Los_Angeles:20261117T190500
-DTSTAMP:20261118T003000Z
-UID:202212
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261117T192500
-DTEND;TZID=America/Los_Angeles:20261117T220000
-DTSTAMP:20261118T032500Z
-UID:202213
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 19:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261117T134000
-DTEND;TZID=America/Los_Angeles:20261117T160500
-DTSTAMP:20261117T214000Z
-UID:202207
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
- 3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
- are dispatched from Santiago to Easter island by their bureau chief\, MJ (
- Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
- partners wrest\n\nEstimated start: 14:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261117T164000
-DTEND;TZID=America/Los_Angeles:20261117T190500
-DTSTAMP:20261118T004000Z
-UID:202219
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
- 3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
- are dispatched from Santiago to Easter island by their bureau chief\, MJ (
- Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
- partners wrest\n\nEstimated start: 17:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261117T194000
-DTEND;TZID=America/Los_Angeles:20261117T220500
-DTSTAMP:20261118T034000Z
-UID:202206
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 3\n\nShortly before the 197
- 3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
- are dispatched from Santiago to Easter island by their bureau chief\, MJ (
- Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
- partners wrest\n\nEstimated start: 20:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261117T142000
-DTEND;TZID=America/Los_Angeles:20261117T180000
-DTSTAMP:20261117T222000Z
-UID:202196
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 1\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 14:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana (3D)
-DTSTART;TZID=America/Los_Angeles:20261117T183000
-DTEND;TZID=America/Los_Angeles:20261117T221000
-DTSTAMP:20261118T023000Z
-UID:202195
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 1\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 18:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scene
-DTSTART;TZID=America/Los_Angeles:20261117T143000
-DTEND;TZID=America/Los_Angeles:20261117T173500
-DTSTAMP:20261117T223000Z
-UID:202203
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollows an eccentric p
- olice officer and his quirky team whose lives take an unexpected turn afte
- r they are assigned a new mission.\n\nSubtitled.\n\nEstimated start: 14:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261117T144000
-DTEND;TZID=America/Los_Angeles:20261117T163500
-DTSTAMP:20261117T224000Z
-UID:202218
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 8\n\nA weapon systems engine
- er and former Green Beret protects his Wyoming neighbors against a ruthles
- s corporation threatening their rural community.\n\nSubtitled.\n\nEstimate
- d start: 15:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scene (Tamil)
-DTSTART;TZID=America/Los_Angeles:20261117T185000
-DTEND;TZID=America/Los_Angeles:20261117T215500
-DTSTAMP:20261118T025000Z
-UID:202202
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 4\n\nFollows an eccentric p
- olice officer and his quirky team whose lives take an unexpected turn afte
- r they are assigned a new mission.\n\nSubtitled.\n\nEstimated start: 19:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
+LAST-MODIFIED:20261118T154422Z
 BEGIN:VEVENT
 SUMMARY:Ebenezer
 DTSTART;TZID=America/Los_Angeles:20261118T130000
@@ -3011,15 +2645,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261123T125000
-DTEND;TZID=America/Los_Angeles:20261123T151000
-DTSTAMP:20261123T205000Z
+DTSTART;TZID=America/Los_Angeles:20261123T132000
+DTEND;TZID=America/Los_Angeles:20261123T154000
+DTSTAMP:20261123T212000Z
 UID:202446
 DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
   Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
  i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
  in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 13:15
+ rlie Murphy\, with Tra\n\nEstimated start: 13:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3076,28 +2710,28 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261123T132000
-DTEND;TZID=America/Los_Angeles:20261123T155500
-DTSTAMP:20261123T212000Z
+DTSTART;TZID=America/Los_Angeles:20261123T122000
+DTEND;TZID=America/Los_Angeles:20261123T145500
+DTSTAMP:20261123T202000Z
 UID:202454
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 2\n\nWildwood is a handcraf
  ted epic fantasy adventure that transports audiences into a secret\, magic
  al\, and dangerously alive world just beyond their doorstep. At its heart 
  is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 13:45
+ perate mission\n\nEstimated start: 12:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261123T164000
-DTEND;TZID=America/Los_Angeles:20261123T191500
-DTSTAMP:20261124T004000Z
+DTSTART;TZID=America/Los_Angeles:20261123T155500
+DTEND;TZID=America/Los_Angeles:20261123T183000
+DTSTAMP:20261123T235500Z
 UID:202455
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
+DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 2\n\nWildwood is a handcraf
  ted epic fantasy adventure that transports audiences into a secret\, magic
  al\, and dangerously alive world just beyond their doorstep. At its heart 
  is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 17:05
+ perate mission\n\nEstimated start: 16:20
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3115,28 +2749,28 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261123T122000
-DTEND;TZID=America/Los_Angeles:20261123T144500
-DTSTAMP:20261123T202000Z
+DTSTART;TZID=America/Los_Angeles:20261123T125000
+DTEND;TZID=America/Los_Angeles:20261123T151500
+DTSTAMP:20261123T205000Z
 UID:202437
 DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 11\n\nShortly before the 19
  73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
   are dispatched from Santiago to Easter island by their bureau chief\, MJ 
  (Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime
-  partners wrest\n\nEstimated start: 12:45
+  partners wrest\n\nEstimated start: 13:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261123T152000
-DTEND;TZID=America/Los_Angeles:20261123T174500
-DTSTAMP:20261123T232000Z
+DTSTART;TZID=America/Los_Angeles:20261123T154000
+DTEND;TZID=America/Los_Angeles:20261123T180500
+DTSTAMP:20261123T234000Z
 UID:202438
 DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 11\n\nShortly before the 19
  73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
   are dispatched from Santiago to Easter island by their bureau chief\, MJ 
  (Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime
-  partners wrest\n\nEstimated start: 15:45
+  partners wrest\n\nEstimated start: 16:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3314,7 +2948,7 @@ DTSTART;TZID=America/Los_Angeles:20261123T133000
 DTEND;TZID=America/Los_Angeles:20261123T152500
 DTSTAMP:20261123T213000Z
 UID:202439
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 2\n\nA weapon systems engine
+DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nA weapon systems engine
  er and former Green Beret protects his Wyoming neighbors against a ruthles
  s corporation threatening their rural community.\n\nSubtitled.\n\nEstimate
  d start: 13:55
@@ -3350,7 +2984,7 @@ DTSTART;TZID=America/Los_Angeles:20261123T162000
 DTEND;TZID=America/Los_Angeles:20261123T185000
 DTSTAMP:20261124T002000Z
 UID:202440
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 2\n\nIn HOW TO ROB A BANK\,
+DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 9\n\nIn HOW TO ROB A BANK\,
   a crew of social media-savvy bank robbers broadcasts their daring heists
  \, unaware that their growing viral fame has put them in the crosshairs of
   a veteran FBI agent and a brilliant software engineer. Despite the unlike
@@ -3599,6 +3233,19 @@ DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
  d unconventional teenage girl named Billie discovers secret magical abilit
  ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
  t of suburbia a\n\nEstimated start: 20:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261124T215500
+DTEND;TZID=America/Los_Angeles:20261125T001000
+DTSTAMP:20261125T055500Z
+UID:201026
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 22:20
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -9886,6 +9533,16 @@ DESCRIPTION:Duration: 180 mins (3h00m)\nScreen 4\n\nFollowing his smash-hi
  th his Pulitzer Prize-winning opera\, inspired by the true events of the 1
  914 Christmas truce. A poignant depiction of shared humanity in the most i
  nhumane circu\n\nNo passes.\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Royal Ballet:Alice's Adventure in Wonderland(2024)
+DTSTART;TZID=America/Los_Angeles:20270331T190000
+DTEND;TZID=America/Los_Angeles:20270331T221500
+DTSTAMP:20270401T020000Z
+UID:201185
+DESCRIPTION:Duration: 170 mins (2h50m)\nScreen 4\n\n\n\nNo passes.\n\nEsti
+ mated start: 19:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 END:VCALENDAR
