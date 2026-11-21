@@ -3,622 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Regal Bella Bottega
 X-WR-CALNAME:Cinema 🇺🇸 Regal Bella Bottega
-LAST-MODIFIED:20261120T151727Z
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261120T100000
-DTEND;TZID=America/Los_Angeles:20261120T130500
-DTSTAMP:20261120T180000Z
-UID:202339
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 4\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 10:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261120T104000
-DTEND;TZID=America/Los_Angeles:20261120T134500
-DTSTAMP:20261120T184000Z
-UID:201448
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 3\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 11:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261120T114000
-DTEND;TZID=America/Los_Angeles:20261120T144500
-DTSTAMP:20261120T194000Z
-UID:201453
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 12:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261120T134000
-DTEND;TZID=America/Los_Angeles:20261120T164500
-DTSTAMP:20261120T214000Z
-UID:202340
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 4\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 14:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping (3D)
-DTSTART;TZID=America/Los_Angeles:20261120T142000
-DTEND;TZID=America/Los_Angeles:20261120T172500
-DTSTAMP:20261120T222000Z
-UID:201449
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 3\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 14:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261120T152000
-DTEND;TZID=America/Los_Angeles:20261120T182500
-DTSTAMP:20261120T232000Z
-UID:201452
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 15:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261120T172000
-DTEND;TZID=America/Los_Angeles:20261120T202500
-DTSTAMP:20261121T012000Z
-UID:202341
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 4\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 17:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261120T180000
-DTEND;TZID=America/Los_Angeles:20261120T210500
-DTSTAMP:20261121T020000Z
-UID:201450
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 3\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 18:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261120T190000
-DTEND;TZID=America/Los_Angeles:20261120T220500
-DTSTAMP:20261121T030000Z
-UID:201455
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261120T210000
-DTEND;TZID=America/Los_Angeles:20261121T000500
-DTSTAMP:20261121T050000Z
-UID:202342
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 4\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 21:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping (3D)
-DTSTART;TZID=America/Los_Angeles:20261120T214000
-DTEND;TZID=America/Los_Angeles:20261121T004500
-DTSTAMP:20261121T054000Z
-UID:201451
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 3\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 22:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261120T223500
-DTEND;TZID=America/Los_Angeles:20261121T014000
-DTSTAMP:20261121T063500Z
-UID:201456
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 23:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261120T103500
-DTEND;TZID=America/Los_Angeles:20261120T125500
-DTSTAMP:20261120T183500Z
-UID:202347
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 11:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261120T132000
-DTEND;TZID=America/Los_Angeles:20261120T154000
-DTSTAMP:20261120T212000Z
-UID:202348
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 13:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261120T161000
-DTEND;TZID=America/Los_Angeles:20261120T183000
-DTSTAMP:20261121T001000Z
-UID:202349
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 16:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261120T192000
-DTEND;TZID=America/Los_Angeles:20261120T214000
-DTSTAMP:20261121T032000Z
-UID:202350
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261120T221000
-DTEND;TZID=America/Los_Angeles:20261121T003000
-DTSTAMP:20261121T061000Z
-UID:202351
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 22:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261120T103000
-DTEND;TZID=America/Los_Angeles:20261120T130500
-DTSTAMP:20261120T183000Z
-UID:201814
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 10:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261120T133000
-DTEND;TZID=America/Los_Angeles:20261120T160500
-DTSTAMP:20261120T213000Z
-UID:201813
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 13:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261120T163000
-DTEND;TZID=America/Los_Angeles:20261120T190500
-DTSTAMP:20261121T003000Z
-UID:201812
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261120T194000
-DTEND;TZID=America/Los_Angeles:20261120T221500
-DTSTAMP:20261121T034000Z
-UID:201811
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 20:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261120T224000
-DTEND;TZID=America/Los_Angeles:20261121T011500
-DTSTAMP:20261121T064000Z
-UID:201810
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 23:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261120T104500
-DTEND;TZID=America/Los_Angeles:20261120T130500
-DTSTAMP:20261120T184500Z
-UID:202357
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 11\n\nA clever cat brings c
- haos and mischief to the home of two young children.\n\nEstimated start: 1
- 1:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261120T101000
-DTEND;TZID=America/Los_Angeles:20261120T133000
-DTSTAMP:20261120T181000Z
-UID:202343
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 10:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261120T135500
-DTEND;TZID=America/Los_Angeles:20261120T171500
-DTSTAMP:20261120T215500Z
-UID:202344
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 14:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261120T174000
-DTEND;TZID=America/Los_Angeles:20261120T210000
-DTSTAMP:20261121T014000Z
-UID:202345
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 18:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261120T212500
-DTEND;TZID=America/Los_Angeles:20261121T004500
-DTSTAMP:20261121T052500Z
-UID:202346
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 21:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261120T113000
-DTEND;TZID=America/Los_Angeles:20261120T151000
-DTSTAMP:20261120T193000Z
-UID:202332
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 5\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 11:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261120T154000
-DTEND;TZID=America/Los_Angeles:20261120T192000
-DTSTAMP:20261120T234000Z
-UID:202333
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 5\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 16:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261120T200000
-DTEND;TZID=America/Los_Angeles:20261120T234000
-DTSTAMP:20261121T040000Z
-UID:202334
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 5\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 20:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261120T133500
-DTEND;TZID=America/Los_Angeles:20261120T160000
-DTSTAMP:20261120T213500Z
-UID:202358
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 11\n\nShortly before the 19
- 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
-  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
- (Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime
-  partners wrest\n\nEstimated start: 14:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261120T162000
-DTEND;TZID=America/Los_Angeles:20261120T184500
-DTSTAMP:20261121T002000Z
-UID:202359
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 11\n\nShortly before the 19
- 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
-  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
- (Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime
-  partners wrest\n\nEstimated start: 16:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261120T191000
-DTEND;TZID=America/Los_Angeles:20261120T213500
-DTSTAMP:20261121T031000Z
-UID:202360
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 11\n\nShortly before the 19
- 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
-  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
- (Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime
-  partners wrest\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261120T220000
-DTEND;TZID=America/Los_Angeles:20261121T002500
-DTSTAMP:20261121T060000Z
-UID:202361
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 11\n\nShortly before the 19
- 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
-  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
- (Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime
-  partners wrest\n\nEstimated start: 22:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261120T105000
-DTEND;TZID=America/Los_Angeles:20261120T132500
-DTSTAMP:20261120T185000Z
-UID:202352
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 2\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 11:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261120T134500
-DTEND;TZID=America/Los_Angeles:20261120T162000
-DTSTAMP:20261120T214500Z
-UID:202353
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 2\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 14:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261120T164000
-DTEND;TZID=America/Los_Angeles:20261120T191500
-DTSTAMP:20261121T004000Z
-UID:202354
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 2\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 17:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261120T193500
-DTEND;TZID=America/Los_Angeles:20261120T221000
-DTSTAMP:20261121T033500Z
-UID:202355
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 2\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 20:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261120T223000
-DTEND;TZID=America/Los_Angeles:20261121T010500
-DTSTAMP:20261121T063000Z
-UID:202356
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 2\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 22:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261120T102500
-DTEND;TZID=America/Los_Angeles:20261120T122000
-DTSTAMP:20261120T182500Z
-UID:202362
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 10:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261120T131000
-DTEND;TZID=America/Los_Angeles:20261120T150500
-DTSTAMP:20261120T211000Z
-UID:202364
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 13:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261120T184000
-DTEND;TZID=America/Los_Angeles:20261120T203500
-DTSTAMP:20261121T024000Z
-UID:202365
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 19:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261120T155000
-DTEND;TZID=America/Los_Angeles:20261120T182000
-DTSTAMP:20261120T235000Z
-UID:202363
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 9\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 16:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scene
-DTSTART;TZID=America/Los_Angeles:20261120T102000
-DTEND;TZID=America/Los_Angeles:20261120T132500
-DTSTAMP:20261120T182000Z
-UID:202336
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nFollows an eccentric p
- olice officer and his quirky team whose lives take an unexpected turn afte
- r they are assigned a new mission.\n\nSubtitled.\n\nEstimated start: 10:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENE Repeat
-DTSTART;TZID=America/Los_Angeles:20261120T133500
-DTEND;TZID=America/Los_Angeles:20261120T165000
-DTSTAMP:20261120T213500Z
-UID:202335
-DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 6\n\nVivek and his friends 
- reunite years after their Goa misadventure for a new journey. As they navi
- gate life challenges\, impulsive plans\, and unexpected escapades\, chaos 
- ensues once again.\n\nSubtitled.\n\nEstimated start: 14:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENE Repeat
-DTSTART;TZID=America/Los_Angeles:20261120T203500
-DTEND;TZID=America/Los_Angeles:20261120T235000
-DTSTAMP:20261121T043500Z
-UID:202338
-DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 6\n\nVivek and his friends 
- reunite years after their Goa misadventure for a new journey. As they navi
- gate life challenges\, impulsive plans\, and unexpected escapades\, chaos 
- ensues once again.\n\nSubtitled.\n\nEstimated start: 21:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENE Repeat
-DTSTART;TZID=America/Los_Angeles:20261120T211000
-DTEND;TZID=America/Los_Angeles:20261121T002500
-DTSTAMP:20261121T051000Z
-UID:202524
-DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 9\n\nVivek and his friends 
- reunite years after their Goa misadventure for a new journey. As they navi
- gate life challenges\, impulsive plans\, and unexpected escapades\, chaos 
- ensues once again.\n\nSubtitled.\n\nEstimated start: 21:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scene (Tamil)
-DTSTART;TZID=America/Los_Angeles:20261120T171000
-DTEND;TZID=America/Los_Angeles:20261120T201500
-DTSTAMP:20261121T011000Z
-UID:202503
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nFollows an eccentric p
- olice officer and his quirky team whose lives take an unexpected turn afte
- r they are assigned a new mission.\n\nSubtitled.\n\nEstimated start: 17:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
+LAST-MODIFIED:20261121T164202Z
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: Sunrise on the Reaping
 DTSTART;TZID=America/Los_Angeles:20261121T100000
@@ -2832,19 +2217,6 @@ DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261125T222000
-DTEND;TZID=America/Los_Angeles:20261126T012500
-DTSTAMP:20261126T062000Z
-UID:201498
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 8\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 22:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ebenezer
 DTSTART;TZID=America/Los_Angeles:20261125T102000
 DTEND;TZID=America/Los_Angeles:20261125T124000
@@ -3016,6 +2388,19 @@ UID:202475
 DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 10\n\nA hard-partying New Y
  ork City club promoter sees his whirlwind lifestyle upended by the arrival
   of the 10-year-old son he never knew he had.\n\nEstimated start: 22:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Rob a Bank
+DTSTART;TZID=America/Los_Angeles:20261125T222000
+DTEND;TZID=America/Los_Angeles:20261126T005000
+DTSTAMP:20261126T062000Z
+UID:201498
+DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 8\n\nIn HOW TO ROB A BANK\,
+  a crew of social media-savvy bank robbers broadcasts their daring heists
+ \, unaware that their growing viral fame has put them in the crosshairs of
+  a veteran FBI agent and a brilliant software engineer. Despite the unlike
+ ly duo closing\n\nEstimated start: 22:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3607,6 +2992,19 @@ DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 10\n\nA hard-partying New Y
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:How to Rob a Bank
+DTSTART;TZID=America/Los_Angeles:20261126T211000
+DTEND;TZID=America/Los_Angeles:20261126T234000
+DTSTAMP:20261127T051000Z
+UID:201039
+DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 7\n\nIn HOW TO ROB A BANK\,
+  a crew of social media-savvy bank robbers broadcasts their daring heists
+ \, unaware that their growing viral fame has put them in the crosshairs of
+  a veteran FBI agent and a brilliant software engineer. Despite the unlike
+ ly duo closing\n\nEstimated start: 21:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hexed
 DTSTART;TZID=America/Los_Angeles:20261126T100000
 DTEND;TZID=America/Los_Angeles:20261126T121500
@@ -3821,19 +3219,6 @@ DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
  ise.\n\nWritten and\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Focker-in-Law
-DTSTART;TZID=America/Los_Angeles:20261126T211000
-DTEND;TZID=America/Los_Angeles:20261126T232000
-DTSTAMP:20261127T051000Z
-UID:201039
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 7\n\nThis November\, comedy
-  icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
- ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
- n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
- ise.\n\nWritten and\n\nEstimated start: 21:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4072,6 +3457,19 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261127T154000
+DTEND;TZID=America/Los_Angeles:20261127T175500
+DTSTAMP:20261127T234000Z
+UID:201042
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
 DTSTART;TZID=America/Los_Angeles:20261127T161000
 DTEND;TZID=America/Los_Angeles:20261127T182500
 DTSTAMP:20261128T001000Z
@@ -4085,6 +3483,19 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261127T183000
+DTEND;TZID=America/Los_Angeles:20261127T204500
+DTSTAMP:20261128T023000Z
+UID:201049
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
 DTSTART;TZID=America/Los_Angeles:20261127T190000
 DTEND;TZID=America/Los_Angeles:20261127T211500
 DTSTAMP:20261128T030000Z
@@ -4094,6 +3505,32 @@ DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
  d unconventional teenage girl named Billie discovers secret magical abilit
  ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
  t of suburbia a\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261127T212000
+DTEND;TZID=America/Los_Angeles:20261127T233500
+DTSTAMP:20261128T052000Z
+UID:201047
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 21:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261127T215000
+DTEND;TZID=America/Los_Angeles:20261128T000500
+DTSTAMP:20261128T055000Z
+UID:201041
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 22:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4391,6 +3828,19 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261128T154000
+DTEND;TZID=America/Los_Angeles:20261128T175500
+DTSTAMP:20261128T234000Z
+UID:201057
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
 DTSTART;TZID=America/Los_Angeles:20261128T161000
 DTEND;TZID=America/Los_Angeles:20261128T182500
 DTSTAMP:20261129T001000Z
@@ -4404,6 +3854,19 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261128T183000
+DTEND;TZID=America/Los_Angeles:20261128T204500
+DTSTAMP:20261129T023000Z
+UID:201050
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
 DTSTART;TZID=America/Los_Angeles:20261128T190000
 DTEND;TZID=America/Los_Angeles:20261128T211500
 DTSTAMP:20261129T030000Z
@@ -4413,6 +3876,32 @@ DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
  d unconventional teenage girl named Billie discovers secret magical abilit
  ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
  t of suburbia a\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261128T212000
+DTEND;TZID=America/Los_Angeles:20261128T233500
+DTSTAMP:20261129T052000Z
+UID:201052
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 21:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261128T215000
+DTEND;TZID=America/Los_Angeles:20261129T000500
+DTSTAMP:20261129T055000Z
+UID:201058
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 22:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -4684,6 +4173,19 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261129T154000
+DTEND;TZID=America/Los_Angeles:20261129T175500
+DTSTAMP:20261129T234000Z
+UID:201067
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
 DTSTART;TZID=America/Los_Angeles:20261129T161000
 DTEND;TZID=America/Los_Angeles:20261129T182500
 DTSTAMP:20261130T001000Z
@@ -4697,6 +4199,19 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261129T183000
+DTEND;TZID=America/Los_Angeles:20261129T204500
+DTSTAMP:20261130T023000Z
+UID:201060
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 18:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
 DTSTART;TZID=America/Los_Angeles:20261129T190000
 DTEND;TZID=America/Los_Angeles:20261129T211500
 DTSTAMP:20261130T030000Z
@@ -4706,6 +4221,32 @@ DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
  d unconventional teenage girl named Billie discovers secret magical abilit
  ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
  t of suburbia a\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261129T212000
+DTEND;TZID=America/Los_Angeles:20261129T233500
+DTSTAMP:20261130T052000Z
+UID:201062
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 21:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261129T215000
+DTEND;TZID=America/Los_Angeles:20261130T000500
+DTSTAMP:20261130T055000Z
+UID:201068
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 22:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -5068,6 +4609,19 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261130T145000
+DTEND;TZID=America/Los_Angeles:20261130T170500
+DTSTAMP:20261130T225000Z
+UID:201077
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 15:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
 DTSTART;TZID=America/Los_Angeles:20261130T152000
 DTEND;TZID=America/Los_Angeles:20261130T173500
 DTSTAMP:20261130T232000Z
@@ -5077,6 +4631,45 @@ DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
  d unconventional teenage girl named Billie discovers secret magical abilit
  ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
  t of suburbia a\n\nEstimated start: 15:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261130T174000
+DTEND;TZID=America/Los_Angeles:20261130T195500
+DTSTAMP:20261201T014000Z
+UID:201070
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 18:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261130T203000
+DTEND;TZID=America/Los_Angeles:20261130T224500
+DTSTAMP:20261201T043000Z
+UID:201072
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 20:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261130T210000
+DTEND;TZID=America/Los_Angeles:20261130T231500
+DTSTAMP:20261201T050000Z
+UID:201078
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 21:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -5363,6 +4956,19 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261201T145000
+DTEND;TZID=America/Los_Angeles:20261201T170500
+DTSTAMP:20261201T225000Z
+UID:201087
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 15:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
 DTSTART;TZID=America/Los_Angeles:20261201T152000
 DTEND;TZID=America/Los_Angeles:20261201T173500
 DTSTAMP:20261201T232000Z
@@ -5376,6 +4982,19 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261201T174000
+DTEND;TZID=America/Los_Angeles:20261201T195500
+DTSTAMP:20261202T014000Z
+UID:201080
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 18:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
 DTSTART;TZID=America/Los_Angeles:20261201T181000
 DTEND;TZID=America/Los_Angeles:20261201T202500
 DTSTAMP:20261202T021000Z
@@ -5385,6 +5004,32 @@ DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
  d unconventional teenage girl named Billie discovers secret magical abilit
  ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
  t of suburbia a\n\nEstimated start: 18:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261201T203000
+DTEND;TZID=America/Los_Angeles:20261201T224500
+DTSTAMP:20261202T043000Z
+UID:201082
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 20:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261201T210000
+DTEND;TZID=America/Los_Angeles:20261201T231500
+DTSTAMP:20261202T050000Z
+UID:201088
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 21:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -5631,6 +5276,19 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261202T145000
+DTEND;TZID=America/Los_Angeles:20261202T170500
+DTSTAMP:20261202T225000Z
+UID:201097
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 15:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
 DTSTART;TZID=America/Los_Angeles:20261202T152000
 DTEND;TZID=America/Los_Angeles:20261202T173500
 DTSTAMP:20261202T232000Z
@@ -5644,6 +5302,19 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261202T174000
+DTEND;TZID=America/Los_Angeles:20261202T195500
+DTSTAMP:20261203T014000Z
+UID:201090
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 18:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
 DTSTART;TZID=America/Los_Angeles:20261202T181000
 DTEND;TZID=America/Los_Angeles:20261202T202500
 DTSTAMP:20261203T021000Z
@@ -5653,6 +5324,32 @@ DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
  d unconventional teenage girl named Billie discovers secret magical abilit
  ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
  t of suburbia a\n\nEstimated start: 18:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261202T203000
+DTEND;TZID=America/Los_Angeles:20261202T224500
+DTSTAMP:20261203T043000Z
+UID:201092
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 20:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hexed
+DTSTART;TZID=America/Los_Angeles:20261202T210000
+DTEND;TZID=America/Los_Angeles:20261202T231500
+DTSTAMP:20261203T050000Z
+UID:201098
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nEstimated start: 21:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -5786,7 +5483,7 @@ DTSTART;TZID=America/Los_Angeles:20261203T111000
 DTEND;TZID=America/Los_Angeles:20261203T132000
 DTSTAMP:20261203T191000Z
 UID:201809
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5799,7 +5496,7 @@ DTSTART;TZID=America/Los_Angeles:20261203T135000
 DTEND;TZID=America/Los_Angeles:20261203T160000
 DTSTAMP:20261203T215000Z
 UID:201808
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5812,7 +5509,7 @@ DTSTART;TZID=America/Los_Angeles:20261203T163000
 DTEND;TZID=America/Los_Angeles:20261203T184000
 DTSTAMP:20261204T003000Z
 UID:202256
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5825,7 +5522,7 @@ DTSTART;TZID=America/Los_Angeles:20261203T191000
 DTEND;TZID=America/Los_Angeles:20261203T212000
 DTSTAMP:20261204T031000Z
 UID:201807
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -5838,7 +5535,7 @@ DTSTART;TZID=America/Los_Angeles:20261203T215000
 DTEND;TZID=America/Los_Angeles:20261204T000000
 DTSTAMP:20261204T055000Z
 UID:201806
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
+DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
   icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
@@ -6052,6 +5749,81 @@ DESCRIPTION:Duration: 100 mins (1h40m)\nScreen 8\n\nA young boy embarks on
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261204T124000
+DTEND;TZID=America/Los_Angeles:20261204T155000
+DTSTAMP:20261204T204000Z
+UID:202590
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 13:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261204T162000
+DTEND;TZID=America/Los_Angeles:20261204T193000
+DTSTAMP:20261205T002000Z
+UID:202591
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 16:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261204T200000
+DTEND;TZID=America/Los_Angeles:20261204T231000
+DTSTAMP:20261205T040000Z
+UID:202592
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 20:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261204T131000
+DTEND;TZID=America/Los_Angeles:20261204T161500
+DTSTAMP:20261204T211000Z
+UID:202570
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 13:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261204T170000
+DTEND;TZID=America/Los_Angeles:20261204T200500
+DTSTAMP:20261205T010000Z
+UID:202569
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 17:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261204T205000
+DTEND;TZID=America/Los_Angeles:20261204T235500
+DTSTAMP:20261205T045000Z
+UID:202568
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 21:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Violent Night 2
 DTSTART;TZID=America/Los_Angeles:20261204T132500
 DTEND;TZID=America/Los_Angeles:20261204T154000
@@ -6206,6 +5978,54 @@ DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 8\n\nOn the outskirts of Wh
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261205T092000
+DTEND;TZID=America/Los_Angeles:20261205T122500
+DTSTAMP:20261205T172000Z
+UID:202574
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 9:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261205T131000
+DTEND;TZID=America/Los_Angeles:20261205T161500
+DTSTAMP:20261205T211000Z
+UID:202571
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 13:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261205T170000
+DTEND;TZID=America/Los_Angeles:20261205T200500
+DTSTAMP:20261206T010000Z
+UID:202572
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 17:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261205T205000
+DTEND;TZID=America/Los_Angeles:20261205T235500
+DTSTAMP:20261206T045000Z
+UID:202573
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 21:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Violent Night 2
 DTSTART;TZID=America/Los_Angeles:20261205T102000
 DTEND;TZID=America/Los_Angeles:20261205T123500
@@ -6268,6 +6088,45 @@ DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
  om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
  ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
  ed start: 22:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261205T133000
+DTEND;TZID=America/Los_Angeles:20261205T164000
+DTSTAMP:20261205T213000Z
+UID:202593
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 13:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261205T171000
+DTEND;TZID=America/Los_Angeles:20261205T202000
+DTSTAMP:20261206T011000Z
+UID:202594
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 17:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261205T205000
+DTEND;TZID=America/Los_Angeles:20261206T000000
+DTSTAMP:20261206T045000Z
+UID:202595
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 21:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6346,6 +6205,81 @@ DESCRIPTION:Duration: 104 mins (1h44m)\nScreen 7\n\nA father tells his son
  a life-changing journey. Through vivid imagination\, the boy walks alongsi
  de Jesus\, witnessing His miracles\, facing His trials\, and understanding
   His ultimate sa\n\nEstimated start: 14:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261206T112000
+DTEND;TZID=America/Los_Angeles:20261206T143000
+DTSTAMP:20261206T192000Z
+UID:202596
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 1\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 11:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261206T154000
+DTEND;TZID=America/Los_Angeles:20261206T185000
+DTSTAMP:20261206T234000Z
+UID:202597
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261206T192000
+DTEND;TZID=America/Los_Angeles:20261206T223000
+DTSTAMP:20261207T032000Z
+UID:202598
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 19:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261206T113000
+DTEND;TZID=America/Los_Angeles:20261206T143500
+DTSTAMP:20261206T193000Z
+UID:202575
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 11:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261206T151000
+DTEND;TZID=America/Los_Angeles:20261206T181500
+DTSTAMP:20261206T231000Z
+UID:202577
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 15:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261206T190000
+DTEND;TZID=America/Los_Angeles:20261206T220500
+DTSTAMP:20261207T030000Z
+UID:202576
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 19:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6479,13 +6413,54 @@ DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261207T120500
+DTEND;TZID=America/Los_Angeles:20261207T151500
+DTSTAMP:20261207T200500Z
+UID:202599
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 12:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261207T154000
+DTEND;TZID=America/Los_Angeles:20261207T185000
+DTSTAMP:20261207T234000Z
+UID:202600
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261207T191500
+DTEND;TZID=America/Los_Angeles:20261207T222500
+DTSTAMP:20261208T031500Z
+UID:202601
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 19:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Christmas in Connecticut (1945)
 DTSTART;TZID=America/Los_Angeles:20261207T121000
 DTEND;TZID=America/Los_Angeles:20261207T142000
 DTSTAMP:20261207T201000Z
 UID:202531
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 7\n\n\n\nEstimated start: 1
- 2:35
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 7\n\nA food writer who has 
+ lied about being the perfect housewife must try to cover her deception whe
+ n her boss and a returning war hero invite themselves to her home for a tr
+ aditional family Christmas.\n\nEstimated start: 12:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6494,8 +6469,46 @@ DTSTART;TZID=America/Los_Angeles:20261207T145000
 DTEND;TZID=America/Los_Angeles:20261207T170000
 DTSTAMP:20261207T225000Z
 UID:202532
-DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 7\n\n\n\nEstimated start: 1
- 5:15
+DESCRIPTION:Duration: 102 mins (1h42m)\nScreen 7\n\nA food writer who has 
+ lied about being the perfect housewife must try to cover her deception whe
+ n her boss and a returning war hero invite themselves to her home for a tr
+ aditional family Christmas.\n\nEstimated start: 15:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261207T122000
+DTEND;TZID=America/Los_Angeles:20261207T152500
+DTSTAMP:20261207T202000Z
+UID:202578
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 12:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261207T155500
+DTEND;TZID=America/Los_Angeles:20261207T190000
+DTSTAMP:20261207T235500Z
+UID:202580
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 16:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261207T193000
+DTEND;TZID=America/Los_Angeles:20261207T223500
+DTSTAMP:20261208T033000Z
+UID:202579
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 19:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6590,6 +6603,45 @@ DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261208T120500
+DTEND;TZID=America/Los_Angeles:20261208T151500
+DTSTAMP:20261208T200500Z
+UID:202602
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 12:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261208T154000
+DTEND;TZID=America/Los_Angeles:20261208T185000
+DTSTAMP:20261208T234000Z
+UID:202604
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261208T191500
+DTEND;TZID=America/Los_Angeles:20261208T222500
+DTSTAMP:20261209T031500Z
+UID:202603
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 19:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Grinch (2018)
 DTSTART;TZID=America/Los_Angeles:20261208T121000
 DTEND;TZID=America/Los_Angeles:20261208T140500
@@ -6613,6 +6665,42 @@ DESCRIPTION:Duration: 86 mins (1h26m)\nScreen 7\n\nEach year at Christmas
  er and louder celebrations.  When the Whos declare they are going to make 
  Christmas three times bigger this year\, the Grinch realizes there is only
   one way for\n\nEstimated start: 15:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261208T122000
+DTEND;TZID=America/Los_Angeles:20261208T152500
+DTSTAMP:20261208T202000Z
+UID:202583
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 12:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261208T155500
+DTEND;TZID=America/Los_Angeles:20261208T190000
+DTSTAMP:20261208T235500Z
+UID:202582
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 16:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261208T193000
+DTEND;TZID=America/Los_Angeles:20261208T223500
+DTSTAMP:20261209T033000Z
+UID:202581
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 19:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6694,6 +6782,45 @@ DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261209T120500
+DTEND;TZID=America/Los_Angeles:20261209T151500
+DTSTAMP:20261209T200500Z
+UID:202605
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 12:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261209T154000
+DTEND;TZID=America/Los_Angeles:20261209T185000
+DTSTAMP:20261209T234000Z
+UID:202607
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 16:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maatrubhumi: May War Rest in Peace
+DTSTART;TZID=America/Los_Angeles:20261209T191500
+DTEND;TZID=America/Los_Angeles:20261209T222500
+DTSTAMP:20261210T031500Z
+UID:202606
+DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
+ r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
+ AR REST IN PEACE is a story of extraordinary courage on the battlefield an
+ d the equally powerful battles fought by families back home. At its heart 
+ is one man's\n\nSubtitled.\n\nEstimated start: 19:40
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Polar Express (2004)
 DTSTART;TZID=America/Los_Angeles:20261209T121000
 DTEND;TZID=America/Los_Angeles:20261209T141500
@@ -6718,12 +6845,48 @@ DESCRIPTION:Duration: 100 mins (1h40m)\nScreen 8\n\nA young boy embarks on
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261209T122000
+DTEND;TZID=America/Los_Angeles:20261209T152500
+DTSTAMP:20261209T202000Z
+UID:202586
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 12:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261209T155500
+DTEND;TZID=America/Los_Angeles:20261209T190000
+DTSTAMP:20261209T235500Z
+UID:202585
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 16:20
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eetha
+DTSTART;TZID=America/Los_Angeles:20261209T193000
+DTEND;TZID=America/Los_Angeles:20261209T223500
+DTSTAMP:20261210T033000Z
+UID:202584
+DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
+ angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
+ humble beginnings to become one of Maharashtra's most celebrated folk thea
+ tre artists.\n\nSubtitled.\n\nEstimated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Met Op: Samson et Dalila Encore
 DTSTART;TZID=America/Los_Angeles:20261209T130000
 DTEND;TZID=America/Los_Angeles:20261209T172000
 DTSTAMP:20261209T210000Z
 UID:196395
-DESCRIPTION:Duration: 234 mins (3h54m)\nScreen 4\n\n\n\nNo passes.\n\nEsti
+DESCRIPTION:Duration: 234 mins (3h54m)\nScreen 1\n\n\n\nNo passes.\n\nEsti
  mated start: 13:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
@@ -6960,6 +7123,26 @@ DESCRIPTION:Duration: 127 mins (2h07m)\nScreen 2\n\nA gifted cellist\, Ale
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261210T180000
+DTEND;TZID=America/Los_Angeles:20261210T204000
+DTSTAMP:20261211T020000Z
+UID:202736
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 8\n\n\n\nSubtitled.\n\nEsti
+ mated start: 18:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261210T210500
+DTEND;TZID=America/Los_Angeles:20261210T234500
+DTSTAMP:20261211T050500Z
+UID:202737
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 8\n\n\n\nSubtitled.\n\nEsti
+ mated start: 21:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zero A.D.: The Birth of Christ
 DTSTART;TZID=America/Los_Angeles:20261211T110000
 DTEND;TZID=America/Los_Angeles:20261211T132000
@@ -7046,6 +7229,72 @@ DESCRIPTION:Duration: 100 mins (1h40m)\nScreen 8\n\nA young boy embarks on
   a magical adventure to the North Pole on the Polar Express. During his ad
  venture he learns about friendship\, bravery\, and the spirit of Christmas
  .\n\nEstimated start: 14:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261211T122000
+DTEND;TZID=America/Los_Angeles:20261211T150000
+DTSTAMP:20261211T202000Z
+UID:202720
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 12:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261211T153000
+DTEND;TZID=America/Los_Angeles:20261211T181000
+DTSTAMP:20261211T233000Z
+UID:202719
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 15:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261211T184000
+DTEND;TZID=America/Los_Angeles:20261211T212000
+DTSTAMP:20261212T024000Z
+UID:202718
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261211T215000
+DTEND;TZID=America/Los_Angeles:20261212T003000
+DTSTAMP:20261212T055000Z
+UID:202721
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 22:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary (Reissue)
+DTSTART;TZID=America/Los_Angeles:20261211T180000
+DTEND;TZID=America/Los_Angeles:20261211T210500
+DTSTAMP:20261212T020000Z
+UID:202704
+DESCRIPTION:Duration: 156 mins (2h36m)\nScreen 5\n\nScience teacher Ryland
+  Grace (Ryan Gosling) wakes up on a spaceship light years from home with n
+ o recollection of who he is or how he got there. As his memory returns\, h
+ e begins to uncover his mission: solve the riddle of the mysterious substa
+ nce causing\n\nEstimated start: 18:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary (Reissue)
+DTSTART;TZID=America/Los_Angeles:20261211T213000
+DTEND;TZID=America/Los_Angeles:20261212T003500
+DTSTAMP:20261212T053000Z
+UID:202705
+DESCRIPTION:Duration: 156 mins (2h36m)\nScreen 5\n\nScience teacher Ryland
+  Grace (Ryan Gosling) wakes up on a spaceship light years from home with n
+ o recollection of who he is or how he got there. As his memory returns\, h
+ e begins to uncover his mission: solve the riddle of the mysterious substa
+ nce causing\n\nEstimated start: 21:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7138,6 +7387,46 @@ DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 7\n\nOn the outskirts of Wh
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261212T122000
+DTEND;TZID=America/Los_Angeles:20261212T150000
+DTSTAMP:20261212T202000Z
+UID:202723
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 12:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261212T153000
+DTEND;TZID=America/Los_Angeles:20261212T181000
+DTSTAMP:20261212T233000Z
+UID:202724
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 15:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261212T184000
+DTEND;TZID=America/Los_Angeles:20261212T212000
+DTSTAMP:20261213T024000Z
+UID:202725
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261212T215000
+DTEND;TZID=America/Los_Angeles:20261213T003000
+DTSTAMP:20261213T055000Z
+UID:202722
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 22:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Met Op: The Magic Flute Holiday Encore
 DTSTART;TZID=America/Los_Angeles:20261212T130000
 DTEND;TZID=America/Los_Angeles:20261212T152500
@@ -7148,6 +7437,32 @@ DESCRIPTION:Duration: 117 mins (1h57m)\nScreen 4\n\nThe Met made history i
  emas worldwide: the abridged English-language version of Mozart's The Magi
  c Flute. Julie Taymor's whimsical production features a winning ensemble-i
  ncluding te\n\nNo passes.\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary (Reissue)
+DTSTART;TZID=America/Los_Angeles:20261212T180000
+DTEND;TZID=America/Los_Angeles:20261212T210500
+DTSTAMP:20261213T020000Z
+UID:202707
+DESCRIPTION:Duration: 156 mins (2h36m)\nScreen 5\n\nScience teacher Ryland
+  Grace (Ryan Gosling) wakes up on a spaceship light years from home with n
+ o recollection of who he is or how he got there. As his memory returns\, h
+ e begins to uncover his mission: solve the riddle of the mysterious substa
+ nce causing\n\nEstimated start: 18:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary (Subbed) (Reissue)
+DTSTART;TZID=America/Los_Angeles:20261212T213000
+DTEND;TZID=America/Los_Angeles:20261213T003500
+DTSTAMP:20261213T053000Z
+UID:202706
+DESCRIPTION:Duration: 156 mins (2h36m)\nScreen 5\n\nScience teacher Ryland
+  Grace (Ryan Gosling) wakes up on a spaceship light years from home with n
+ o recollection of who he is or how he got there. As his memory returns\, h
+ e begins to uncover his mission: solve the riddle of the mysterious substa
+ nce causing\n\nSubtitled.\n\nEstimated start: 21:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7214,6 +7529,36 @@ DESCRIPTION:Duration: 100 mins (1h40m)\nScreen 8\n\nA young boy embarks on
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261213T122000
+DTEND;TZID=America/Los_Angeles:20261213T150000
+DTSTAMP:20261213T202000Z
+UID:202726
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 12:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261213T153000
+DTEND;TZID=America/Los_Angeles:20261213T181000
+DTSTAMP:20261213T233000Z
+UID:202727
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 15:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261213T184000
+DTEND;TZID=America/Los_Angeles:20261213T212000
+DTSTAMP:20261214T024000Z
+UID:202728
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 19:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zero A.D.: The Birth of Christ (Subbed)
 DTSTART;TZID=America/Los_Angeles:20261213T134500
 DTEND;TZID=America/Los_Angeles:20261213T160500
@@ -7237,6 +7582,19 @@ DESCRIPTION:Duration: 170 mins (2h50m)\nScreen 2\n\nThis holiday season\,
  é Rieu's 2026 Christmas Concert - Let It Snow. This heartwarming festive 
  spectacular\, filled with beloved Christmas classics\, enchanting waltzes
  \, and magical sur\n\nNo passes.\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary (Reissue)
+DTSTART;TZID=America/Los_Angeles:20261213T183000
+DTEND;TZID=America/Los_Angeles:20261213T213500
+DTSTAMP:20261214T023000Z
+UID:202708
+DESCRIPTION:Duration: 156 mins (2h36m)\nScreen 5\n\nScience teacher Ryland
+  Grace (Ryan Gosling) wakes up on a spaceship light years from home with n
+ o recollection of who he is or how he got there. As his memory returns\, h
+ e begins to uncover his mission: solve the riddle of the mysterious substa
+ nce causing\n\nEstimated start: 18:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -7318,6 +7676,62 @@ DESCRIPTION:Duration: 86 mins (1h26m)\nScreen 9\n\nEach year at Christmas
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261214T133000
+DTEND;TZID=America/Los_Angeles:20261214T161000
+DTSTAMP:20261214T213000Z
+UID:202715
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 13:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261214T165000
+DTEND;TZID=America/Los_Angeles:20261214T193000
+DTSTAMP:20261215T005000Z
+UID:202716
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 17:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261214T200000
+DTEND;TZID=America/Los_Angeles:20261214T224000
+DTSTAMP:20261215T040000Z
+UID:202717
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 20:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary (Subbed) (Reissue)
+DTSTART;TZID=America/Los_Angeles:20261214T164000
+DTEND;TZID=America/Los_Angeles:20261214T194500
+DTSTAMP:20261215T004000Z
+UID:202710
+DESCRIPTION:Duration: 156 mins (2h36m)\nScreen 5\n\nScience teacher Ryland
+  Grace (Ryan Gosling) wakes up on a spaceship light years from home with n
+ o recollection of who he is or how he got there. As his memory returns\, h
+ e begins to uncover his mission: solve the riddle of the mysterious substa
+ nce causing\n\nSubtitled.\n\nEstimated start: 17:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary (Reissue)
+DTSTART;TZID=America/Los_Angeles:20261214T195000
+DTEND;TZID=America/Los_Angeles:20261214T225500
+DTSTAMP:20261215T035000Z
+UID:202709
+DESCRIPTION:Duration: 156 mins (2h36m)\nScreen 5\n\nScience teacher Ryland
+  Grace (Ryan Gosling) wakes up on a spaceship light years from home with n
+ o recollection of who he is or how he got there. As his memory returns\, h
+ e begins to uncover his mission: solve the riddle of the mysterious substa
+ nce causing\n\nEstimated start: 20:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zero A.D.: The Birth of Christ
 DTSTART;TZID=America/Los_Angeles:20261215T120000
 DTEND;TZID=America/Los_Angeles:20261215T142000
@@ -7394,6 +7808,62 @@ DESCRIPTION:Duration: 120 mins (2h00m)\nScreen 10\n\nA successful song-and
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261215T133000
+DTEND;TZID=America/Los_Angeles:20261215T161000
+DTSTAMP:20261215T213000Z
+UID:202731
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 13:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261215T165000
+DTEND;TZID=America/Los_Angeles:20261215T193000
+DTSTAMP:20261216T005000Z
+UID:202730
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 17:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261215T200000
+DTEND;TZID=America/Los_Angeles:20261215T224000
+DTSTAMP:20261216T040000Z
+UID:202729
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 20:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary (Reissue)
+DTSTART;TZID=America/Los_Angeles:20261215T164000
+DTEND;TZID=America/Los_Angeles:20261215T194500
+DTSTAMP:20261216T004000Z
+UID:202711
+DESCRIPTION:Duration: 156 mins (2h36m)\nScreen 5\n\nScience teacher Ryland
+  Grace (Ryan Gosling) wakes up on a spaceship light years from home with n
+ o recollection of who he is or how he got there. As his memory returns\, h
+ e begins to uncover his mission: solve the riddle of the mysterious substa
+ nce causing\n\nEstimated start: 17:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary (Reissue)
+DTSTART;TZID=America/Los_Angeles:20261215T195000
+DTEND;TZID=America/Los_Angeles:20261215T225500
+DTSTAMP:20261216T035000Z
+UID:202712
+DESCRIPTION:Duration: 156 mins (2h36m)\nScreen 5\n\nScience teacher Ryland
+  Grace (Ryan Gosling) wakes up on a spaceship light years from home with n
+ o recollection of who he is or how he got there. As his memory returns\, h
+ e begins to uncover his mission: solve the riddle of the mysterious substa
+ nce causing\n\nEstimated start: 20:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Andre Rieu's 2026 Christmas Concert: Let it Snow
 DTSTART;TZID=America/Los_Angeles:20261215T190000
 DTEND;TZID=America/Los_Angeles:20261215T221500
@@ -7467,6 +7937,62 @@ DESCRIPTION:Duration: 120 mins (2h00m)\nScreen 10\n\nA successful song-and
  -dance team become romantically involved with a sister act and team up to 
  save the failing Vermont inn of their former commanding general.\n\nEstima
  ted start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261216T133000
+DTEND;TZID=America/Los_Angeles:20261216T161000
+DTSTAMP:20261216T213000Z
+UID:202734
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 13:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261216T165000
+DTEND;TZID=America/Los_Angeles:20261216T193000
+DTSTAMP:20261217T005000Z
+UID:202733
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 17:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Godzilla Minus Zero/Minus Color (Sub)
+DTSTART;TZID=America/Los_Angeles:20261216T200000
+DTEND;TZID=America/Los_Angeles:20261216T224000
+DTSTAMP:20261217T040000Z
+UID:202732
+DESCRIPTION:Duration: 135 mins (2h15m)\nScreen 11\n\n\n\nSubtitled.\n\nEst
+ imated start: 20:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary (Reissue)
+DTSTART;TZID=America/Los_Angeles:20261216T164000
+DTEND;TZID=America/Los_Angeles:20261216T194500
+DTSTAMP:20261217T004000Z
+UID:202713
+DESCRIPTION:Duration: 156 mins (2h36m)\nScreen 5\n\nScience teacher Ryland
+  Grace (Ryan Gosling) wakes up on a spaceship light years from home with n
+ o recollection of who he is or how he got there. As his memory returns\, h
+ e begins to uncover his mission: solve the riddle of the mysterious substa
+ nce causing\n\nEstimated start: 17:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Hail Mary (Reissue)
+DTSTART;TZID=America/Los_Angeles:20261216T195000
+DTEND;TZID=America/Los_Angeles:20261216T225500
+DTSTAMP:20261217T035000Z
+UID:202714
+DESCRIPTION:Duration: 156 mins (2h36m)\nScreen 5\n\nScience teacher Ryland
+  Grace (Ryan Gosling) wakes up on a spaceship light years from home with n
+ o recollection of who he is or how he got there. As his memory returns\, h
+ e begins to uncover his mission: solve the riddle of the mysterious substa
+ nce causing\n\nEstimated start: 20:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -8793,6 +9319,61 @@ DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261222T120500
+DTEND;TZID=America/Los_Angeles:20261222T141000
+DTSTAMP:20261222T200500Z
+UID:202651
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 12:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261222T144500
+DTEND;TZID=America/Los_Angeles:20261222T165000
+DTSTAMP:20261222T224500Z
+UID:202652
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 15:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261222T172000
+DTEND;TZID=America/Los_Angeles:20261222T192500
+DTSTAMP:20261223T012000Z
+UID:202653
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 17:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261222T200000
+DTEND;TZID=America/Los_Angeles:20261222T220500
+DTSTAMP:20261223T040000Z
+UID:202654
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 20:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261222T224000
+DTEND;TZID=America/Los_Angeles:20261223T004500
+DTSTAMP:20261223T064000Z
+UID:202655
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 23:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dune: Part Three
 DTSTART;TZID=America/Los_Angeles:20261223T080000
 DTEND;TZID=America/Los_Angeles:20261223T104500
@@ -8988,6 +9569,61 @@ DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261223T092000
+DTEND;TZID=America/Los_Angeles:20261223T112500
+DTSTAMP:20261223T172000Z
+UID:202665
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 9:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261223T144500
+DTEND;TZID=America/Los_Angeles:20261223T165000
+DTSTAMP:20261223T224500Z
+UID:202659
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 15:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261223T172000
+DTEND;TZID=America/Los_Angeles:20261223T192500
+DTSTAMP:20261224T012000Z
+UID:202658
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 17:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261223T200000
+DTEND;TZID=America/Los_Angeles:20261223T220500
+DTSTAMP:20261224T040000Z
+UID:202657
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 20:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261223T224000
+DTEND;TZID=America/Los_Angeles:20261224T004500
+DTSTAMP:20261224T064000Z
+UID:202656
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 23:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (Subbed)
 DTSTART;TZID=America/Los_Angeles:20261223T112500
 DTEND;TZID=America/Los_Angeles:20261223T143500
@@ -8995,6 +9631,17 @@ DTSTAMP:20261223T192500Z
 UID:197869
 DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nPlot unknown\n\nSubtit
  led.\n\nEstimated start: 11:50
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3 (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261223T120500
+DTEND;TZID=America/Los_Angeles:20261223T141000
+DTSTAMP:20261223T200500Z
+UID:202660
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nSubtitled.\n\nEstimated start: 12:30
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -9167,6 +9814,100 @@ DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261224T092000
+DTEND;TZID=America/Los_Angeles:20261224T112500
+DTSTAMP:20261224T172000Z
+UID:202666
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 9:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261224T121000
+DTEND;TZID=America/Los_Angeles:20261224T141500
+DTSTAMP:20261224T201000Z
+UID:202664
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 12:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261224T145000
+DTEND;TZID=America/Los_Angeles:20261224T165500
+DTSTAMP:20261224T225000Z
+UID:202663
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 15:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261224T173000
+DTEND;TZID=America/Los_Angeles:20261224T193500
+DTSTAMP:20261225T013000Z
+UID:202662
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 17:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261224T201000
+DTEND;TZID=America/Los_Angeles:20261224T221500
+DTSTAMP:20261225T041000Z
+UID:202661
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 11\n\nThis holiday season\, 
+ one angry bird will face his greatest challenge yet\, surviving fatherhood
+ . while saving the world!\n\nEstimated start: 20:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261224T120000
+DTEND;TZID=America/Los_Angeles:20261224T143000
+DTSTAMP:20261224T200000Z
+UID:202667
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 12:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261224T150000
+DTEND;TZID=America/Los_Angeles:20261224T173000
+DTSTAMP:20261224T230000Z
+UID:202669
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 15:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261224T180000
+DTEND;TZID=America/Los_Angeles:20261224T203000
+DTSTAMP:20261225T020000Z
+UID:202670
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 18:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261225T113000
 DTEND;TZID=America/Los_Angeles:20261225T144000
@@ -9216,6 +9957,113 @@ DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
  thing they'\n\nEstimated start: 23:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261225T114000
+DTEND;TZID=America/Los_Angeles:20261225T134500
+DTSTAMP:20261225T194000Z
+UID:202611
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 12:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261225T142000
+DTEND;TZID=America/Los_Angeles:20261225T162500
+DTSTAMP:20261225T222000Z
+UID:202612
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 14:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261225T170000
+DTEND;TZID=America/Los_Angeles:20261225T190500
+DTSTAMP:20261226T010000Z
+UID:202613
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 17:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261225T194000
+DTEND;TZID=America/Los_Angeles:20261225T214500
+DTSTAMP:20261226T034000Z
+UID:202614
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 20:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261225T222000
+DTEND;TZID=America/Los_Angeles:20261226T002500
+DTSTAMP:20261226T062000Z
+UID:202615
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 22:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261225T130000
+DTEND;TZID=America/Los_Angeles:20261225T153000
+DTSTAMP:20261225T210000Z
+UID:202671
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261225T161000
+DTEND;TZID=America/Los_Angeles:20261225T184000
+DTSTAMP:20261226T001000Z
+UID:202672
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261225T191000
+DTEND;TZID=America/Los_Angeles:20261225T214000
+DTSTAMP:20261226T031000Z
+UID:202673
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World (3D)
+DTSTART;TZID=America/Los_Angeles:20261225T221000
+DTEND;TZID=America/Los_Angeles:20261226T004000
+DTSTAMP:20261226T061000Z
+UID:202674
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 22:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -9284,6 +10132,137 @@ DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261226T090000
+DTEND;TZID=America/Los_Angeles:20261226T110500
+DTSTAMP:20261226T170000Z
+UID:202621
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 9:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261226T114000
+DTEND;TZID=America/Los_Angeles:20261226T134500
+DTSTAMP:20261226T194000Z
+UID:202620
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 12:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261226T170000
+DTEND;TZID=America/Los_Angeles:20261226T190500
+DTSTAMP:20261227T010000Z
+UID:202618
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 17:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261226T194000
+DTEND;TZID=America/Los_Angeles:20261226T214500
+DTSTAMP:20261227T034000Z
+UID:202617
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 20:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261226T222000
+DTEND;TZID=America/Los_Angeles:20261227T002500
+DTSTAMP:20261227T062000Z
+UID:202616
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 22:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261226T100000
+DTEND;TZID=America/Los_Angeles:20261226T123000
+DTSTAMP:20261226T180000Z
+UID:202679
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 10:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261226T130000
+DTEND;TZID=America/Los_Angeles:20261226T153000
+DTSTAMP:20261226T210000Z
+UID:202678
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261226T191000
+DTEND;TZID=America/Los_Angeles:20261226T214000
+DTSTAMP:20261227T031000Z
+UID:202676
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World (3D)
+DTSTART;TZID=America/Los_Angeles:20261226T221000
+DTEND;TZID=America/Los_Angeles:20261227T004000
+DTSTAMP:20261227T061000Z
+UID:202675
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 22:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3 (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261226T142000
+DTEND;TZID=America/Los_Angeles:20261226T162500
+DTSTAMP:20261226T222000Z
+UID:202619
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nSubtitled.\n\nEstimated start: 14:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261226T161000
+DTEND;TZID=America/Los_Angeles:20261226T184000
+DTSTAMP:20261227T001000Z
+UID:202677
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nSubtitled.\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261227T081000
 DTEND;TZID=America/Los_Angeles:20261227T112000
@@ -9333,6 +10312,137 @@ DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
  thing they'\n\nEstimated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261227T090000
+DTEND;TZID=America/Los_Angeles:20261227T110500
+DTSTAMP:20261227T170000Z
+UID:202622
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 9:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261227T114000
+DTEND;TZID=America/Los_Angeles:20261227T134500
+DTSTAMP:20261227T194000Z
+UID:202623
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 12:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261227T142000
+DTEND;TZID=America/Los_Angeles:20261227T162500
+DTSTAMP:20261227T222000Z
+UID:202624
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 14:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261227T170000
+DTEND;TZID=America/Los_Angeles:20261227T190500
+DTSTAMP:20261228T010000Z
+UID:202625
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 17:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261227T194000
+DTEND;TZID=America/Los_Angeles:20261227T214500
+DTSTAMP:20261228T034000Z
+UID:202626
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 20:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261227T222000
+DTEND;TZID=America/Los_Angeles:20261228T002500
+DTSTAMP:20261228T062000Z
+UID:202627
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 22:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261227T100000
+DTEND;TZID=America/Los_Angeles:20261227T123000
+DTSTAMP:20261227T180000Z
+UID:202680
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 10:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261227T130000
+DTEND;TZID=America/Los_Angeles:20261227T153000
+DTSTAMP:20261227T210000Z
+UID:202681
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261227T161000
+DTEND;TZID=America/Los_Angeles:20261227T184000
+DTSTAMP:20261228T001000Z
+UID:202682
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261227T191000
+DTEND;TZID=America/Los_Angeles:20261227T214000
+DTSTAMP:20261228T031000Z
+UID:202683
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World (3D)
+DTSTART;TZID=America/Los_Angeles:20261227T221000
+DTEND;TZID=America/Los_Angeles:20261228T004000
+DTSTAMP:20261228T061000Z
+UID:202684
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 22:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -9411,6 +10521,137 @@ DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261228T090000
+DTEND;TZID=America/Los_Angeles:20261228T110500
+DTSTAMP:20261228T170000Z
+UID:202628
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 9:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261228T114000
+DTEND;TZID=America/Los_Angeles:20261228T134500
+DTSTAMP:20261228T194000Z
+UID:202629
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 12:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261228T142000
+DTEND;TZID=America/Los_Angeles:20261228T162500
+DTSTAMP:20261228T222000Z
+UID:202630
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 14:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261228T194000
+DTEND;TZID=America/Los_Angeles:20261228T214500
+DTSTAMP:20261229T034000Z
+UID:202632
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 20:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261228T222000
+DTEND;TZID=America/Los_Angeles:20261229T002500
+DTSTAMP:20261229T062000Z
+UID:202633
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 22:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261228T100000
+DTEND;TZID=America/Los_Angeles:20261228T123000
+DTSTAMP:20261228T180000Z
+UID:202685
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 10:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261228T130000
+DTEND;TZID=America/Los_Angeles:20261228T153000
+DTSTAMP:20261228T210000Z
+UID:202686
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261228T161000
+DTEND;TZID=America/Los_Angeles:20261228T184000
+DTSTAMP:20261229T001000Z
+UID:202687
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261228T191000
+DTEND;TZID=America/Los_Angeles:20261228T214000
+DTSTAMP:20261229T031000Z
+UID:202688
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World (3D)
+DTSTART;TZID=America/Los_Angeles:20261228T221000
+DTEND;TZID=America/Los_Angeles:20261229T004000
+DTSTAMP:20261229T061000Z
+UID:202689
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 22:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3 (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261228T170000
+DTEND;TZID=America/Los_Angeles:20261228T190500
+DTSTAMP:20261229T010000Z
+UID:202631
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nSubtitled.\n\nEstimated start: 17:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261229T081000
 DTEND;TZID=America/Los_Angeles:20261229T112000
@@ -9476,6 +10717,137 @@ DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261229T090000
+DTEND;TZID=America/Los_Angeles:20261229T110500
+DTSTAMP:20261229T170000Z
+UID:202639
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 9:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261229T114000
+DTEND;TZID=America/Los_Angeles:20261229T134500
+DTSTAMP:20261229T194000Z
+UID:202638
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 12:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261229T142000
+DTEND;TZID=America/Los_Angeles:20261229T162500
+DTSTAMP:20261229T222000Z
+UID:202637
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 14:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261229T170000
+DTEND;TZID=America/Los_Angeles:20261229T190500
+DTSTAMP:20261230T010000Z
+UID:202636
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 17:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261229T194000
+DTEND;TZID=America/Los_Angeles:20261229T214500
+DTSTAMP:20261230T034000Z
+UID:202635
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 20:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261229T222000
+DTEND;TZID=America/Los_Angeles:20261230T002500
+DTSTAMP:20261230T062000Z
+UID:202634
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 22:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261229T100000
+DTEND;TZID=America/Los_Angeles:20261229T123000
+DTSTAMP:20261229T180000Z
+UID:202690
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 10:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261229T130000
+DTEND;TZID=America/Los_Angeles:20261229T153000
+DTSTAMP:20261229T210000Z
+UID:202691
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261229T161000
+DTEND;TZID=America/Los_Angeles:20261229T184000
+DTSTAMP:20261230T001000Z
+UID:202692
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261229T191000
+DTEND;TZID=America/Los_Angeles:20261229T214000
+DTSTAMP:20261230T031000Z
+UID:202693
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World (3D)
+DTSTART;TZID=America/Los_Angeles:20261229T221000
+DTEND;TZID=America/Los_Angeles:20261230T004000
+DTSTAMP:20261230T061000Z
+UID:202694
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 22:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BTS World Tour 'Arirang' in Jakarta: Live
 DTSTART;TZID=America/Los_Angeles:20261229T110000
 DTEND;TZID=America/Los_Angeles:20261229T142500
@@ -9496,6 +10868,124 @@ DTSTAMP:20261230T161000Z
 UID:197924
 DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nPlot unknown\n\nSubtit
  led.\n\nEstimated start: 8:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261230T090000
+DTEND;TZID=America/Los_Angeles:20261230T110500
+DTSTAMP:20261230T170000Z
+UID:202645
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 9:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261230T114000
+DTEND;TZID=America/Los_Angeles:20261230T134500
+DTSTAMP:20261230T194000Z
+UID:202644
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 12:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261230T142000
+DTEND;TZID=America/Los_Angeles:20261230T162500
+DTSTAMP:20261230T222000Z
+UID:202643
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 14:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261230T170000
+DTEND;TZID=America/Los_Angeles:20261230T190500
+DTSTAMP:20261231T010000Z
+UID:202642
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 17:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261230T194000
+DTEND;TZID=America/Los_Angeles:20261230T214500
+DTSTAMP:20261231T034000Z
+UID:202641
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 20:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261230T222000
+DTEND;TZID=America/Los_Angeles:20261231T002500
+DTSTAMP:20261231T062000Z
+UID:202640
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 22:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261230T100000
+DTEND;TZID=America/Los_Angeles:20261230T123000
+DTSTAMP:20261230T180000Z
+UID:202695
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 10:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261230T161000
+DTEND;TZID=America/Los_Angeles:20261230T184000
+DTSTAMP:20261231T001000Z
+UID:202697
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261230T191000
+DTEND;TZID=America/Los_Angeles:20261230T214000
+DTSTAMP:20261231T031000Z
+UID:202698
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 19:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World (3D)
+DTSTART;TZID=America/Los_Angeles:20261230T221000
+DTEND;TZID=America/Los_Angeles:20261231T004000
+DTSTAMP:20261231T061000Z
+UID:202699
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 22:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -9551,6 +11041,19 @@ DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jumanji: Open World (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261230T130000
+DTEND;TZID=America/Los_Angeles:20261230T153000
+DTSTAMP:20261230T210000Z
+UID:202696
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nSubtitled.\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261231T081000
 DTEND;TZID=America/Los_Angeles:20261231T112000
@@ -9600,6 +11103,113 @@ DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
  thing they'\n\nEstimated start: 19:55
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261231T090000
+DTEND;TZID=America/Los_Angeles:20261231T110500
+DTSTAMP:20261231T170000Z
+UID:202650
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 9:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261231T114000
+DTEND;TZID=America/Los_Angeles:20261231T134500
+DTSTAMP:20261231T194000Z
+UID:202649
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 12:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261231T142000
+DTEND;TZID=America/Los_Angeles:20261231T162500
+DTSTAMP:20261231T222000Z
+UID:202648
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 14:45
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261231T170000
+DTEND;TZID=America/Los_Angeles:20261231T190500
+DTSTAMP:20270101T010000Z
+UID:202647
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 17:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angry Birds Movie 3
+DTSTART;TZID=America/Los_Angeles:20261231T194000
+DTEND;TZID=America/Los_Angeles:20261231T214500
+DTSTAMP:20270101T034000Z
+UID:202646
+DESCRIPTION:Duration: 98 mins (1h38m)\nScreen 2\n\nThis holiday season\, o
+ ne angry bird will face his greatest challenge yet\, surviving fatherhood.
+  while saving the world!\n\nEstimated start: 20:05
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261231T100000
+DTEND;TZID=America/Los_Angeles:20261231T123000
+DTSTAMP:20261231T180000Z
+UID:202700
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 10:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261231T130000
+DTEND;TZID=America/Los_Angeles:20261231T153000
+DTSTAMP:20261231T210000Z
+UID:202701
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World
+DTSTART;TZID=America/Los_Angeles:20261231T161000
+DTEND;TZID=America/Los_Angeles:20261231T184000
+DTSTAMP:20270101T001000Z
+UID:202702
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 16:35
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jumanji: Open World (3D)
+DTSTART;TZID=America/Los_Angeles:20261231T191000
+DTEND;TZID=America/Los_Angeles:20261231T214000
+DTSTAMP:20270101T031000Z
+UID:202703
+DESCRIPTION:Duration: 121 mins (2h01m)\nScreen 3\n\nThis Christmas\, Dwayn
+ e Johnson\, Jack Black\, Kevin Hart\, and Karen Gillan are \nreunited in J
+ umanji: Open World\, the hilarious final installment of the globally belov
+ ed action-adventure trilogy. Our \nheroes have escaped the perilous jungle
+ s of Jumanji befor\n\nEstimated start: 19:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -9685,6 +11295,19 @@ DTSTAMP:20270404T200000Z
 UID:201186
 DESCRIPTION:Duration: 170 mins (2h50m)\nScreen 4\n\n\n\nNo passes.\n\nEsti
  mated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Op: Manon Encore
+DTSTART;TZID=America/Los_Angeles:20270407T130000
+DTEND;TZID=America/Los_Angeles:20270407T175000
+DTSTAMP:20270407T200000Z
+UID:196398
+DESCRIPTION:Duration: 264 mins (4h24m)\nScreen 4\n\nFollowing her radiant 
+ performance in Gounod's Roméo et Juliette-which garnered raves for "high 
+ notes that spun like liquid gold . Sierra touched the operatic firmament" 
+ (The New York Times)-superstar soprano Nadine Sierra takes on another allu
+ ring French\n\nNo passes.\n\nEstimated start: 13:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 END:VCALENDAR
