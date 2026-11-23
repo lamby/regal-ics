@@ -3,1186 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Regal Bella Bottega
 X-WR-CALNAME:Cinema 🇺🇸 Regal Bella Bottega
-LAST-MODIFIED:20261121T164202Z
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261121T100000
-DTEND;TZID=America/Los_Angeles:20261121T130500
-DTSTAMP:20261121T180000Z
-UID:202436
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 6\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 10:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261121T104000
-DTEND;TZID=America/Los_Angeles:20261121T134500
-DTSTAMP:20261121T184000Z
-UID:201465
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 3\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 11:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261121T134000
-DTEND;TZID=America/Los_Angeles:20261121T164500
-DTSTAMP:20261121T214000Z
-UID:202435
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 6\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 14:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping (3D)
-DTSTART;TZID=America/Los_Angeles:20261121T142000
-DTEND;TZID=America/Los_Angeles:20261121T172500
-DTSTAMP:20261121T222000Z
-UID:201464
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 3\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 14:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261121T152000
-DTEND;TZID=America/Los_Angeles:20261121T182500
-DTSTAMP:20261121T232000Z
-UID:201461
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 15:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261121T172000
-DTEND;TZID=America/Los_Angeles:20261121T202500
-DTSTAMP:20261122T012000Z
-UID:202434
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 6\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 17:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261121T180000
-DTEND;TZID=America/Los_Angeles:20261121T210500
-DTSTAMP:20261122T020000Z
-UID:201463
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 3\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 18:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261121T190000
-DTEND;TZID=America/Los_Angeles:20261121T220500
-DTSTAMP:20261122T030000Z
-UID:201458
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261121T211000
-DTEND;TZID=America/Los_Angeles:20261122T001500
-DTSTAMP:20261122T051000Z
-UID:202424
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 4\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 21:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping (3D)
-DTSTART;TZID=America/Los_Angeles:20261121T214000
-DTEND;TZID=America/Los_Angeles:20261122T004500
-DTSTAMP:20261122T054000Z
-UID:201462
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 3\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 22:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261121T224000
-DTEND;TZID=America/Los_Angeles:20261122T014500
-DTSTAMP:20261122T064000Z
-UID:201457
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 23:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261121T103500
-DTEND;TZID=America/Los_Angeles:20261121T125500
-DTSTAMP:20261121T183500Z
-UID:202411
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 11:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261121T132000
-DTEND;TZID=America/Los_Angeles:20261121T154000
-DTSTAMP:20261121T212000Z
-UID:202410
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 13:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261121T161000
-DTEND;TZID=America/Los_Angeles:20261121T183000
-DTSTAMP:20261122T001000Z
-UID:202409
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 16:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261121T192000
-DTEND;TZID=America/Los_Angeles:20261121T214000
-DTSTAMP:20261122T032000Z
-UID:202408
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261121T221000
-DTEND;TZID=America/Los_Angeles:20261122T003000
-DTSTAMP:20261122T061000Z
-UID:202407
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 22:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261121T103000
-DTEND;TZID=America/Los_Angeles:20261121T130500
-DTSTAMP:20261121T183000Z
-UID:201815
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 10:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261121T133000
-DTEND;TZID=America/Los_Angeles:20261121T160500
-DTSTAMP:20261121T213000Z
-UID:201816
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 13:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261121T163000
-DTEND;TZID=America/Los_Angeles:20261121T190500
-DTSTAMP:20261122T003000Z
-UID:201817
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261121T193000
-DTEND;TZID=America/Los_Angeles:20261121T220500
-DTSTAMP:20261122T033000Z
-UID:201818
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261121T223000
-DTEND;TZID=America/Los_Angeles:20261122T010500
-DTSTAMP:20261122T063000Z
-UID:201819
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 22:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261121T101000
-DTEND;TZID=America/Los_Angeles:20261121T133000
-DTSTAMP:20261121T181000Z
-UID:202427
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 10:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261121T174000
-DTEND;TZID=America/Los_Angeles:20261121T210000
-DTSTAMP:20261122T014000Z
-UID:202425
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 18:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261121T212500
-DTEND;TZID=America/Los_Angeles:20261122T004500
-DTSTAMP:20261122T052500Z
-UID:202428
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 21:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261121T112000
-DTEND;TZID=America/Los_Angeles:20261121T150000
-DTSTAMP:20261121T192000Z
-UID:202423
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 5\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 11:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261121T154000
-DTEND;TZID=America/Los_Angeles:20261121T192000
-DTSTAMP:20261121T234000Z
-UID:202422
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 5\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 16:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261121T200000
-DTEND;TZID=America/Los_Angeles:20261121T234000
-DTSTAMP:20261122T040000Z
-UID:202421
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 5\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 20:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261121T141000
-DTEND;TZID=America/Los_Angeles:20261121T163500
-DTSTAMP:20261121T221000Z
-UID:202419
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 11\n\nShortly before the 19
- 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
-  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
- (Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime
-  partners wrest\n\nEstimated start: 14:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261121T193500
-DTEND;TZID=America/Los_Angeles:20261121T220000
-DTSTAMP:20261122T033500Z
-UID:202413
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 9\n\nShortly before the 197
- 3 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) 
- are dispatched from Santiago to Easter island by their bureau chief\, MJ (
- Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime 
- partners wrest\n\nEstimated start: 20:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261121T105000
-DTEND;TZID=America/Los_Angeles:20261121T132500
-DTSTAMP:20261121T185000Z
-UID:202416
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 11:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261121T134500
-DTEND;TZID=America/Los_Angeles:20261121T162000
-DTSTAMP:20261121T214500Z
-UID:202415
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 14:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261121T164000
-DTEND;TZID=America/Los_Angeles:20261121T191500
-DTSTAMP:20261122T004000Z
-UID:202414
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 17:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261121T102000
-DTEND;TZID=America/Los_Angeles:20261121T121500
-DTSTAMP:20261121T182000Z
-UID:202371
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 2\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 10:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261121T214500
-DTEND;TZID=America/Los_Angeles:20261122T001500
-DTSTAMP:20261122T054500Z
-UID:202367
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 2\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 22:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BTS World Tour 'Arirang' in Kaohsiung: Live
-DTSTART;TZID=America/Los_Angeles:20261121T130000
-DTEND;TZID=America/Los_Angeles:20261121T162500
-DTSTAMP:20261121T210000Z
-UID:201853
-DESCRIPTION:Duration: 180 mins (3h00m)\nScreen 4\n\nThe record-breaking jo
- urney continues as BTS's history-making tour across Asia makes its way to 
- the big\nscreen.\nJoin the roar of the crowds in Kaohsiung in November and
-  experience the breathtaking performances and\nelectrifying energy of BTS'
- s stadium tour\n\nNo passes.\n\nEstimated start: 13:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BTS World Tour 'Arirang' in Kaohsiung: Live
-DTSTART;TZID=America/Los_Angeles:20261121T171500
-DTEND;TZID=America/Los_Angeles:20261121T204000
-DTSTAMP:20261122T011500Z
-UID:201854
-DESCRIPTION:Duration: 180 mins (3h00m)\nScreen 4\n\nThe record-breaking jo
- urney continues as BTS's history-making tour across Asia makes its way to 
- the big\nscreen.\nJoin the roar of the crowds in Kaohsiung in November and
-  experience the breathtaking performances and\nelectrifying energy of BTS'
- s stadium tour\n\nNo passes.\n\nEstimated start: 17:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261121T113000
-DTEND;TZID=America/Los_Angeles:20261121T135000
-DTSTAMP:20261121T193000Z
-UID:202420
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 11\n\nA clever cat brings c
- haos and mischief to the home of two young children.\n\nSubtitled.\n\nEsti
- mated start: 11:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hunger Games Sunrise Reaping (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261121T114000
-DTEND;TZID=America/Los_Angeles:20261121T144500
-DTSTAMP:20261121T194000Z
-UID:201460
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Subtitled.\n\nEstimated start: 12:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261121T131000
-DTEND;TZID=America/Los_Angeles:20261121T150500
-DTSTAMP:20261121T211000Z
-UID:202369
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 2\n\nA weapon systems engine
- er and former Green Beret protects his Wyoming neighbors against a ruthles
- s corporation threatening their rural community.\n\nSubtitled.\n\nEstimate
- d start: 13:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENE Repeat
-DTSTART;TZID=America/Los_Angeles:20261121T135500
-DTEND;TZID=America/Los_Angeles:20261121T171000
-DTSTAMP:20261121T215500Z
-UID:202426
-DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 10\n\nVivek and his friends
-  reunite years after their Goa misadventure for a new journey. As they nav
- igate life challenges\, impulsive plans\, and unexpected escapades\, chaos
-  ensues once again.\n\nSubtitled.\n\nEstimated start: 14:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENE Repeat
-DTSTART;TZID=America/Los_Angeles:20261121T203000
-DTEND;TZID=America/Los_Angeles:20261121T234500
-DTSTAMP:20261122T043000Z
-UID:202525
-DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 11\n\nVivek and his friends
-  reunite years after their Goa misadventure for a new journey. As they nav
- igate life challenges\, impulsive plans\, and unexpected escapades\, chaos
-  ensues once again.\n\nSubtitled.\n\nEstimated start: 20:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENE Repeat
-DTSTART;TZID=America/Los_Angeles:20261121T210000
-DTEND;TZID=America/Los_Angeles:20261122T001500
-DTSTAMP:20261122T050000Z
-UID:202429
-DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 6\n\nVivek and his friends 
- reunite years after their Goa misadventure for a new journey. As they navi
- gate life challenges\, impulsive plans\, and unexpected escapades\, chaos 
- ensues once again.\n\nSubtitled.\n\nEstimated start: 21:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scene (Tamil)
-DTSTART;TZID=America/Los_Angeles:20261121T170000
-DTEND;TZID=America/Los_Angeles:20261121T200500
-DTSTAMP:20261122T010000Z
-UID:202504
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 11\n\nFollows an eccentric 
- police officer and his quirky team whose lives take an unexpected turn aft
- er they are assigned a new mission.\n\nSubtitled.\n\nEstimated start: 17:2
- 5
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261121T223500
-DTEND;TZID=America/Los_Angeles:20261122T011000
-DTSTAMP:20261122T063500Z
-UID:202412
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 9\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nSubtitled.\n\nEstimated start: 23:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261122T100500
-DTEND;TZID=America/Los_Angeles:20261122T131000
-DTSTAMP:20261122T180500Z
-UID:202380
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 4\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 10:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261122T104000
-DTEND;TZID=America/Los_Angeles:20261122T134500
-DTSTAMP:20261122T184000Z
-UID:201474
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 3\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 11:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261122T114000
-DTEND;TZID=America/Los_Angeles:20261122T144500
-DTSTAMP:20261122T194000Z
-UID:201469
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 12:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261122T134000
-DTEND;TZID=America/Los_Angeles:20261122T164500
-DTSTAMP:20261122T214000Z
-UID:202379
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 4\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 14:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping (3D)
-DTSTART;TZID=America/Los_Angeles:20261122T142000
-DTEND;TZID=America/Los_Angeles:20261122T172500
-DTSTAMP:20261122T222000Z
-UID:201473
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 3\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 14:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261122T152000
-DTEND;TZID=America/Los_Angeles:20261122T182500
-DTSTAMP:20261122T232000Z
-UID:201470
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 15:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261122T172000
-DTEND;TZID=America/Los_Angeles:20261122T202500
-DTSTAMP:20261123T012000Z
-UID:202378
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 4\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 17:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261122T180000
-DTEND;TZID=America/Los_Angeles:20261122T210500
-DTSTAMP:20261123T020000Z
-UID:201472
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 3\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 18:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261122T190000
-DTEND;TZID=America/Los_Angeles:20261122T220500
-DTSTAMP:20261123T030000Z
-UID:201467
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261122T204000
-DTEND;TZID=America/Los_Angeles:20261122T234500
-DTSTAMP:20261123T044000Z
-UID:202377
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 6\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 21:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping (3D)
-DTSTART;TZID=America/Los_Angeles:20261122T214000
-DTEND;TZID=America/Los_Angeles:20261123T004500
-DTSTAMP:20261123T054000Z
-UID:201471
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 3\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 22:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261122T223000
-DTEND;TZID=America/Los_Angeles:20261123T013500
-DTSTAMP:20261123T063000Z
-UID:202247
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 2\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 22:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261122T103000
-DTEND;TZID=America/Los_Angeles:20261122T125000
-DTSTAMP:20261122T183000Z
-UID:202388
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 10:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261122T132000
-DTEND;TZID=America/Los_Angeles:20261122T154000
-DTSTAMP:20261122T212000Z
-UID:202402
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 13:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261122T192000
-DTEND;TZID=America/Los_Angeles:20261122T214000
-DTSTAMP:20261123T032000Z
-UID:202400
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261122T221000
-DTEND;TZID=America/Los_Angeles:20261123T003000
-DTSTAMP:20261123T061000Z
-UID:202399
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 22:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261122T100000
-DTEND;TZID=America/Los_Angeles:20261122T123500
-DTSTAMP:20261122T180000Z
-UID:201820
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 10:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261122T160000
-DTEND;TZID=America/Los_Angeles:20261122T183500
-DTSTAMP:20261123T000000Z
-UID:201822
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261122T191000
-DTEND;TZID=America/Los_Angeles:20261122T214500
-DTSTAMP:20261123T031000Z
-UID:201823
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 19:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261122T221500
-DTEND;TZID=America/Los_Angeles:20261123T005000
-DTSTAMP:20261123T061500Z
-UID:202248
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 22:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cat in the Hat
-DTSTART;TZID=America/Los_Angeles:20261122T104500
-DTEND;TZID=America/Los_Angeles:20261122T130500
-DTSTAMP:20261122T184500Z
-UID:202393
-DESCRIPTION:Duration: 114 mins (1h54m)\nScreen 11\n\nA clever cat brings c
- haos and mischief to the home of two young children.\n\nEstimated start: 1
- 1:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261122T101000
-DTEND;TZID=America/Los_Angeles:20261122T133000
-DTSTAMP:20261122T181000Z
-UID:202392
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 10:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261122T174000
-DTEND;TZID=America/Los_Angeles:20261122T210000
-DTSTAMP:20261123T014000Z
-UID:202390
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 18:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything
-DTSTART;TZID=America/Los_Angeles:20261122T212500
-DTEND;TZID=America/Los_Angeles:20261123T004500
-DTSTAMP:20261123T052500Z
-UID:202389
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nEstimated start: 21:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261122T113000
-DTEND;TZID=America/Los_Angeles:20261122T151000
-DTSTAMP:20261122T193000Z
-UID:202387
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 5\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 11:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261122T154000
-DTEND;TZID=America/Los_Angeles:20261122T192000
-DTSTAMP:20261122T234000Z
-UID:202386
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 5\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 16:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261122T200000
-DTEND;TZID=America/Los_Angeles:20261122T234000
-DTSTAMP:20261123T040000Z
-UID:202385
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 5\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 20:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261122T133000
-DTEND;TZID=America/Los_Angeles:20261122T155500
-DTSTAMP:20261122T213000Z
-UID:202406
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 11\n\nShortly before the 19
- 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
-  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
- (Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime
-  partners wrest\n\nEstimated start: 13:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261122T162000
-DTEND;TZID=America/Los_Angeles:20261122T184500
-DTSTAMP:20261123T002000Z
-UID:202405
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 11\n\nShortly before the 19
- 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
-  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
- (Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime
-  partners wrest\n\nEstimated start: 16:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine
-DTSTART;TZID=America/Los_Angeles:20261122T220000
-DTEND;TZID=America/Los_Angeles:20261123T002500
-DTSTAMP:20261123T060000Z
-UID:202403
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 11\n\nShortly before the 19
- 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
-  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
- (Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime
-  partners wrest\n\nEstimated start: 22:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261122T105000
-DTEND;TZID=America/Los_Angeles:20261122T132500
-DTSTAMP:20261122T185000Z
-UID:202398
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 2\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 11:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261122T134500
-DTEND;TZID=America/Los_Angeles:20261122T162000
-DTSTAMP:20261122T214500Z
-UID:202397
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 2\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 14:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261122T164000
-DTEND;TZID=America/Los_Angeles:20261122T191500
-DTSTAMP:20261123T004000Z
-UID:202396
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 2\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 17:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261122T193500
-DTEND;TZID=America/Los_Angeles:20261122T221000
-DTSTAMP:20261123T033500Z
-UID:202395
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 2\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 20:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wildwood
-DTSTART;TZID=America/Los_Angeles:20261122T223500
-DTEND;TZID=America/Los_Angeles:20261123T011000
-DTSTAMP:20261123T063500Z
-UID:202394
-DESCRIPTION:Duration: 130 mins (2h10m)\nScreen 1\n\nWildwood is a handcraf
- ted epic fantasy adventure that transports audiences into a secret\, magic
- al\, and dangerously alive world just beyond their doorstep. At its heart 
- is the story of a courageous girl\, Prue McKeel (PROO muh-KEEL)\, on a des
- perate mission\n\nEstimated start: 23:00
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261122T102500
-DTEND;TZID=America/Los_Angeles:20261122T122000
-DTSTAMP:20261122T182500Z
-UID:202376
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 10:50
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ghost Soldier
-DTSTART;TZID=America/Los_Angeles:20261122T131000
-DTEND;TZID=America/Los_Angeles:20261122T150500
-DTSTAMP:20261122T211000Z
-UID:202374
-DESCRIPTION:Duration: 90 mins (1h30m)\nScreen 9\n\nIn the action-thriller 
- Ghost Soldier\, Jim Caviezel stars as Henry "Fitz" Fitzgerald\, a solitary
-  man with a mysterious past\, \nliving a quiet life off the grid in his ho
- metown. But when a powerful foreign corporation descends on his community 
- determined \nto\n\nEstimated start: 13:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261122T220500
-DTEND;TZID=America/Los_Angeles:20261123T003500
-DTSTAMP:20261123T060500Z
-UID:202372
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 9\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 22:30
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scene
-DTSTART;TZID=America/Los_Angeles:20261122T101500
-DTEND;TZID=America/Los_Angeles:20261122T132000
-DTSTAMP:20261122T181500Z
-UID:202383
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nFollows an eccentric p
- olice officer and his quirky team whose lives take an unexpected turn afte
- r they are assigned a new mission.\n\nSubtitled.\n\nEstimated start: 10:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261122T130000
-DTEND;TZID=America/Los_Angeles:20261122T153500
-DTSTAMP:20261122T210000Z
-UID:201821
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nSubtitled.\n\nEstimated start: 13:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENE Repeat
-DTSTART;TZID=America/Los_Angeles:20261122T134000
-DTEND;TZID=America/Los_Angeles:20261122T165500
-DTSTAMP:20261122T214000Z
-UID:202384
-DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 6\n\nVivek and his friends 
- reunite years after their Goa misadventure for a new journey. As they navi
- gate life challenges\, impulsive plans\, and unexpected escapades\, chaos 
- ensues once again.\n\nSubtitled.\n\nEstimated start: 14:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENE Repeat
-DTSTART;TZID=America/Los_Angeles:20261122T183000
-DTEND;TZID=America/Los_Angeles:20261122T214500
-DTSTAMP:20261123T023000Z
-UID:202526
-DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 9\n\nVivek and his friends 
- reunite years after their Goa misadventure for a new journey. As they navi
- gate life challenges\, impulsive plans\, and unexpected escapades\, chaos 
- ensues once again.\n\nSubtitled.\n\nEstimated start: 18:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENE Repeat
-DTSTART;TZID=America/Los_Angeles:20261122T210000
-DTEND;TZID=America/Los_Angeles:20261123T001500
-DTSTAMP:20261123T050000Z
-UID:202381
-DESCRIPTION:Duration: 167 mins (2h47m)\nScreen 4\n\nVivek and his friends 
- reunite years after their Goa misadventure for a new journey. As they navi
- gate life challenges\, impulsive plans\, and unexpected escapades\, chaos 
- ensues once again.\n\nSubtitled.\n\nEstimated start: 21:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Can See Everything (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261122T135500
-DTEND;TZID=America/Los_Angeles:20261122T171500
-DTSTAMP:20261122T215500Z
-UID:202391
-DESCRIPTION:Duration: 175 mins (2h55m)\nScreen 10\n\nThirty-four days befo
- re she's sent to prison\, notorious Silicon Valley founder Elizabeth Holme
- s invites a skeptical film crew to document her every move. What begins as
-  an intimate portrait of an enigmatic felon becomes a mind-bending three-y
- ear journey i\n\nSubtitled.\n\nEstimated start: 14:20
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261122T155000
-DTEND;TZID=America/Los_Angeles:20261122T182000
-DTSTAMP:20261122T235000Z
-UID:202375
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 9\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nSubtitled.\n\nEstimated start: 16:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261122T161000
-DTEND;TZID=America/Los_Angeles:20261122T183000
-DTSTAMP:20261123T001000Z
-UID:202401
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nA thrilling ghost stor
- y set in Dickens' London\, following one man's supernatural journey to fac
- e his past\, present and future as he fights for a second chance at redemp
- tion.\n\nSubtitled.\n\nEstimated start: 16:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scene (Tamil)
-DTSTART;TZID=America/Los_Angeles:20261122T171000
-DTEND;TZID=America/Los_Angeles:20261122T201500
-DTSTAMP:20261123T011000Z
-UID:202382
-DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 6\n\nFollows an eccentric p
- olice officer and his quirky team whose lives take an unexpected turn afte
- r they are assigned a new mission.\n\nSubtitled.\n\nEstimated start: 17:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild Horse Nine (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261122T191500
-DTEND;TZID=America/Los_Angeles:20261122T214000
-DTSTAMP:20261123T031500Z
-UID:202404
-DESCRIPTION:Duration: 116 mins (1h56m)\nScreen 11\n\nShortly before the 19
- 73 Chilean coup\, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell)
-  are dispatched from Santiago to Easter island by their bureau chief\, MJ 
- (Steve Buscemi). Amongst the Island's iconic statues\, and as the longtime
-  partners wrest\n\nSubtitled.\n\nEstimated start: 19:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
+LAST-MODIFIED:20261123T160343Z
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: Sunrise on the Reaping (3D)
 DTSTART;TZID=America/Los_Angeles:20261123T120000
@@ -2706,11 +1527,11 @@ DTSTART;TZID=America/Los_Angeles:20261126T101000
 DTEND;TZID=America/Los_Angeles:20261126T131500
 DTSTAMP:20261126T181000Z
 UID:202506
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 8\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 10:35
+DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 11\n\nThe Hunger Games: Sun
+ rise on the Reaping will revisit the world of Panem twenty-four years befo
+ re the events of The Hunger Games\, starting on the morning of the reaping
+  of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n
+ \nEstimated start: 10:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2732,11 +1553,11 @@ DTSTART;TZID=America/Los_Angeles:20261126T135000
 DTEND;TZID=America/Los_Angeles:20261126T165500
 DTSTAMP:20261126T215000Z
 UID:202507
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 8\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 14:15
+DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 11\n\nThe Hunger Games: Sun
+ rise on the Reaping will revisit the world of Panem twenty-four years befo
+ re the events of The Hunger Games\, starting on the morning of the reaping
+  of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n
+ \nEstimated start: 14:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2758,11 +1579,11 @@ DTSTART;TZID=America/Los_Angeles:20261126T172500
 DTEND;TZID=America/Los_Angeles:20261126T203000
 DTSTAMP:20261127T012500Z
 UID:202508
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 8\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 17:50
+DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 11\n\nThe Hunger Games: Sun
+ rise on the Reaping will revisit the world of Panem twenty-four years befo
+ re the events of The Hunger Games\, starting on the morning of the reaping
+  of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n
+ \nEstimated start: 17:50
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2784,11 +1605,11 @@ DTSTART;TZID=America/Los_Angeles:20261126T210000
 DTEND;TZID=America/Los_Angeles:20261127T000500
 DTSTAMP:20261127T050000Z
 UID:202509
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 8\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 21:25
+DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 11\n\nThe Hunger Games: Sun
+ rise on the Reaping will revisit the world of Panem twenty-four years befo
+ re the events of The Hunger Games\, starting on the morning of the reaping
+  of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n
+ \nEstimated start: 21:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2810,11 +1631,11 @@ DTSTART;TZID=America/Los_Angeles:20261126T102000
 DTEND;TZID=America/Los_Angeles:20261126T124000
 DTSTAMP:20261126T182000Z
 UID:202514
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 11\n\nThis November\, Johnn
- y Depp is Ebenezer Scrooge. The name you know\, the story you don't. From 
- Ti West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Claf
- lin\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Ch
- arlie Murphy\, with Tra\n\nEstimated start: 10:45
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
+  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
+ i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
+ in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
+ rlie Murphy\, with Tra\n\nEstimated start: 10:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2823,11 +1644,11 @@ DTSTART;TZID=America/Los_Angeles:20261126T131000
 DTEND;TZID=America/Los_Angeles:20261126T153000
 DTSTAMP:20261126T211000Z
 UID:202513
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 11\n\nThis November\, Johnn
- y Depp is Ebenezer Scrooge. The name you know\, the story you don't. From 
- Ti West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Claf
- lin\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Ch
- arlie Murphy\, with Tra\n\nEstimated start: 13:35
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
+  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
+ i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
+ in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
+ rlie Murphy\, with Tra\n\nEstimated start: 13:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2836,11 +1657,11 @@ DTSTART;TZID=America/Los_Angeles:20261126T160000
 DTEND;TZID=America/Los_Angeles:20261126T182000
 DTSTAMP:20261127T000000Z
 UID:202512
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 11\n\nThis November\, Johnn
- y Depp is Ebenezer Scrooge. The name you know\, the story you don't. From 
- Ti West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Claf
- lin\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Ch
- arlie Murphy\, with Tra\n\nEstimated start: 16:25
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
+  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
+ i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
+ in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
+ rlie Murphy\, with Tra\n\nEstimated start: 16:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2849,11 +1670,11 @@ DTSTART;TZID=America/Los_Angeles:20261126T185000
 DTEND;TZID=America/Los_Angeles:20261126T211000
 DTSTAMP:20261127T025000Z
 UID:202511
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 11\n\nThis November\, Johnn
- y Depp is Ebenezer Scrooge. The name you know\, the story you don't. From 
- Ti West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Claf
- lin\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Ch
- arlie Murphy\, with Tra\n\nEstimated start: 19:15
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
+  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
+ i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
+ in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
+ rlie Murphy\, with Tra\n\nEstimated start: 19:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -2862,11 +1683,11 @@ DTSTART;TZID=America/Los_Angeles:20261126T214500
 DTEND;TZID=America/Los_Angeles:20261127T000500
 DTSTAMP:20261127T054500Z
 UID:202510
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 11\n\nThis November\, Johnn
- y Depp is Ebenezer Scrooge. The name you know\, the story you don't. From 
- Ti West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Claf
- lin\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Ch
- arlie Murphy\, with Tra\n\nEstimated start: 22:10
+DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
+  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
+ i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
+ in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
+ rlie Murphy\, with Tra\n\nEstimated start: 22:10
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -3723,58 +2544,6 @@ DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yeh Prem Mol Liya
-DTSTART;TZID=America/Los_Angeles:20261128T100000
-DTEND;TZID=America/Los_Angeles:20261128T133000
-DTSTAMP:20261128T180000Z
-UID:202276
-DESCRIPTION:Duration: 183 mins (3h03m)\nScreen 2\n\nA small-town boy chasi
- ng big dreams in Mumbai turns tradition on its head when he moves into his
-  wife's home along with his entire family - forcing two clashing household
- s to learn what true love\, respect actually is. Yeh Prem Mol Liya is set 
- to release i\n\nSubtitled.\n\nEstimated start: 10:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yeh Prem Mol Liya
-DTSTART;TZID=America/Los_Angeles:20261128T135000
-DTEND;TZID=America/Los_Angeles:20261128T172000
-DTSTAMP:20261128T215000Z
-UID:202275
-DESCRIPTION:Duration: 183 mins (3h03m)\nScreen 2\n\nA small-town boy chasi
- ng big dreams in Mumbai turns tradition on its head when he moves into his
-  wife's home along with his entire family - forcing two clashing household
- s to learn what true love\, respect actually is. Yeh Prem Mol Liya is set 
- to release i\n\nSubtitled.\n\nEstimated start: 14:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yeh Prem Mol Liya
-DTSTART;TZID=America/Los_Angeles:20261128T174500
-DTEND;TZID=America/Los_Angeles:20261128T211500
-DTSTAMP:20261129T014500Z
-UID:202274
-DESCRIPTION:Duration: 183 mins (3h03m)\nScreen 2\n\nA small-town boy chasi
- ng big dreams in Mumbai turns tradition on its head when he moves into his
-  wife's home along with his entire family - forcing two clashing household
- s to learn what true love\, respect actually is. Yeh Prem Mol Liya is set 
- to release i\n\nSubtitled.\n\nEstimated start: 18:10
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yeh Prem Mol Liya
-DTSTART;TZID=America/Los_Angeles:20261128T214000
-DTEND;TZID=America/Los_Angeles:20261129T011000
-DTSTAMP:20261129T054000Z
-UID:202273
-DESCRIPTION:Duration: 183 mins (3h03m)\nScreen 2\n\nA small-town boy chasi
- ng big dreams in Mumbai turns tradition on its head when he moves into his
-  wife's home along with his entire family - forcing two clashing household
- s to learn what true love\, respect actually is. Yeh Prem Mol Liya is set 
- to release i\n\nSubtitled.\n\nEstimated start: 22:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hexed
 DTSTART;TZID=America/Los_Angeles:20261128T100000
 DTEND;TZID=America/Los_Angeles:20261128T121500
@@ -3902,6 +2671,58 @@ DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
  d unconventional teenage girl named Billie discovers secret magical abilit
  ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
  t of suburbia a\n\nEstimated start: 22:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yeh Prem Mol Liya
+DTSTART;TZID=America/Los_Angeles:20261128T100500
+DTEND;TZID=America/Los_Angeles:20261128T133500
+DTSTAMP:20261128T180500Z
+UID:202276
+DESCRIPTION:Duration: 183 mins (3h03m)\nScreen 2\n\nA small-town boy chasi
+ ng big dreams in Mumbai turns tradition on its head when he moves into his
+  wife's home along with his entire family - forcing two clashing household
+ s to learn what true love\, respect actually is. Yeh Prem Mol Liya is set 
+ to release i\n\nSubtitled.\n\nEstimated start: 10:30
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yeh Prem Mol Liya
+DTSTART;TZID=America/Los_Angeles:20261128T135000
+DTEND;TZID=America/Los_Angeles:20261128T172000
+DTSTAMP:20261128T215000Z
+UID:202275
+DESCRIPTION:Duration: 183 mins (3h03m)\nScreen 2\n\nA small-town boy chasi
+ ng big dreams in Mumbai turns tradition on its head when he moves into his
+  wife's home along with his entire family - forcing two clashing household
+ s to learn what true love\, respect actually is. Yeh Prem Mol Liya is set 
+ to release i\n\nSubtitled.\n\nEstimated start: 14:15
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yeh Prem Mol Liya
+DTSTART;TZID=America/Los_Angeles:20261128T174500
+DTEND;TZID=America/Los_Angeles:20261128T211500
+DTSTAMP:20261129T014500Z
+UID:202274
+DESCRIPTION:Duration: 183 mins (3h03m)\nScreen 2\n\nA small-town boy chasi
+ ng big dreams in Mumbai turns tradition on its head when he moves into his
+  wife's home along with his entire family - forcing two clashing household
+ s to learn what true love\, respect actually is. Yeh Prem Mol Liya is set 
+ to release i\n\nSubtitled.\n\nEstimated start: 18:10
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yeh Prem Mol Liya
+DTSTART;TZID=America/Los_Angeles:20261128T214000
+DTEND;TZID=America/Los_Angeles:20261129T011000
+DTSTAMP:20261129T054000Z
+UID:202273
+DESCRIPTION:Duration: 183 mins (3h03m)\nScreen 2\n\nA small-town boy chasi
+ ng big dreams in Mumbai turns tradition on its head when he moves into his
+  wife's home along with his entire family - forcing two clashing household
+ s to learn what true love\, respect actually is. Yeh Prem Mol Liya is set 
+ to release i\n\nSubtitled.\n\nEstimated start: 22:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -5801,39 +4622,39 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eetha
-DTSTART;TZID=America/Los_Angeles:20261204T170000
-DTEND;TZID=America/Los_Angeles:20261204T200500
-DTSTAMP:20261205T010000Z
+DTSTART;TZID=America/Los_Angeles:20261204T165000
+DTEND;TZID=America/Los_Angeles:20261204T195500
+DTSTAMP:20261205T005000Z
 UID:202569
 DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
  angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
  humble beginnings to become one of Maharashtra's most celebrated folk thea
- tre artists.\n\nSubtitled.\n\nEstimated start: 17:25
+ tre artists.\n\nSubtitled.\n\nEstimated start: 17:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eetha
-DTSTART;TZID=America/Los_Angeles:20261204T205000
-DTEND;TZID=America/Los_Angeles:20261204T235500
-DTSTAMP:20261205T045000Z
+DTSTART;TZID=America/Los_Angeles:20261204T203000
+DTEND;TZID=America/Los_Angeles:20261204T233500
+DTSTAMP:20261205T043000Z
 UID:202568
 DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
  angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
  humble beginnings to become one of Maharashtra's most celebrated folk thea
- tre artists.\n\nSubtitled.\n\nEstimated start: 21:15
+ tre artists.\n\nSubtitled.\n\nEstimated start: 20:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Violent Night 2
-DTSTART;TZID=America/Los_Angeles:20261204T132500
-DTEND;TZID=America/Los_Angeles:20261204T154000
-DTSTAMP:20261204T212500Z
+DTSTART;TZID=America/Los_Angeles:20261204T132000
+DTEND;TZID=America/Los_Angeles:20261204T153500
+DTSTAMP:20261204T212000Z
 UID:202034
 DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 3\n\nDavid Harbour reprises
   his role as Santa Claus in a propulsive new chapter in yuletide mayhem fr
  om 87North\, as not -so-jolly Saint Nick suits up again to take on a ruthl
  ess gangster terrorizing the merchants of the Silver Bell Mall.\n\nEstimat
- ed start: 13:50
+ ed start: 13:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -5991,38 +4812,38 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eetha
-DTSTART;TZID=America/Los_Angeles:20261205T131000
-DTEND;TZID=America/Los_Angeles:20261205T161500
-DTSTAMP:20261205T211000Z
+DTSTART;TZID=America/Los_Angeles:20261205T130000
+DTEND;TZID=America/Los_Angeles:20261205T160500
+DTSTAMP:20261205T210000Z
 UID:202571
 DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
  angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
  humble beginnings to become one of Maharashtra's most celebrated folk thea
- tre artists.\n\nSubtitled.\n\nEstimated start: 13:35
+ tre artists.\n\nSubtitled.\n\nEstimated start: 13:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eetha
-DTSTART;TZID=America/Los_Angeles:20261205T170000
-DTEND;TZID=America/Los_Angeles:20261205T200500
-DTSTAMP:20261206T010000Z
+DTSTART;TZID=America/Los_Angeles:20261205T164000
+DTEND;TZID=America/Los_Angeles:20261205T194500
+DTSTAMP:20261206T004000Z
 UID:202572
 DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
  angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
  humble beginnings to become one of Maharashtra's most celebrated folk thea
- tre artists.\n\nSubtitled.\n\nEstimated start: 17:25
+ tre artists.\n\nSubtitled.\n\nEstimated start: 17:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eetha
-DTSTART;TZID=America/Los_Angeles:20261205T205000
-DTEND;TZID=America/Los_Angeles:20261205T235500
-DTSTAMP:20261206T045000Z
+DTSTART;TZID=America/Los_Angeles:20261205T201000
+DTEND;TZID=America/Los_Angeles:20261205T231500
+DTSTAMP:20261206T041000Z
 UID:202573
 DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
  angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
  humble beginnings to become one of Maharashtra's most celebrated folk thea
- tre artists.\n\nSubtitled.\n\nEstimated start: 21:15
+ tre artists.\n\nSubtitled.\n\nEstimated start: 20:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6118,15 +4939,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maatrubhumi: May War Rest in Peace
-DTSTART;TZID=America/Los_Angeles:20261205T205000
-DTEND;TZID=America/Los_Angeles:20261206T000000
-DTSTAMP:20261206T045000Z
+DTSTART;TZID=America/Los_Angeles:20261205T204000
+DTEND;TZID=America/Los_Angeles:20261205T235000
+DTSTAMP:20261206T044000Z
 UID:202595
 DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
  r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
  AR REST IN PEACE is a story of extraordinary courage on the battlefield an
  d the equally powerful battles fought by families back home. At its heart 
- is one man's\n\nSubtitled.\n\nEstimated start: 21:15
+ is one man's\n\nSubtitled.\n\nEstimated start: 21:05
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6235,15 +5056,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maatrubhumi: May War Rest in Peace
-DTSTART;TZID=America/Los_Angeles:20261206T192000
-DTEND;TZID=America/Los_Angeles:20261206T223000
-DTSTAMP:20261207T032000Z
+DTSTART;TZID=America/Los_Angeles:20261206T191000
+DTEND;TZID=America/Los_Angeles:20261206T222000
+DTSTAMP:20261207T031000Z
 UID:202598
 DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
  r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
  AR REST IN PEACE is a story of extraordinary courage on the battlefield an
  d the equally powerful battles fought by families back home. At its heart 
- is one man's\n\nSubtitled.\n\nEstimated start: 19:45
+ is one man's\n\nSubtitled.\n\nEstimated start: 19:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6260,26 +5081,26 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eetha
-DTSTART;TZID=America/Los_Angeles:20261206T151000
-DTEND;TZID=America/Los_Angeles:20261206T181500
-DTSTAMP:20261206T231000Z
+DTSTART;TZID=America/Los_Angeles:20261206T150000
+DTEND;TZID=America/Los_Angeles:20261206T180500
+DTSTAMP:20261206T230000Z
 UID:202577
 DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
  angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
  humble beginnings to become one of Maharashtra's most celebrated folk thea
- tre artists.\n\nSubtitled.\n\nEstimated start: 15:35
+ tre artists.\n\nSubtitled.\n\nEstimated start: 15:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eetha
-DTSTART;TZID=America/Los_Angeles:20261206T190000
-DTEND;TZID=America/Los_Angeles:20261206T220500
-DTSTAMP:20261207T030000Z
+DTSTART;TZID=America/Los_Angeles:20261206T183000
+DTEND;TZID=America/Los_Angeles:20261206T213500
+DTSTAMP:20261207T023000Z
 UID:202576
 DESCRIPTION:Duration: 160 mins (2h40m)\nScreen 5\n\nFollows Vithabai Naray
  angaonkar\, a renowned Marathi Tamasha and Lavani performer who rose from 
  humble beginnings to become one of Maharashtra's most celebrated folk thea
- tre artists.\n\nSubtitled.\n\nEstimated start: 19:25
+ tre artists.\n\nSubtitled.\n\nEstimated start: 18:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6440,15 +5261,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maatrubhumi: May War Rest in Peace
-DTSTART;TZID=America/Los_Angeles:20261207T191500
-DTEND;TZID=America/Los_Angeles:20261207T222500
-DTSTAMP:20261208T031500Z
+DTSTART;TZID=America/Los_Angeles:20261207T191000
+DTEND;TZID=America/Los_Angeles:20261207T222000
+DTSTAMP:20261208T031000Z
 UID:202601
 DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
  r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
  AR REST IN PEACE is a story of extraordinary courage on the battlefield an
  d the equally powerful battles fought by families back home. At its heart 
- is one man's\n\nSubtitled.\n\nEstimated start: 19:40
+ is one man's\n\nSubtitled.\n\nEstimated start: 19:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6630,15 +5451,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maatrubhumi: May War Rest in Peace
-DTSTART;TZID=America/Los_Angeles:20261208T191500
-DTEND;TZID=America/Los_Angeles:20261208T222500
-DTSTAMP:20261209T031500Z
+DTSTART;TZID=America/Los_Angeles:20261208T191000
+DTEND;TZID=America/Los_Angeles:20261208T222000
+DTSTAMP:20261209T031000Z
 UID:202603
 DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
  r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
  AR REST IN PEACE is a story of extraordinary courage on the battlefield an
  d the equally powerful battles fought by families back home. At its heart 
- is one man's\n\nSubtitled.\n\nEstimated start: 19:40
+ is one man's\n\nSubtitled.\n\nEstimated start: 19:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6809,15 +5630,15 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maatrubhumi: May War Rest in Peace
-DTSTART;TZID=America/Los_Angeles:20261209T191500
-DTEND;TZID=America/Los_Angeles:20261209T222500
-DTSTAMP:20261210T031500Z
+DTSTART;TZID=America/Los_Angeles:20261209T191000
+DTEND;TZID=America/Los_Angeles:20261209T222000
+DTSTAMP:20261210T031000Z
 UID:202606
 DESCRIPTION:Duration: 164 mins (2h44m)\nScreen 4\n\n"The supreme art of wa
  r is to subdue the enemy without fighting."  Sun Tzu\n\nMAATRUBHUMI: MAY W
  AR REST IN PEACE is a story of extraordinary courage on the battlefield an
  d the equally powerful battles fought by families back home. At its heart 
- is one man's\n\nSubtitled.\n\nEstimated start: 19:40
+ is one man's\n\nSubtitled.\n\nEstimated start: 19:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -11308,6 +10129,19 @@ DESCRIPTION:Duration: 264 mins (4h24m)\nScreen 4\n\nFollowing her radiant
  notes that spun like liquid gold . Sierra touched the operatic firmament" 
  (The New York Times)-superstar soprano Nadine Sierra takes on another allu
  ring French\n\nNo passes.\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Op: Otello
+DTSTART;TZID=America/Los_Angeles:20270424T100000
+DTEND;TZID=America/Los_Angeles:20270424T135000
+DTSTAMP:20270424T170000Z
+UID:196390
+DESCRIPTION:Duration: 201 mins (3h21m)\nScreen 4\n\nOne of today's leading
+  dramatic tenors\, Brian Jagde\, takes on the tour-de-force title role of 
+ what many consider the ultimate Italian opera\, live to cinemas worldwide.
+  Verdi's monumental Shakespearean tragedy also features soprano Ailyn Pér
+ ez in her compa\n\nNo passes.\n\nEstimated start: 10:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 END:VCALENDAR
