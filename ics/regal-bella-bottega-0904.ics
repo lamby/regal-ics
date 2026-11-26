@@ -3,647 +3,7 @@ VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
 NAME:Cinema 🇺🇸 Regal Bella Bottega
 X-WR-CALNAME:Cinema 🇺🇸 Regal Bella Bottega
-LAST-MODIFIED:20261125T162944Z
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261125T104000
-DTEND;TZID=America/Los_Angeles:20261125T134500
-DTSTAMP:20261125T184000Z
-UID:201491
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 11:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261125T112000
-DTEND;TZID=America/Los_Angeles:20261125T142500
-DTSTAMP:20261125T192000Z
-UID:201495
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 8\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 11:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261125T120000
-DTEND;TZID=America/Los_Angeles:20261125T150500
-DTSTAMP:20261125T200000Z
-UID:202470
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 10\n\nThe Hunger Games: Sun
- rise on the Reaping will revisit the world of Panem twenty-four years befo
- re the events of The Hunger Games\, starting on the morning of the reaping
-  of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n
- \nEstimated start: 12:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping (3D)
-DTSTART;TZID=America/Los_Angeles:20261125T142000
-DTEND;TZID=America/Los_Angeles:20261125T172500
-DTSTAMP:20261125T222000Z
-UID:201492
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 14:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261125T150000
-DTEND;TZID=America/Los_Angeles:20261125T180500
-DTSTAMP:20261125T230000Z
-UID:201496
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 8\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 15:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261125T154000
-DTEND;TZID=America/Los_Angeles:20261125T184500
-DTSTAMP:20261125T234000Z
-UID:202468
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 10\n\nThe Hunger Games: Sun
- rise on the Reaping will revisit the world of Panem twenty-four years befo
- re the events of The Hunger Games\, starting on the morning of the reaping
-  of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n
- \nEstimated start: 16:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261125T180000
-DTEND;TZID=America/Los_Angeles:20261125T210500
-DTSTAMP:20261126T020000Z
-UID:201493
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 18:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261125T184000
-DTEND;TZID=America/Los_Angeles:20261125T214500
-DTSTAMP:20261126T024000Z
-UID:201497
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 8\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 19:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261125T201000
-DTEND;TZID=America/Los_Angeles:20261125T231500
-DTSTAMP:20261126T041000Z
-UID:202469
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 11\n\nThe Hunger Games: Sun
- rise on the Reaping will revisit the world of Panem twenty-four years befo
- re the events of The Hunger Games\, starting on the morning of the reaping
-  of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n
- \nEstimated start: 20:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping (3D)
-DTSTART;TZID=America/Los_Angeles:20261125T214000
-DTEND;TZID=America/Los_Angeles:20261126T004500
-DTSTAMP:20261126T054000Z
-UID:201494
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 22:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Focker-in-Law
-DTSTART;TZID=America/Los_Angeles:20261125T105000
-DTEND;TZID=America/Los_Angeles:20261125T130000
-DTSTAMP:20261125T185000Z
-UID:201769
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
-  icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
- ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
- n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
- ise.\n\nWritten and\n\nEstimated start: 11:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Focker-in-Law
-DTSTART;TZID=America/Los_Angeles:20261125T115000
-DTEND;TZID=America/Los_Angeles:20261125T140000
-DTSTAMP:20261125T195000Z
-UID:202462
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
-  icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
- ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
- n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
- ise.\n\nWritten and\n\nEstimated start: 12:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Focker-in-Law
-DTSTART;TZID=America/Los_Angeles:20261125T134000
-DTEND;TZID=America/Los_Angeles:20261125T155000
-DTSTAMP:20261125T214000Z
-UID:201770
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
-  icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
- ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
- n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
- ise.\n\nWritten and\n\nEstimated start: 14:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Focker-in-Law
-DTSTART;TZID=America/Los_Angeles:20261125T151000
-DTEND;TZID=America/Los_Angeles:20261125T172000
-DTSTAMP:20261125T231000Z
-UID:202505
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
-  icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
- ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
- n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
- ise.\n\nWritten and\n\nEstimated start: 15:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Focker-in-Law
-DTSTART;TZID=America/Los_Angeles:20261125T163000
-DTEND;TZID=America/Los_Angeles:20261125T184000
-DTSTAMP:20261126T003000Z
-UID:201771
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
-  icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
- ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
- n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
- ise.\n\nWritten and\n\nEstimated start: 16:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Focker-in-Law
-DTSTART;TZID=America/Los_Angeles:20261125T182000
-DTEND;TZID=America/Los_Angeles:20261125T203000
-DTSTAMP:20261126T022000Z
-UID:202461
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
-  icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
- ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
- n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
- ise.\n\nWritten and\n\nEstimated start: 18:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Focker-in-Law
-DTSTART;TZID=America/Los_Angeles:20261125T192000
-DTEND;TZID=America/Los_Angeles:20261125T213000
-DTSTAMP:20261126T032000Z
-UID:201772
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
-  icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
- ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
- n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
- ise.\n\nWritten and\n\nEstimated start: 19:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Focker-in-Law
-DTSTART;TZID=America/Los_Angeles:20261125T211000
-DTEND;TZID=America/Los_Angeles:20261125T232000
-DTSTAMP:20261126T051000Z
-UID:202459
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
-  icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
- ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
- n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
- ise.\n\nWritten and\n\nEstimated start: 21:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed
-DTSTART;TZID=America/Los_Angeles:20261125T100000
-DTEND;TZID=America/Los_Angeles:20261125T121500
-DTSTAMP:20261125T180000Z
-UID:201023
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
- on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
- d unconventional teenage girl named Billie discovers secret magical abilit
- ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
- t of suburbia a\n\nEstimated start: 10:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed
-DTSTART;TZID=America/Los_Angeles:20261125T103000
-DTEND;TZID=America/Los_Angeles:20261125T124500
-DTSTAMP:20261125T183000Z
-UID:201034
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
- on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
- d unconventional teenage girl named Billie discovers secret magical abilit
- ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
- t of suburbia a\n\nEstimated start: 10:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed
-DTSTART;TZID=America/Los_Angeles:20261125T125000
-DTEND;TZID=America/Los_Angeles:20261125T150500
-DTSTAMP:20261125T205000Z
-UID:201014
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
- on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
- d unconventional teenage girl named Billie discovers secret magical abilit
- ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
- t of suburbia a\n\nEstimated start: 13:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed
-DTSTART;TZID=America/Los_Angeles:20261125T132000
-DTEND;TZID=America/Los_Angeles:20261125T153500
-DTSTAMP:20261125T212000Z
-UID:201033
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
- on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
- d unconventional teenage girl named Billie discovers secret magical abilit
- ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
- t of suburbia a\n\nEstimated start: 13:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed (3D)
-DTSTART;TZID=America/Los_Angeles:20261125T154000
-DTEND;TZID=America/Los_Angeles:20261125T175500
-DTSTAMP:20261125T234000Z
-UID:201015
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
- on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
- d unconventional teenage girl named Billie discovers secret magical abilit
- ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
- t of suburbia a\n\nEstimated start: 16:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed
-DTSTART;TZID=America/Los_Angeles:20261125T161000
-DTEND;TZID=America/Los_Angeles:20261125T182500
-DTSTAMP:20261126T001000Z
-UID:201032
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
- on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
- d unconventional teenage girl named Billie discovers secret magical abilit
- ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
- t of suburbia a\n\nEstimated start: 16:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed
-DTSTART;TZID=America/Los_Angeles:20261125T183000
-DTEND;TZID=America/Los_Angeles:20261125T204500
-DTSTAMP:20261126T023000Z
-UID:201016
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
- on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
- d unconventional teenage girl named Billie discovers secret magical abilit
- ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
- t of suburbia a\n\nEstimated start: 18:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed
-DTSTART;TZID=America/Los_Angeles:20261125T190000
-DTEND;TZID=America/Los_Angeles:20261125T211500
-DTSTAMP:20261126T030000Z
-UID:201031
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
- on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
- d unconventional teenage girl named Billie discovers secret magical abilit
- ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
- t of suburbia a\n\nEstimated start: 19:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed (3D)
-DTSTART;TZID=America/Los_Angeles:20261125T212000
-DTEND;TZID=America/Los_Angeles:20261125T233500
-DTSTAMP:20261126T052000Z
-UID:201017
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
- on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
- d unconventional teenage girl named Billie discovers secret magical abilit
- ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
- t of suburbia a\n\nEstimated start: 21:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed
-DTSTART;TZID=America/Los_Angeles:20261125T215000
-DTEND;TZID=America/Los_Angeles:20261126T000500
-DTSTAMP:20261126T055000Z
-UID:201030
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
- on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
- d unconventional teenage girl named Billie discovers secret magical abilit
- ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
- t of suburbia a\n\nEstimated start: 22:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hershey
-DTSTART;TZID=America/Los_Angeles:20261125T110000
-DTEND;TZID=America/Los_Angeles:20261125T131500
-DTSTAMP:20261125T190000Z
-UID:202457
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 2\n\nBased on the life of M
- ilton Hershey\, founder of the iconic Hershey chocolate company. \n \nMilt
- on's grit and determination to conquer the world of candy-making propel hi
- m from bankruptcy to monumental success\, and the love of his life\, Kitty
- \, helps him buil\n\nEstimated start: 11:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261125T113000
-DTEND;TZID=America/Los_Angeles:20261125T140500
-DTSTAMP:20261125T193000Z
-UID:201852
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 11:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261125T181000
-DTEND;TZID=America/Los_Angeles:20261125T204500
-DTSTAMP:20261126T021000Z
-UID:201850
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 18:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky
-DTSTART;TZID=America/Los_Angeles:20261125T213000
-DTEND;TZID=America/Los_Angeles:20261126T000500
-DTSTAMP:20261126T053000Z
-UID:201849
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nEstimated start: 21:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261125T102000
-DTEND;TZID=America/Los_Angeles:20261125T124000
-DTSTAMP:20261125T182000Z
-UID:202463
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 9\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 10:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261125T131000
-DTEND;TZID=America/Los_Angeles:20261125T153000
-DTSTAMP:20261125T211000Z
-UID:202464
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 9\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 13:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261125T160000
-DTEND;TZID=America/Los_Angeles:20261125T182000
-DTSTAMP:20261126T000000Z
-UID:202465
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 9\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 16:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261125T185000
-DTEND;TZID=America/Los_Angeles:20261125T211000
-DTSTAMP:20261126T025000Z
-UID:202466
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 9\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 19:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261125T214000
-DTEND;TZID=America/Los_Angeles:20261126T000000
-DTSTAMP:20261126T054000Z
-UID:202467
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 9\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 22:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART;TZID=America/Los_Angeles:20261125T111000
-DTEND;TZID=America/Los_Angeles:20261125T134000
-DTSTAMP:20261125T191000Z
-UID:202471
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 11\n\nA hard-partying New Y
- ork City club promoter sees his whirlwind lifestyle upended by the arrival
-  of the 10-year-old son he never knew he had.\n\nEstimated start: 11:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART;TZID=America/Los_Angeles:20261125T141000
-DTEND;TZID=America/Los_Angeles:20261125T164000
-DTSTAMP:20261125T221000Z
-UID:202472
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 11\n\nA hard-partying New Y
- ork City club promoter sees his whirlwind lifestyle upended by the arrival
-  of the 10-year-old son he never knew he had.\n\nEstimated start: 14:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART;TZID=America/Los_Angeles:20261125T193000
-DTEND;TZID=America/Los_Angeles:20261125T220000
-DTSTAMP:20261126T033000Z
-UID:202474
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 10\n\nA hard-partying New Y
- ork City club promoter sees his whirlwind lifestyle upended by the arrival
-  of the 10-year-old son he never knew he had.\n\nEstimated start: 19:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Kid
-DTSTART;TZID=America/Los_Angeles:20261125T223000
-DTEND;TZID=America/Los_Angeles:20261126T010000
-DTSTAMP:20261126T063000Z
-UID:202475
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 10\n\nA hard-partying New Y
- ork City club promoter sees his whirlwind lifestyle upended by the arrival
-  of the 10-year-old son he never knew he had.\n\nEstimated start: 22:55
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261125T164000
-DTEND;TZID=America/Los_Angeles:20261125T202000
-DTSTAMP:20261126T004000Z
-UID:202502
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 2\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 17:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramayana
-DTSTART;TZID=America/Los_Angeles:20261125T205000
-DTEND;TZID=America/Los_Angeles:20261126T003000
-DTSTAMP:20261126T045000Z
-UID:202501
-DESCRIPTION:Duration: 195 mins (3h15m)\nScreen 2\n\nBased on the celebrate
- d ancient epic known to billions\, Namit Malhotra's Ramayana: Rise of a Le
- gend tells the \nstory of Rama\, a prince bound by sacrifice\; Ravana\, an
-  immortal king driven by vengeance\; and the prophecy that binds their \nf
- ates together. It\n\nSubtitled.\n\nEstimated start: 21:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Rob a Bank
-DTSTART;TZID=America/Los_Angeles:20261125T222000
-DTEND;TZID=America/Los_Angeles:20261126T005000
-DTSTAMP:20261126T062000Z
-UID:201498
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 8\n\nIn HOW TO ROB A BANK\,
-  a crew of social media-savvy bank robbers broadcasts their daring heists
- \, unaware that their growing viral fame has put them in the crosshairs of
-  a veteran FBI agent and a brilliant software engineer. Despite the unlike
- ly duo closing\n\nEstimated start: 22:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hershey (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261125T135000
-DTEND;TZID=America/Los_Angeles:20261125T160500
-DTSTAMP:20261125T215000Z
-UID:202458
-DESCRIPTION:Duration: 110 mins (1h50m)\nScreen 2\n\nBased on the life of M
- ilton Hershey\, founder of the iconic Hershey chocolate company. \n \nMilt
- on's grit and determination to conquer the world of candy-making propel hi
- m from bankruptcy to monumental success\, and the love of his life\, Kitty
- \, helps him buil\n\nSubtitled.\n\nEstimated start: 14:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Play Rocky (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261125T145000
-DTEND;TZID=America/Los_Angeles:20261125T172500
-DTSTAMP:20261125T225000Z
-UID:201851
-DESCRIPTION:Duration: 128 mins (2h08m)\nScreen 7\n\nI PLAY ROCKY is an ele
- ctrifying true story about an unknown actor with an unshakable belief that
-  he wasn't just meant to write Rocky--he was meant to be Rocky Balboa. Tol
- d "no" at every turn\, Sylvester Stallone bets everything on himself\, hol
- ding the line\n\nSubtitled.\n\nEstimated start: 15:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Club Kid (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261125T171000
-DTEND;TZID=America/Los_Angeles:20261125T194000
-DTSTAMP:20261126T011000Z
-UID:202473
-DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 11\n\nA washed-up New York 
- party promoter is forced to turn his life around when an unexpected visito
- r arrives.\n\nSubtitled.\n\nEstimated start: 17:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Focker-in-Law (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261125T221500
-DTEND;TZID=America/Los_Angeles:20261126T002500
-DTSTAMP:20261126T061500Z
-UID:201773
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 5\n\nThis November\, comedy
-  icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
- ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
- n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
- ise.\n\nWritten and\n\nSubtitled.\n\nEstimated start: 22:40
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261126T101000
-DTEND;TZID=America/Los_Angeles:20261126T131500
-DTSTAMP:20261126T181000Z
-UID:202506
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 11\n\nThe Hunger Games: Sun
- rise on the Reaping will revisit the world of Panem twenty-four years befo
- re the events of The Hunger Games\, starting on the morning of the reaping
-  of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n
- \nEstimated start: 10:35
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hunger Games: Sunrise on the Reaping
-DTSTART;TZID=America/Los_Angeles:20261126T104000
-DTEND;TZID=America/Los_Angeles:20261126T134500
-DTSTAMP:20261126T184000Z
-UID:201499
-DESCRIPTION:Duration: 158 mins (2h38m)\nScreen 1\n\nThe Hunger Games: Sunr
- ise on the Reaping will revisit the world of Panem twenty-four years befor
- e the events of The Hunger Games\, starting on the morning of the reaping 
- of the Fiftieth Hunger Games\, also known as the Second Quarter Quell.\n\n
- Estimated start: 11:05
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
+LAST-MODIFIED:20261126T194329Z
 BEGIN:VEVENT
 SUMMARY:The Hunger Games: Sunrise on the Reaping
 DTSTART;TZID=America/Los_Angeles:20261126T135000
@@ -724,19 +84,6 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Focker-in-Law
-DTSTART;TZID=America/Los_Angeles:20261126T105000
-DTEND;TZID=America/Los_Angeles:20261126T130000
-DTSTAMP:20261126T185000Z
-UID:201778
-DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
-  icon and Emmy winner Ben Stiller and two-time Oscar® winner Robert De Ni
- ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
- n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
- ise.\n\nWritten and\n\nEstimated start: 11:15
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Focker-in-Law
 DTSTART;TZID=America/Los_Angeles:20261126T133000
 DTEND;TZID=America/Los_Angeles:20261126T154000
 DTSTAMP:20261126T213000Z
@@ -798,32 +145,6 @@ DESCRIPTION:Duration: 105 mins (1h45m)\nScreen 6\n\nThis November\, comedy
  ro reunite\, joined by Grammy winner and Oscar® nominee Ariana Grande\, i
  n Focker-In-Law\, a new chapter in the blockbuster Meet the Parents franch
  ise.\n\nWritten and\n\nEstimated start: 22:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed
-DTSTART;TZID=America/Los_Angeles:20261126T100000
-DTEND;TZID=America/Los_Angeles:20261126T121500
-DTSTAMP:20261126T180000Z
-UID:201022
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
- on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
- d unconventional teenage girl named Billie discovers secret magical abilit
- ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
- t of suburbia a\n\nEstimated start: 10:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed
-DTSTART;TZID=America/Los_Angeles:20261126T103000
-DTEND;TZID=America/Los_Angeles:20261126T124500
-DTSTAMP:20261126T183000Z
-UID:201114
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 4\n\nIn Walt Disney Animati
- on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
- d unconventional teenage girl named Billie discovers secret magical abilit
- ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
- t of suburbia a\n\nEstimated start: 10:55
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -984,19 +305,6 @@ LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ebenezer
-DTSTART;TZID=America/Los_Angeles:20261126T102000
-DTEND;TZID=America/Los_Angeles:20261126T124000
-DTSTAMP:20261126T182000Z
-UID:202514
-DESCRIPTION:Duration: 115 mins (1h55m)\nScreen 8\n\nThis November\, Johnny
-  Depp is Ebenezer Scrooge. The name you know\, the story you don't. From T
- i West\, EBENEZER also stars Rupert Grint\, Andrea Riseborough\, Sam Clafl
- in\, Daisy Ridley\, Arthur Conti\, Ellie Bamber\, Henry Lloyd-Hughes\, Cha
- rlie Murphy\, with Tra\n\nEstimated start: 10:45
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ebenezer
 DTSTART;TZID=America/Los_Angeles:20261126T131000
 DTEND;TZID=America/Los_Angeles:20261126T153000
 DTSTAMP:20261126T211000Z
@@ -1131,15 +439,16 @@ DESCRIPTION:Duration: 122 mins (2h02m)\nScreen 7\n\nIn HOW TO ROB A BANK\,
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ENE Repeat
-DTSTART;TZID=America/Los_Angeles:20261126T100500
-DTEND;TZID=America/Los_Angeles:20261126T133000
-DTSTAMP:20261126T180500Z
-UID:202748
-DESCRIPTION:Duration: 178 mins (2h58m)\nScreen 2\n\nVivek and his friends 
- reunite years after their Goa misadventure for a new journey. As they navi
- gate life challenges\, impulsive plans\, and unexpected escapades\, chaos 
- ensues once again.\n\nSubtitled.\n\nEstimated start: 10:30
+SUMMARY:Hexed (Subbed)
+DTSTART;TZID=America/Los_Angeles:20261126T125000
+DTEND;TZID=America/Los_Angeles:20261126T150500
+DTSTAMP:20261126T205000Z
+UID:201021
+DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
+ on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
+ d unconventional teenage girl named Billie discovers secret magical abilit
+ ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
+ t of suburbia a\n\nSubtitled.\n\nEstimated start: 13:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -1176,19 +485,6 @@ DESCRIPTION:Duration: 178 mins (2h58m)\nScreen 2\n\nVivek and his friends
  reunite years after their Goa misadventure for a new journey. As they navi
  gate life challenges\, impulsive plans\, and unexpected escapades\, chaos 
  ensues once again.\n\nSubtitled.\n\nEstimated start: 21:25
-LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hexed (Subbed)
-DTSTART;TZID=America/Los_Angeles:20261126T125000
-DTEND;TZID=America/Los_Angeles:20261126T150500
-DTSTAMP:20261126T205000Z
-UID:201021
-DESCRIPTION:Duration: 109 mins (1h49m)\nScreen 3\n\nIn Walt Disney Animati
- on Studios' all-new magical coming-of-age saga\, "Hexed\," an impulsive an
- d unconventional teenage girl named Billie discovers secret magical abilit
- ies which\, once unleashed\, hurtle her into a spectacle-filled journey ou
- t of suburbia a\n\nSubtitled.\n\nEstimated start: 13:15
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
@@ -6325,6 +5621,18 @@ DESCRIPTION:Duration: 156 mins (2h36m)\nScreen 5\n\nScience teacher Ryland
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Monday Mystery Movie - 12/14
+DTSTART;TZID=America/Los_Angeles:20261214T190000
+DTEND;TZID=America/Los_Angeles:20261214T214000
+DTSTAMP:20261215T030000Z
+UID:202872
+DESCRIPTION:Duration: 131 mins (2h11m)\nScreen 6\n\nShhh! Be the first to 
+ see this NEW movie before its official release date for only $5... We just
+  can't tell you the title! The next Monday Mystery Movie at Regal is on De
+ cember 14th!\n\nEstimated start: 19:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Project Hail Mary (Reissue)
 DTSTART;TZID=America/Los_Angeles:20261214T195000
 DTEND;TZID=America/Los_Angeles:20261214T225500
@@ -6557,10 +5865,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261217T140000
-DTEND;TZID=America/Los_Angeles:20261217T171000
+DTEND;TZID=America/Los_Angeles:20261217T170000
 DTSTAMP:20261217T220000Z
 UID:197785
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6570,10 +5878,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261217T150000
-DTEND;TZID=America/Los_Angeles:20261217T181000
+DTEND;TZID=America/Los_Angeles:20261217T180000
 DTSTAMP:20261217T230000Z
 UID:197786
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6583,10 +5891,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261217T153000
-DTEND;TZID=America/Los_Angeles:20261217T184000
+DTEND;TZID=America/Los_Angeles:20261217T183000
 DTSTAMP:20261217T233000Z
 UID:197789
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6596,10 +5904,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261217T175000
-DTEND;TZID=America/Los_Angeles:20261217T210000
+DTEND;TZID=America/Los_Angeles:20261217T205000
 DTSTAMP:20261218T015000Z
 UID:197784
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6609,10 +5917,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261217T185000
-DTEND;TZID=America/Los_Angeles:20261217T220000
+DTEND;TZID=America/Los_Angeles:20261217T215000
 DTSTAMP:20261218T025000Z
 UID:197782
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6622,10 +5930,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261217T192000
-DTEND;TZID=America/Los_Angeles:20261217T223000
+DTEND;TZID=America/Los_Angeles:20261217T222000
 DTSTAMP:20261218T032000Z
 UID:197790
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6635,10 +5943,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261217T214000
-DTEND;TZID=America/Los_Angeles:20261218T005000
+DTEND;TZID=America/Los_Angeles:20261218T004000
 DTSTAMP:20261218T054000Z
 UID:197787
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6648,10 +5956,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261217T224000
-DTEND;TZID=America/Los_Angeles:20261218T015000
+DTEND;TZID=America/Los_Angeles:20261218T014000
 DTSTAMP:20261218T064000Z
 UID:197783
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6661,10 +5969,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261217T231000
-DTEND;TZID=America/Los_Angeles:20261218T022000
+DTEND;TZID=America/Los_Angeles:20261218T021000
 DTSTAMP:20261218T071000Z
 UID:197788
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6778,10 +6086,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261218T081000
-DTEND;TZID=America/Los_Angeles:20261218T112000
+DTEND;TZID=America/Los_Angeles:20261218T111000
 DTSTAMP:20261218T161000Z
 UID:197801
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6791,10 +6099,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261218T105500
-DTEND;TZID=America/Los_Angeles:20261218T140500
+DTEND;TZID=America/Los_Angeles:20261218T135500
 DTSTAMP:20261218T185500Z
 UID:197797
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6804,10 +6112,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261218T112500
-DTEND;TZID=America/Los_Angeles:20261218T143500
+DTEND;TZID=America/Los_Angeles:20261218T142500
 DTSTAMP:20261218T192500Z
 UID:197792
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6817,10 +6125,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261218T115500
-DTEND;TZID=America/Los_Angeles:20261218T150500
+DTEND;TZID=America/Los_Angeles:20261218T145500
 DTSTAMP:20261218T195500Z
 UID:197802
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6830,10 +6138,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261218T144000
-DTEND;TZID=America/Los_Angeles:20261218T175000
+DTEND;TZID=America/Los_Angeles:20261218T174000
 DTSTAMP:20261218T224000Z
 UID:197798
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6843,10 +6151,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261218T151000
-DTEND;TZID=America/Los_Angeles:20261218T182000
+DTEND;TZID=America/Los_Angeles:20261218T181000
 DTSTAMP:20261218T231000Z
 UID:197793
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6856,10 +6164,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261218T154000
-DTEND;TZID=America/Los_Angeles:20261218T185000
+DTEND;TZID=America/Los_Angeles:20261218T184000
 DTSTAMP:20261218T234000Z
 UID:197803
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6869,10 +6177,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261218T183000
-DTEND;TZID=America/Los_Angeles:20261218T214000
+DTEND;TZID=America/Los_Angeles:20261218T213000
 DTSTAMP:20261219T023000Z
 UID:197799
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6882,10 +6190,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261218T190000
-DTEND;TZID=America/Los_Angeles:20261218T221000
+DTEND;TZID=America/Los_Angeles:20261218T220000
 DTSTAMP:20261219T030000Z
 UID:197794
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6895,10 +6203,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261218T193000
-DTEND;TZID=America/Los_Angeles:20261218T224000
+DTEND;TZID=America/Los_Angeles:20261218T223000
 DTSTAMP:20261219T033000Z
 UID:197804
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6908,10 +6216,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261218T222000
-DTEND;TZID=America/Los_Angeles:20261219T013000
+DTEND;TZID=America/Los_Angeles:20261219T012000
 DTSTAMP:20261219T062000Z
 UID:197800
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6921,10 +6229,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261218T225000
-DTEND;TZID=America/Los_Angeles:20261219T020000
+DTEND;TZID=America/Los_Angeles:20261219T015000
 DTSTAMP:20261219T065000Z
 UID:197795
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -6999,10 +6307,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261219T081000
-DTEND;TZID=America/Los_Angeles:20261219T112000
+DTEND;TZID=America/Los_Angeles:20261219T111000
 DTSTAMP:20261219T161000Z
 UID:197811
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7012,10 +6320,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261219T105500
-DTEND;TZID=America/Los_Angeles:20261219T140500
+DTEND;TZID=America/Los_Angeles:20261219T135500
 DTSTAMP:20261219T185500Z
 UID:197810
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7025,10 +6333,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261219T112500
-DTEND;TZID=America/Los_Angeles:20261219T143500
+DTEND;TZID=America/Los_Angeles:20261219T142500
 DTSTAMP:20261219T192500Z
 UID:197809
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7038,10 +6346,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261219T115500
-DTEND;TZID=America/Los_Angeles:20261219T150500
+DTEND;TZID=America/Los_Angeles:20261219T145500
 DTSTAMP:20261219T195500Z
 UID:197808
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7051,10 +6359,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261219T144000
-DTEND;TZID=America/Los_Angeles:20261219T175000
+DTEND;TZID=America/Los_Angeles:20261219T174000
 DTSTAMP:20261219T224000Z
 UID:197807
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7064,10 +6372,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261219T151000
-DTEND;TZID=America/Los_Angeles:20261219T182000
+DTEND;TZID=America/Los_Angeles:20261219T181000
 DTSTAMP:20261219T231000Z
 UID:197815
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7077,10 +6385,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261219T154000
-DTEND;TZID=America/Los_Angeles:20261219T185000
+DTEND;TZID=America/Los_Angeles:20261219T184000
 DTSTAMP:20261219T234000Z
 UID:197817
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7090,10 +6398,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261219T183000
-DTEND;TZID=America/Los_Angeles:20261219T214000
+DTEND;TZID=America/Los_Angeles:20261219T213000
 DTSTAMP:20261220T023000Z
 UID:197806
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7103,10 +6411,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261219T190000
-DTEND;TZID=America/Los_Angeles:20261219T221000
+DTEND;TZID=America/Los_Angeles:20261219T220000
 DTSTAMP:20261220T030000Z
 UID:197820
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7116,10 +6424,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261219T193000
-DTEND;TZID=America/Los_Angeles:20261219T224000
+DTEND;TZID=America/Los_Angeles:20261219T223000
 DTSTAMP:20261220T033000Z
 UID:197819
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7129,10 +6437,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261219T222000
-DTEND;TZID=America/Los_Angeles:20261220T013000
+DTEND;TZID=America/Los_Angeles:20261220T012000
 DTSTAMP:20261220T062000Z
 UID:197818
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7142,10 +6450,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261219T225000
-DTEND;TZID=America/Los_Angeles:20261220T020000
+DTEND;TZID=America/Los_Angeles:20261220T015000
 DTSTAMP:20261220T065000Z
 UID:197816
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7246,10 +6554,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261220T081000
-DTEND;TZID=America/Los_Angeles:20261220T112000
+DTEND;TZID=America/Los_Angeles:20261220T111000
 DTSTAMP:20261220T161000Z
 UID:197826
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7259,10 +6567,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261220T105500
-DTEND;TZID=America/Los_Angeles:20261220T140500
+DTEND;TZID=America/Los_Angeles:20261220T135500
 DTSTAMP:20261220T185500Z
 UID:197825
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7272,10 +6580,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261220T112500
-DTEND;TZID=America/Los_Angeles:20261220T143500
+DTEND;TZID=America/Los_Angeles:20261220T142500
 DTSTAMP:20261220T192500Z
 UID:197824
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7285,10 +6593,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261220T115500
-DTEND;TZID=America/Los_Angeles:20261220T150500
+DTEND;TZID=America/Los_Angeles:20261220T145500
 DTSTAMP:20261220T195500Z
 UID:197823
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7298,10 +6606,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261220T144000
-DTEND;TZID=America/Los_Angeles:20261220T175000
+DTEND;TZID=America/Los_Angeles:20261220T174000
 DTSTAMP:20261220T224000Z
 UID:197822
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7311,10 +6619,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261220T151000
-DTEND;TZID=America/Los_Angeles:20261220T182000
+DTEND;TZID=America/Los_Angeles:20261220T181000
 DTSTAMP:20261220T231000Z
 UID:197830
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7324,10 +6632,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261220T154000
-DTEND;TZID=America/Los_Angeles:20261220T185000
+DTEND;TZID=America/Los_Angeles:20261220T184000
 DTSTAMP:20261220T234000Z
 UID:197832
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7337,10 +6645,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261220T183000
-DTEND;TZID=America/Los_Angeles:20261220T214000
+DTEND;TZID=America/Los_Angeles:20261220T213000
 DTSTAMP:20261221T023000Z
 UID:197821
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7350,10 +6658,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261220T190000
-DTEND;TZID=America/Los_Angeles:20261220T221000
+DTEND;TZID=America/Los_Angeles:20261220T220000
 DTSTAMP:20261221T030000Z
 UID:197835
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7363,10 +6671,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261220T193000
-DTEND;TZID=America/Los_Angeles:20261220T224000
+DTEND;TZID=America/Los_Angeles:20261220T223000
 DTSTAMP:20261221T033000Z
 UID:197834
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7376,10 +6684,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261220T222000
-DTEND;TZID=America/Los_Angeles:20261221T013000
+DTEND;TZID=America/Los_Angeles:20261221T012000
 DTSTAMP:20261221T062000Z
 UID:197833
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7389,10 +6697,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261220T225000
-DTEND;TZID=America/Los_Angeles:20261221T020000
+DTEND;TZID=America/Los_Angeles:20261221T015000
 DTSTAMP:20261221T065000Z
 UID:197831
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7415,10 +6723,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday RealD 3D Fan Event (3D)
 DTSTART;TZID=America/Los_Angeles:20261220T161000
-DTEND;TZID=America/Los_Angeles:20261220T192000
+DTEND;TZID=America/Los_Angeles:20261220T191000
 DTSTAMP:20261221T001000Z
 UID:198706
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 3\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 3\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7493,10 +6801,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261221T081000
-DTEND;TZID=America/Los_Angeles:20261221T112000
+DTEND;TZID=America/Los_Angeles:20261221T111000
 DTSTAMP:20261221T161000Z
 UID:197841
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7506,10 +6814,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261221T105500
-DTEND;TZID=America/Los_Angeles:20261221T140500
+DTEND;TZID=America/Los_Angeles:20261221T135500
 DTSTAMP:20261221T185500Z
 UID:197840
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7519,10 +6827,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261221T112500
-DTEND;TZID=America/Los_Angeles:20261221T143500
+DTEND;TZID=America/Los_Angeles:20261221T142500
 DTSTAMP:20261221T192500Z
 UID:197839
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7532,10 +6840,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261221T115500
-DTEND;TZID=America/Los_Angeles:20261221T150500
+DTEND;TZID=America/Los_Angeles:20261221T145500
 DTSTAMP:20261221T195500Z
 UID:197838
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7545,10 +6853,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261221T144000
-DTEND;TZID=America/Los_Angeles:20261221T175000
+DTEND;TZID=America/Los_Angeles:20261221T174000
 DTSTAMP:20261221T224000Z
 UID:197837
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7558,10 +6866,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261221T151000
-DTEND;TZID=America/Los_Angeles:20261221T182000
+DTEND;TZID=America/Los_Angeles:20261221T181000
 DTSTAMP:20261221T231000Z
 UID:197845
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7571,10 +6879,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261221T154000
-DTEND;TZID=America/Los_Angeles:20261221T185000
+DTEND;TZID=America/Los_Angeles:20261221T184000
 DTSTAMP:20261221T234000Z
 UID:197847
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7584,10 +6892,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261221T183000
-DTEND;TZID=America/Los_Angeles:20261221T214000
+DTEND;TZID=America/Los_Angeles:20261221T213000
 DTSTAMP:20261222T023000Z
 UID:197836
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7597,10 +6905,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261221T190000
-DTEND;TZID=America/Los_Angeles:20261221T221000
+DTEND;TZID=America/Los_Angeles:20261221T220000
 DTSTAMP:20261222T030000Z
 UID:197850
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7610,10 +6918,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261221T193000
-DTEND;TZID=America/Los_Angeles:20261221T224000
+DTEND;TZID=America/Los_Angeles:20261221T223000
 DTSTAMP:20261222T033000Z
 UID:197849
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7623,10 +6931,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261221T225000
-DTEND;TZID=America/Los_Angeles:20261222T020000
+DTEND;TZID=America/Los_Angeles:20261222T015000
 DTSTAMP:20261222T065000Z
 UID:197846
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7636,10 +6944,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (Subbed)
 DTSTART;TZID=America/Los_Angeles:20261221T222000
-DTEND;TZID=America/Los_Angeles:20261222T013000
+DTEND;TZID=America/Los_Angeles:20261222T012000
 DTSTAMP:20261222T062000Z
 UID:197848
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nPlot unknown\n\nSubtit
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nPlot unknown\n\nSubtit
  led.\n\nEstimated start: 22:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
@@ -7711,10 +7019,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261222T081000
-DTEND;TZID=America/Los_Angeles:20261222T112000
+DTEND;TZID=America/Los_Angeles:20261222T111000
 DTSTAMP:20261222T161000Z
 UID:197856
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7724,10 +7032,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261222T105500
-DTEND;TZID=America/Los_Angeles:20261222T140500
+DTEND;TZID=America/Los_Angeles:20261222T135500
 DTSTAMP:20261222T185500Z
 UID:197855
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7737,10 +7045,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261222T112500
-DTEND;TZID=America/Los_Angeles:20261222T143500
+DTEND;TZID=America/Los_Angeles:20261222T142500
 DTSTAMP:20261222T192500Z
 UID:197854
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7750,10 +7058,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261222T115500
-DTEND;TZID=America/Los_Angeles:20261222T150500
+DTEND;TZID=America/Los_Angeles:20261222T145500
 DTSTAMP:20261222T195500Z
 UID:197853
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7763,10 +7071,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261222T144000
-DTEND;TZID=America/Los_Angeles:20261222T175000
+DTEND;TZID=America/Los_Angeles:20261222T174000
 DTSTAMP:20261222T224000Z
 UID:197852
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7776,10 +7084,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261222T151000
-DTEND;TZID=America/Los_Angeles:20261222T182000
+DTEND;TZID=America/Los_Angeles:20261222T181000
 DTSTAMP:20261222T231000Z
 UID:197860
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7789,10 +7097,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261222T154000
-DTEND;TZID=America/Los_Angeles:20261222T185000
+DTEND;TZID=America/Los_Angeles:20261222T184000
 DTSTAMP:20261222T234000Z
 UID:197862
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7802,10 +7110,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261222T183000
-DTEND;TZID=America/Los_Angeles:20261222T214000
+DTEND;TZID=America/Los_Angeles:20261222T213000
 DTSTAMP:20261223T023000Z
 UID:197851
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7815,10 +7123,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261222T190000
-DTEND;TZID=America/Los_Angeles:20261222T221000
+DTEND;TZID=America/Los_Angeles:20261222T220000
 DTSTAMP:20261223T030000Z
 UID:197865
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7828,10 +7136,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261222T193000
-DTEND;TZID=America/Los_Angeles:20261222T224000
+DTEND;TZID=America/Los_Angeles:20261222T223000
 DTSTAMP:20261223T033000Z
 UID:197864
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7841,10 +7149,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261222T222000
-DTEND;TZID=America/Los_Angeles:20261223T013000
+DTEND;TZID=America/Los_Angeles:20261223T012000
 DTSTAMP:20261223T062000Z
 UID:197863
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7854,10 +7162,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261222T225000
-DTEND;TZID=America/Los_Angeles:20261223T020000
+DTEND;TZID=America/Los_Angeles:20261223T015000
 DTSTAMP:20261223T065000Z
 UID:197861
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7974,10 +7282,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261223T081000
-DTEND;TZID=America/Los_Angeles:20261223T112000
+DTEND;TZID=America/Los_Angeles:20261223T111000
 DTSTAMP:20261223T161000Z
 UID:197871
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -7987,10 +7295,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261223T105500
-DTEND;TZID=America/Los_Angeles:20261223T140500
+DTEND;TZID=America/Los_Angeles:20261223T135500
 DTSTAMP:20261223T185500Z
 UID:197870
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8000,10 +7308,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261223T115500
-DTEND;TZID=America/Los_Angeles:20261223T150500
+DTEND;TZID=America/Los_Angeles:20261223T145500
 DTSTAMP:20261223T195500Z
 UID:197868
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8013,10 +7321,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261223T144000
-DTEND;TZID=America/Los_Angeles:20261223T175000
+DTEND;TZID=America/Los_Angeles:20261223T174000
 DTSTAMP:20261223T224000Z
 UID:197867
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8026,10 +7334,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261223T151000
-DTEND;TZID=America/Los_Angeles:20261223T182000
+DTEND;TZID=America/Los_Angeles:20261223T181000
 DTSTAMP:20261223T231000Z
 UID:197875
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8039,10 +7347,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261223T154000
-DTEND;TZID=America/Los_Angeles:20261223T185000
+DTEND;TZID=America/Los_Angeles:20261223T184000
 DTSTAMP:20261223T234000Z
 UID:197877
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8052,10 +7360,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261223T183000
-DTEND;TZID=America/Los_Angeles:20261223T214000
+DTEND;TZID=America/Los_Angeles:20261223T213000
 DTSTAMP:20261224T023000Z
 UID:197866
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8065,10 +7373,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261223T190000
-DTEND;TZID=America/Los_Angeles:20261223T221000
+DTEND;TZID=America/Los_Angeles:20261223T220000
 DTSTAMP:20261224T030000Z
 UID:197880
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8078,10 +7386,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261223T193000
-DTEND;TZID=America/Los_Angeles:20261223T224000
+DTEND;TZID=America/Los_Angeles:20261223T223000
 DTSTAMP:20261224T033000Z
 UID:197879
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8091,10 +7399,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261223T222000
-DTEND;TZID=America/Los_Angeles:20261224T013000
+DTEND;TZID=America/Los_Angeles:20261224T012000
 DTSTAMP:20261224T062000Z
 UID:197878
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 4\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 4\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8104,10 +7412,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261223T225000
-DTEND;TZID=America/Los_Angeles:20261224T020000
+DTEND;TZID=America/Los_Angeles:20261224T015000
 DTSTAMP:20261224T065000Z
 UID:197876
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8172,10 +7480,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (Subbed)
 DTSTART;TZID=America/Los_Angeles:20261223T112500
-DTEND;TZID=America/Los_Angeles:20261223T143500
+DTEND;TZID=America/Los_Angeles:20261223T142500
 DTSTAMP:20261223T192500Z
 UID:197869
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nPlot unknown\n\nSubtit
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nPlot unknown\n\nSubtit
  led.\n\nEstimated start: 11:50
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
@@ -8258,10 +7566,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261224T081000
-DTEND;TZID=America/Los_Angeles:20261224T112000
+DTEND;TZID=America/Los_Angeles:20261224T111000
 DTSTAMP:20261224T161000Z
 UID:197888
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8271,10 +7579,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261224T101000
-DTEND;TZID=America/Los_Angeles:20261224T132000
+DTEND;TZID=America/Los_Angeles:20261224T131000
 DTSTAMP:20261224T181000Z
 UID:197887
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8284,10 +7592,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261224T115500
-DTEND;TZID=America/Los_Angeles:20261224T150500
+DTEND;TZID=America/Los_Angeles:20261224T145500
 DTSTAMP:20261224T195500Z
 UID:197890
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8297,10 +7605,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261224T135500
-DTEND;TZID=America/Los_Angeles:20261224T170500
+DTEND;TZID=America/Los_Angeles:20261224T165500
 DTSTAMP:20261224T215500Z
 UID:197889
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8310,10 +7618,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261224T154000
-DTEND;TZID=America/Los_Angeles:20261224T185000
+DTEND;TZID=America/Los_Angeles:20261224T184000
 DTSTAMP:20261224T234000Z
 UID:197895
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8323,10 +7631,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261224T174000
-DTEND;TZID=America/Los_Angeles:20261224T205000
+DTEND;TZID=America/Los_Angeles:20261224T204000
 DTSTAMP:20261225T014000Z
 UID:197891
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8336,10 +7644,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261224T193000
-DTEND;TZID=America/Los_Angeles:20261224T224000
+DTEND;TZID=America/Los_Angeles:20261224T223000
 DTSTAMP:20261225T033000Z
 UID:197893
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8349,10 +7657,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (3D)
 DTSTART;TZID=America/Los_Angeles:20261224T213000
-DTEND;TZID=America/Los_Angeles:20261225T004000
+DTEND;TZID=America/Los_Angeles:20261225T003000
 DTSTAMP:20261225T053000Z
 UID:197892
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 1\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 1\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8456,10 +7764,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261225T113000
-DTEND;TZID=America/Los_Angeles:20261225T144000
+DTEND;TZID=America/Los_Angeles:20261225T143000
 DTSTAMP:20261225T193000Z
 UID:198262
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8469,10 +7777,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261225T151500
-DTEND;TZID=America/Los_Angeles:20261225T182500
+DTEND;TZID=America/Los_Angeles:20261225T181500
 DTSTAMP:20261225T231500Z
 UID:198261
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8482,10 +7790,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261225T190000
-DTEND;TZID=America/Los_Angeles:20261225T221000
+DTEND;TZID=America/Los_Angeles:20261225T220000
 DTSTAMP:20261226T030000Z
 UID:198260
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8495,10 +7803,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261225T224500
-DTEND;TZID=America/Los_Angeles:20261226T015500
+DTEND;TZID=America/Los_Angeles:20261226T014500
 DTSTAMP:20261226T064500Z
 UID:198259
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8615,10 +7923,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261226T081000
-DTEND;TZID=America/Los_Angeles:20261226T112000
+DTEND;TZID=America/Los_Angeles:20261226T111000
 DTSTAMP:20261226T161000Z
 UID:197904
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8628,10 +7936,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261226T115500
-DTEND;TZID=America/Los_Angeles:20261226T150500
+DTEND;TZID=America/Los_Angeles:20261226T145500
 DTSTAMP:20261226T195500Z
 UID:197903
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8641,10 +7949,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261226T154000
-DTEND;TZID=America/Los_Angeles:20261226T185000
+DTEND;TZID=America/Los_Angeles:20261226T184000
 DTSTAMP:20261226T234000Z
 UID:197902
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8654,10 +7962,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261226T193000
-DTEND;TZID=America/Los_Angeles:20261226T224000
+DTEND;TZID=America/Los_Angeles:20261226T223000
 DTSTAMP:20261227T033000Z
 UID:197901
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8667,10 +7975,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261226T232000
-DTEND;TZID=America/Los_Angeles:20261227T023000
+DTEND;TZID=America/Los_Angeles:20261227T022000
 DTSTAMP:20261227T072000Z
 UID:197900
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8811,10 +8119,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261227T081000
-DTEND;TZID=America/Los_Angeles:20261227T112000
+DTEND;TZID=America/Los_Angeles:20261227T111000
 DTSTAMP:20261227T161000Z
 UID:197905
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8824,10 +8132,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261227T115500
-DTEND;TZID=America/Los_Angeles:20261227T150500
+DTEND;TZID=America/Los_Angeles:20261227T145500
 DTSTAMP:20261227T195500Z
 UID:197906
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8837,10 +8145,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261227T154000
-DTEND;TZID=America/Los_Angeles:20261227T185000
+DTEND;TZID=America/Los_Angeles:20261227T184000
 DTSTAMP:20261227T234000Z
 UID:197907
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8850,10 +8158,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261227T193000
-DTEND;TZID=America/Los_Angeles:20261227T224000
+DTEND;TZID=America/Los_Angeles:20261227T223000
 DTSTAMP:20261228T033000Z
 UID:197908
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -8994,20 +8302,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (Subbed)
 DTSTART;TZID=America/Los_Angeles:20261227T232000
-DTEND;TZID=America/Los_Angeles:20261228T023000
+DTEND;TZID=America/Los_Angeles:20261228T022000
 DTSTAMP:20261228T072000Z
 UID:197909
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nPlot unknown\n\nSubtit
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nPlot unknown\n\nSubtit
  led.\n\nEstimated start: 23:45
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261228T081000
-DTEND;TZID=America/Los_Angeles:20261228T112000
+DTEND;TZID=America/Los_Angeles:20261228T111000
 DTSTAMP:20261228T161000Z
 UID:197910
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9017,10 +8325,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261228T115500
-DTEND;TZID=America/Los_Angeles:20261228T150500
+DTEND;TZID=America/Los_Angeles:20261228T145500
 DTSTAMP:20261228T195500Z
 UID:197911
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9030,10 +8338,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261228T154000
-DTEND;TZID=America/Los_Angeles:20261228T185000
+DTEND;TZID=America/Los_Angeles:20261228T184000
 DTSTAMP:20261228T234000Z
 UID:197912
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9043,10 +8351,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261228T193000
-DTEND;TZID=America/Los_Angeles:20261228T224000
+DTEND;TZID=America/Los_Angeles:20261228T223000
 DTSTAMP:20261229T033000Z
 UID:197913
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9056,10 +8364,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261228T232000
-DTEND;TZID=America/Los_Angeles:20261229T023000
+DTEND;TZID=America/Los_Angeles:20261229T022000
 DTSTAMP:20261229T072000Z
 UID:197914
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9200,10 +8508,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261229T081000
-DTEND;TZID=America/Los_Angeles:20261229T112000
+DTEND;TZID=America/Los_Angeles:20261229T111000
 DTSTAMP:20261229T161000Z
 UID:197919
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9213,10 +8521,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261229T115500
-DTEND;TZID=America/Los_Angeles:20261229T150500
+DTEND;TZID=America/Los_Angeles:20261229T145500
 DTSTAMP:20261229T195500Z
 UID:197918
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9226,10 +8534,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261229T154000
-DTEND;TZID=America/Los_Angeles:20261229T185000
+DTEND;TZID=America/Los_Angeles:20261229T184000
 DTSTAMP:20261229T234000Z
 UID:197917
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9239,10 +8547,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261229T193000
-DTEND;TZID=America/Los_Angeles:20261229T224000
+DTEND;TZID=America/Los_Angeles:20261229T223000
 DTSTAMP:20261230T033000Z
 UID:197916
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9252,10 +8560,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261229T232000
-DTEND;TZID=America/Los_Angeles:20261230T023000
+DTEND;TZID=America/Los_Angeles:20261230T022000
 DTSTAMP:20261230T072000Z
 UID:197915
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9409,10 +8717,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday (Subbed)
 DTSTART;TZID=America/Los_Angeles:20261230T081000
-DTEND;TZID=America/Los_Angeles:20261230T112000
+DTEND;TZID=America/Los_Angeles:20261230T111000
 DTSTAMP:20261230T161000Z
 UID:197924
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nPlot unknown\n\nSubtit
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nPlot unknown\n\nSubtit
  led.\n\nEstimated start: 8:35
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
@@ -9537,10 +8845,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261230T115500
-DTEND;TZID=America/Los_Angeles:20261230T150500
+DTEND;TZID=America/Los_Angeles:20261230T145500
 DTSTAMP:20261230T195500Z
 UID:197923
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9550,10 +8858,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261230T154000
-DTEND;TZID=America/Los_Angeles:20261230T185000
+DTEND;TZID=America/Los_Angeles:20261230T184000
 DTSTAMP:20261230T234000Z
 UID:197922
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9563,10 +8871,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261230T193000
-DTEND;TZID=America/Los_Angeles:20261230T224000
+DTEND;TZID=America/Los_Angeles:20261230T223000
 DTSTAMP:20261231T033000Z
 UID:197921
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9576,10 +8884,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261230T232000
-DTEND;TZID=America/Los_Angeles:20261231T023000
+DTEND;TZID=America/Los_Angeles:20261231T022000
 DTSTAMP:20261231T072000Z
 UID:197920
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9602,10 +8910,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261231T081000
-DTEND;TZID=America/Los_Angeles:20261231T112000
+DTEND;TZID=America/Los_Angeles:20261231T111000
 DTSTAMP:20261231T161000Z
 UID:197929
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9615,10 +8923,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261231T115500
-DTEND;TZID=America/Los_Angeles:20261231T150500
+DTEND;TZID=America/Los_Angeles:20261231T145500
 DTSTAMP:20261231T195500Z
 UID:197928
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9628,10 +8936,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261231T154000
-DTEND;TZID=America/Los_Angeles:20261231T185000
+DTEND;TZID=America/Los_Angeles:20261231T184000
 DTSTAMP:20261231T234000Z
 UID:197927
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9641,10 +8949,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Avengers: Doomsday
 DTSTART;TZID=America/Los_Angeles:20261231T193000
-DTEND;TZID=America/Los_Angeles:20261231T224000
+DTEND;TZID=America/Los_Angeles:20261231T223000
 DTSTAMP:20270101T033000Z
 UID:197926
-DESCRIPTION:Duration: 165 mins (2h45m)\nScreen 5\n\nUniverses collide and 
+DESCRIPTION:Duration: 151 mins (2h31m)\nScreen 5\n\nUniverses collide and 
  the Multiverse Saga begins its final chapter in Marvel Studios' Avengers: 
  Doomsday. Beloved heroes from three distinct universes will be set on a de
  adly collision course and ultimately face an existential threat unlike any
@@ -9893,6 +9201,16 @@ DESCRIPTION:Duration: 141 mins (2h21m)\nScreen 4\n\nSoprano Lise Davidsen
  e Tommaso as Cavaradossi and baritone Quinn Kelsey as Scarpia in the accla
  imed 2024 Met performance of David McVicar's thrilling production. Yannick
   Nézet-Ségui\n\nNo passes.\n\nEstimated start: 13:25
+LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Royal Ballet: Swan Lake (2027)
+DTSTART;TZID=America/Los_Angeles:20270519T190000
+DTEND;TZID=America/Los_Angeles:20270519T225000
+DTSTAMP:20270520T020000Z
+UID:201187
+DESCRIPTION:Duration: 205 mins (3h25m)\nScreen 4\n\n\n\nNo passes.\n\nEsti
+ mated start: 19:25
 LOCATION:Regal Bella Bottega\, 8890 NE 161st Avenue\, Redmond\, WA 98052
 END:VEVENT
 END:VCALENDAR
